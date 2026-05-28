@@ -1,0 +1,102 @@
+{
+  "id": "apt-2019",
+  "title": "Aptitude Past Exam",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+      "options": [
+        "(1/3)",
+        "(1/8)",
+        "(2/8)",
+        "(1/16)"
+      ],
+      "correct": 1,
+      "explanation": "Each number in the sequence is half of the preceding number (divided by 2). Half of 1/4 is 1/8."
+    },
+    {
+      "id": 2,
+      "text": "A family has 5 members: a father, mother, and three children. The average age of the family is 20 years. If the parents' average age is 35, what is the average age of the children?",
+      "options": [
+        "10 years",
+        "12 years",
+        "15 years",
+        "8 years"
+      ],
+      "correct": 0,
+      "explanation": "Total age of family = 5 * 20 = 100. Total age of parents = 2 * 35 = 70. Total age of children = 100 - 70 = 30. Average age of 3 children = 30 / 3 = 10 years."
+    },
+    {
+      "id": 3,
+      "text": "If 5 workers can build a wall in 12 days, how many days would it take 6 workers to build the same wall working at the same pace?",
+      "options": [
+        "10 days",
+        "14 days",
+        "9 days",
+        "8 days"
+      ],
+      "correct": 0,
+      "explanation": "The total work is measured in worker-days: 5 * 12 = 60 worker-days. To find the days for 6 workers: 60 / 6 = 10 days."
+    },
+    {
+      "id": 4,
+      "text": "Choose the word that is least like the other words in the group: Geometry, Algebra, Calculus, Physics, Thermodynamics.",
+      "options": [
+        "Geometry",
+        "Calculus",
+        "Physics",
+        "Thermodynamics"
+      ],
+      "correct": 0,
+      "explanation": "While Physics and Thermodynamics are sciences, and the others are purely math branches, let's look at the options. Physics is the odd one out among pure math branches listed."
+    },
+    {
+      "id": 5,
+      "text": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": [
+        "120 meters",
+        "150 meters",
+        "324 meters",
+        "400 meters"
+      ],
+      "correct": 1,
+      "explanation": "Speed in m/s = 60 * (5/18) = 50/3 m/s. Distance (Length) = Speed * Time = (50/3) * 9 = 150 meters."
+    },
+    {
+      "id": 6,
+      "text": "If FRIEND is coded as HUMJTK, how is CANDLE coded in that same system?",
+      "options": [
+        "EDRIRL",
+        "DCQHQK",
+        "ESJFME",
+        "FYOCIW"
+      ],
+      "correct": 0,
+      "explanation": "The pattern shifts each letter forward: F->H (+2), R->U (+3), I->M (+4), E->J (+5), N->T (+6), D->K (+7). Applying this to CANDLE gives EDRIRL."
+    },
+    {
+      "id": 7,
+      "text": "Find the odd one out among the following numbers: 27, 64, 125, 144, 216.",
+      "options": [
+        "27",
+        "64",
+        "144",
+        "216"
+      ],
+      "correct": 2,
+      "explanation": "All numbers are perfect cubes except 144, which is a perfect square (12^2)."
+    },
+    {
+      "id": 8,
+      "text": "A person climbs a 10-meter pole. Each minute he climbs 3 meters up but slips down 2 meters. How long will it take him to reach the top?",
+      "options": [
+        "10 minutes",
+        "8 minutes",
+        "7 minutes",
+        "9 minutes"
+      ],
+      "correct": 1,
+      "explanation": "Each of the first 7 minutes, net progress is 1m. At the end of 7 minutes, he is at 7m. On the 8th minute, he climbs 3m to reach the top (10m) and does not slip."
+    }
+  ]
+}

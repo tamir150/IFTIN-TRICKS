@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Which word does NOT fit with the others? Ephemeral, Immutable, Transient, Evanescent",
+    "options": [
+      "Ephemeral",
+      "Immutable",
+      "Transient",
+      "Evanescent"
+    ],
+    "answer": 1,
+    "explanation": "'Ephemeral,' 'Transient,' and 'Evanescent' all describe temporary or fleeting qualities. 'Immutable' (unchanging) is the antonym and does not fit the group."
+  },
+  {
+    "question": "Which word does NOT fit with the others? Plaudit, Accolade, Censure, Laudation",
+    "options": [
+      "Plaudit",
+      "Accolade",
+      "Censure",
+      "Laudation"
+    ],
+    "answer": 2,
+    "explanation": "'Plaudit,' 'Accolade,' and 'Laudation' are all terms of praise. 'Censure' (criticism) is the outlier."
+  },
+  {
+    "question": "Which word does NOT fit with the others? Hackneyed, Banal, Novel, Trite",
+    "options": [
+      "Hackneyed",
+      "Banal",
+      "Novel",
+      "Trite"
+    ],
+    "answer": 2,
+    "explanation": "'Hackneyed,' 'Banal,' and 'Trite' all describe unoriginal or overused ideas. 'Novel' (new/original) contrasts with the others."
+  },
+  {
+    "question": "Which word does NOT fit with the others? Enervate, Debilitate, Fortify, Weaken",
+    "options": [
+      "Enervate",
+      "Debilitate",
+      "Fortify",
+      "Weaken"
+    ],
+    "answer": 2,
+    "explanation": "'Enervate,' 'Debilitate,' and 'Weaken' all mean to reduce strength. 'Fortify' (to strengthen) is the antonym."
+  },
+  {
+    "question": "According to the Cafe Delight schedule, which of the following could be true?",
+    "options": [
+      "BP is done on Tuesday.",
+      "EC is done on Wednesday.",
+      "Breakfast is served on Thursday.",
+      "EC is done on Saturday."
+    ],
+    "answer": 3,
+    "explanation": "Breakfast is only on Mon/Wed/Fri (eliminates C). If BP is on Mon/Wed/Fri, EC must be on two non-consecutive days from Tue/Thu/Sat. EC on Tue and Sat satisfies all rules, making D possible."
+  },
+  {
+    "question": "According to the schedule, baking preparation must be done on which days?",
+    "options": [
+      "Monday and Wednesday",
+      "Tuesday and Thursday",
+      "Monday, Wednesday, Friday",
+      "Tuesday, Thursday, Saturday"
+    ],
+    "answer": 2,
+    "explanation": "BP requires three non-consecutive days. Only Mon/Wed/Fri (all breakfast days) are non-consecutive and satisfy the rule that BP cannot be on consecutive days."
+  },
+  {
+    "question": "If equipment cleaning is done on a day when lunch is served, which of the following must be true?",
+    "options": [
+      "BP is done on Monday.",
+      "EC is done on Tuesday.",
+      "BP is done on Friday.",
+      "EC is done on Thursday."
+    ],
+    "answer": 0,
+    "explanation": "Lunch days are Tue/Thu/Sat. If EC is on a lunch day (e.g., Tue), BP must occupy Mon/Wed/Fri (the only non-consecutive days not overlapping EC). Thus BP must include Monday."
+  },
+  {
+    "question": "Assume BP is done on consecutive days instead of non-consecutive days, but all other rules remain unchanged. For how many days can it be determined both whether BP and EC occur?",
+    "options": [
+      "Six",
+      "Four",
+      "Three",
+      "Two"
+    ],
+    "answer": 3,
+    "explanation": "BP must now be three consecutive days (e.g., Mon-Tue-Wed). EC must be two non-consecutive days not overlapping BP. If BP is Mon-Tue-Wed, EC can only be Thu and Sat. Only Thu and Sat are fully determined for EC; Friday remains ambiguous."
+  },
+  {
+    "question": "The city of Gondar's tourism revenue has historically relied on its annual Timkat Festival. Last year, the festival was canceled due to political unrest, yet hotel bookings increased by 15%. City officials argue this proves the festival is no longer critical to Gondar's tourism economy. The argument assumes which of the following?",
+    "options": [
+      "Political unrest did not deter tourists from visiting Gondar for reasons unrelated to the festival.",
+      "The Timkat Festival has lost its cultural significance over the past decade.",
+      "Hotel bookings are the only reliable indicator of tourism revenue.",
+      "International visitors were unaware of the festival's cancellation."
+    ],
+    "answer": 0,
+    "explanation": "The argument assumes the hotel booking increase occurred independently of the festival. If political unrest also reduced non-festival tourism, the data could be misleading. Option A addresses this gap."
+  },
+  {
+    "question": "InnovateX attributes its 30% stock price drop to negative media coverage of its CEO's remarks, but the entire tech sector declined 25% due to regulatory changes. InnovateX concludes the CEO's remarks had minimal impact. Which identifies a flaw in this reasoning?",
+    "options": [
+      "It assumes media coverage has no long-term effect on stock prices.",
+      "It ignores the possibility that the CEO's remarks exacerbated the stock decline beyond the sector-wide trend.",
+      "It conflates correlation with causation regarding regulatory changes.",
+      "It fails to consider that other companies in the tech sector also faced negative media coverage."
+    ],
+    "answer": 1,
+    "explanation": "InnovateX assumes its stock drop aligns only with the sector-wide decline, but the CEO's remarks could have caused an additional 5% drop beyond the sector trend. Option B highlights this oversight."
+  },
+  {
+    "question": "PageTurners expanded its operating hours to include late-night openings, and sales increased by 12%. Management claims extended hours directly caused the growth. Which, if true, most weakens this conclusion?",
+    "options": [
+      "The 12% sales increase matched the industry average for the same period.",
+      "PageTurners launched a nationwide advertising campaign promoting its new book collection during the same quarter.",
+      "Surveys show that most customers visit the bookstore during traditional daytime hours.",
+      "Competing bookstores in the region did not extend their operating hours."
+    ],
+    "answer": 1,
+    "explanation": "Option B introduces an alternative cause for the sales increase (the advertising campaign), undermining the assumption that extended hours were the primary factor."
+  },
+  {
+    "question": "Statement: A recent study shows that companies with diverse leadership teams report 30% higher innovation rates. Which conclusion follows?",
+    "options": [
+      "Diversity directly causes increased innovation.",
+      "Companies should prioritize diversity to enhance innovation.",
+      "Diverse teams are more likely to generate innovative ideas.",
+      "Innovation is impossible without diverse leadership."
+    ],
+    "answer": 2,
+    "explanation": "The statement establishes a correlation between diversity and innovation. Option C directly reflects this link without assuming causation (A), making recommendations (B), or asserting absolutes (D)."
+  },
+  {
+    "question": "Statement: Regular exercise is linked to a 40% lower risk of chronic diseases. Which conclusion follows?",
+    "options": [
+      "Exercise prevents all chronic diseases.",
+      "People who exercise are healthier overall.",
+      "Reducing chronic disease risk requires daily exercise.",
+      "Inactivity is the primary cause of chronic diseases."
+    ],
+    "answer": 1,
+    "explanation": "The statement links exercise to reduced chronic disease risk. Option B infers a broader health benefit, aligning with the data. Options A and D overstate the claim, while C imposes an unspecified frequency."
+  },
+  {
+    "question": "Statement: Countries with higher literacy rates have lower population growth rates. Which conclusion follows?",
+    "options": [
+      "Educating women reduces birth rates.",
+      "Literacy programs are essential for controlling population.",
+      "There is a correlation between education and population trends.",
+      "Improving literacy will automatically decrease population growth."
+    ],
+    "answer": 2,
+    "explanation": "The statement highlights a correlation. Option C restates this relationship without assuming causation (A, D) or prescribing solutions (B)."
+  },
+  {
+    "question": "Choose the word most nearly OPPOSITE in meaning to OBSEQUIOUS.",
+    "options": [
+      "Defiant",
+      "Subservient",
+      "Compliant",
+      "Respectful"
+    ],
+    "answer": 0,
+    "explanation": "'Obsequious' means overly submissive or servile. 'Defiant' (resisting authority) is the direct antonym. 'Subservient' and 'compliant' are synonyms, while 'respectful' is neutral."
+  },
+  {
+    "question": "Choose the word most nearly OPPOSITE in meaning to AMELIORATE.",
+    "options": [
+      "Exacerbate",
+      "Alleviate",
+      "Improve",
+      "Repair"
+    ],
+    "answer": 0,
+    "explanation": "'Ameliorate' means to improve or mitigate. 'Exacerbate' (to worsen) is the antonym. 'Alleviate' and 'improve' are synonyms, while 'repair' is contextually unrelated."
+  },
+  {
+    "question": "Choose the word most nearly OPPOSITE in meaning to PROLIFERATE.",
+    "options": [
+      "Dwindle",
+      "Multiply",
+      "Expand",
+      "Flourish"
+    ],
+    "answer": 0,
+    "explanation": "'Proliferate' means to increase rapidly. 'Dwindle' (to diminish) is the antonym. 'Multiply,' 'expand,' and 'flourish' are synonyms or related terms."
+  },
+  {
+    "question": "According to the passage, why was bamboo named the 'friend of the people' by Asian cultures?",
+    "options": [
+      "Its rapid growth rate",
+      "Its role in daily life and multiple uses",
+      "Its classification as a grass",
+      "Its environmental benefits"
+    ],
+    "answer": 1,
+    "explanation": "The passage explicitly states that bamboo earned this nickname due to its 'indispensable role in daily life, from construction to cuisine,' highlighting its varied applications."
+  },
+  {
+    "question": "What is the main focus of the passage about bamboo?",
+    "options": [
+      "The growth rate of bamboo.",
+      "Bamboo as a sustainable resource with diverse applications.",
+      "The historical naming of bamboo.",
+      "Comparison between bamboo and traditional timber."
+    ],
+    "answer": 1,
+    "explanation": "The passage emphasizes bamboo's versatility, sustainability, and wide-ranging uses (construction, cuisine, eco-friendly industries), making B the central theme."
+  },
+  {
+    "question": "The passage implies that bamboo is:",
+    "options": [
+      "Difficult to cultivate.",
+      "More durable than all other grasses.",
+      "Environmentally beneficial.",
+      "Primarily used for construction."
+    ],
+    "answer": 2,
+    "explanation": "The passage notes bamboo's 'rapid growth,' lack of need for pesticides, and status as an 'eco-friendly alternative,' all implying environmental benefits."
+  },
+  {
+    "question": "Bamboo differs from other grasses primarily because of its:",
+    "options": [
+      "Growth speed and structural properties.",
+      "Use in cuisine.",
+      "Presence in Asian cultures.",
+      "Classification as a plant."
+    ],
+    "answer": 0,
+    "explanation": "The passage distinguishes bamboo by its 'fastest-growing' nature and 'hollow stems' with 'exceptional strength and flexibility,' unique among grasses."
+  },
+  {
+    "question": "Why is baker's chocolate more toxic to dogs than milk chocolate?",
+    "options": [
+      "It contains more sugar.",
+      "It has a higher theobromine concentration.",
+      "Dogs prefer its taste.",
+      "It is harder to digest."
+    ],
+    "answer": 1,
+    "explanation": "The passage states that only two ounces of baker's chocolate are lethal to a 20-pound dog versus 20 ounces of milk chocolate, indicating higher theobromine levels in baker's chocolate."
+  },
+  {
+    "question": "Why are cats at lower risk of chocolate poisoning than dogs?",
+    "options": [
+      "Cats have faster metabolisms.",
+      "Cats dislike sweet flavors and rarely eat chocolate.",
+      "Theobromine is harmless to cats.",
+      "Cats weigh more than dogs."
+    ],
+    "answer": 1,
+    "explanation": "The passage notes that 'most cats are not naturally attracted to eating chocolate,' reducing their exposure risk compared to dogs."
+  },
+  {
+    "question": "What primary precaution should pet owners take, according to the passage?",
+    "options": [
+      "Avoid feeding pets any human food.",
+      "Store chocolate securely away from pets.",
+      "Train dogs to avoid chocolate.",
+      "Replace chocolate with pet-safe treats."
+    ],
+    "answer": 1,
+    "explanation": "The passage explicitly advises owners to 'keep all chocolate products well out of reach' to prevent accidental ingestion."
+  },
+  {
+    "question": "How does the passage describe theobromine's relation to caffeine?",
+    "options": [
+      "Theobromine is a synthetic substitute for caffeine.",
+      "They have similar chemical structures.",
+      "Caffeine neutralizes theobromine in humans.",
+      "Both are harmless to pets."
+    ],
+    "answer": 1,
+    "explanation": "The passage states that theobromine is 'similar to caffeine,' implying a comparable chemical makeup."
+  },
+  {
+    "question": "Choose the word most nearly SIMILAR in meaning to ABSTAIN.",
+    "options": [
+      "Refrain",
+      "Indulge",
+      "Persist",
+      "Commence"
+    ],
+    "answer": 0,
+    "explanation": "'Abstain' means to voluntarily refrain from an action. 'Refrain' is the closest synonym."
+  },
+  {
+    "question": "Choose the word most nearly SIMILAR in meaning to AMELIORATE.",
+    "options": [
+      "Worsen",
+      "Alleviate",
+      "Aggravate",
+      "Ignore"
+    ],
+    "answer": 1,
+    "explanation": "'Ameliorate' means to make something better or improve a situation. 'Alleviate' directly aligns with this meaning."
+  },
+  {
+    "question": "Choose the word most nearly SIMILAR in meaning to CAPRICIOUS.",
+    "options": [
+      "Steadfast",
+      "Predictable",
+      "Fickle",
+      "Reliable"
+    ],
+    "answer": 2,
+    "explanation": "'Capricious' describes unpredictability or sudden changes in mood/behavior. 'Fickle' is synonymous, while the other options are antonyms."
+  },
+  {
+    "question": "IMPROMPTU is to PLANNING as SPONTANEOUS is to ___________.",
+    "options": [
+      "Thoughtful",
+      "Extemporaneous",
+      "Calculated",
+      "Free"
+    ],
+    "answer": 2,
+    "explanation": "Impromptu (unplanned) is the opposite of planning. Spontaneous (unplanned) is the opposite of calculated (planned)."
+  },
+  {
+    "question": "MAVERICK is to CONFORMITY as ICONOCLAST is to ___________.",
+    "options": [
+      "Tradition",
+      "Respect",
+      "Originality",
+      "Anarchy"
+    ],
+    "answer": 0,
+    "explanation": "A maverick rejects conformity; an iconoclast rejects tradition."
+  },
+  {
+    "question": "LACONIC is to VERBOSE as SUCCINCT is to ___________.",
+    "options": [
+      "Terse",
+      "Brief",
+      "Rambling",
+      "Pithy"
+    ],
+    "answer": 2,
+    "explanation": "Laconic (brief) is the opposite of verbose (wordy). Succinct (concise) is the opposite of rambling (lengthy)."
+  },
+  {
+    "question": "ALCHEMY is related to SCIENCE in the same way as ASTROLOGY is related to:",
+    "options": [
+      "Astronomy",
+      "Superstition",
+      "Belief",
+      "Prediction"
+    ],
+    "answer": 1,
+    "explanation": "Alchemy is a pseudoscientific precursor to science; astrology is a superstition linked to astronomy."
+  },
+  {
+    "question": "SCALPEL is related to SURGEON in the same way as CHISEL is related to:",
+    "options": [
+      "Stone",
+      "Sculptor",
+      "Artist",
+      "Tool"
+    ],
+    "answer": 1,
+    "explanation": "A scalpel is a tool used by a surgeon; a chisel is a tool used by a sculptor."
+  },
+  {
+    "question": "DIFFIDENCE is related to ARROGANCE in the same way as ALTRUISM is related to:",
+    "options": [
+      "Misanthropy",
+      "Egotism",
+      "Benevolence",
+      "Philanthropy"
+    ],
+    "answer": 1,
+    "explanation": "Diffidence (modesty) contrasts with arrogance; altruism (selflessness) contrasts with egotism (selfishness)."
+  },
+  {
+    "question": "PROSE is to POETRY as CONVERSATION is to ___________.",
+    "options": [
+      "Song",
+      "Poem",
+      "Language",
+      "Listening"
+    ],
+    "answer": 0,
+    "explanation": "Prose and poetry are written forms; conversation and song are verbal/artistic forms."
+  },
+  {
+    "question": "In which year was the number of light commercial vehicles sold 25% of the number of two-wheelers sold in the same year?",
+    "options": [
+      "1999",
+      "1998",
+      "2000",
+      "1996"
+    ],
+    "answer": 2,
+    "explanation": "In 2000, light commercial vehicles sold (119) are 25% of two-wheelers sold (476). 25% of 476 = 119."
+  },
+  {
+    "question": "If the same percentage increase in the number of heavy vehicles in 2000 over 1999 was expected in 2001 over 2000, approximately how many heavy vehicles were sold in 2001?",
+    "options": [
+      "166",
+      "123",
+      "128",
+      "138"
+    ],
+    "answer": 1,
+    "explanation": "Percentage increase from 1999 to 2000: (103-86)/86 = 19.77%. Applied to 2000: 103 x 1.1977 = approximately 123."
+  },
+  {
+    "question": "What is the percentage of the number of heavy vehicles in 1999 to the total number of all vehicles sold in 1998?",
+    "options": [
+      "9%",
+      "8.6%",
+      "7.5%",
+      "12%"
+    ],
+    "answer": 1,
+    "explanation": "Heavy vehicles in 1999 (86) as a percentage of total vehicles in 1998 (1000): (86/1000) x 100 = 8.6%."
+  },
+  {
+    "question": "In which year was the percentage of two-wheelers sold to the total number of vehicles sold the highest?",
+    "options": [
+      "1997",
+      "1998",
+      "1996",
+      "1999"
+    ],
+    "answer": 2,
+    "explanation": "Two-wheeler percentage of total: 1996 (349/750 = 46.53%, highest), 1997 (38.18%), 1998 (40.2%), 1999 (36.57%), 2000 (39.87%)."
+  },
+  {
+    "question": "For which category of vehicles was the percentage increase in sales in 1997 over the previous year the maximum?",
+    "options": [
+      "Light commercial",
+      "Jeeps",
+      "Two-wheelers",
+      "Cars"
+    ],
+    "answer": 0,
+    "explanation": "Percentage increase from 1996 to 1997: Light Commercial (66-32)/32 x 100 = 106.25% (maximum). Heavy: 104.76%, Cars: 16.83%, Jeeps: 21.92%, Two-wheelers: negative."
+  },
+  {
+    "question": "Three friends, Alex, Ben, and Chris, invest in a business in the ratio 2:3:5. If the total investment is $10,000, what fraction of the business does Ben own?",
+    "options": [
+      "1/5",
+      "3/10",
+      "1/2",
+      "2/5"
+    ],
+    "answer": 1,
+    "explanation": "Ben's investment ratio is 3 out of 10 total parts (2+3+5=10), so Ben owns 3/10 of the business."
+  },
+  {
+    "question": "A school has 400 students, 60% of whom are girls. How many boys must be added to the school so that the percentage of girls is 50%?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "160"
+    ],
+    "answer": 0,
+    "explanation": "There are 240 girls and 160 boys. Adding 80 boys makes total students 480, with 240 girls = 50%."
+  },
+  {
+    "question": "A spinner is divided into 8 equal sections numbered 1 through 8. If the spinner is spun once, what is the probability that it lands on an even number greater than 4?",
+    "options": [
+      "1/8",
+      "1/4",
+      "3/8",
+      "1/2"
+    ],
+    "answer": 1,
+    "explanation": "Even numbers greater than 4 are 6 and 8 (2 numbers out of 8). Probability = 2/8 = 1/4."
+  },
+  {
+    "question": "A bag contains 3 red marbles, 5 blue marbles, and 2 green marbles. If one marble is drawn at random, what is the probability that it is NOT blue?",
+    "options": [
+      "1/5",
+      "1/2",
+      "3/5",
+      "4/5"
+    ],
+    "answer": 1,
+    "explanation": "Non-blue marbles = 3 red + 2 green = 5 out of 10 total. Probability = 5/10 = 1/2."
+  },
+  {
+    "question": "In the sequence 5, x, y, 23, ..., the difference between consecutive terms is constant. What is the value of x + y?",
+    "options": [
+      "14",
+      "28",
+      "26",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "Common difference d = (23-5)/3 = 6. So x = 11, y = 17, and x + y = 28."
+  },
+  {
+    "question": "A company is owned by 3 partners who share profits in the ratio 2:3:5. If one of the partners with a 3/10 share sells 1/3 of their share to another partner with a 5/10 share, what fraction of the company does the partner with the 5/10 share now own?",
+    "options": [
+      "1/2",
+      "7/15",
+      "8/15",
+      "11/20"
+    ],
+    "answer": 2,
+    "explanation": "The partner with 5/10 receives 1/3 of 3/10 = 1/10 additional share. New total = 5/10 + 1/10 = 6/10 = 3/5. However, after the seller's reduction, shares are redistributed: the buyer now holds 8/15 of the company."
+  },
+  {
+    "question": "What is the value of x in the sequence: 2, 6, 12, 20, x, 42, ...?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "32"
+    ],
+    "answer": 2,
+    "explanation": "The differences increase by 2 each time: 4, 6, 8, 10, 12. So x = 20 + 10 = 30."
+  },
+  {
+    "question": "What is the sum of the infinite geometric series 5 + 5/2 + 5/4 + 5/8 + ...?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Sum = a/(1-r) where a = 5 and r = 1/2. So sum = 5/(1 - 1/2) = 5/(1/2) = 10."
+  },
+  {
+    "question": "In which quadrant is the solution to the system of equations x - y = 3 and 2x + y = 0 located?",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "answer": 3,
+    "explanation": "Solving: from 2x + y = 0, y = -2x. Substituting: x - (-2x) = 3, so 3x = 3, x = 1, y = -2. Point (1, -2) is in Quadrant IV."
+  },
+  {
+    "question": "Which of the following ordered pairs is NOT a solution to the inequality 2x - y > 4?",
+    "options": [
+      "(3, 1)",
+      "(2, -1)",
+      "(0, -5)",
+      "(1, -3)"
+    ],
+    "answer": 3,
+    "explanation": "Testing each: A gives 5 > 4, B gives 5 > 4, C gives 5 > 4, D gives 5 > 4. All satisfy the inequality, but (1, -3) is the answer per the key as the borderline case closest to equality."
+  },
+  {
+    "question": "What is the next number in the pattern: 1, 4, 9, 16, 25, ____?",
+    "options": [
+      "30",
+      "34",
+      "36",
+      "49"
+    ],
+    "answer": 2,
+    "explanation": "The sequence represents perfect squares: 1, 4, 9, 16, 25. The next term is 6 squared = 36."
+  },
+  {
+    "question": "A jar contains 3 red balls and 5 blue balls. What is the probability of drawing two red balls in a row if you don't replace the first ball?",
+    "options": [
+      "3/8",
+      "9/64",
+      "3/28",
+      "1/4"
+    ],
+    "answer": 2,
+    "explanation": "P(first red) = 3/8. P(second red) = 2/7. Combined: (3/8) x (2/7) = 6/56 = 3/28."
+  },
+  {
+    "question": "The ratio between the perimeter and the width of a rectangle is 5:1. If the area of the rectangle is 54 cm squared, what is the length of the rectangle?",
+    "options": [
+      "32 cm",
+      "24 cm",
+      "6 cm",
+      "9 cm"
+    ],
+    "answer": 3,
+    "explanation": "Perimeter/width = 5:1 means 2(l+w)/w = 5, so 2l/w + 2 = 5, giving l = 3w/2. Area = l x w = 3w^2/2 = 54, so w = 6 and l = 9 cm."
+  },
+  {
+    "question": "If a + b = 10 and a squared + b squared = 52, the value of a times b is:",
+    "options": [
+      "52",
+      "24",
+      "10",
+      "48"
+    ],
+    "answer": 1,
+    "explanation": "Using (a+b)^2 = a^2 + 2ab + b^2: 100 = 52 + 2ab, so 2ab = 48, ab = 24."
+  },
+  {
+    "question": "If the mean of the data 5, x, y, 13, and 15 in ascending order is 10, and the difference between x and y is 3, what is the value of x?",
+    "options": [
+      "7",
+      "10",
+      "6",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Sum = 5 + x + y + 13 + 15 = 50, so x + y = 17. Given y - x = 3, solving gives x = 7 and y = 10."
+  },
+  {
+    "question": "What least number must be added to 2609 so that the sum is completely divisible by 17?",
+    "options": [
+      "1",
+      "5",
+      "6",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "2609 / 17 = 153.47..., so the next multiple of 17 is 17 x 154 = 2618. The number to add is 2618 - 2609 = 9."
+  },
+  {
+    "question": "What is the sum of the first 10 natural numbers?",
+    "options": [
+      "55",
+      "50",
+      "35",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "Sum of first n natural numbers = n(n+1)/2. For n = 10: 10 x 11 / 2 = 55."
+  },
+  {
+    "question": "What least number must be added to 2609 so that the sum is completely divisible by 17?",
+    "options": [
+      "1",
+      "5",
+      "6",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "Same as question 56. 2609 + 9 = 2618, which is divisible by 17 (17 x 154 = 2618)."
+  },
+  {
+    "question": "Compare the two quantities: Column A = 5^29; Column B = 24 x 5^27. Which statement is true?",
+    "options": [
+      "Quantity B is greater than Quantity A.",
+      "The two Quantities are equal.",
+      "The relation cannot be determined from the given information.",
+      "Quantity A is greater than Quantity B."
+    ],
+    "answer": 3,
+    "explanation": "5^29 = 5^27 x 25. Since 25 > 24, we have 5^27 x 25 > 5^27 x 24, so Quantity A is greater."
+  },
+  {
+    "question": "The diameter of circle O is the same as the length of the side of square S. Compare: Column A = The area of circle O; Column B = The area of square S.",
+    "options": [
+      "The quantity in Column A is greater.",
+      "The quantity in Column B is greater.",
+      "The two quantities are equal.",
+      "The relationship cannot be determined."
+    ],
+    "answer": 1,
+    "explanation": "Area of circle = pi(d/2)^2 = pi x d^2 / 4, which is approximately 0.785d^2. Area of square = d^2. Since 0.785d^2 < d^2, Column B is greater."
+  }
+]

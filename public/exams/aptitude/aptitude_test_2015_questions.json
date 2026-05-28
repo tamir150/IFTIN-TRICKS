@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Pessimism",
+    "options": ["Sorrow", "Optimism", "Arrogance", "Despair"],
+    "answer": 1,
+    "explanation": "Pessimism is a tendency to see the worst aspect of things; Optimism is the belief that good things will happen, making it the opposite."
+  },
+  {
+    "question": "Polygamy",
+    "options": ["Monogamy", "Interference", "Recovery", "Detour"],
+    "answer": 0,
+    "explanation": "Polygamy is the practice of having more than one spouse at a time; Monogamy is the practice of having only one, making it the opposite."
+  },
+  {
+    "question": "Prospect",
+    "options": ["Retrospect", "Traditional", "Ideal", "Modernist"],
+    "answer": 0,
+    "explanation": "Prospect refers to looking forward or future expectations; Retrospect refers to looking back at past events, making it the opposite."
+  },
+  {
+    "question": "The diffusion of the virus had reached an epidemic proportion.",
+    "options": ["dissemination", "spread", "diagnosis", "vulnerability"],
+    "answer": 1,
+    "explanation": "In this context, the diffusion of a virus refers to its transmission or spreading over a wide area. 'Spread' is the closest synonym."
+  },
+  {
+    "question": "The electric poles were impregnated with chemical solutions for durability.",
+    "options": ["saturated", "varnished", "erected", "washed"],
+    "answer": 0,
+    "explanation": "Impregnated means to soak or fill something thoroughly with a substance. 'Saturated' carries the closest meaning."
+  },
+  {
+    "question": "The sense of animosity between the rival groups was resolved peacefully.",
+    "options": ["grievance", "hatred", "exposure", "revenge"],
+    "answer": 1,
+    "explanation": "Animosity is strong hostility or ill-will between groups or individuals. 'Hatred' is the closest synonym."
+  },
+  {
+    "question": "The practice of tax evasion is harmful to the development of a nation.",
+    "options": ["avoidance", "endorsement", "conviction", "resilience"],
+    "answer": 0,
+    "explanation": "Tax evasion is the illegal non-payment or underpayment of taxes. 'Avoidance' is the closest synonym in this context."
+  },
+  {
+    "question": "GUNPOWDER: EXPLOSION; Volcano: _________",
+    "options": ["Landslide", "Concentration", "Eruption", "Pasteurization"],
+    "answer": 2,
+    "explanation": "Gunpowder causes an explosion; a volcano causes an eruption. The relationship is cause-and-effect."
+  },
+  {
+    "question": "CARAVAN: DESERT; Perch: _________",
+    "options": ["Aquatic", "Terrestrial", "Aerial", "Tropical"],
+    "answer": 0,
+    "explanation": "A caravan is associated with traveling through the desert; a perch (a type of fish) is associated with an aquatic environment."
+  },
+  {
+    "question": "HISTORY: CHRONOLOGICAL; Topography: ________",
+    "options": ["Temperature", "Spatial", "Climate", "Travel"],
+    "answer": 1,
+    "explanation": "History is organized by time (chronological); Topography is the arrangement of physical features in a space (spatial)."
+  },
+  {
+    "question": "DREAM: SHATTERED; Promises: ________",
+    "options": ["Broken", "Denied", "Cancelled", "Fulfilled"],
+    "answer": 0,
+    "explanation": "We say dreams are shattered and promises are broken. Both reflect the same collocation pattern in English."
+  },
+  {
+    "question": "BROADCAST: VERBAL; Paralanguage: ________",
+    "options": ["Audio-visual", "Imagery", "Body", "Multimodal"],
+    "answer": 2,
+    "explanation": "Broadcast communication is often verbal; Paralanguage refers to non-verbal communication, such as body language or tone."
+  },
+  {
+    "question": "The spread of English across the globe is attributed to ____________",
+    "options": ["WWII", "British colonialism", "The Will of Queen Elizabeth", "WWI"],
+    "answer": 1,
+    "explanation": "Paragraph 1 explicitly states the spread was a 'legacy of British colonialism.'"
+  },
+  {
+    "question": "What was the misconception of Indian Head Masters about the end goal of education?",
+    "options": ["Linguistic hybridity", "Mastering the 'Queen's English'", "Reading Shakespeare", "A preference for the American English"],
+    "answer": 1,
+    "explanation": "Paragraph 2 mentions Head Masters believed the 'Queen's English' was the 'ultimate educational attainment.'"
+  },
+  {
+    "question": "The word 'their' in paragraph 2 refers to ____________",
+    "options": ["Native speakers", "Indian head Masters", "English speakers worldwide", "Colonial masters"],
+    "answer": 2,
+    "explanation": "The sentence says 'English speakers around the globe are now left to their discretion,' so 'their' refers to English speakers worldwide."
+  },
+  {
+    "question": "The word 'recedes' in paragraph 2, could interchangeably be used with ____________",
+    "options": ["Outshines", "Shrinks", "Predominates", "Outnumbers"],
+    "answer": 1,
+    "explanation": "To recede means to move back or withdraw, which is similar to shrinking in influence."
+  },
+  {
+    "question": "The word 'monolithic' in paragraph 2 is synonymous with ____________",
+    "options": ["Hybrid", "Multilingual", "Unitary", "Pure"],
+    "answer": 2,
+    "explanation": "Monolithic implies something that is large, powerful, and uniform or unitary."
+  },
+  {
+    "question": "The first blank space (small colleges offer limited courses and _________ opportunities) could be completed with one of the following words.",
+    "options": ["Homogenous", "Exposes", "Specialization", "Cosmopolitan"],
+    "answer": 2,
+    "explanation": "Small colleges offer specific areas of study or specialization, which fits the context of limited but focused academic opportunities."
+  },
+  {
+    "question": "The word ________________ is more appropriate to complete the second blank space (large, _________ student body).",
+    "options": ["Anonymous", "Cosmopolitan", "Homogeneous", "Specialization"],
+    "answer": 1,
+    "explanation": "A large university with 20,000+ students from various backgrounds is cosmopolitan (diverse and worldly)."
+  },
+  {
+    "question": "One of the following words could be used in the third blank space (the university _________ its students to various activities).",
+    "options": ["Homogeneous", "Exposes", "Cosmopolitan", "Specialization"],
+    "answer": 1,
+    "explanation": "The university exposes (introduces) students to different cultural, social, and extracurricular activities."
+  },
+  {
+    "question": "The word ________________ is more appropriate for completing the fourth blank space (the _________ student body of the small college).",
+    "options": ["Exposes", "Homogeneous", "Cosmopolitan", "Anonymous"],
+    "answer": 1,
+    "explanation": "In contrast to the large university, a small college has a more similar or homogeneous student body."
+  },
+  {
+    "question": "The word ________________ could be used in the fifth blank space (a relaxed, impersonal and sometimes _________ existence).",
+    "options": ["Specialization", "Anonymous", "Exposes", "Homogeneous"],
+    "answer": 1,
+    "explanation": "A large university can feel impersonal or anonymous because of the sheer number of people."
+  },
+  {
+    "question": "Statement: The vacancy announcement stipulates that all applicants are required to produce a medical certificate. Which conclusion could be reasonably drawn from the premise?\nI. Any candidate who tests positive will be rejected.\nII. Medical certificate is not mandatory for application or employment.\nIII. A candidate who produces a forged medical certificate would be entertained.",
+    "options": ["Only conclusion I", "Only conclusion II", "Both conclusion I and II", "Both conclusion I and III"],
+    "answer": 0,
+    "explanation": "If a medical certificate is 'required,' it implies health status is a deciding factor for employment. Conclusions II and III directly contradict the requirement."
+  },
+  {
+    "question": "Statement: In many undemocratic countries, minority groups were marginalized for one reason or another. Which one of the conclusions is more logical?\nI. In such countries, individual rights were more important than group rights.\nII. In such countries, group rights were more important than individual rights.\nIII. In such countries, citizens could be marginalized on racial and religious grounds.\nIV. Collective identity was more significant than individual identity.",
+    "options": ["Conclusion I", "Conclusion II", "Conclusions I and III", "Conclusion II, III and IV"],
+    "answer": 3,
+    "explanation": "Marginalizing groups suggests that group identity (racial/religious) is the focus of the state's action, prioritizing the collective over the individual. Conclusions II, III, and IV all logically follow."
+  },
+  {
+    "question": "Statement: Many investment projects contribute to environmental pollution unless they are closely monitored by regulatory agencies. Which one of the conclusions is implied by the head sentence?\nI. The development policies of certain countries is exemplary.\nII. Environmental impact should not be undermined in the implementation of projects.\nIII. Regulatory agencies are responsible for monitoring the implementation of modalities.",
+    "options": ["Conclusion I", "Conclusion II", "Conclusions II and III", "Conclusion I and II"],
+    "answer": 2,
+    "explanation": "The statement links pollution to a lack of monitoring, implying that impacts must be considered (II) and agencies must do their job (III)."
+  },
+  {
+    "question": "The migration of birds from one part of the world to another is attributed to impulses of weather. They flock from Polar Regions to the tropical zone or vice-versa following seasonal changes. The choice of their destination depends on whether or not these migratory birds are cold-blooded. The assumption of the above argument revolves around _________________.",
+    "options": ["The seasonal readjustment of cold-blooded birds", "The bipolar migration of all birds", "The survival of birds under the strains of climate", "The difference between polar and tropical birds"],
+    "answer": 2,
+    "explanation": "The text focuses on how birds move to different zones to cope with seasonal changes and weather, centering on survival under climatic strains."
+  },
+  {
+    "question": "The traditional view about the predestination of poverty has been challenged on scientific grounds. With the advent of science and technology, the stratification of the human society into the poor and the rich is based on man-made problems rather than Divine intervention. In order to ensure equality and equitability of natural resources, modern governments should adopt and enforce the pillars of good governance. This writer proposes that",
+    "options": ["The fate of the poor is irreversible", "The fortune and the misfortune of humanity is predestined", "Poverty is man-made and can be resolved by humans themselves", "The traditional view of pessimism is still persistent"],
+    "answer": 2,
+    "explanation": "The author states poverty is based on 'man-made problems' and suggests governments can fix it through good governance."
+  },
+  {
+    "question": "Statement: All public and private schools were closed down during the outburst of the Covid-19 pandemic, which also led to socio-economic crisis. The writer seems to underline the consequences of Covid-19 as stated in\nI. The spread of Covid-19 was caused by the closure of schools.\nII. The spread of Covid-19 had forced the closure of schools apart from impacting the socio-economic sector.\nIII. The outbreak of this virus had nothing to do with the social service sector.",
+    "options": ["Conclusion I", "Conclusion II", "Conclusion III", "Not given"],
+    "answer": 1,
+    "explanation": "The premise states the pandemic caused the closures and the crisis, which conclusion II summarizes accurately."
+  },
+  {
+    "question": "The Ministry of Inland Revenue and Customs praised the loyal tax payers for discharging their duty. What can we deduce from this premise?",
+    "options": ["Tax avoidance has completely been put under control", "Income generation and business are not interrelated", "There are duty-bound tax payers who support the development endeavours", "Deduction of value added taxes on the price of goods is fashionable"],
+    "answer": 2,
+    "explanation": "Praising 'loyal tax payers' directly implies that such people exist and contribute to national development."
+  },
+  {
+    "question": "Statement: The outbreak of malaria in the tropical zones has posed a threat to public health and the GDP of malarial countries. Which one of the above conclusions could be drawn from the premise?\nI. Tropical countries should prioritize the eradication of malaria for humanitarian and economic reasons.\nII. The death of people from malaria does not affect the GDP of a country.\nIII. Malaria should not be the focal point of research.",
+    "options": ["Conclusion II", "Conclusion I", "Conclusion III", "Not given"],
+    "answer": 1,
+    "explanation": "Since malaria threatens both health and the economy (GDP), the logical step for those countries is to prioritize its eradication."
+  },
+  {
+    "question": "Choose the word which cannot be categorized under the same group or category: Humidity, Altitude, Temperature, Calendar",
+    "options": ["Humidity", "Altitude", "Temperature", "Calendar"],
+    "answer": 3,
+    "explanation": "Humidity, Altitude, and Temperature are geographical/climatic factors. Calendar is a measure of time and does not belong in this group."
+  },
+  {
+    "question": "Choose the word which cannot be categorized under the same group or category: Regicide, Suicide, Genocide, Patricide",
+    "options": ["Regicide", "Genocide", "Suicide", "Patricide"],
+    "answer": 2,
+    "explanation": "Regicide (killing a king), Genocide (killing a group), and Patricide (killing a father) all involve killing others. Suicide is killing oneself."
+  },
+  {
+    "question": "Choose the word which cannot be categorized under the same group or category: Referendum, Photosynthesis, Consensus, Universal suffrage",
+    "options": ["Referendum", "Consensus", "Photosynthesis", "Universal suffrage"],
+    "answer": 2,
+    "explanation": "Referendum, Consensus, and Universal suffrage are political/decision-making terms. Photosynthesis is a biological process."
+  },
+  {
+    "question": "Choose the word which cannot be categorized under the same group or category: Sword, Machine gun, Bracelet, Rifle",
+    "options": ["Sword", "Bracelet", "Machine gun", "Rifle"],
+    "answer": 1,
+    "explanation": "Sword, Machine gun, and Rifle are all weapons. A bracelet is jewelry."
+  },
+  {
+    "question": "Choose the word which cannot be categorized under the same group or category: Chronicle, Diary, Biography, Civil code",
+    "options": ["Chronicle", "Biography", "Diary", "Civil code"],
+    "answer": 3,
+    "explanation": "Chronicles, Biographies, and Diaries are narrative/historical accounts of lives or events. A Civil Code is a legal document."
+  }
+]

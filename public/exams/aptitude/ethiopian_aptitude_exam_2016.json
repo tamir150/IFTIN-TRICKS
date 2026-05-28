@@ -1,0 +1,338 @@
+[
+  {
+    "question": "WONDERFUL : SATISFACTORY ; Gigantic : _______",
+    "options": ["Spacious", "Comprehensive", "Large", "Broad"],
+    "answer": 2,
+    "explanation": "WONDERFUL is a high degree of goodness, while SATISFACTORY is an adequate or acceptable level. Similarly, GIGANTIC is an extremely large size, and LARGE is an adequate level of bigness. The relationship is 'extreme : adequate' within the same quality domain."
+  },
+  {
+    "question": "BOTANY : PLANTS ; _______ : Soil",
+    "options": ["Biology", "Pedology", "Pedagogy", "Sociology"],
+    "answer": 1,
+    "explanation": "BOTANY is the scientific study of PLANTS. PEDOLOGY is the scientific study of SOIL. The relationship is 'field of study : subject matter studied.'"
+  },
+  {
+    "question": "TEAM : PLAYER ; _______ : Member",
+    "options": ["Trainer", "Vocalist", "Musician", "Crew"],
+    "answer": 3,
+    "explanation": "A TEAM is a group that contains individual PLAYERs. Similarly, a CREW is a group that contains individual MEMBERs. The relationship is 'collective group : individual unit within the group.'"
+  },
+  {
+    "question": "JUSTICE : FAIRNESS ; _______ : Bias",
+    "options": ["Just", "Compassion", "Prejudice", "Rational"],
+    "answer": 2,
+    "explanation": "JUSTICE and FAIRNESS are near-synonyms (a concept and its defining quality). Similarly, PREJUDICE is a concept whose defining quality is BIAS. The relationship is 'concept : its core characteristic.'"
+  },
+  {
+    "question": "FEASIBLE",
+    "options": ["Ambitious", "Achievable", "Impractical", "Unrealistic"],
+    "answer": 1,
+    "explanation": "FEASIBLE means capable of being done, effected, or accomplished. ACHIEVABLE is the closest synonym meaning possible to reach or accomplish."
+  },
+  {
+    "question": "ADHERE",
+    "options": ["Obey", "Abandon", "Drop", "Decline"],
+    "answer": 0,
+    "explanation": "ADHERE means to stick firmly to a rule, promise, or decision. OBEY is the closest synonym among the options, meaning to comply with or follow a rule or authority."
+  },
+  {
+    "question": "CONDONE",
+    "options": ["Discourage", "Confuse", "Complicate", "Forgive"],
+    "answer": 3,
+    "explanation": "CONDONE means to accept or allow behavior that is considered wrong. FORGIVE is the closest synonym, meaning to stop feeling angry or resentful toward someone for an offense or mistake."
+  },
+  {
+    "question": "IMMACULATE",
+    "options": ["Tidy", "Spotless", "Lucid", "Filthy"],
+    "answer": 3,
+    "explanation": "IMMACULATE means perfectly clean, neat, or tidy. FILTHY is its antonym, meaning extremely dirty or unclean."
+  },
+  {
+    "question": "RAVAGE",
+    "options": ["Renovate", "Damage", "Ruin", "Devastate"],
+    "answer": 0,
+    "explanation": "RAVAGE means to cause severe and extensive damage. RENOVATE is the antonym, meaning to restore or repair something to a good condition. Damage, Ruin, and Devastate are all synonyms of Ravage, not antonyms."
+  },
+  {
+    "question": "DAUNTING",
+    "options": ["Entertaining", "Frightening", "Intimidating", "Discouraging"],
+    "answer": 0,
+    "explanation": "DAUNTING means seeming difficult to deal with or overcome. ENTERTAINING is the only option conveying an opposing positive quality, making it the best antonym. Frightening, Intimidating, and Discouraging are all near-synonyms of Daunting."
+  },
+  {
+    "question": "Unethical work habits jeopardize individuals' development efforts and a country's overall growth potential. (Replace 'jeopardize')",
+    "options": ["accelerate", "speed-up", "facilitate", "detriment"],
+    "answer": 3,
+    "explanation": "JEOPARDIZE means to put at risk or endanger. DETRIMENT means harm or damage, which aligns with the meaning. The rewritten sentence would read: 'Unethical work habits are a detriment to individuals' development...' making 'detriment' the best interchangeable word."
+  },
+  {
+    "question": "Lowland areas usually get intermittent rain; as a result, they have low animal and crop productions. (Replace 'intermittent')",
+    "options": ["sporadic", "regular", "frequent", "substantial"],
+    "answer": 0,
+    "explanation": "INTERMITTENT means occurring at irregular intervals; not continuous. SPORADIC is the closest synonym, meaning occurring at irregular intervals or only in a few places."
+  },
+  {
+    "question": "Risk factors such as smoking, overweight, lack of physical exercise and stress exacerbate blood pressure, heart disease, and gastro-intestinal problems. (Replace 'exacerbate')",
+    "options": ["improve", "aggravate", "mitigate", "moderate"],
+    "answer": 1,
+    "explanation": "EXACERBATE means to make a problem or negative feeling worse. AGGRAVATE is the closest synonym, meaning to make a problem or injury worse."
+  },
+  {
+    "question": "The _______ forests in western Ethiopia, accompanied by chirping of birds and singing of birds and the fresh breeze are really inspirational.",
+    "options": ["tranquil", "empty", "deserted", "abandoned"],
+    "answer": 0,
+    "explanation": "The context describes chirping birds, singing, and fresh breeze in a positive, inspiring way. TRANQUIL means peaceful and calm, which best fits the serene and inspirational image described. Empty, deserted, and abandoned have negative connotations."
+  },
+  {
+    "question": "To fight some of the incurable diseases, the world is facing currently, scientists are _______ biotechnology to develop effective drugs.",
+    "options": ["overlooking", "discounting", "utilizing", "setting aside"],
+    "answer": 2,
+    "explanation": "Scientists would use or employ biotechnology to develop drugs. UTILIZING means to make practical and effective use of, which fits perfectly in the context of scientists applying biotechnology."
+  },
+  {
+    "question": "As it contains students from diverse cultural backgrounds, the class is a highly _______ one.",
+    "options": ["heterogeneous", "homogenous", "consistent", "invariable"],
+    "answer": 0,
+    "explanation": "HETEROGENEOUS means diverse in character or content, which directly matches 'diverse cultural backgrounds.' Homogenous means similar or uniform, which is the opposite."
+  },
+  {
+    "question": "Many health professionals believe that laughter has _______ effects on the human body as it enhances both physical and emotional health.",
+    "options": ["adverse", "therapeutic", "harmful", "detrimental"],
+    "answer": 1,
+    "explanation": "Since laughter 'enhances physical and emotional health,' its effects must be positive. THERAPEUTIC means having a healing or curative effect, making it the only positive option among the choices."
+  },
+  {
+    "question": "Which sentence is grammatically correct? A. The dog barked at me while I was riding a bicycle. B. While it was riding a bicycle the dog barked at me. C. The dog, while it was riding a bicycle, barked at me. D. The dog that was riding a bicycle barked at me.",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": 0,
+    "explanation": "Option A correctly places 'while I was riding a bicycle' so that it modifies 'I' (the person riding), not the dog. Options B, C, and D all incorrectly suggest that the dog was riding the bicycle, which is logically absurd."
+  },
+  {
+    "question": "What does the word 'far-reaching' mean according to the context of the passage? (From Passage I about population growth)",
+    "options": ["going to faraway places", "affecting certain areas", "impacting economic development", "facilitating resource allocation"],
+    "answer": 1,
+    "explanation": "'Far-reaching' in the context of population dynamics means having wide-ranging or extensive impact. 'Affecting certain areas' best captures the idea of widespread consequences across various aspects of society."
+  },
+  {
+    "question": "What does 'make informed decision' mean in the above passage? It means decision:",
+    "options": ["based on mere personal opinion.", "made for the sake of satisfying others.", "made for the sake of satisfying oneself.", "based on facts and information."],
+    "answer": 3,
+    "explanation": "'Informed decision' means a decision made based on sufficient knowledge, facts, and reliable information rather than guesswork or personal opinion. This is the standard definition of the phrase."
+  },
+  {
+    "question": "Based on the information given in the passage about population, which one of the following statements is correct?",
+    "options": ["It is the sole responsibility of the government to control population growth.", "The role of the community is highly constrained.", "Both the government and the community are responsible for controlling population.", "Having the requisite understanding about population is what matters most."],
+    "answer": 2,
+    "explanation": "The passage discusses how population growth has far-reaching consequences and that informed decisions are needed by all stakeholders. This implies shared responsibility between government and community for controlling population growth."
+  },
+  {
+    "question": "How can an air pollution-free environment be created for the new generation? (From Passage II on air pollution)",
+    "options": ["By devising rules and regulations", "Tackling the causes of air pollution from the source", "By planting trees every year", "By restricting private use of car"],
+    "answer": 1,
+    "explanation": "The passage states: 'By collectively addressing the root causes of air pollution, we can create a healthier environment for current and future generations.' This directly supports tackling the causes of air pollution from the source."
+  },
+  {
+    "question": "In the phrase 'the planet's well-being', what does 'the planet' refer to?",
+    "options": ["The nine planets", "The moon", "The sun", "The earth"],
+    "answer": 3,
+    "explanation": "In the context of air pollution and environmental concerns affecting human health, 'the planet' refers to Earth. The passage discusses environmental issues affecting our own planet, not other celestial bodies."
+  },
+  {
+    "question": "Which one of the following is NOT an air pollutant?",
+    "options": ["particulate matter", "ground-level ozone", "carpooling", "smog"],
+    "answer": 2,
+    "explanation": "CARPOOLING is not a pollutant; it is an activity recommended in the passage as a way to reduce air pollution. Particulate matter, ground-level ozone, and smog are all types of air pollutants explicitly mentioned in the passage."
+  },
+  {
+    "question": "As used in the passage, what is the meaning of the word 'imperative'?",
+    "options": ["optional", "conditional", "tentative", "compulsory"],
+    "answer": 3,
+    "explanation": "IMPERATIVE means of vital importance; crucial or compulsory. The passage says 'it is imperative to adopt sustainable practices,' meaning it is absolutely necessary and not optional."
+  },
+  {
+    "question": "Many well-paid jobs require a university degree, but new jobs mainly require knowledge other than a degree, where communication, interpersonal skills and teamwork are crucial. Based on this information, it is valid to conclude that:",
+    "options": ["Career development in most jobs is impossible without producing a degree.", "The new jobs that are being created rather require knowledge of soft skills.", "A university degree is irrelevant for the newly created and flourishing jobs.", "Holding a university degree is crucial for career development."],
+    "answer": 1,
+    "explanation": "The passage states that many new jobs 'mainly require knowledge other than just having a degree' and that 'basic skills in communication, interpersonal skills and team work play a crucial role.' These communication and interpersonal skills are soft skills, making option B the most valid conclusion."
+  },
+  {
+    "question": "Thomas Edison failed many times before inventing the light bulb but tried again until success. Conclusion I: A problem can be a chance to do one's best. Conclusion II: Perseverance in the face of challenges is advisable. Conclusion III: One must always indulge in a problem whatever the consequences. A more valid conclusion is:",
+    "options": ["Conclusion I", "Conclusion II", "Conclusions II and III", "Conclusions I and II"],
+    "answer": 3,
+    "explanation": "Both Conclusion I and Conclusion II are valid. Edison's repeated failures became opportunities to do his best (Conclusion I), and he demonstrated perseverance by trying repeatedly (Conclusion II). Conclusion III is invalid because 'always indulge regardless of consequences' is extreme and not supported by the statement."
+  },
+  {
+    "question": "Statement I: Sub-cities in Addis Ababa get one or two days of water supply per week. Statement II: There is significant imbalance between water demand and supply. Statement III: There has been a booming water trading market. Which is TRUE?",
+    "options": ["Statement I is the cause and statements II and III are its effects.", "Statement II is the cause and statements I and III are its effects.", "Statement III is the cause and statements I and II are its effects.", "Each of the three is an independent cause for three different effects."],
+    "answer": 0,
+    "explanation": "Water scarcity (Statement I - limited water supply days) is the root cause that leads to both the demand-supply imbalance (Statement II) and the emergence of a water trading market (Statement III) as people seek alternative water sources."
+  },
+  {
+    "question": "Most traffic accidents in Ethiopia are caused by driver behaviors: talking on phone, texting, violating traffic regulations, and recklessness. Which conclusion is most logical?",
+    "options": ["Most traffic accidents are caused because drivers do not have the requisite driving skills.", "Most traffic accidents are caused due to the decisions such drivers make while driving.", "Both conclusions I and II", "Both conclusion II and III"],
+    "answer": 3,
+    "explanation": "Conclusion II directly follows: drivers' choices and decisions (phone use, texting, violations) cause accidents. Conclusion III also follows since these are ill-behaviors of drivers. Conclusion I is incorrect because the assumption does not mention lack of driving skills at all."
+  },
+  {
+    "question": "XYZ company workers with cars cannot find parking, and the administration cannot help. Conclusion I: Workers should use public transportation. Conclusion II: Workers should leave cars at home. Conclusion III: Workers should sell their cars. Which follows?",
+    "options": ["Conclusion I", "Conclusion II", "Both conclusions I and II", "Both conclusions I and III"],
+    "answer": 2,
+    "explanation": "Since workers cannot get parking and the company cannot help, using public transportation (Conclusion I) and leaving cars at home (Conclusion II) are both logical alternatives to address the parking problem. Conclusion III (selling cars) is too extreme to follow from the statement."
+  },
+  {
+    "question": "Five students (Ha, Ga, Ta, Za, Ya) sat for four exams on English, History, Geography and Mathematics. Ha: easiest=History, hardest=Math. Ga: reverse of Ha. Ta: hardest=History&Math, easiest=Geography. Za: opposite of Ta. Ya: Ha's easiest is Ya's hardest. Which subject was most difficult for most students?",
+    "options": ["Geography", "History", "English", "Mathematics"],
+    "answer": 1,
+    "explanation": "Hardest subjects: Ha=Math, Ga=History, Ta=History&Math, Za=Geography, Ya=History. Counting: History=3 students (Ga, Ta, Ya), Math=2 (Ha, Ta), Geography=1 (Za), English=0. History is most frequently the hardest subject with 3 students."
+  },
+  {
+    "question": "How many numbers in the set {-8, -5, -3, -1, 0, 2, 5, 7, 8} satisfy the condition |5 - 3x| < 11?",
+    "options": ["4", "3", "5", "6"],
+    "answer": 0,
+    "explanation": "|5 - 3x| < 11 means -11 < 5 - 3x < 11, so -16 < -3x < 6, giving -2 < x < 5.33. From the set, the numbers satisfying this are: -1, 0, 2, and 5, giving 4 numbers total."
+  },
+  {
+    "question": "What is the rationalizing factor of the denominator of 1 over the cube root of 4?",
+    "options": ["square root of 2", "cube root of 2", "3 times square root of 2", "2"],
+    "answer": 1,
+    "explanation": "The cube root of 4 equals 2 raised to the power of 2/3. To rationalize, multiply by 2 raised to the power of 1/3 (cube root of 2) to get 2 raised to 1, which is the integer 2. Therefore, cube root of 2 is the rationalizing factor."
+  },
+  {
+    "question": "The greatest common factor and least common multiple of two numbers are 12 and 336, respectively. If one of the numbers is 84, what is the other number?",
+    "options": ["36", "48", "72", "96"],
+    "answer": 1,
+    "explanation": "For any two numbers, GCF multiplied by LCM equals the product of the two numbers. So 12 times 336 equals 84 times the other number. Therefore, the other number equals 4032 divided by 84, which equals 48."
+  },
+  {
+    "question": "If 3x - 2 = 3 - 5x, then which one of the following is equal to 7 - 4x?",
+    "options": ["9/2", "-9/2", "13/2", "19/2"],
+    "answer": 0,
+    "explanation": "From 3x - 2 = 3 - 5x, we get 8x = 5, so x = 5/8. Substituting into 7 - 4x: 7 - 4(5/8) = 7 - 5/2 = 14/2 - 5/2 = 9/2."
+  },
+  {
+    "question": "A father is 32 years old and his son is 8 years old now. In how many years will the father be three times as old as his son?",
+    "options": ["6", "3", "4", "5"],
+    "answer": 2,
+    "explanation": "Let y be the number of years. Then (32 + y) = 3 times (8 + y), giving 32 + y = 24 + 3y. Solving: 8 = 2y, so y = 4 years."
+  },
+  {
+    "question": "For what value(s) of k, does the system of linear equations 2x + 3y = 1 and kx + 6y = -3 have a unique solution?",
+    "options": ["k = 4", "k = -4", "k is not equal to -4", "k is not equal to 4"],
+    "answer": 3,
+    "explanation": "A system of linear equations has a unique solution when the determinant of the coefficient matrix is non-zero. Here, the determinant is (2)(6) - (3)(k) = 12 - 3k. For a unique solution, 12 - 3k must not equal 0, giving k is not equal to 4."
+  },
+  {
+    "question": "The difference of two numbers is 10, and the sum of three times the larger number and twice the smaller number is 55. What is the value of the larger number?",
+    "options": ["6", "14", "5", "15"],
+    "answer": 3,
+    "explanation": "Let the larger number be L and smaller be S. Then L - S = 10 and 3L + 2S = 55. Substituting S = L - 10: 3L + 2(L - 10) = 55, giving 5L = 75, so L = 15."
+  },
+  {
+    "question": "One root of the equation 2x squared + 1 = h - 5x (where h is a constant) is four times the other root. What are the roots?",
+    "options": ["-1/2 and -2", "-2 and -8", "1/2 and 2", "2 and 8"],
+    "answer": 0,
+    "explanation": "Rewriting as 2x squared + 5x + (1-h) = 0. If the roots are r and 4r, then by Vieta's formulas: sum = r + 4r = 5r = -5/2, giving r = -1/2. The roots are -1/2 and 4 times (-1/2) = -2."
+  },
+  {
+    "question": "What percent of 16 is 12?",
+    "options": ["25%", "70%", "75%", "50%"],
+    "answer": 2,
+    "explanation": "To find what percent 12 is of 16: (12/16) times 100 = (3/4) times 100 = 75%. Therefore, 12 is 75% of 16."
+  },
+  {
+    "question": "If (3x squared + 1) / (3x + 6) = x squared / (x + 2) - 3, then what is the value of 1 / (9x + 1)?",
+    "options": ["-1/18", "-1/5", "1/18", "1/20"],
+    "answer": 0,
+    "explanation": "The left side simplifies to (3x squared + 1) / (3(x+2)). Cross-multiplying with the right side and simplifying leads to 9x + 1 = -18, so 1/(9x + 1) = -1/18."
+  },
+  {
+    "question": "If f(x) = 10 raised to the power of (2x - 1), then which one of the following is equal to the inverse function f inverse of x?",
+    "options": ["log(2x - 1)", "log(square root of x) + 1/2", "log(x) + 1/2", "log(square root of x) - 1/2"],
+    "answer": 1,
+    "explanation": "Setting y = 10^(2x-1), solving for x: x = (log y)/2 + 1/2 = log(sqrt(y)) + 1/2. Therefore, the inverse function is f inverse of x = log(square root of x) + 1/2."
+  },
+  {
+    "question": "Which one of the following is NOT true about the graph of the function f(x) = (7/5) raised to the power of x?",
+    "options": ["It is an increasing function.", "Its y-intercept is 1.", "Its domain is the set of all real numbers.", "Its range is the set of all real numbers."],
+    "answer": 3,
+    "explanation": "Since 7/5 is greater than 1, f(x) = (7/5)^x is an increasing exponential function with y-intercept 1 and domain of all real numbers (A, B, C are all true). However, the range is only positive real numbers (0, infinity), NOT all real numbers, since the function always outputs positive values. So D is NOT true."
+  },
+  {
+    "question": "Which one of the following is the value of x in the sequence 23, 34, 56, 89, x, 188, ...?",
+    "options": ["111", "100", "133", "144"],
+    "answer": 2,
+    "explanation": "The consecutive differences are: 34-23=11, 56-34=22, 89-56=33. These differences (11, 22, 33) increase by 11 each time. The next difference should be 44, so x = 89 + 44 = 133. Verifying: 188 - 133 = 55, continuing the pattern."
+  },
+  {
+    "question": "What are the values of y and z, respectively, in the sequence: 1, -1/3, 1/7, -1/15, 1/31, -1/63, y, z, ...?",
+    "options": ["1/129 and -1/227", "1/127 and -1/255", "1/129 and -1/255", "1/127 and -1/227"],
+    "answer": 1,
+    "explanation": "The denominators follow the pattern: each term = previous denominator times 2 plus 1 (1, 3, 7, 15, 31, 63). Next denominators: 63 times 2 + 1 = 127, then 127 times 2 + 1 = 255. Signs alternate (+, -, +, -, +, -, +, -), so y = 1/127 and z = -1/255."
+  },
+  {
+    "question": "A data set of numbers: c, a, b, e, f, c, d is given, where 0 < a < b < c < d < e < f. Compare Quantity P (Mode of the data) and Quantity Q (Median of the data).",
+    "options": ["Quantity P is greater than Quantity Q.", "Quantity P is less than Quantity Q.", "Quantity P and Quantity Q are equal.", "The relationship cannot be determined."],
+    "answer": 2,
+    "explanation": "Sorting the 7 values: a, b, c, c, d, e, f. The mode (most frequent value) is c, since it appears twice. The median (4th value of 7) is also c. Therefore, Quantity P equals Quantity Q."
+  },
+  {
+    "question": "Let x, y, z be the lengths of the sides of a triangle. Compare Quantity P (x + y + 3) and Quantity Q (z + 3).",
+    "options": ["Quantity P is greater than Quantity Q.", "Quantity P is less than Quantity Q.", "Quantity P and Quantity Q are equal.", "The relationship cannot be determined."],
+    "answer": 0,
+    "explanation": "By the triangle inequality theorem, the sum of any two sides must be greater than the third side: x + y > z. Therefore, x + y + 3 > z + 3, making Quantity P strictly greater than Quantity Q."
+  },
+  {
+    "question": "How many different four-letter words which start with a vowel can be formed from the word MATH if the letters cannot be used more than once?",
+    "options": ["8", "24", "6", "18"],
+    "answer": 2,
+    "explanation": "The word MATH has exactly one vowel: A. The first letter must be A (1 choice). For the remaining 3 positions, we choose from the 3 remaining letters (M, T, H) without repetition. The number of arrangements is 3 factorial = 6."
+  },
+  {
+    "question": "A bag contains 15 balls, numbered 1 through 15. What is the probability of selecting a number that is odd or a multiple of 4?",
+    "options": ["1/5", "1/3", "8/15", "11/15"],
+    "answer": 3,
+    "explanation": "Odd numbers from 1 to 15: 1, 3, 5, 7, 9, 11, 13, 15 (8 numbers). Multiples of 4: 4, 8, 12 (3 numbers). Since multiples of 4 are even, there is no overlap. Total favorable outcomes = 8 + 3 = 11. Probability = 11/15."
+  },
+  {
+    "question": "Which one of the following can NOT be the degree measure of each interior angle of a regular polygon?",
+    "options": ["120 degrees", "140 degrees", "135 degrees", "105 degrees"],
+    "answer": 3,
+    "explanation": "For a regular polygon with n sides, each interior angle = (n-2) times 180 divided by n. Setting this equal to 105: (n-2) times 180 / n = 105, which gives n = 4.8. Since a polygon must have an integer number of sides, 105 degrees is not possible. Checking the others: 120 gives n=6, 135 gives n=8, 140 gives n=9, all valid integers."
+  },
+  {
+    "question": "Let triangle ABC be an isosceles triangle with angle C = 90 degrees. If the length of side AC is 4 cm, what is the length of side AB?",
+    "options": ["4", "4 times the square root of 2", "2 times the square root of 2", "8"],
+    "answer": 1,
+    "explanation": "In an isosceles right triangle with the right angle at C, the two legs AC and BC are equal. So AC = BC = 4 cm. By the Pythagorean theorem: AB squared = 4 squared + 4 squared = 32, so AB = the square root of 32 = 4 times the square root of 2."
+  },
+  {
+    "question": "Which school has the lowest income from donations and term fees combined? (P: Don=54, Term=24; Q: Don=21, Term=12; R: Don=60, Term=45; S: Don=51, Term=24; T: Don=60, Term=30)",
+    "options": ["Q", "S", "T", "R"],
+    "answer": 0,
+    "explanation": "Donations plus Term fees: P = 54+24 = 78, Q = 21+12 = 33, R = 60+45 = 105, S = 51+24 = 75, T = 60+30 = 90. School Q has the lowest combined income at 33 thousand Birr."
+  },
+  {
+    "question": "Which school has the lowest percentage of income from term fees out of its total income?",
+    "options": ["R", "S", "Q", "P"],
+    "answer": 3,
+    "explanation": "Total incomes: P=270, Q=150, R=450, S=210, T=280. Term fee percentages: P = 24/270 = 8.9%, Q = 12/150 = 8.0%, R = 45/450 = 10.0%, S = 24/210 = 11.4%, T = 30/280 = 10.7%. School P has the lowest at approximately 8.9%."
+  },
+  {
+    "question": "What is the average of the income from tuition fees of the five schools? (P=120, Q=60, R=210, S=90, T=120 in thousands Birr)",
+    "options": ["100", "90", "210", "120"],
+    "answer": 3,
+    "explanation": "Average = (120 + 60 + 210 + 90 + 120) / 5 = 600 / 5 = 120 thousand Birr."
+  },
+  {
+    "question": "Which school has the highest percentage of income from grants out of its total income?",
+    "options": ["Q", "P", "T", "S"],
+    "answer": 0,
+    "explanation": "Total incomes: P=270, Q=150, R=450, S=210, T=280. Grant percentages: P = 60/270 = 22.2%, Q = 54/150 = 36.0%, R = 120/450 = 26.7%, S = 42/210 = 20.0%, T = 55/280 = 19.6%. School Q has the highest at 36%."
+  },
+  {
+    "question": "Which school has the lowest ratio of miscellaneous to term fees?",
+    "options": ["Q", "S", "R", "T"],
+    "answer": 1,
+    "explanation": "Miscellaneous to Term fees ratios: P = 12/24 = 0.50, Q = 3/12 = 0.25, R = 15/45 = 0.33, S = 3/24 = 0.125, T = 15/30 = 0.50. School S has the lowest ratio at 0.125."
+  }
+]

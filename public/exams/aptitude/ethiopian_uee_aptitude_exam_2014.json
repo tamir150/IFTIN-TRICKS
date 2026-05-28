@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What is the word most nearly opposite in meaning to APPARENT?",
+    "options": ["Masked", "Evident", "Perceptible", "Obvious"],
+    "answer": 0,
+    "explanation": "APPARENT means visible or clear. Masked means hidden or concealed, which is the opposite."
+  },
+  {
+    "question": "What is the word most nearly opposite in meaning to BLEAK?",
+    "options": ["Gloomy", "Chilly", "Bright", "Dismal"],
+    "answer": 2,
+    "explanation": "BLEAK means cold, dreary, or depressing. Bright means full of light or cheerful, which is the opposite."
+  },
+  {
+    "question": "What is the word most nearly opposite in meaning to CONVERT?",
+    "options": ["Transform", "Transmute", "Change", "Persist"],
+    "answer": 3,
+    "explanation": "CONVERT means to change from one form to another. Persist means to continue unchanged, which is the opposite."
+  },
+  {
+    "question": "What is the word most nearly similar in meaning to CONVENIENT?",
+    "options": ["Suited", "Handy", "Comfortable", "Unsuitable"],
+    "answer": 0,
+    "explanation": "CONVENIENT means suitable or fitting for a particular purpose. Suited carries the closest meaning of being appropriate or well-matched."
+  },
+  {
+    "question": "What is the word most nearly similar in meaning to DISASTER?",
+    "options": ["Mishap", "Calamity", "Prosperity", "Misfortune"],
+    "answer": 1,
+    "explanation": "DISASTER means a sudden event causing great damage. Calamity is the closest synonym, meaning a disastrous event."
+  },
+  {
+    "question": "What is the word most nearly similar in meaning to DISDAIN?",
+    "options": ["Like", "Detest", "Approve", "Despise"],
+    "answer": 3,
+    "explanation": "DISDAIN means the feeling that something is unworthy of consideration. Despise means to regard with contempt, which is the closest synonym."
+  },
+  {
+    "question": "What is the word most nearly similar in meaning to DEPRIVE?",
+    "options": ["Despoil", "Direst", "Dispossess", "Restore"],
+    "answer": 2,
+    "explanation": "DEPRIVE means to take away something from someone. Dispossess means to deprive someone of possession, which is the closest synonym."
+  },
+  {
+    "question": "PRINCIPLE is to DOCTRINE as which of the following?",
+    "options": ["Myopic: Farsighted", "Experience: Knowledge", "Living: Dead", "Climb: Ascent"],
+    "answer": 1,
+    "explanation": "A doctrine is a system built from individual principles, just as knowledge is built from individual experiences. Both pairs share a component-to-system relationship."
+  },
+  {
+    "question": "EXERCISE is to MANEUVER as which of the following?",
+    "options": ["Implement: Propose", "Prepare: Criticize", "Alphabetical: Sequential", "Tacit: Superior"],
+    "answer": 2,
+    "explanation": "Exercise and maneuver are closely related practice activities. Similarly, alphabetical ordering is a specific type of sequential ordering. Both pairs share a near-synonymous relationship."
+  },
+  {
+    "question": "GAMBLE is to BETTING as which of the following?",
+    "options": ["Earth: Rotating", "Love: Marriage", "Win: Loosing", "Worship: Hoping"],
+    "answer": 1,
+    "explanation": "Gambling involves betting as its core mechanism, just as love leads to marriage as its institutional outcome. Both pairs share a driving-force-to-institution relationship."
+  },
+  {
+    "question": "MONARCH is to KING as which of the following?",
+    "options": ["Lion: Charismatic", "Donkey: Load", "Cobra: Venom", "Butterfly: Insect"],
+    "answer": 3,
+    "explanation": "A king is a specific type of monarch, just as a butterfly is a specific type of insect. Both pairs share a specific-instance-to-broader-category relationship."
+  },
+  {
+    "question": "CONSTITUTION is to LAW as which of the following?",
+    "options": ["Lawyer: Supervise", "Government: Rule", "Judge: Advice", "Parliament: Administer"],
+    "answer": 1,
+    "explanation": "A constitution is the supreme instrument of law, just as a government is the institution that exercises rule. Both pairs share an instrument-to-what-it-governs relationship."
+  },
+  {
+    "question": "All planets revolve around the sun. Earth is a planet and revolves around the sun. DIV revolves around the sun. Therefore DIV",
+    "options": [
+      "could be a planet.",
+      "is likely to be a manmade satellite.",
+      "does not appear to be a planet.",
+      "is unlikely to be a planet."
+    ],
+    "answer": 0,
+    "explanation": "Since DIV shares the characteristic of revolving around the sun (like planets), it could be a planet. However, other objects also revolve around the sun, so we cannot be certain."
+  },
+  {
+    "question": "Find the two statements that together prove that 'Abeba has black hair.' Statements: 1. Abeba has long hair. 2. Almaz has black hair. 3. Almaz is ten years old. 4. Abeba's hair is the same colour as Almaz's. 5. Almaz has short hair.",
+    "options": ["1 & 5", "2 & 3", "1 & 2", "2 & 4"],
+    "answer": 3,
+    "explanation": "Statement 2 says Almaz has black hair, and statement 4 says Abeba's hair is the same colour as Almaz's. Together they prove Abeba has black hair."
+  },
+  {
+    "question": "Any meat contains a lot of protein. Any protein can cause uric acid. Abebe eats a lot of meat. We can say that",
+    "options": [
+      "Abebe does not need to have a medical checkup for uric acid.",
+      "Uric acid does not cause serious illness.",
+      "Abebe suffers from uric acid related illness.",
+      "Abebe is likely to have uric acid related illness."
+    ],
+    "answer": 3,
+    "explanation": "Meat contains protein, protein can cause uric acid, and Abebe eats lots of meat. Therefore, Abebe is likely to develop uric acid related illness, though not certain."
+  },
+  {
+    "question": "Find the two statements that together prove: 'Helen is a country music singer.' Statements: 1. Helen sings in a band. 2. Helen likes country music the best. 3. Difficult music such as country and classical require a strongly trained voice. 4. Helen's band plays country songs. 5. Helen has attended singing for many years.",
+    "options": ["3 & 5", "1 & 4", "1 & 3", "2 & 5"],
+    "answer": 1,
+    "explanation": "Statement 1 says Helen sings in a band, and statement 4 says her band plays country songs. Together they prove she is a country music singer."
+  },
+  {
+    "question": "Five planes leave the airport at the same time. Plane B arrives at the destination before planes A and D, but after plane C. Plane E arrives before plane D but after plane A. Which plane is the last to arrive at the destination?",
+    "options": ["Plane C", "Plane D", "Plane A", "Plane B"],
+    "answer": 1,
+    "explanation": "From the ordering: C arrives first, then B, then A, then E, and finally D arrives last. The order is C < B < A < E < D."
+  },
+  {
+    "question": "Assume that: All JUNS are TIFS. Some UMIS are HUNS. All DAES are HUNS. All TIFS are DAES. Which of the following is correct?",
+    "options": [
+      "All HUNS are HYNS",
+      "All JUNS are HYNS",
+      "All DAES are HUNS",
+      "All JUNS are DAES"
+    ],
+    "answer": 2,
+    "explanation": "The statement 'All DAES are HUNS' is directly given as one of the premises, making it the clearly correct choice."
+  },
+  {
+    "question": "All wild animals contribute to the wellbeing of the ecosystem. All wild animals are endangered. Carnivorous animals are more endangered. A lion is a carnivorous animal and symbolizes charisma and courage. People love to see it. A lion someday would disappear from the Earth. Therefore",
+    "options": [
+      "life is the survival of the fittest and this works for wild animals too.",
+      "wild animals cause harm and we do not need to worry about them.",
+      "we should particularly take care of lions.",
+      "we should protect all wild animals with emphasis on endangered animals."
+    ],
+    "answer": 3,
+    "explanation": "The passage emphasizes that all wild animals are endangered and contribute to the ecosystem. The logical conclusion is that we should protect all wild animals, especially the most endangered ones."
+  },
+  {
+    "question": "The black rhinoceros lives on the plains of Africa. It has very poor eyesight and a very bad temper. The black rhino is powerful, and can be dangerous. It is a very endangered animal. Hunters kill it for its valuable horns. It can be said that",
+    "options": [
+      "The black rhino could be dangerous to people.",
+      "It is not relevant to talk about wild animals while people are killing each other.",
+      "Human beings are endangered animals.",
+      "Wild animals are created to serve the interests of man."
+    ],
+    "answer": 0,
+    "explanation": "The passage directly states the black rhino is powerful and can be dangerous, making this the only statement that follows from the given information."
+  },
+  {
+    "question": "According to the climate change passage, which of the following is correct?",
+    "options": [
+      "Governments are committed to keep warming below 1.5 degrees C.",
+      "Some people have already started to suffer from climate change.",
+      "The effect of climate change is not felt now.",
+      "The effect of climate change will be serious by 2030."
+    ],
+    "answer": 1,
+    "explanation": "The passage directly states: 'Some of us are already feeling the impact, such as people living in small island nations and other developing countries.'"
+  },
+  {
+    "question": "According to paragraph one of the climate change passage, which of the following is NOT directly related to climate change?",
+    "options": [
+      "Fuel energy",
+      "Protracted droughts",
+      "Displacement of people",
+      "Deteriorating health conditions"
+    ],
+    "answer": 0,
+    "explanation": "Paragraph one mentions droughts, displacement (climate refugees), and health impacts. Fuel energy is not mentioned in paragraph one; it is discussed later in paragraph three."
+  },
+  {
+    "question": "According to the passage, which of the following contributes to climate change?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Coal energy",
+      "Hydroelectric energy"
+    ],
+    "answer": 2,
+    "explanation": "The passage states that switching from fossil fuels like coal to renewables reduces emissions, implying coal energy contributes to climate change."
+  },
+  {
+    "question": "'Fossil fuel production must decline by roughly 6 per cent per year between 2020 and 2030' means",
+    "options": [
+      "It is not possible to fully avoid fuel energy by 2030.",
+      "Climate change is caused by natural processes.",
+      "The world has to completely depend on renewable energy.",
+      "It is not possible to keep warming below 1.5 degrees C."
+    ],
+    "answer": 0,
+    "explanation": "The statement describes a gradual decline of fossil fuels, implying they cannot be fully eliminated by 2030. The other options are either contradicted or unsupported by the passage."
+  },
+  {
+    "question": "According to the passage, the beneficiaries of managing global warming below 1.5 degrees C are",
+    "options": [
+      "Farmers and pastoralists in poor countries.",
+      "All people in developed and in poor countries.",
+      "Those with the technology of wind and solar energy.",
+      "Businessmen and rich countries."
+    ],
+    "answer": 1,
+    "explanation": "The passage states that climate solutions 'improve our lives and protect the environment,' suggesting all people benefit, both in developed and developing countries."
+  },
+  {
+    "question": "The word 'essentially' in sentence one of the human security passage implies",
+    "options": [
+      "Banking is business and has nothing to do with human security.",
+      "Human security is comprehensive and includes more issues.",
+      "Human security is limited to the seven issues discussed in the text.",
+      "Neighborly relation in communities is personal security."
+    ],
+    "answer": 1,
+    "explanation": "'Essentially' means fundamentally, suggesting these seven are the core issues but human security as a concept is broader and more comprehensive."
+  },
+  {
+    "question": "The word 'These' in sentence two of the human security passage refers to",
+    "options": [
+      "Other security issues implied in the text.",
+      "Mainly to peace and rule of law.",
+      "Human security in general.",
+      "The seven key security related issues mentioned in the text."
+    ],
+    "answer": 3,
+    "explanation": "The sentence reads 'There are essentially seven issues associated with human security. These are...' so 'These' refers back to the seven key security issues just mentioned."
+  },
+  {
+    "question": "What is NOT treated under environmental protection for ensuring human security?",
+    "options": [
+      "Soil erosion",
+      "Water pollution",
+      "HIV/AIDS",
+      "Deforestation"
+    ],
+    "answer": 2,
+    "explanation": "HIV/AIDS is a health issue, not an environmental protection issue. The passage lists water pollution, air pollution, deforestation, and natural hazards under environmental security."
+  },
+  {
+    "question": "'Conservation of traditions and cultures, languages and commonly held values' is important in addressing human security. Why?",
+    "options": [
+      "They promote tourist attraction and generate income which is basic in ensuring human security.",
+      "They are important for self contained development and self reliance.",
+      "They represent identity and respecting identity of people is their natural right.",
+      "They represent differences which foster human security."
+    ],
+    "answer": 2,
+    "explanation": "The passage discusses community security as including conservation of traditions and cultures, which protect people's identity and rights."
+  },
+  {
+    "question": "Which of the following is NOT treated under political security?",
+    "options": [
+      "Environmental matters",
+      "Media freedom",
+      "Use of state power",
+      "Human right and wellbeing of people"
+    ],
+    "answer": 0,
+    "explanation": "Environmental matters fall under environmental security, not political security. Political security covers human rights, press freedom, voting rights, and protection from state repression."
+  },
+  {
+    "question": "The man's ______ driving resulted in a death of a young man.",
+    "options": [
+      "exceptional",
+      "negligent",
+      "burdensome",
+      "charismatic"
+    ],
+    "answer": 1,
+    "explanation": "Negligent means careless or failing to take proper care. Negligent driving causing death makes logical sense in this context."
+  },
+  {
+    "question": "Many young Ethiopian soldiers lost their lives and are ______ of their country.",
+    "options": [
+      "nonconformists",
+      "heroes",
+      "reactionaries",
+      "compatriots"
+    ],
+    "answer": 1,
+    "explanation": "Heroes are people admired for their courage, especially those who sacrifice their lives for their country. This fits the context of soldiers who died for their country."
+  },
+  {
+    "question": "If a constitution of a country is not implemented, it is ______.",
+    "options": [
+      "existential",
+      "bountiful",
+      "nominal",
+      "judgmental"
+    ],
+    "answer": 2,
+    "explanation": "Nominal means existing in name only. A constitution that exists but is not implemented is merely nominal, having no practical effect."
+  },
+  {
+    "question": "Searching frantically to find the hidden jewels, the thieves proceeded to ______ the entire house.",
+    "options": [
+      "amplify",
+      "ransack",
+      "justify",
+      "darken"
+    ],
+    "answer": 1,
+    "explanation": "Ransack means to search thoroughly and violently, often to steal. This fits the context of thieves searching frantically for hidden jewels."
+  },
+  {
+    "question": "It is said that there is no ______ in the absence of a criminal law.",
+    "options": [
+      "raping",
+      "theft",
+      "bribe",
+      "crime"
+    ],
+    "answer": 3,
+    "explanation": "Crime is a legal concept that requires criminal law to define it. Without criminal law, the concept of crime does not exist."
+  },
+  {
+    "question": "On one Sunday 2400 male and female students attended a certain event. The ratio of male to female was 3 to 5. How many females attended the event?",
+    "options": ["1400", "1500", "800", "900"],
+    "answer": 1,
+    "explanation": "Total parts = 3 + 5 = 8. Female portion = 5/8 of 2400 = (5 x 2400)/8 = 1500 females."
+  },
+  {
+    "question": "If 2x + 3y = 7 and 3x - 5y = 1, what is the value of 3x - 3y?",
+    "options": ["2", "1", "4", "3"],
+    "answer": 3,
+    "explanation": "Solving the system: adding the equations gives 5x - 2y = 8. From the second equation: 3x = 1 + 5y. Testing values: x = 2, y = 1 satisfies both. Then 3x - 3y = 6 - 3 = 3."
+  },
+  {
+    "question": "Consider the system of linear inequalities: 4x - 3y <= 12 and x + 2y > 6. Which one of the following belongs to the solution set?",
+    "options": ["(1, 4)", "(1, 1)", "(0, 1)", "(0, 3)"],
+    "answer": 0,
+    "explanation": "Testing (1,4): 4(1)-3(4) = -8 <= 12 (true) and 1+2(4) = 9 > 6 (true). Both conditions satisfied."
+  },
+  {
+    "question": "If f(x) = 2x - 6 and g(x) = x^3 + x^2 - 12x, which one of the following is equal to (x^2 + 4x)f(x) - 2g(x)?",
+    "options": ["0", "48", "-24", "24"],
+    "answer": 0,
+    "explanation": "Expanding: (x^2 + 4x)(2x - 6) - 2(x^3 + x^2 - 12x) = 2x^3 - 6x^2 + 8x^2 - 24x - 2x^3 - 2x^2 + 24x = 0."
+  },
+  {
+    "question": "A carpenter wants to buy two types of nails: the first type costs 200 birr per kilogram and the second type costs 350 birr per kilogram. He needs at least 5 kg of the first type and at least 7 kg of the second type. He can spend at most 5000 birr. If x is the first type and y is the second type, which system of linear inequalities represents the situation?",
+    "options": [
+      "x + y >= 12, 200x + 350y >= 5000",
+      "x + y <= 12, 200x + 350y >= 5000",
+      "x + y >= 12, 200x + 350y <= 5000",
+      "x + y <= 12, 200x + 350y <= 5000"
+    ],
+    "answer": 2,
+    "explanation": "Since x >= 5 and y >= 7, x + y >= 12. Total cost is at most 5000 birr, so 200x + 350y <= 5000."
+  },
+  {
+    "question": "A certain restaurant sells sandwich for 65 birr and soft-drink for 20 birr. On a certain day the restaurant collected 28360 birr after selling 300 sandwiches and a certain amount of soft-drinks. How many soft-drinks were sold on that day?",
+    "options": ["400", "393", "443", "450"],
+    "answer": 2,
+    "explanation": "Revenue from sandwiches = 300 x 65 = 19500 birr. Remaining from soft-drinks = 28360 - 19500 = 8860 birr. Soft-drinks sold = 8860 / 20 = 443."
+  },
+  {
+    "question": "In a certain store there was coffee from three different places: 35% from Jimma, 50% from Harar and 15% from Sidama. If all the coffee from Harar is sold and no other coffee is added or sold, what percentage of the remaining coffee will be from Sidama?",
+    "options": ["40%", "50%", "20%", "30%"],
+    "answer": 3,
+    "explanation": "After Harar is sold, remaining coffee = 35% + 15% = 50% of original. Sidama's share = 15/50 = 30% of the remaining."
+  },
+  {
+    "question": "The first term of a sequence is -2 and every term after the first term is -3 times the preceding term. How many of the first 60 terms are less than 1?",
+    "options": ["30", "20", "50", "40"],
+    "answer": 0,
+    "explanation": "The sequence alternates: -2, 6, -18, 54, -162, 486, ... Odd-positioned terms are negative (less than 1), even-positioned terms are positive and grow. Out of 60 terms, 30 odd-positioned terms are less than 1."
+  },
+  {
+    "question": "If the 6th term of an arithmetic sequence is 18 and the 21st term is 78, what is the 10th term of the sequence?",
+    "options": ["34", "40", "36", "38"],
+    "answer": 0,
+    "explanation": "Using a + 5d = 18 and a + 20d = 78: subtracting gives 15d = 60, so d = 4. Then a = 18 - 20 = -2. The 10th term = -2 + 9(4) = 34."
+  },
+  {
+    "question": "What is the quotient when the polynomial x^3 + 512 is divided by x + 8?",
+    "options": ["x^2 + 64", "x^2 - 8x + 64", "x^2 + 8x + 64", "x^2 - 64"],
+    "answer": 1,
+    "explanation": "Using sum of cubes: x^3 + 8^3 = (x + 8)(x^2 - 8x + 64). Therefore, the quotient is x^2 - 8x + 64."
+  },
+  {
+    "question": "What is the value of x in the sequence 1, 2, 5, 10, 17, 26, x?",
+    "options": ["39", "41", "35", "37"],
+    "answer": 3,
+    "explanation": "The differences between consecutive terms are: 1, 3, 5, 7, 9 (odd numbers increasing by 2). The next difference is 11, so x = 26 + 11 = 37."
+  },
+  {
+    "question": "Sixty more than nine times a number is equal to two less than ten times the number. What is the number?",
+    "options": ["60", "58", "62", "64"],
+    "answer": 2,
+    "explanation": "9n + 60 = 10n - 2. Solving: 60 + 2 = 10n - 9n, so n = 62."
+  },
+  {
+    "question": "In September 2000, Ahmed was one more than eleven times as old as his son Mustefa. In September 2009, Ahmed was seven more than three times as old as Mustefa. How old was Mustefa in September 2000?",
+    "options": ["7 years old", "9 years old", "12 years old", "3 years old"],
+    "answer": 3,
+    "explanation": "Let Mustefa's age be M in 2000. Ahmed = 11M + 1. In 2009 (9 years later): 11M + 10 = 3(M + 9) + 7 = 3M + 34. Solving: 8M = 24, M = 3."
+  },
+  {
+    "question": "What is the sum of the geometric series 1/3, -2/9, 4/27, -8/81, ...?",
+    "options": ["2/3", "1", "1/5", "1/3"],
+    "answer": 2,
+    "explanation": "First term a = 1/3, common ratio r = -2/3. Since |r| < 1, the sum converges to S = a/(1-r) = (1/3)/(1+2/3) = (1/3)/(5/3) = 1/5."
+  },
+  {
+    "question": "A jar has 100 marbles of the same size. 2/5 of the marbles are blue and 1/5 of the marbles are white. If a marble is picked at random, what is the probability that the picked marble is red?",
+    "options": ["2/3", "3/5", "1/4", "2/5"],
+    "answer": 3,
+    "explanation": "Blue marbles = 2/5 x 100 = 40. White marbles = 1/5 x 100 = 20. Red marbles = 100 - 40 - 20 = 40. Probability of red = 40/100 = 2/5."
+  },
+  {
+    "question": "A bag contains three different flavored candies of the same size. 10 of the candies are orange flavored, 25 of the candies are apple flavored and 30% of the total is mango flavored. If a candy is picked at random, what is the probability that the picked candy is apple flavored?",
+    "options": ["1/2", "3/10", "1/3", "2/5"],
+    "answer": 0,
+    "explanation": "Let total = T. Then 10 + 25 + 0.3T = T, so 0.7T = 35, T = 50. Probability of apple = 25/50 = 1/2."
+  },
+  {
+    "question": "On Chala's long trip, the amount of fuel remaining in the fuel tank (in liters) is modeled by A(t) = 60 - 14t, where t is the number of hours since Chala started driving. Which one of the following is NOT true?",
+    "options": [
+      "Chala can drive 14 kilometers per one liter on the average.",
+      "The fuel tank will be empty after 3 hours of drive.",
+      "The amount of fuel is decreasing by 14 liters per hour.",
+      "There was 60 liters of fuel in the fuel tank when Chala started the trip."
+    ],
+    "answer": 1,
+    "explanation": "Option B is provably false: after 3 hours, fuel = 60 - 14(3) = 18 liters (not empty). The tank empties at t = 60/14 = 4.29 hours."
+  },
+  {
+    "question": "The height (h) in meters of an object thrown upwards as a function of time (t) is given by h(t) = -16t^2 + 96t + 112. What is the maximum height that the object can reach?",
+    "options": ["400 m", "288 m", "144 m", "256 m"],
+    "answer": 3,
+    "explanation": "The vertex of the parabola occurs at t = -b/(2a) = -96/(2 x -16) = 3 seconds. Maximum height = h(3) = -16(9) + 96(3) + 112 = -144 + 288 + 112 = 256 meters."
+  },
+  {
+    "question": "Quantity A: The number of two-digit positive integers for which the unit's digit is equal to the tenth digit. Quantity B: 10. Compare the two quantities.",
+    "options": [
+      "The two quantities are equal.",
+      "A relationship cannot be determined.",
+      "Quantity A is greater than Quantity B.",
+      "Quantity B is greater than Quantity A."
+    ],
+    "answer": 3,
+    "explanation": "Two-digit numbers with equal digits: 11, 22, 33, 44, 55, 66, 77, 88, 99. That is 9 numbers. Since 9 < 10, Quantity B is greater."
+  },
+  {
+    "question": "Four people donated money to a charity and the average of four donations was 7000 birr. Two of the donations were 9000 birr and 5000 birr. Quantity A: The average of the other two donations. Quantity B: 7000. Compare the two quantities.",
+    "options": [
+      "The two quantities are equal.",
+      "A relationship cannot be determined.",
+      "Quantity A is greater than Quantity B.",
+      "Quantity B is greater than Quantity A."
+    ],
+    "answer": 0,
+    "explanation": "Total donations = 4 x 7000 = 28000. Sum of other two = 28000 - 9000 - 5000 = 14000. Their average = 14000/2 = 7000. The quantities are equal."
+  },
+  {
+    "question": "According to the cement production table, in which month was the total production of cement in all the factories maximum?",
+    "options": ["November", "December", "September", "October"],
+    "answer": 1,
+    "explanation": "Based on the table data, the total production across all factories was highest in December with 1145 million tonnes, exceeding the other months."
+  },
+  {
+    "question": "According to the cement production table, in which month does factory F2 have a contribution of approximately 1/5 of the total production of the same month?",
+    "options": ["November", "December", "September", "October"],
+    "answer": 2,
+    "explanation": "In September, factory F2's production as a fraction of the total for that month is approximately 1/5 (20%)."
+  },
+  {
+    "question": "Which one of the following factories shows continuous increase in production of cement from September to January?",
+    "options": ["F5", "F6", "F1", "F2"],
+    "answer": 2,
+    "explanation": "Based on the table data, Factory F1 shows a continuous upward trend in production from September through January, with each month's production exceeding the previous."
+  },
+  {
+    "question": "Which of the following factories has a share of less than 12% from the total production in the given five months?",
+    "options": ["F5", "F6", "F1", "F2"],
+    "answer": 1,
+    "explanation": "Based on the table data, Factory F6's total production over five months is less than 12% of the overall combined production."
+  },
+  {
+    "question": "According to the cement production table, in which month was the total production of all the factories minimum?",
+    "options": ["November", "December", "September", "October"],
+    "answer": 2,
+    "explanation": "Based on the table data, September had the lowest total production at 1056 million tonnes, compared to October (1087), November (1115), and December (1145)."
+  }
+]

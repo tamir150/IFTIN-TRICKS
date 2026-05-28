@@ -1,0 +1,126 @@
+{
+  "id": "bio-2018",
+  "title": "Biology Past Exam",
+  "questions": [
+    {
+      "id": 1,
+      "text": "A student measured the diameter of onion epidermal cells at a magnification of 100x using a field of view adjusted to 2mm by stage micrometer. What would be the diameter of individual cells if 8 cells fit across the field of view of the microscope at 100x magnification?",
+      "options": [
+        "150 µm",
+        "250 µm",
+        "125 µm",
+        "375 µm"
+      ],
+      "correct": 1,
+      "explanation": "At 100x magnification, the field of view is 2mm (2000 µm). If 8 cells fit across this field, the diameter of one cell is 2000 µm / 8 = 250 µm."
+    },
+    {
+      "id": 2,
+      "text": "Which of the following organelles is primarily responsible for cellular respiration and ATP generation?",
+      "options": [
+        "Chloroplast",
+        "Mitochondrion",
+        "Lysosome",
+        "Golgi Apparatus"
+      ],
+      "correct": 1,
+      "explanation": "The mitochondrion is known as the powerhouse of the cell, where cellular respiration occurs to produce ATP."
+    },
+    {
+      "id": 3,
+      "text": "What is the primary function of transfer RNA (tRNA) during protein synthesis?",
+      "options": [
+        "Copying the DNA template",
+        "Carrying amino acids to the ribosome",
+        "Synthesizing ribosomal subunits",
+        "Deactivating messenger RNA"
+      ],
+      "correct": 1,
+      "explanation": "tRNA molecules carry specific amino acids to the ribosome, matching their anticodons with mRNA codons to build a polypeptide chain."
+    },
+    {
+      "id": 4,
+      "text": "In genetics, a cross between two heterozygous parents (Aa x Aa) is expected to produce what phenotypic ratio in the offspring (assuming complete dominance)?",
+      "options": [
+        "1:2:1",
+        "9:3:3:1",
+        "3:1",
+        "1:1"
+      ],
+      "correct": 2,
+      "explanation": "A monohybrid cross between Aa and Aa yields a 3:1 phenotypic ratio (75% dominant phenotype, 25% recessive phenotype)."
+    },
+    {
+      "id": 5,
+      "text": "Which of the following processes occurs in the cytosol of a eukaryotic cell during cellular respiration?",
+      "options": [
+        "Glycolysis",
+        "Krebs Cycle",
+        "Electron Transport Chain",
+        "Oxidative Phosphorylation"
+      ],
+      "correct": 0,
+      "explanation": "Glycolysis is the anaerobic breakdown of glucose that takes place entirely in the cytosol before intermediate products enter the mitochondria."
+    },
+    {
+      "id": 6,
+      "text": "Which plant hormone is primarily responsible for fruit ripening?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Ethylene",
+        "Abscisic Acid"
+      ],
+      "correct": 2,
+      "explanation": "Ethylene is a gaseous plant hormone that plays a crucial role in regulating fruit ripening and leaf abscission."
+    },
+    {
+      "id": 7,
+      "text": "What type of cellular division results in four genetically diverse haploid daughter cells?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Binary Fission",
+        "Budding"
+      ],
+      "correct": 1,
+      "explanation": "Meiosis reduces the chromosome number by half, producing four genetically unique haploid gametes."
+    },
+    {
+      "id": 8,
+      "text": "The main structural component of plant cell walls is:",
+      "options": [
+        "Chitin",
+        "Peptidoglycan",
+        "Cellulose",
+        "Glycogen"
+      ],
+      "correct": 2,
+      "explanation": "Cellulose is a complex carbohydrate polymer that provides rigidity and structural integrity to plant cell walls."
+    },
+    {
+      "id": 9,
+      "text": "Which human organ system is primarily affected by the hormone insulin?",
+      "options": [
+        "Respiratory System",
+        "Digestive & Endocrine System",
+        "Nervous System",
+        "Skeletal System"
+      ],
+      "correct": 1,
+      "explanation": "Insulin is secreted by the pancreas (endocrine) and regulates glucose uptake and metabolism (digestive/energy system)."
+    },
+    {
+      "id": 10,
+      "text": "In an ecosystem, which of the following represents a primary consumer?",
+      "options": [
+        "An oak tree",
+        "A grasshopper eating grass",
+        "A frog eating grasshoppers",
+        "A hawk eating frogs"
+      ],
+      "correct": 1,
+      "explanation": "Primary consumers are herbivores that feed directly on producers (plants). Grasshoppers eating grass are primary consumers."
+    }
+  ]
+}

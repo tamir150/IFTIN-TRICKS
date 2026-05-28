@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bio-2018",
+    "title": "Biology Past Exam",
+    "type": "past_exam",
+    "subject": "Biology",
+    "badgeText": "Biology for 2018 Entrance",
+    "questionsCount": 10,
+    "duration": 15,
+    "status": "Available"
+  },
+  {
+    "id": "apt-2019",
+    "title": "Aptitude Past Exam",
+    "type": "past_exam",
+    "subject": "Aptitude",
+    "badgeText": "General Aptitude Entrance Preparation",
+    "questionsCount": 8,
+    "duration": 12,
+    "status": "Available"
+  },
+  {
+    "id": "eng-2018",
+    "title": "English Past Exam",
+    "type": "past_exam",
+    "subject": "English",
+    "badgeText": "English for 2018 Entrance",
+    "questionsCount": 5,
+    "duration": 10,
+    "status": "Attempted"
+  },
+  {
+    "id": "math-2018",
+    "title": "Mathematics Past Exam",
+    "type": "past_exam",
+    "subject": "Mathematics",
+    "badgeText": "Mathematics For 2018 Entrance",
+    "questionsCount": 5,
+    "duration": 15,
+    "status": "Available"
+  },
+  {
+    "id": "phys-2017",
+    "title": "Physics Past Exam",
+    "type": "past_exam",
+    "subject": "Physics",
+    "badgeText": "Physics Entrance Preparation",
+    "questionsCount": 5,
+    "duration": 12,
+    "status": "Available"
+  }
+]
