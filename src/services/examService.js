@@ -9,7 +9,9 @@ export const examService = {
   },
 
   getExamById: async (id) => {
-    const response = await fetch(`/exams/${id}.json`);
+    // Replace dashes back to slashes to support subdirectories
+    const filePath = id.replace(/-/g, '/');
+    const response = await fetch(`/exams/${filePath}.json`);
     return await response.json();
   },
 

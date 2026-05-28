@@ -11,6 +11,7 @@ import { ProtectedRoute } from './components/ProtectedRoute';
 // Pages
 import { Home } from './pages/Home';
 import { Exams } from './pages/Exams';
+import { YearSelection } from './pages/YearSelection';
 import { Quiz } from './pages/Quiz';
 import { Leaderboard } from './pages/Leaderboard';
 import { News } from './pages/News';
@@ -89,7 +90,13 @@ export default function App() {
               <Exams user={user} onOpenAuth={() => openAuth('signin')} triggerNotification={triggerNotification} />
             </ProtectedRoute>
           } />
-          
+
+          <Route path="/exams/:subject" element={
+            <ProtectedRoute>
+              <YearSelection triggerNotification={triggerNotification} />
+            </ProtectedRoute>
+          } />
+
           <Route path="/quiz/:id" element={
             <ProtectedRoute>
               <Quiz user={user} triggerNotification={triggerNotification} />
