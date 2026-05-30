@@ -17,7 +17,12 @@ export const Quiz = ({ user, triggerNotification }) => {
     const loadExam = async () => {
       try {
         setLoading(true);
-        const data = await examService.getExamById(id);
+        // Parse subject and year from id (format: subject-year)
+        const parts = id.split('-');
+        const subject = parts[0];
+        const year = parts[parts.length - 1];
+        
+        const data = await examService.getExamById(subject, year);
         if (data) {
           // Normalize question field names
           const normalizedQuestions = data.questions.map((q, idx) => ({
@@ -133,14 +138,16 @@ export const Quiz = ({ user, triggerNotification }) => {
           {/* THE MISSING METRIC PANEL */}
           <div className="w-full bg-white border border-slate-200 rounded-2xl px-6 py-4 flex items-center justify-between shadow-sm">
             <span className="text-xs font-black text-slate-400 uppercase tracking-[0.2em]">
-              Question <span className="text-indigo-600">{currentQuestionIdx + 1}</span> of {totalQuestions}
+              QUESTION <span className="text-indigo-600">{currentQuestionIdx + 1}</span> OF {totalQuestions}
             </span>
             <button 
               onClick={() => toggleFlag(currentQuestion.id)}
               className={`flex items-center gap-2 px-4 py-2 rounded-xl text-[10px] font-black uppercase tracking-widest border transition-all ${flaggedQuestions[currentQuestion.id] ? 'bg-rose-50 border-rose-200 text-rose-600 shadow-sm' : 'bg-slate-50 border-slate-200 text-slate-400 hover:text-indigo-600 hover:border-indigo-100'}`}
             >
-              <Flag className={`w-3.5 h-3.5 ${flaggedQuestions[currentQuestion.id] ? 'fill-rose-600' : ''}`} />
-              {flaggedQuestions[currentQuestion.id] ? 'Flagged' : 'Flag'}
+              <span className="flex items-center gap-2">
+                {flaggedQuestions[currentQuestion.id] ? '🚩' : '🏳️'}
+                Flag Question
+              </span>
             </button>
           </div>
 
@@ -222,7 +229,7 @@ export const Quiz = ({ user, triggerNotification }) => {
                 let btnClass = 'bg-slate-50 text-slate-400 border-slate-100';
                 if (isCurrent) btnClass = 'bg-indigo-600 text-white border-indigo-600 shadow-lg shadow-indigo-100 ring-4 ring-indigo-50 z-10';
                 else if (isFlagged) btnClass = 'bg-rose-50 text-rose-600 border-rose-200';
-                else if (isAnswered) btnClass = 'bg-indigo-50 text-indigo-600 border-indigo-100';
+                else if (isAnswered) btnClass = 'bg-slate-200 text-slate-600 border-slate-300';
 
                 return (
                   <button 
@@ -244,7 +251,7 @@ export const Quiz = ({ user, triggerNotification }) => {
                 <span>Current</span>
               </div>
               <div className="flex items-center gap-2 text-[10px] font-bold text-slate-400 uppercase tracking-widest">
-                <div className="w-3 h-3 bg-indigo-50 border border-indigo-100 rounded-md"></div>
+                <div className="w-3 h-3 bg-slate-200 border border-slate-300 rounded-md"></div>
                 <span>Answered</span>
               </div>
               <div className="flex items-center gap-2 text-[10px] font-bold text-slate-400 uppercase tracking-widest">

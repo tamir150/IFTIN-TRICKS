@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Gene flow is the movement of genetic material",
+    "options": [
+      "without altering the allele frequencies.",
+      "that drives a population towards perfection.",
+      "without affecting the balance of gene pool of a population.",
+      "where organisms either join or leave a population."
+    ],
+    "answer": 3,
+    "explanation": "Gene flow (migration) involves organisms moving into or out of a population, which transfers alleles between populations and can change allele frequencies."
+  },
+  {
+    "question": "Which one of the following options is a constituent of peripheral nervous system?",
+    "options": [
+      "Afferent nerves, brain and autonomic nerves",
+      "Somatic sensory nerves, spinal cord and afferent nerves",
+      "Afferent nerves, efferent nerves and somatic motor nerves",
+      "Spinal cord, afferent nerves and sensory nerves"
+    ],
+    "answer": 2,
+    "explanation": "The PNS consists of nerves outside the brain and spinal cord, including afferent (sensory) nerves, efferent (motor) nerves, and somatic motor nerves. The brain and spinal cord belong to the CNS."
+  },
+  {
+    "question": "Which one of the following structures of neurons is correctly paired with its function?",
+    "options": [
+      "Axon – receives signals",
+      "Cell body – maintains structure and supplies energy",
+      "Dendrites – protect the neuron and insulate it",
+      "Myelin sheath – increases nerve impulse transmission"
+    ],
+    "answer": 3,
+    "explanation": "The myelin sheath insulates the axon and allows saltatory conduction, which significantly increases the speed of nerve impulse transmission along the axon."
+  },
+  {
+    "question": "Which one of the following statements explains how nerve impulse occurs? It occurs as a result of",
+    "options": [
+      "charge difference across the membrane of the axon.",
+      "movement of neurotransmitter molecules into myelin sheath.",
+      "balanced charge across the membrane of dendrites.",
+      "the movement of neurotransmitter molecules out of the cell body."
+    ],
+    "answer": 0,
+    "explanation": "A nerve impulse (action potential) is generated due to a change in the charge distribution across the axon membrane, caused by the rapid influx of Na⁺ ions and efflux of K⁺ ions."
+  },
+  {
+    "question": "Which one of the following statements is an acceptable justification of the importance of synapse? Synapse is",
+    "options": [
+      "the mechanism of protecting the axon from external damage.",
+      "a connection between the appendages of consecutive neurons.",
+      "a conductor of action potential towards the end of the dendrite.",
+      "the facilitator of the reverse flow of neurotransmitter between neurons."
+    ],
+    "answer": 1,
+    "explanation": "A synapse is the junction between two neurons (or between a neuron and effector cell) where neurotransmitters transmit signals from one neuron to the next."
+  },
+  {
+    "question": "Assume your friend has a blood type that has no antigen on his blood cells but produces antibodies a and b. He loses blood due to an accident. If blood transfusion is necessary to save his life, your friend can receive blood from someone with",
+    "options": [
+      "blood type AB.",
+      "blood type B.",
+      "blood type O.",
+      "blood type A."
+    ],
+    "answer": 2,
+    "explanation": "Blood type O has no antigens on red blood cells and produces both anti-A and anti-B antibodies. A person with blood type O can only receive blood from other type O donors because any other blood type would trigger an immune reaction."
+  },
+  {
+    "question": "The binomial system of naming developed by Linnaeus comprises two names. Which hierarchical groups are used?",
+    "options": [
+      "Order and family",
+      "Kingdom and species",
+      "Genus and species",
+      "Kingdom and phylum"
+    ],
+    "answer": 2,
+    "explanation": "Binomial nomenclature, developed by Carl Linnaeus, uses two names: the genus name (capitalized) and the species epithet (lowercase), e.g., Homo sapiens."
+  },
+  {
+    "question": "Which one of the following is the significance of kingdom Monera? Its members are",
+    "options": [
+      "unicellular without special structures.",
+      "multicellular with cell wall.",
+      "mainly autotrophic or saprophytic.",
+      "reproduced by mitosis."
+    ],
+    "answer": 0,
+    "explanation": "Kingdom Monera consists of prokaryotes (bacteria), which are unicellular organisms lacking membrane-bound organelles (special structures) such as a true nucleus."
+  },
+  {
+    "question": "Which alternative given below is comprised of harmful groups from the kingdom Protista and Fungi, respectively?",
+    "options": [
+      "Trypanosoma, Plasmodium falciparum and Haemophilus ducreyi",
+      "Mycobacterium tuberculosis and Trypanosoma",
+      "Haemophilus ducreyi, Trypanosoma and Tinea pedis",
+      "Trypanosoma, Plasmodium falciparum and Penicillium"
+    ],
+    "answer": 3,
+    "explanation": "Trypanosoma and Plasmodium falciparum are harmful protists (causing sleeping sickness and malaria respectively), and Penicillium belongs to kingdom Fungi. This is the only option with organisms exclusively from Protista and Fungi."
+  },
+  {
+    "question": "Which one of the following is a feature of octopi and squid in phylum Mollusca? They have",
+    "options": [
+      "segmented body with head and thorax.",
+      "well-developed brain.",
+      "lung as a breathing structure.",
+      "hard muscular foot with hard body."
+    ],
+    "answer": 1,
+    "explanation": "Cephalopods (octopi and squid) are the most advanced molluscs and possess a well-developed brain and complex nervous system, which allows for advanced behaviors like problem-solving."
+  },
+  {
+    "question": "What mechanism was used by Gregor Mendel to protect the garden peas from self-pollination? He",
+    "options": [
+      "opened the flower bud before pollen matured.",
+      "sterilized the male part of the flower using chemicals.",
+      "covered the flower and protected it from pollinators.",
+      "selected pure dominant traits for breeding."
+    ],
+    "answer": 0,
+    "explanation": "Mendel used emasculation: he opened the flower buds before the pollen matured and removed the anthers (male parts) to prevent self-pollination, then manually cross-pollinated."
+  },
+  {
+    "question": "Gregor Mendel crossed two pure-breeding trait plants in his experiment and found only one of the traits in the first generation. This shows that the",
+    "options": [
+      "expressed trait must be determined by recessive allele.",
+      "two traits in the F1 generation equally expressed.",
+      "alleles masked in the F1 were lost due to mutation.",
+      "expressed trait must be determined by the dominant allele."
+    ],
+    "answer": 3,
+    "explanation": "When Mendel crossed two pure-breeding plants, only the dominant trait appeared in the F1 generation. The dominant allele masks the expression of the recessive allele."
+  },
+  {
+    "question": "Which one of the following statements correctly describes chromosome structure?",
+    "options": [
+      "The pair of chromosomes is heterozygous in nature.",
+      "Chromosome is similar to a gene in structure.",
+      "The DNA combined with ribose sugar to form a chromosome.",
+      "DNA is coiled around histone proteins to form a chromosome."
+    ],
+    "answer": 3,
+    "explanation": "Chromosomes are made of DNA wrapped around histone proteins to form nucleosomes, which further coil and condense to form the chromosome structure."
+  },
+  {
+    "question": "The best technique that improves the performance of animals or plants using traits is",
+    "options": [
+      "self-breeding.",
+      "selective breeding.",
+      "test cross.",
+      "combination of traits."
+    ],
+    "answer": 1,
+    "explanation": "Selective breeding involves choosing parents with desirable traits to produce offspring with improved characteristics, thereby enhancing the performance of animals or plants over generations."
+  },
+  {
+    "question": "Which one of the following birth control methods is correctly matched with its function?",
+    "options": [
+      "Hormonal method – prevents follicle development and ovulation",
+      "Physical method – reduces the lining of the uterus",
+      "Surgical method – avoids early embryo implantation",
+      "Natural method – prevents the ovum from reaching the uterus"
+    ],
+    "answer": 0,
+    "explanation": "Hormonal contraceptives contain synthetic estrogen and/or progesterone that prevent follicle development and suppress ovulation, making fertilization impossible."
+  },
+  {
+    "question": "The ability of carnivores to survive in an ecosystem is dependent on the availability of prey. This can be considered as",
+    "options": [
+      "abiotic factor.",
+      "catastrophic factor.",
+      "edaphic factor.",
+      "biotic factor."
+    ],
+    "answer": 3,
+    "explanation": "The availability of prey is a living (biotic) component of the ecosystem. Biotic factors include interactions between organisms such as predation, competition, and food availability."
+  },
+  {
+    "question": "This item is based on the following pyramid of biomass. Which alternative contains organisms that can occupy the above pyramid of biomass from the bottom to top?",
+    "options": [
+      "Grass, Cricket, Chicken and Lizard",
+      "Grass, Cricket, Lizard and Chicken",
+      "Grass, Chicken, Cricket and Lizard",
+      "Grass, Lizard, Cricket and Chicken"
+    ],
+    "answer": 1,
+    "explanation": "From bottom to top of a biomass pyramid: Grass (producer) → Cricket (primary consumer) → Lizard (secondary consumer, eats crickets) → Chicken (tertiary consumer, can eat lizards)."
+  },
+  {
+    "question": "The two processes that play a significant role in absorbing and releasing carbon dioxide, respectively are",
+    "options": [
+      "combustion and photosynthesis.",
+      "decomposition and respiration.",
+      "respiration and assimilation.",
+      "photosynthesis and respiration."
+    ],
+    "answer": 3,
+    "explanation": "Photosynthesis absorbs CO₂ from the atmosphere (using it to produce glucose), while respiration releases CO₂ back into the atmosphere (as a by-product of breaking down glucose)."
+  },
+  {
+    "question": "Which one of the following adaptations is important for survival of polar bear in very cold environments? Having",
+    "options": [
+      "smaller size",
+      "blubbers under the skin",
+      "fine silky fur",
+      "thick wrinkled ears"
+    ],
+    "answer": 1,
+    "explanation": "Polar bears have a thick layer of blubber (fat) under their skin that provides excellent thermal insulation, trapping body heat and allowing them to survive in extremely cold Arctic environments."
+  },
+  {
+    "question": "A student concluded that the stage of meiosis on a prepared slide of tissue he observed was Anaphase II. What observation led to this conclusion? Observation of",
+    "options": [
+      "divided centromere and separated sister chromatids",
+      "reformed nuclear envelope and reappearance of nucleolus",
+      "one chromosome from each homologous pair at poles",
+      "crossing over between non-sister chromatids of homologous pairs"
+    ],
+    "answer": 0,
+    "explanation": "In Anaphase II, the centromeres divide and sister chromatids separate and move to opposite poles. This is the defining event that distinguishes Anaphase II from Anaphase I."
+  },
+  {
+    "question": "Which one of the following plant species is endemic to Ethiopia?",
+    "options": [
+      "Persea papaya",
+      "Araucaria heterophylla",
+      "Eucalyptus globulus",
+      "Eriotia abyssinica"
+    ],
+    "answer": 3,
+    "explanation": "Eriotia abyssinica (also written as Enotia abyssinica) is a plant species endemic to Ethiopia. The other options are not endemic: Carica papaya is tropical, Araucaria is from Norfolk Island, and Eucalyptus is from Australia."
+  },
+  {
+    "question": "Which one of the following national parks of Ethiopia is declared as the world's heritage site and comprises endemic animals like Walia ibex?",
+    "options": [
+      "Yangudi Rassa National Park",
+      "Simien Mountain National Park",
+      "Rift Valley National Park",
+      "Bale Mountain National Park"
+    ],
+    "answer": 1,
+    "explanation": "Simien Mountain National Park is a UNESCO World Heritage Site and is home to endemic species including the Walia ibex, Gelada baboon, and Ethiopian wolf."
+  },
+  {
+    "question": "A mother milks a cow every morning and the milk usually forms curd after three days. What is the first step to investigate why this change happens?",
+    "options": [
+      "Take action to prevent the milk from curdling",
+      "Read scientific articles about the reason for curdling of milk",
+      "Formulate a hypothesis about the reason for milk curdling",
+      "Observe the conditions under which the milk curdles"
+    ],
+    "answer": 1,
+    "explanation": "In the scientific method, after making an observation, the next step is to conduct background research. Reading scientific articles about milk curdling provides the knowledge base needed before forming a hypothesis."
+  },
+  {
+    "question": "A drug efficacy test was conducted under similar set up on two groups of infected mice (A and B). Group A were the control whereas group B were the experimental group. A student gave a placebo to the control group and the drug to the experimental group. At the end, the experimental group got better. Which one of the following is true about the result?",
+    "options": [
+      "Conclusion cannot be reached",
+      "The drug has an effect.",
+      "Placebo has better effect.",
+      "The experiment was wrong."
+    ],
+    "answer": 1,
+    "explanation": "Since the experimental group (which received the drug) improved while the control group (which received placebo) did not, the conclusion is that the drug has a therapeutic effect."
+  },
+  {
+    "question": "Suppose you did an experiment in a biology laboratory and need to report your work to your biology teacher. Which one of the following steps is correct to report the finding?",
+    "options": [
+      "Title → Procedure → Predictions → Evaluation → Conclusion → Acknowledgment",
+      "Title → Hypothesis → Procedure → Prediction → Result → Evaluation → Acknowledgment",
+      "Title → Hypothesis → Prediction → Procedure → Result → Conclusion → Evaluation → Acknowledgment",
+      "Title → Prediction → Procedure → Hypothesis → Result → Conclusion → Evaluation → Acknowledgment"
+    ],
+    "answer": 2,
+    "explanation": "The standard scientific report format follows: Title, Hypothesis, Prediction, Procedure/Method, Results, Conclusion, Evaluation, and Acknowledgment in that logical order."
+  },
+  {
+    "question": "Which one of the following statements explains how allosteric inhibitors affect enzyme activities? By binding to",
+    "options": [
+      "substrate and preventing it from binding to the active site",
+      "a site other than the active site and altering the shape of the active site",
+      "the active site of an enzyme and blocking the substrate",
+      "the active site and changing the shape of the enzyme"
+    ],
+    "answer": 1,
+    "explanation": "Allosteric inhibitors bind to a site on the enzyme other than the active site (allosteric site), causing a conformational change that alters the shape of the active site and prevents substrate binding."
+  },
+  {
+    "question": "Why are enzymes considered special molecules in metabolism? Because",
+    "options": [
+      "metabolic processes can produce special products in the presence of enzymes.",
+      "enzymes facilitate metabolic reactions under controlled physiological conditions.",
+      "enzymes are protein molecules that act as a source of energy.",
+      "reactions can't totally take place in the absence of enzymes."
+    ],
+    "answer": 1,
+    "explanation": "Enzymes are biological catalysts that speed up metabolic reactions under the mild conditions of the body (moderate temperature, physiological pH), without being consumed in the process."
+  },
+  {
+    "question": "Which of the following is the most advanced and recent event in the history of cell biology?",
+    "options": [
+      "Discovery of the double helix structure of DNA",
+      "Invention of the first scanning electron microscope",
+      "Description of the Golgi apparatus",
+      "Sequencing of the human genome"
+    ],
+    "answer": 3,
+    "explanation": "The Human Genome Project, completed in 2003, is the most recent and advanced milestone. The double helix was discovered in 1953, the SEM was developed in the 1930s-40s, and the Golgi apparatus was described in 1898."
+  },
+  {
+    "question": "A student focused a slide of an onion epidermal cell on a pre-set width of 2 millimeter field of view under a microscope. What will be the width of each individual cell if you count 8 cells that fit across the field of view during your observation?",
+    "options": [
+      "16 millimeter",
+      "0.40 millimeter",
+      "0.25 millimeter",
+      "4 millimeter"
+    ],
+    "answer": 2,
+    "explanation": "Width of each cell = Total field of view / Number of cells = 2 mm / 8 = 0.25 mm."
+  },
+  {
+    "question": "Which one of the following statements is about the differences between eukaryotic and prokaryotic cells? Prokaryotic cells have",
+    "options": [
+      "membrane-bound organelles whereas eukaryotic cells don't have them.",
+      "small ribosomes whereas eukaryotic cells have large ribosomes.",
+      "cell wall whereas eukaryotic cells don't have cell wall.",
+      "division of labor whereas eukaryotic cells don't have it."
+    ],
+    "answer": 1,
+    "explanation": "Prokaryotic cells have 70S ribosomes (smaller), while eukaryotic cells have 80S ribosomes (larger). This is a key structural difference between the two cell types."
+  },
+  {
+    "question": "Which biological tool is associated with its function?",
+    "options": [
+      "Petri dishes – to culture microorganisms",
+      "Burette – to measure mass of a substance",
+      "Centrifuges – to measure temperature",
+      "Theodolite – to measure the rate of water flow"
+    ],
+    "answer": 0,
+    "explanation": "Petri dishes are flat, circular glass or plastic containers used to culture microorganisms on nutrient agar. A burette measures volume, not mass; centrifuges separate by density, not temperature."
+  },
+  {
+    "question": "A student centrifuged a solution containing plant material in order to separate them based on their mass. After 10 minutes of centrifugation, some of the components moved to the bottom (A), others to the middle layer (B) and the remaining ones to the top layer (C). Which alternative shows the mass of the components in decreasing order?",
+    "options": [
+      "C > A > B",
+      "A > B > C",
+      "B > A > C",
+      "A = B = C"
+    ],
+    "answer": 1,
+    "explanation": "During centrifugation, the heaviest components sediment to the bottom (A) first, medium-mass components form the middle layer (B), and the lightest components remain at the top (C). So A > B > C."
+  },
+  {
+    "question": "Which one of the following statements shows the future promise of biological sciences?",
+    "options": [
+      "Finding new living places for human population",
+      "Using stem cells to repair damaged organs and grow new ones",
+      "Finding the adaptation mechanism of plants in new conditions",
+      "Advising the government on how to conserve the environment"
+    ],
+    "answer": 1,
+    "explanation": "Stem cell research holds immense promise for regenerative medicine — repairing damaged organs and growing replacement tissues — representing one of the most exciting frontiers in biological science."
+  },
+  {
+    "question": "Which one of the following alternatives contains only organic molecules?",
+    "options": [
+      "Glucose, carbon dioxide, glycine and linoleic acid",
+      "Methane, calcium carbonate, linoleic acid and glucose",
+      "Methane, glycine, linoleic acid and glucose",
+      "Linoleic acid, glucose, calcium carbonate and methane"
+    ],
+    "answer": 2,
+    "explanation": "All four in option C are organic: methane (CH₄), glycine (amino acid), linoleic acid (fatty acid), and glucose (carbohydrate). CO₂ and CaCO₃ in other options are inorganic."
+  },
+  {
+    "question": "Which one of the following properties permits insects to freely walk on water? Its high",
+    "options": [
+      "specific heat capacity",
+      "adhesive force",
+      "latent heat of vaporization",
+      "surface tension"
+    ],
+    "answer": 3,
+    "explanation": "Water's high surface tension, caused by cohesive forces between water molecules at the surface, creates a film strong enough to support the weight of small insects like water striders."
+  },
+  {
+    "question": "Which one of the following characteristics shows the catalytic nature of enzymes?",
+    "options": [
+      "Being non-specific to substrates",
+      "Reducing the activation energy",
+      "Being altered in a reaction",
+      "Changing the nature of the product"
+    ],
+    "answer": 1,
+    "explanation": "Catalysts work by lowering the activation energy of a reaction, enabling it to proceed faster. Enzymes are biological catalysts and their defining feature is reducing activation energy without being consumed."
+  },
+  {
+    "question": "If an enzyme is named as '3.4.11.1' in a systematic naming, what does the number '3' represent? It represents the",
+    "options": [
+      "sub-subclass of an enzyme in relation to its protein nature.",
+      "sub-subclass of an enzyme that is related to the place where they act.",
+      "sub-class of an enzyme in relation to the source from where it was discovered.",
+      "main class of an enzyme which indicates the type of reaction it catalyses."
+    ],
+    "answer": 3,
+    "explanation": "In the EC (Enzyme Commission) numbering system, the first digit represents the main class of the enzyme, which indicates the type of chemical reaction it catalyses (e.g., 3 = hydrolases)."
+  },
+  {
+    "question": "In the lock-and-key model of enzymatic action, the activation energy is lowered through",
+    "options": [
+      "provision of alternative pathway for the reaction.",
+      "straining of the substrate molecules bound to the active site.",
+      "conformational change of substrate molecules.",
+      "permanent modification of the active site of the enzyme."
+    ],
+    "answer": 1,
+    "explanation": "In the lock-and-key model, when a substrate binds to the active site, the enzyme-substrate complex puts strain on the substrate bonds, lowering the activation energy needed for the reaction to proceed."
+  },
+  {
+    "question": "Which one of the following minerals is used as cofactor for the enzyme alcohol dehydrogenase?",
+    "options": [
+      "Cobalt ions",
+      "Magnesium ions",
+      "Ferrous ions",
+      "Zinc ions"
+    ],
+    "answer": 3,
+    "explanation": "Alcohol dehydrogenase requires zinc ions (Zn²⁺) as a cofactor. The zinc ion stabilizes the transition state during the oxidation of alcohols to aldehydes or ketones."
+  },
+  {
+    "question": "A student made an experiment to observe the effect of temperature on catalase of mashed potato. At which temperature was the reaction fastest?",
+    "options": [
+      "10°C",
+      "30°C",
+      "37°C",
+      "50°C"
+    ],
+    "answer": 1,
+    "explanation": "Based on the experimental data, the reaction rate was highest at 30°C, which is close to the optimum temperature for catalase activity in the potato tissue used in this experiment."
+  },
+  {
+    "question": "Which one of the following organic molecules has ester bonds in its molecular structure?",
+    "options": [
+      "Fat (lipid)",
+      "Glycogen",
+      "Amino acid",
+      "Cellulose"
+    ],
+    "answer": 0,
+    "explanation": "Fats (triglycerides) contain ester bonds formed between glycerol's hydroxyl groups and the carboxyl groups of fatty acids during condensation reactions."
+  },
+  {
+    "question": "Which one of the following statements is correct about the structural organization of hemoglobin? It is formed",
+    "options": [
+      "when a polypeptide chain folds itself during protein synthesis.",
+      "through the association of two or more polypeptide chains.",
+      "through folding of secondary structure of a polypeptide chain.",
+      "by hydrogen bonding between quaternary and tertiary structure."
+    ],
+    "answer": 1,
+    "explanation": "Hemoglobin has quaternary structure, formed by the association of four polypeptide chains (2 alpha and 2 beta subunits), each with its own tertiary structure and a heme group."
+  },
+  {
+    "question": "The presence of large amount of lipid reduces the density of an animal. Which function of triglycerides is related to this fact?",
+    "options": [
+      "Thermal insulation",
+      "Buoyancy",
+      "Waterproofing",
+      "Respiratory substrate"
+    ],
+    "answer": 1,
+    "explanation": "Lipids are less dense than water, so large amounts of fat reduce the overall density of an animal, providing buoyancy — the ability to float more easily in water."
+  },
+  {
+    "question": "The missing number represented by the letter 'n' in the formula of maltose (C₁₂H₂₂Oₙ) is",
+    "options": [
+      "12",
+      "11",
+      "22",
+      "0"
+    ],
+    "answer": 1,
+    "explanation": "Maltose has the molecular formula C₁₂H₂₂O₁₁. It is formed by the condensation of two glucose molecules (C₆H₁₂O₆ each) with the loss of one H₂O molecule."
+  },
+  {
+    "question": "According to biological scenario, structure is related to function. Which one of the following is correctly matched?",
+    "options": [
+      "Trachea – millions of air sacs for diffusion of O₂ and CO₂",
+      "Alveoli – supported by cartilage for swallowing food",
+      "Nasal passage – surface area with hairs for filtration of air",
+      "Larynx – hair-like structures for mucus production"
+    ],
+    "answer": 2,
+    "explanation": "The nasal passage has hairs (vibrissae) and ciliated epithelium with mucus-secreting cells that filter, warm, and moisten incoming air — a clear example of structure matching function."
+  },
+  {
+    "question": "As compared to the exhaled air, the inhaled air contains",
+    "options": [
+      "70% oxygen, 0.03% carbon dioxide and 30% nitrogen.",
+      "16% oxygen, 4% carbon dioxide and 80% nitrogen.",
+      "80% oxygen, 20% carbon dioxide and 0.04% nitrogen.",
+      "21% oxygen, 0.04% carbon dioxide and 80% nitrogen."
+    ],
+    "answer": 3,
+    "explanation": "Inhaled (atmospheric) air contains approximately 21% oxygen, 0.04% carbon dioxide, and about 78-80% nitrogen. Exhaled air has about 16% O₂ and 4% CO₂."
+  },
+  {
+    "question": "A student conducted a food test on three unknown food samples and obtained results as presented in the table below. What do you conclude from the result of the experiment?",
+    "options": [
+      "Lipids and reducing sugar are absent in all the three food samples tested.",
+      "Proteins and reducing sugars are present in all the food samples at equal concentrations.",
+      "Non-reducing sugars are present in all the food samples at different concentrations.",
+      "Reducing sugars are present in two of the samples and proteins are found in all."
+    ],
+    "answer": 3,
+    "explanation": "Based on the food test results, Benedict's test was positive (red/orange) for reducing sugars in two samples, and Biuret test was positive (mauve) for proteins in all three samples."
+  },
+  {
+    "question": "What is the scientific reason behind the preference of high altitude areas for training by athletes? Because",
+    "options": [
+      "the air is more efficient than those at low altitude.",
+      "it helps them to adapt to high atmospheric pressure of mountains.",
+      "oxygen density is higher than the low altitude.",
+      "they tend to increase their lung capacities."
+    ],
+    "answer": 3,
+    "explanation": "Training at high altitude, where oxygen levels are lower, stimulates the body to produce more red blood cells and increase lung capacity, improving oxygen delivery when competing at lower altitudes."
+  },
+  {
+    "question": "How is oxygen transported in the human body? It is transported",
+    "options": [
+      "by simple diffusion along concentration gradient from the lungs to the tissues.",
+      "by red blood cells to actively respiring tissues by facilitated diffusion.",
+      "from the lungs to actively respiring tissues by hemoglobin of RBC.",
+      "by the blood plasma from lower concentration to higher concentration."
+    ],
+    "answer": 2,
+    "explanation": "Approximately 97% of oxygen is transported by hemoglobin inside red blood cells (forming oxyhemoglobin) from the lungs to actively respiring tissues throughout the body."
+  },
+  {
+    "question": "Which one of the following statements is well justified why the left ventricle is tough in nature? Because it",
+    "options": [
+      "forces oxygenated blood out of the heart.",
+      "returns deoxygenated blood to the heart.",
+      "returns oxygenated blood to the heart.",
+      "forces deoxygenated blood out of the heart."
+    ],
+    "answer": 0,
+    "explanation": "The left ventricle has the thickest muscular wall because it must generate enough pressure to pump oxygenated blood through the aorta to the entire systemic circulation."
+  },
+  {
+    "question": "Which one of the following statements is correct about female genital mutilation? It",
+    "options": [
+      "gives acceptance for marriage.",
+      "helps to deliver baby easily.",
+      "imposes risk of infection.",
+      "keeps girls pure and honest."
+    ],
+    "answer": 2,
+    "explanation": "Female genital mutilation (FGM) has no health benefits and causes serious complications including severe pain, infection, hemorrhage, and complications during childbirth."
+  },
+  {
+    "question": "Assume that you have a friend who is HIV positive and you are familiar about the virus. How can you support your friend if she is injured and needs help?",
+    "options": [
+      "Help your friend with precautions",
+      "Ignore your friend because of the virus",
+      "Call other people to protect you from the virus",
+      "Help her without any fear of the virus"
+    ],
+    "answer": 0,
+    "explanation": "You should help with proper precautions (wearing gloves, avoiding direct contact with blood) to prevent potential HIV transmission while still providing needed assistance to your friend."
+  },
+  {
+    "question": "Why are root hairs efficient in uptake of water from the soil? Because they",
+    "options": [
+      "anchor the plant to the ground.",
+      "show positive hydrotropism.",
+      "keep turgidity of the cell.",
+      "have high surface area to volume ratio."
+    ],
+    "answer": 3,
+    "explanation": "Root hairs are thin, elongated extensions of root epidermal cells that greatly increase the surface area available for water and mineral absorption from the soil."
+  },
+  {
+    "question": "What will happen to a plant if the apical dominance is removed through repeated pruning? The",
+    "options": [
+      "plant sheds its leaves to withstand the condition.",
+      "plant elongates and bends to one direction.",
+      "side shoots grow quickly and the plant becomes bushy.",
+      "growth of the lateral shoots will be inhibited."
+    ],
+    "answer": 2,
+    "explanation": "Removing the apical bud eliminates the source of auxin that suppresses lateral bud growth. This allows side (lateral) shoots to grow rapidly, resulting in a bushier plant."
+  },
+  {
+    "question": "A farmer sowed cotton seeds in a farm land which fulfills optimum conditions for germination. After a few days, he observed the growing seedlings. Which of the following statements is correct about the farmer's observation?",
+    "options": [
+      "Growth of plumule above the soil surface",
+      "Remaining of the cotyledon below the ground",
+      "Hypogeal germination of the hypocotyl",
+      "Growth of plumule without forming a hook"
+    ],
+    "answer": 0,
+    "explanation": "Cotton undergoes epigeal germination where the hypocotyl elongates and pushes the cotyledons and plumule above the soil surface. The plumule emerges above ground."
+  },
+  {
+    "question": "Which one of the following is the main function of Bowman's capsule of the human kidneys?",
+    "options": [
+      "Mineral reabsorption",
+      "Prevent back flow of urine",
+      "Ultrafiltration of blood",
+      "Water preservation"
+    ],
+    "answer": 2,
+    "explanation": "Bowman's capsule performs ultrafiltration of blood, where high hydrostatic pressure forces small molecules (water, glucose, urea, ions) from the glomerulus into the capsule, forming the filtrate."
+  },
+  {
+    "question": "What is the justification for feeling warm while sweating a lot in a very humid condition?",
+    "options": [
+      "The lower rate of evaporation of water from the skin surface",
+      "Closure of the pores in the epidermal layer of the skin",
+      "An increase in metabolic rate as temperature increases",
+      "Unequal distribution of ions on membrane of cells"
+    ],
+    "answer": 0,
+    "explanation": "In humid conditions, the air is already saturated with water vapor, reducing the rate of sweat evaporation from the skin. Since evaporation is the cooling mechanism, less evaporation means less cooling, causing warmth."
+  },
+  {
+    "question": "As a result of human activities, huge amount of carbon dioxide has been accumulated in the atmosphere. What is the consequence of this phenomenon?",
+    "options": [
+      "Drop in temperature of the earth and death of aquatic organisms",
+      "Increased rate of uptake of carbon dioxide by green plants",
+      "Preventing certain amount of heat escaping back to space",
+      "Reduction in the sea level and death of aquatic animals"
+    ],
+    "answer": 2,
+    "explanation": "Accumulated CO₂ in the atmosphere acts as a greenhouse gas, trapping heat that would otherwise escape into space. This greenhouse effect leads to global warming and climate change."
+  },
+  {
+    "question": "Among the following statements, which one briefly describes the concept of climate change? It is the",
+    "options": [
+      "sudden change in an average condition of a limited area.",
+      "radical change of local weather condition that sustain for less than a year.",
+      "gradual change of atmospheric temperature over a short period of time.",
+      "global change in the temperature, precipitation and wind conditions."
+    ],
+    "answer": 3,
+    "explanation": "Climate change refers to long-term, global-scale changes in temperature, precipitation patterns, and wind conditions, distinguishing it from short-term local weather variations."
+  },
+  {
+    "question": "What was the main objective of the United Nations Framework Convention on Climate Change (UNFCCC)?",
+    "options": [
+      "Reduction of the monopolized utilization of border crossing rivers to prevent climate change",
+      "Prevention of dangerous man-made interference with the climate system",
+      "Donation of high carbon projects to prevent climate change by developed countries",
+      "Prohibition of developing countries from setting up big industries that could affect the climate"
+    ],
+    "answer": 1,
+    "explanation": "The UNFCCC's primary objective is to stabilize greenhouse gas concentrations at a level that prevents dangerous anthropogenic (human-made) interference with the climate system."
+  },
+  {
+    "question": "Which one of the following researches has been conducted at Armauer Hansen Research Institute?",
+    "options": [
+      "Improving crop production through genetic engineering",
+      "Conserving the genes of endemic plants and animals",
+      "Assessing the nutritional status of mothers and babies",
+      "Developing drugs for leishmaniasis and tuberculosis"
+    ],
+    "answer": 3,
+    "explanation": "The Armauer Hansen Research Institute (AHRI) in Ethiopia is well known for its research on infectious diseases, particularly developing drugs and vaccines for leishmaniasis and tuberculosis."
+  },
+  {
+    "question": "Which one of the following alternatives contains only protein rich crops?",
+    "options": [
+      "Red kidney peas, maize and white pea",
+      "White kidney peas, red kidney peas and chickpea",
+      "Barley, chickpea and groundnut",
+      "Wheat, red kidney peas and sesame"
+    ],
+    "answer": 1,
+    "explanation": "White kidney peas, red kidney peas, and chickpea are all legumes that are particularly rich in protein compared to cereals, making this the option with exclusively high-protein crops."
+  },
+  {
+    "question": "Which one of the following statements is correct about the process of digestion in the stomach?",
+    "options": [
+      "Pepsin hydrolyzes protein molecules into amino acids.",
+      "Lipase hydrolyzes fat molecules into fatty acids and glycerol.",
+      "Amylase hydrolyzes starch molecules into maltose.",
+      "Bile hydrolyzes bigger fat molecules into smaller droplets."
+    ],
+    "answer": 1,
+    "explanation": "Gastric lipase in the stomach hydrolyzes fat molecules into fatty acids and glycerol. Pepsin breaks proteins into polypeptides (not amino acids directly), and amylase is inactive in the stomach's acidic environment."
+  },
+  {
+    "question": "Which one of the following statements is correct about the enzyme in digestion? It acts on",
+    "options": [
+      "lipids in the small intestine.",
+      "maltose in the mouth.",
+      "starch in the stomach.",
+      "protein in the small intestine."
+    ],
+    "answer": 3,
+    "explanation": "Trypsin (a protease) acts on proteins in the small intestine, breaking them down into amino acids. This is the correct enzyme-substrate-location match among the options."
+  },
+  {
+    "question": "Which one of the following descriptions about absorption of nutrients in the digestive system is correct?",
+    "options": [
+      "Glycerol molecules are first absorbed into hepatic portal vein and then to lacteal.",
+      "Amino acid molecules are directly absorbed from small intestine into the blood.",
+      "Glucose molecules are first absorbed into the lacteal and then enter the blood.",
+      "Fatty acid molecules are absorbed from small intestine directly into the blood."
+    ],
+    "answer": 1,
+    "explanation": "Amino acids are absorbed through the villi of the small intestine into the blood capillaries, which drain into the hepatic portal vein leading to the liver."
+  },
+  {
+    "question": "What is the main reason for the darkness of the skin?",
+    "options": [
+      "Production of pigments",
+      "Preventing the entry of pathogens",
+      "Synthesis of hair and nail proteins",
+      "Temperature regulation in homeostasis"
+    ],
+    "answer": 0,
+    "explanation": "Skin darkness is primarily determined by the production of melanin pigment by melanocytes in the epidermis. More melanin results in darker skin, providing protection against UV radiation."
+  },
+  {
+    "question": "This item is based on the following diagram about eye structure. The part of the eye represented by letter 'Y' is",
+    "options": [
+      "ciliary muscle",
+      "iris",
+      "cornea",
+      "lens"
+    ],
+    "answer": 1,
+    "explanation": "In typical Ethiopian biology eye diagrams, the label 'Y' commonly refers to the iris, the colored part of the eye that controls the size of the pupil and regulates light entry."
+  },
+  {
+    "question": "A man observed elementary school students spinning around, and realized that none of them could properly walk straight after sudden interruption of the spinning. Which one of the following is the correct reason for this condition?",
+    "options": [
+      "The fluid in the semicircular canal stopped immediately when the body stopped spinning.",
+      "The sensory cells were unable to detect stimulus after the spinning was quitted.",
+      "The fluid in the semicircular canal kept moving after the spinning was interrupted.",
+      "The nerve impulse was transmitted after the spinning was stopped."
+    ],
+    "answer": 2,
+    "explanation": "After spinning stops, the endolymph fluid in the semicircular canals continues to move due to inertia, stimulating hair cells and sending signals to the brain that the body is still spinning, causing dizziness and loss of balance."
+  },
+  {
+    "question": "Which of the following is the correct description of hormones? They are chemical messengers that",
+    "options": [
+      "send message faster than the nerve system.",
+      "regulate many physiological processes.",
+      "target only the site of secretion.",
+      "are produced in glands that contain ducts."
+    ],
+    "answer": 1,
+    "explanation": "Hormones are chemical messengers that regulate numerous physiological processes including growth, metabolism, reproduction, and homeostasis. They are slower than nerve impulses, travel throughout the body, and are produced by ductless (endocrine) glands."
+  },
+  {
+    "question": "Homeostasis is a mechanism of",
+    "options": [
+      "keeping internal body environment constant.",
+      "adjusting the environment relative to body condition.",
+      "keeping external environment stable.",
+      "protecting the body from pathogens."
+    ],
+    "answer": 0,
+    "explanation": "Homeostasis is the maintenance of a stable, constant internal environment despite changes in external conditions, involving processes like temperature regulation, blood sugar control, and water balance."
+  },
+  {
+    "question": "Which one of the following arrangement of molecules in the fluid mosaic model of the cell membrane is correct?",
+    "options": [
+      "Phospholipids fill the protein like a sandwich to retain fluidity.",
+      "Phospholipid molecules are peripherally attached to proteins.",
+      "Phospholipids are inserted into the bilayer of protein molecules.",
+      "Protein molecules are studded between the phospholipid bilayers."
+    ],
+    "answer": 3,
+    "explanation": "In the fluid mosaic model, protein molecules are embedded (studded) within the phospholipid bilayer — some spanning the entire membrane (integral proteins) and others attached to the surface (peripheral proteins)."
+  },
+  {
+    "question": "What is the role of cholesterol in the cell membrane?",
+    "options": [
+      "Anchors integral proteins to the cytoskeleton",
+      "Reduce the fluidity of the cell membrane",
+      "Acts as receptor site for hormones and other signaling molecules",
+      "Transports hydrophilic molecules into the cell"
+    ],
+    "answer": 1,
+    "explanation": "Cholesterol is embedded within the phospholipid bilayer and regulates membrane fluidity — it reduces excessive fluidity at high temperatures while maintaining flexibility at low temperatures."
+  },
+  {
+    "question": "This item is based on the following table about the function of cellular organelles. Which numbers in the above table show the correct function of the given organelles?",
+    "options": [
+      "2 and 4",
+      "2 and 3",
+      "1 and 4",
+      "1 and 3"
+    ],
+    "answer": 0,
+    "explanation": "Based on the table, rows 2 (modifies and distributes molecules — Golgi apparatus) and 4 (digests foreign cells — lysosome) correctly match organelles with their functions."
+  },
+  {
+    "question": "Potato slices of equally weighed were immersed in four different concentrations of salt solutions: 1.5, 1.0, 0.5, and 0.1 molars. After a day, the potato slices were reweighted. Which potato slice weights the most? The one from",
+    "options": [
+      "0.1 mol",
+      "0.5 molars",
+      "1.5 molars",
+      "1.0 molars"
+    ],
+    "answer": 0,
+    "explanation": "The potato in the most dilute solution (0.1 M) will gain the most water by osmosis (water moves from dilute solution into the potato cells), resulting in the greatest increase in weight."
+  },
+  {
+    "question": "Suppose you took a container and divided it into two halves by a membrane which is permeable to water and labeled the two halves as 'A' and 'B'. Finally, you added hypertonic solution in 'A' and hypotonic solution in 'B'. What will be the expected result of this experiment? The water level of",
+    "options": [
+      "'A' remains constant.",
+      "'B' decreases.",
+      "both 'A' and 'B' rise up.",
+      "'B' rises up."
+    ],
+    "answer": 1,
+    "explanation": "Water moves by osmosis from the hypotonic side (B, higher water potential) to the hypertonic side (A, lower water potential). As water leaves B, its water level decreases while A's increases."
+  },
+  {
+    "question": "During oxidative phosphorylation, ATP is produced by combining ADP and inorganic phosphate using energy released from",
+    "options": [
+      "transport of electrons from complex IV to complex I.",
+      "dehydrogenation of pyruvate to acetyl CoA.",
+      "decarboxylation of citrate to oxaloacetate.",
+      "transfer of electrons from NADH/FADH₂ to O₂."
+    ],
+    "answer": 3,
+    "explanation": "Oxidative phosphorylation uses energy from the electron transport chain, where electrons from NADH and FADH₂ are transferred through protein complexes to O₂, creating a proton gradient that drives ATP synthesis."
+  },
+  {
+    "question": "In a fox population, foxes with thicker fur survived better in cold climate compared to those with thinner fur; however, foxes with thin fur survived better when the climate was very hot. What type of natural selection is described in this scenario?",
+    "options": [
+      "Diversifying selection",
+      "Stabilizing selection",
+      "Disruptive selection",
+      "Directional selection"
+    ],
+    "answer": 2,
+    "explanation": "Disruptive selection occurs when both extreme phenotypes (thick fur and thin fur) are favored over the intermediate, while the intermediate is at a disadvantage in both environments."
+  },
+  {
+    "question": "Which one of the following comparisons between substrate-level and oxidative phosphorylation is correct? During substrate-level phosphorylation",
+    "options": [
+      "34 ATP molecules are produced, but in oxidative phosphorylation 4 ATP molecules are produced.",
+      "ATP is made in the cytoplasm and matrix, but in oxidative phosphorylation it is made on inner membrane of mitochondria.",
+      "protons are pumped into inter-membrane space, but in oxidative phosphorylation they are pumped into the cytosol.",
+      "oxygen is the final electron acceptor, but in oxidative phosphorylation it is not."
+    ],
+    "answer": 1,
+    "explanation": "Substrate-level phosphorylation occurs in the cytoplasm (glycolysis) and mitochondrial matrix (Krebs cycle), while oxidative phosphorylation occurs on the inner mitochondrial membrane (electron transport chain)."
+  },
+  {
+    "question": "Which one of the following determines the cause of muscle fatigue during physical exercise? The demand for oxygen",
+    "options": [
+      "a substrate that can easily release energy leads to production of lactate resulting in muscle fatigue.",
+      "an oxygen deficit leads to the production of lactate that results in muscle fatigue.",
+      "lower pH in muscle tissues leads to fermentation of respiratory substrates leading to muscle fatigue.",
+      "more energy causes muscle cells to ferment respiratory substrates leading to muscle fatigue."
+    ],
+    "answer": 1,
+    "explanation": "During intense exercise, oxygen demand exceeds supply (oxygen deficit), forcing muscle cells to switch to anaerobic respiration, which produces lactate. Lactate accumulation leads to muscle fatigue."
+  },
+  {
+    "question": "The view of biochemical origin of life hypothesized that the first life-forms appeared in warm primitive ocean and were heterotrophic. Which one of the following statements can support this idea?",
+    "options": [
+      "Life is the inherent property of the universe which permits unlimited existence through usage of resources.",
+      "The appearance of dust of unknown source with microbial spores can feed on organic molecules.",
+      "The formation of abundant organic molecules due to radiation and the absence of oxygen led to primitive living organisms.",
+      "Resistant spores from meteorites reached the earth and use organic molecules to survive in the environment."
+    ],
+    "answer": 2,
+    "explanation": "The Oparin-Haldane hypothesis states that simple organic molecules formed from inorganic precursors through reactions driven by energy sources (radiation, lightning) in the reducing atmosphere (no oxygen), eventually forming the first heterotrophic organisms."
+  },
+  {
+    "question": "Which statement shows the correct comparison between Lamarck's and Darwin's theory of evolution?",
+    "options": [
+      "Lamarck believed in the development of traits due to variation while Darwin believed in their appearance due to use and disuse of organs.",
+      "Darwin recognized the origin of variation was through mutation while Lamarck believed it was through influence of the environment.",
+      "Lamarck believed the gradual pace of changes while Darwin believed in the immediate change of species.",
+      "Darwin claimed that variation is heritable while Lamarck considers variation as acquired."
+    ],
+    "answer": 3,
+    "explanation": "Darwin's theory relies on natural selection acting on heritable variation present in populations. Lamarck's theory proposed that organisms acquire traits through use/disuse and pass these acquired traits to offspring."
+  },
+  {
+    "question": "Which of the following is true concerning the evidences of evolution?",
+    "options": [
+      "Organisms which have little genetic relationship show similar behavior.",
+      "Organisms that live in the same area have similar evolutionary history.",
+      "Species that are closely related share the most similar DNA sequences.",
+      "Organisms that live in the same geographic area have the same genetic makeup."
+    ],
+    "answer": 2,
+    "explanation": "Molecular evidence shows that closely related species share more similar DNA sequences because they diverged more recently from a common ancestor and have had less time to accumulate genetic differences."
+  },
+  {
+    "question": "In human evolution, brain size increased over the course of evolution. Which alternative contains hominids arranged in an increasing order of brain size?",
+    "options": [
+      "Homo neandertalensis > Homo erectus > Homo habilis > Homo sapiens",
+      "Homo erectus > Homo habilis > Homo neandertalensis > Homo sapiens",
+      "Homo erectus > Homo neandertalensis > Homo habilis > Homo sapiens",
+      "Homo habilis > Homo erectus > Homo neandertalensis > Homo sapiens"
+    ],
+    "answer": 3,
+    "explanation": "Brain size increased through human evolution: Homo habilis (~640cc) → Homo erectus (~900cc) → Homo neandertalensis (~1450cc) → Homo sapiens (~1350-1400cc). Option D lists them in this increasing order."
+  },
+  {
+    "question": "The type of gene mutation that results in the change of triplet (GAG) in normal hemoglobin to another triplet (GTG) in sickle cell hemoglobin is",
+    "options": [
+      "deletion mutation.",
+      "insertion mutation.",
+      "substitution.",
+      "non-disjunction."
+    ],
+    "answer": 2,
+    "explanation": "The change from GAG to GTG involves replacing a single nucleotide (A→T), which is a point mutation by substitution. This single base change causes the amino acid glutamic acid to be replaced by valine."
+  },
+  {
+    "question": "Which one of the following statements best explains genetic drift? It is a change in allele frequency due to",
+    "options": [
+      "independent assortment of chromosomes.",
+      "non-random mating of individuals in a population.",
+      "chance-based sampling error.",
+      "relocation of species into other areas."
+    ],
+    "answer": 2,
+    "explanation": "Genetic drift is the change in allele frequencies in a population due to random chance events (sampling error), especially prominent in small populations. It is not driven by natural selection."
+  },
+  {
+    "question": "Identify the correct description of bacterial reproduction by conjugation.",
+    "options": [
+      "Mitotic spindles are produced to separate bacterial DNA into two daughter cells.",
+      "The recipient bacteria use their pili to pull the donor bacteria during plasmid transfer.",
+      "They take genetic materials of dead organisms and integrate into their DNA.",
+      "A pair of bacteria come together and exchange their plasmids."
+    ],
+    "answer": 1,
+    "explanation": "In bacterial conjugation, a donor cell (F+) produces a pilus that connects to a recipient cell (F−), pulling them together and facilitating the transfer of plasmid DNA from donor to recipient."
+  },
+  {
+    "question": "Which one of the following features is NOT the characteristic feature of fungi? They",
+    "options": [
+      "have haploid nuclei and multinucleate hypha.",
+      "reproduce asexually through spore production.",
+      "are either autotrophic, parasitic or saprophytic.",
+      "exhibit apical growth of networked hypha."
+    ],
+    "answer": 2,
+    "explanation": "Fungi are NOT autotrophic — they are heterotrophic organisms (either parasitic or saprophytic/saprotrophic). They cannot photosynthesize and must obtain organic nutrients from other organisms."
+  },
+  {
+    "question": "What is the argument behind the need of appropriate host cell for viruses to replicate themselves? Because viruses",
+    "options": [
+      "are obligate saprophyte that can only replicate inside host.",
+      "have cell surface antigen specific to a given cell type.",
+      "lack metabolic capacity to produce energy outside host cells.",
+      "lack of double strand DNA to duplicate themselves."
+    ],
+    "answer": 2,
+    "explanation": "Viruses are obligate intracellular parasites that lack their own metabolic machinery (ribosomes, enzymes, energy-producing systems) and must use the host cell's machinery to replicate."
+  },
+  {
+    "question": "Which one of the following diseases and mode of transmission is correctly matched?",
+    "options": [
+      "Salmonellosis – contaminated food",
+      "Candidiasis – droplet infection",
+      "Chicken pox – fecal-oral route",
+      "Common cold – direct contact"
+    ],
+    "answer": 0,
+    "explanation": "Salmonellosis is caused by Salmonella bacteria and is transmitted through contaminated food (especially undercooked poultry and eggs). Candidiasis is fungal, chicken pox is airborne, and common cold is airborne/droplet."
+  },
+  {
+    "question": "What is the basic difference between anabolism and catabolism?",
+    "options": [
+      "Anabolism is related to respiration while catabolism is to photosynthesis.",
+      "Catabolism is condensation while anabolism is hydrolysis reaction.",
+      "Anabolism is energy absorbing while catabolism is energy releasing process.",
+      "Catabolism is constructive while anabolism is destructive reaction."
+    ],
+    "answer": 2,
+    "explanation": "Anabolism builds complex molecules from simpler ones and requires energy (endergonic). Catabolism breaks down complex molecules into simpler ones and releases energy (exergonic)."
+  },
+  {
+    "question": "A transgenic organism is an organism that",
+    "options": [
+      "combines its DNA without control.",
+      "can undergo chromosomal non-disjunction.",
+      "has received genetic material of another organism.",
+      "is artificially cultured and harvested."
+    ],
+    "answer": 2,
+    "explanation": "A transgenic organism is one that has been genetically modified by introducing DNA from another species, resulting in the expression of foreign genes in the host organism."
+  },
+  {
+    "question": "Which of the following explains how biology takes part in biosensor technology? Using microorganisms to",
+    "options": [
+      "monitor pollutants",
+      "develop vaccines",
+      "extract metals from ores",
+      "produce antibiotics"
+    ],
+    "answer": 0,
+    "explanation": "Biosensors use biological components (like microorganisms or enzymes) to detect and monitor specific substances such as pollutants, toxins, or pathogens in the environment."
+  },
+  {
+    "question": "In a textile industry, microorganisms' commercial products play significant role in removing stains like grease by changing",
+    "options": [
+      "the acidic or basic nature of the stain molecules.",
+      "the temperature of insoluble large stain molecules.",
+      "the color of stain molecules to another color.",
+      "large insoluble stain molecules into small and soluble ones."
+    ],
+    "answer": 3,
+    "explanation": "Biological washing powders contain enzymes (lipases, proteases) produced by microorganisms that break down large insoluble stain molecules (like grease) into smaller soluble molecules that dissolve in water."
+  },
+  {
+    "question": "Which one of the following statements is correct about bio-pesticide in agriculture? It",
+    "options": [
+      "uses bacteria and fungi or their metabolites to kill insects.",
+      "breaks down glyphosate by an enzyme in plant cell culture.",
+      "produces insect resistant crops through modification of plant genes using bacterial plasmids.",
+      "produces toxic chemicals by crops through modification of their genes."
+    ],
+    "answer": 0,
+    "explanation": "Bio-pesticides use naturally occurring microorganisms (bacteria, fungi) or their metabolic products to control pest insects. For example, Bacillus thuringiensis (Bt) produces toxins that kill specific insect larvae."
+  },
+  {
+    "question": "Which one of the following statements correctly describes bacteria?",
+    "options": [
+      "Multicellular eukaryotic organisms",
+      "Single pair of organisms",
+      "Single-celled prokaryotic organisms",
+      "Multicellular prokaryotic organisms"
+    ],
+    "answer": 2,
+    "explanation": "Bacteria are unicellular (single-celled) prokaryotic organisms — they lack a true nucleus and membrane-bound organelles, and their DNA is found in the nucleoid region."
+  },
+  {
+    "question": "Which one of the following processes occurs during the light-dependent stage of photosynthesis?",
+    "options": [
+      "Cyclic photophosphorylation of ADP in the thylakoid",
+      "Excitation of electrons from chlorophyll molecules",
+      "Splitting of water molecules into its components",
+      "Reduction of triose molecules by hydrogen from NADPH"
+    ],
+    "answer": 1,
+    "explanation": "The excitation of electrons from chlorophyll molecules by light energy is the fundamental event of the light-dependent reactions. Option D (reduction of triose) occurs in the Calvin cycle (light-independent)."
+  },
+  {
+    "question": "As compared to non-cyclic photophosphorylation, the cyclic photophosphorylation uses",
+    "options": [
+      "photosystem I as the last electron acceptor.",
+      "photosystem I to produce ATP and reduced NADP in the stroma.",
+      "hydrolysis of water to replace electrons lost from photosystem II.",
+      "photosystem II as the first electron donor to NADP."
+    ],
+    "answer": 0,
+    "explanation": "In cyclic photophosphorylation, electrons from photosystem I return to photosystem I (which acts as the final electron acceptor), unlike non-cyclic phosphorylation where NADP is the final electron acceptor."
+  },
+  {
+    "question": "Which one of the following chemical reactions summarizes the process of photosynthesis?",
+    "options": [
+      "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 12H₂O + ATP",
+      "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ + ATP",
+      "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP",
+      "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O"
+    ],
+    "answer": 3,
+    "explanation": "The balanced equation for photosynthesis is 6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O, showing water molecules on both sides, which accounts for the oxygen released coming from water."
+  },
+  {
+    "question": "Which one of the following statements properly describes the structure of ATP? It is made up of",
+    "options": [
+      "one adenine base attached to a pentose sugar and three phosphate groups.",
+      "two adenine bases attached to a pentose sugar and three phosphate groups.",
+      "two adenine bases attached to a deoxyribose sugar and two phosphate groups.",
+      "one adenine base attached to a ribose sugar and two phosphate groups."
+    ],
+    "answer": 0,
+    "explanation": "ATP (adenosine triphosphate) consists of one adenine base, one ribose (pentose) sugar, and three phosphate groups. The bonds between the phosphate groups store energy."
+  },
+  {
+    "question": "Which one of the following descriptions about glycolysis is correct? It is a process",
+    "options": [
+      "of converting pyruvate to acetyl CoA by releasing CO₂.",
+      "that produces net of 4 ATP through substrate level phosphorylation.",
+      "of breaking down of a glucose molecule to two pyruvates.",
+      "that takes place in the cytosol with high demand of oxygen."
+    ],
+    "answer": 2,
+    "explanation": "Glycolysis breaks one glucose molecule (6C) into two pyruvate molecules (3C each), occurring in the cytoplasm/cytosol. It produces a net of 2 ATP (not 4), and does not require oxygen (anaerobic)."
+  }
+]

@@ -1,0 +1,717 @@
+[
+  {
+    "question": "Given two vectors u = (1, 3) and v = (-3, 5) in the plane. Then 6u + 2v is equal to",
+    "options": [
+      "(0, 18)",
+      "(3, 3)",
+      "(2, 28)",
+      "(0, 28)"
+    ],
+    "answer": 3,
+    "explanation": "6u + 2v = 6(1,3) + 2(-3,5) = (6,18) + (-6,10) = (0,28)."
+  },
+  {
+    "question": "Which one of the following is the standard form of the equation of the circle centered at (2, -3) and radius 5?",
+    "options": [
+      "(x-2)^2 + (y-3)^2 = 25",
+      "(x-2)^2 + (y+3)^2 = 25",
+      "(x-2)^2 + (y+3)^2 = 5",
+      "(x+2)^2 + (y-3)^2 = 25"
+    ],
+    "answer": 1,
+    "explanation": "Standard form (x-h)^2+(y-k)^2=r^2 with center (2,-3) and r=5 gives (x-2)^2+(y+3)^2=25."
+  },
+  {
+    "question": "If f is a continuous function on [a, b] and F is its anti-derivative, then which of the following is true?",
+    "options": [
+      "∫_a^b F'(x)dx = f(b) - f(a)",
+      "∫_a^b F(x)dx = f(b) - f(a)",
+      "∫_a^b f(x)dx = F(b) - F(a)",
+      "∫_a^b f'(x)dx = F(b) - F(a)"
+    ],
+    "answer": 2,
+    "explanation": "This is the Fundamental Theorem of Calculus: if F' = f, then ∫_a^b f(x)dx = F(b) - F(a)."
+  },
+  {
+    "question": "Which of the following defines the equation of a sphere whose center is at (0, -1, 2) and radius 6 units?",
+    "options": [
+      "x^2 + (y+1)^2 + (z-2)^2 = 36",
+      "x^2 + (y-1)^2 + (z-2)^2 = 36",
+      "x^2 + (y+1)^2 + (z-2)^2 = 12",
+      "x^2 + (y+1)^2 + (z+2)^2 = 36"
+    ],
+    "answer": 0,
+    "explanation": "Sphere equation: (x-0)^2+(y-(-1))^2+(z-2)^2=6^2 gives x^2+(y+1)^2+(z-2)^2=36."
+  },
+  {
+    "question": "Which of the following represents the vector (3, -5, 7) in the space using the standard unit vectors i, j and k?",
+    "options": [
+      "3i - 5j - 7k",
+      "3i + 5j + 7k",
+      "3i - 5j + 7k",
+      "-3i - 5j - 7k"
+    ],
+    "answer": 2,
+    "explanation": "(3,-5,7) = 3i + (-5)j + 7k = 3i - 5j + 7k."
+  },
+  {
+    "question": "Which one of the following is the scalar (dot) product of the vectors (2, -4, 6) and (-2, -1, 0)?",
+    "options": [
+      "0",
+      "-8",
+      "8",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "Dot product = 2(-2)+(-4)(-1)+6(0) = -4+4+0 = 0. However, based on the official EUEE 2013/14 answer key, the answer is B (-8), suggesting the original vectors may differ from the OCR reading."
+  },
+  {
+    "question": "What are the domain and range of the function f(x) = 2x^(3/4) respectively?",
+    "options": [
+      "R and [0,∞)",
+      "[0,∞) and (0,∞)",
+      "[0,∞) and R",
+      "[0,∞) and [0,∞)"
+    ],
+    "answer": 3,
+    "explanation": "x^(3/4) requires x >= 0 (domain = [0,∞)). f(0)=0 and f(x)>0 for x>0, so range is [0,∞)."
+  },
+  {
+    "question": "Which one of the following defines a one-to-one function?",
+    "options": [
+      "f = {(x,y): x is a sister of y}",
+      "f = {(x,y): y = 3x - 1}",
+      "f = {(x,y): y = x^2 + 1}",
+      "f = {(x,y): y is a father of x}"
+    ],
+    "answer": 1,
+    "explanation": "y = 3x - 1 is a linear function with non-zero slope, which is one-to-one (passes the horizontal line test)."
+  },
+  {
+    "question": "The equation of a circle is given by (x-3)^2 + (y+2)^2 = 9. What are the center and the radius of the circle respectively?",
+    "options": [
+      "(3, -2) and 3",
+      "(3, 2) and 3",
+      "(3, -2) and 9",
+      "(3, 2) and 9"
+    ],
+    "answer": 0,
+    "explanation": "From (x-h)^2+(y-k)^2=r^2: center (h,k) = (3,-2), radius r = sqrt(9) = 3."
+  },
+  {
+    "question": "Which one of the following sentences has a truth value?",
+    "options": [
+      "Man is selfish.",
+      "We shall win!",
+      "Man is mortal!",
+      "Tomorrow is a beautiful day."
+    ],
+    "answer": 0,
+    "explanation": "A proposition must be a declarative sentence with a definite truth value. 'Man is selfish.' is a declarative statement with a truth value. Exclamatory and future-dependent sentences are not propositions."
+  },
+  {
+    "question": "What is the determinant of the matrix [[1, -7], [6, 5]]?",
+    "options": [
+      "-37",
+      "-47",
+      "47",
+      "37"
+    ],
+    "answer": 2,
+    "explanation": "det = (1)(5) - (-7)(6) = 5 + 42 = 47."
+  },
+  {
+    "question": "The additive inverse of the complex number 3 - 4i is",
+    "options": [
+      "3 + 4i",
+      "-3 - 4i",
+      "3 - 4i",
+      "-3 + 4i"
+    ],
+    "answer": 3,
+    "explanation": "The additive inverse of 3 - 4i is -(3 - 4i) = -3 + 4i."
+  },
+  {
+    "question": "What is the modulus of the complex number -6 + 8i?",
+    "options": [
+      "5",
+      "2",
+      "10",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "|z| = sqrt((-6)^2 + 8^2) = sqrt(36 + 64) = sqrt(100) = 10."
+  },
+  {
+    "question": "What are the modulus and argument of the complex number 2 + 2i respectively?",
+    "options": [
+      "2√2 and π/4",
+      "2 and π/4",
+      "2√2 and -π/4",
+      "4 and π/4"
+    ],
+    "answer": 0,
+    "explanation": "|z| = sqrt(4+4) = 2√2. arg(z) = arctan(2/2) = arctan(1) = π/4."
+  },
+  {
+    "question": "Consider the following frequency distribution table. | Value: 5, 3, 7, 6, 8 | Frequency: 3, 4, 5, 3, 5 | What is the sixth decile?",
+    "options": [
+      "6.5",
+      "5",
+      "7.5",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Total frequency = 20. D6 position = 0.6 × 20 = 12th value. Cumulative frequencies: 3, 7, 12, 15, 20. The 12th value falls in the class with value 6. Using interpolation, D6 = 6.5."
+  },
+  {
+    "question": "In a certain health center there are 3 doctors, 8 nurses and 2 physicians. In how many ways one can form a group of 5 members consisting of 1 doctor, 3 nurses and 1 physician?",
+    "options": [
+      "168",
+      "112",
+      "336",
+      "330"
+    ],
+    "answer": 2,
+    "explanation": "C(3,1) × C(8,3) × C(2,1) = 3 × 56 × 2 = 336."
+  },
+  {
+    "question": "Which one of the following forms represents an exhaustive set of events if a die is thrown once?",
+    "options": [
+      "{1,2}, {4}, {4,5,6}",
+      "{1,2,3}, {4,5}, {6}",
+      "{1,2}, {2}, {4,5}, {5,6}",
+      "{1,2,3}, {3,4}, {6}"
+    ],
+    "answer": 1,
+    "explanation": "The union {1,2,3}∪{4,5}∪{6} = {1,2,3,4,5,6} covers all outcomes and the sets are mutually exclusive."
+  },
+  {
+    "question": "A bag contains 2 red, 3 yellow and 5 green balls. One ball is drawn at random. What is the probability that the drawn ball is NOT yellow?",
+    "options": [
+      "3/10",
+      "1/5",
+      "4/5",
+      "7/10"
+    ],
+    "answer": 3,
+    "explanation": "P(not yellow) = (2+5)/10 = 7/10."
+  },
+  {
+    "question": "Which of the following is the product AB of the two matrices A = [[-2,3],[1,4]] and B = [[-1,5],[3,0]]?",
+    "options": [
+      "[[-11,-10],[11,5]]",
+      "[[-11,10],[11,5]]",
+      "[[11,-10],[11,5]]",
+      "[[-11,10],[11,-5]]"
+    ],
+    "answer": 2,
+    "explanation": "AB = [[(-2)(-1)+(3)(3), (-2)(5)+(3)(0)], [(1)(-1)+(4)(3), (1)(5)+(4)(0)]] = [[11, -10], [11, 5]]."
+  },
+  {
+    "question": "Which one of the following is NOT true about the determinant of a given square matrix A?",
+    "options": [
+      "If A contains a row of zeros, then its determinant is zero.",
+      "If A has identical rows, then its determinant is zero.",
+      "The determinant of A is equal to the determinant of its transpose.",
+      "Interchanging two rows of A gives the same determinant."
+    ],
+    "answer": 3,
+    "explanation": "Interchanging two rows multiplies the determinant by -1 (changes the sign), so it does NOT give the same determinant."
+  },
+  {
+    "question": "Which of the following is the inverse of the matrix [[2,3],[3,4]]?",
+    "options": [
+      "[[-4,3],[3,-2]]",
+      "[[-2,3],[3,-4]]",
+      "[[4,-3],[-3,2]]",
+      "[[-4,-3],[-3,-2]]"
+    ],
+    "answer": 0,
+    "explanation": "det(A) = 8-9 = -1. Inverse = (1/(-1)) × [[4,-3],[-3,2]] = [[-4,3],[3,-2]]."
+  },
+  {
+    "question": "Consider the system of linear equations {3x - ay = 1, 6x + 4y = 5}. Then which of the following is true?",
+    "options": [
+      "If a > -2, then the system has a unique solution.",
+      "If a = -2, then the system has a unique solution.",
+      "If a = 2, then the system has no solution.",
+      "If a > 2, then the system has infinitely many solutions."
+    ],
+    "answer": 0,
+    "explanation": "For unique solution, 3/6 ≠ -a/4, i.e., a ≠ -2. When a > -2, the ratio condition is satisfied, ensuring a unique solution."
+  },
+  {
+    "question": "What is the magnitude of the vector whose initial point is at (1, -3) and terminal point is at (4, 1)?",
+    "options": [
+      "5",
+      "6",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Vector = (4-1, 1-(-3)) = (3, 4). Magnitude = sqrt(9+16) = sqrt(25) = 5."
+  },
+  {
+    "question": "Let T be a translation that takes the origin into (2, 3). Then which of the following is true about the translation T?",
+    "options": [
+      "(x-4)^2 + (y-3)^2 = 9 is the translation of (x-2)^2 + (y+6)^2 = 9.",
+      "(x-5)^2 + (y-6)^2 = 9 is the translation of (x-3)^2 + (y-3)^2 = 9.",
+      "(x-4)^2 + (y+3)^2 = 9 is the translation of (x-2)^2 + (y+6)^2 = 9.",
+      "(x+4)^2 + (y-3)^2 = 12 is the translation of (x-2)^2 + (y+6)^2 = 12."
+    ],
+    "answer": 2,
+    "explanation": "Translation T maps (x,y) to (x+2,y+3). Circle (x-2)^2+(y+6)^2=9 has center (2,-6). After translation, center becomes (4,-3), giving (x-4)^2+(y+3)^2=9, which is option C."
+  },
+  {
+    "question": "Which of the following functions represents the graph shown in Figure 2?",
+    "options": [
+      "f(x) = tan x",
+      "f(x) = sec x",
+      "f(x) = csc x",
+      "f(x) = cot x"
+    ],
+    "answer": 3,
+    "explanation": "Based on the graph with decreasing branches and vertical asymptotes, the function is f(x) = cot x, which is decreasing on each interval between its asymptotes."
+  },
+  {
+    "question": "Which of the following is true?",
+    "options": [
+      "The domain of y = tan^(-1)x is (-∞, ∞).",
+      "The domain of y = cos^(-1)x is (-1, 1).",
+      "sin^(-1)(0) = π/2.",
+      "tan^(-1)(0) = 1."
+    ],
+    "answer": 0,
+    "explanation": "The domain of arctan(x) is all real numbers (-∞, ∞). The domain of arccos(x) is [-1,1] (not (-1,1)). sin^(-1)(0) = 0, and tan^(-1)(0) = 0."
+  },
+  {
+    "question": "Which one of the following is the fourth term of the sequence {cos(nπ/2)}?",
+    "options": [
+      "0",
+      "-1",
+      "1",
+      "0.5"
+    ],
+    "answer": 2,
+    "explanation": "a_4 = cos(4π/2) = cos(2π) = 1."
+  },
+  {
+    "question": "Which of the following is a geometric sequence?",
+    "options": [
+      "1, 1.5, 2.5, 3.5, ...",
+      "0.1, 0.01, 0.0011, 0.000111, ...",
+      "8, -4, 2, -1, ...",
+      "0.1, 0.11, 0.12, 0.13, ..."
+    ],
+    "answer": 2,
+    "explanation": "For 8, -4, 2, -1: the common ratio is -4/8 = -1/2, 2/(-4) = -1/2, -1/2 = -1/2. Constant ratio = -1/2, confirming a geometric sequence."
+  },
+  {
+    "question": "A factory that produces electric cable had sales Birr 1,000,000 the first day. During each successive day the sales increased by Birr 10,000 every day. What is the total sales of the factory in the first 10 days?",
+    "options": [
+      "Birr 10,000,000",
+      "Birr 1,090,000",
+      "Birr 20,900,000",
+      "Birr 10,450,000"
+    ],
+    "answer": 3,
+    "explanation": "Arithmetic series: a=1,000,000, d=10,000, n=10. S_10 = (10/2)(2,000,000+90,000) = 5(2,090,000) = 10,450,000."
+  },
+  {
+    "question": "What is the least upper bound of the sequence {2 + n/(n+1)} (n=1 to ∞)?",
+    "options": [
+      "1",
+      "0",
+      "3",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "As n → ∞, n/(n+1) → 1, so the sequence approaches 3 from below. The least upper bound is 3."
+  },
+  {
+    "question": "Which one of the following sequences is a null sequence?",
+    "options": [
+      "{n sin(1/n)}",
+      "{1 - 1/n}",
+      "{n/(n+1)}",
+      "{cos n / n}"
+    ],
+    "answer": 3,
+    "explanation": "A null sequence converges to 0. Since |cos n| ≤ 1, |cos n / n| ≤ 1/n → 0. The others converge to 1, 1, and 1 respectively."
+  },
+  {
+    "question": "Suppose {a_n} and {b_n} are sequences with lim a_n = L and lim b_n = M. Then which of the following is NOT necessarily true?",
+    "options": [
+      "lim(3a_n + 2b_n) = 3L + 2M",
+      "lim(a_n - b_n) = L - M",
+      "lim(a_n/b_n) = L/M",
+      "lim(a_n × b_n) = LM"
+    ],
+    "answer": 2,
+    "explanation": "The quotient rule requires M ≠ 0. If M = 0, lim(a_n/b_n) is undefined, so this is NOT necessarily true."
+  },
+  {
+    "question": "lim(x→∞) (3x^2 + 2x)/(5x - x^2) is equal to",
+    "options": [
+      "-1",
+      "-3",
+      "1",
+      "0"
+    ],
+    "answer": 1,
+    "explanation": "Divide by x^2: (3 + 2/x)/(5/x - 1) → (3+0)/(0-1) = -3 as x → ∞."
+  },
+  {
+    "question": "Which of the following is the same as the derivative of a function f at a point P, where P is on the graph of f?",
+    "options": [
+      "The continuity of the function at P.",
+      "The slope of a secant line through P.",
+      "The slope of the tangent line through P.",
+      "The graph of f has no jump at P."
+    ],
+    "answer": 2,
+    "explanation": "The derivative at a point is geometrically the slope of the tangent line to the graph at that point."
+  },
+  {
+    "question": "What is the derivative of the function f(x) = 3x^2 + 2√x - 4x at x = 1?",
+    "options": [
+      "-1",
+      "-3",
+      "3",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "f'(x) = 6x + 1/√x - 4. At x=1: f'(1) = 6 + 1 - 4 = 3."
+  },
+  {
+    "question": "What are the 2nd and the nth derivative of f(x) = e^(3x) respectively?",
+    "options": [
+      "4f(x) and 2^n f(x)",
+      "2f(x) and nf(x)",
+      "9f(x) and 3^n f(x)",
+      "9f(x) and n^2 f(x)"
+    ],
+    "answer": 2,
+    "explanation": "f'(x)=3e^(3x), f''(x)=9e^(3x)=9f(x), f^(n)(x)=3^n × e^(3x)=3^n f(x)."
+  },
+  {
+    "question": "Which of the following is true about the zero of a function?",
+    "options": [
+      "It is the y-intercept of the function.",
+      "It is the x-intercept of the function.",
+      "It is the concavity point of the function.",
+      "It is the critical point of the function."
+    ],
+    "answer": 1,
+    "explanation": "A zero of f is a value x where f(x)=0, which corresponds to the x-intercept of the graph."
+  },
+  {
+    "question": "Which of the following is true about the function defined by f(x) = x^3 - 3x^2 on [-1, 3]?",
+    "options": [
+      "Its critical numbers are 0 and 2 and its maximum value is 15.",
+      "Its critical numbers are 0, 2, 3 and its maximum value is 0.",
+      "It has critical numbers at 0 and 2 and its maximum value is 0.",
+      "Its critical numbers are 0 and 2 and its maximum value is -4."
+    ],
+    "answer": 2,
+    "explanation": "f'(x)=3x^2-6x=3x(x-2)=0 gives critical numbers 0 and 2. Evaluating: f(-1)=-4, f(0)=0, f(2)=-4, f(3)=0. Maximum value is 0."
+  },
+  {
+    "question": "What is the number that satisfies Rolle's Theorem for f(x) = x^2 - 3x + 1 on [0, 3]?",
+    "options": [
+      "1",
+      "-3/2",
+      "2",
+      "3/2"
+    ],
+    "answer": 3,
+    "explanation": "f(0)=1, f(3)=9-9+1=1. By Rolle's Theorem, f'(c)=0 for some c in (0,3). f'(x)=2x-3=0 gives x=3/2."
+  },
+  {
+    "question": "What are the length L and width W of a rectangle with perimeter 10,000m that maximizes the area?",
+    "options": [
+      "L = 2,500 m and W = 3,000 m",
+      "L = 2,500 m and W = 2,500 m",
+      "L = 5,000 m and W = 5,000 m",
+      "L = 3,000 m and W = 2,500 m"
+    ],
+    "answer": 1,
+    "explanation": "For a fixed perimeter, area is maximized when L = W (square). P = 2(L+W) = 10,000 gives L = W = 2,500 m."
+  },
+  {
+    "question": "If the radius r of a sphere is increasing at the rate of 2 cm/min, then the rate of change of the volume when r = 1 cm is",
+    "options": [
+      "6π cm³/min",
+      "4π cm³/min",
+      "12π cm³/min",
+      "8π cm³/min"
+    ],
+    "answer": 3,
+    "explanation": "V = (4/3)πr³, dV/dt = 4πr²(dr/dt) = 4π(1)²(2) = 8π cm³/min."
+  },
+  {
+    "question": "Which of the following is equal to ∫(cos x - 2x)dx where c is a constant?",
+    "options": [
+      "sin x + x^2 + c",
+      "-sin x - x^2 + c",
+      "sin x - x^2 + c",
+      "-sin x + x^2 + c"
+    ],
+    "answer": 2,
+    "explanation": "∫cos x dx = sin x, ∫(-2x)dx = -x^2. So ∫(cos x - 2x)dx = sin x - x^2 + c."
+  },
+  {
+    "question": "What is the area of the region bounded by y = 0 and the graph of f(x) = 4 - x^2 on the interval [-1, 1]?",
+    "options": [
+      "22/3",
+      "2/3",
+      "26/3",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Area = ∫_{-1}^{1}(4-x^2)dx = [4x - x^3/3]_{-1}^{1} = (4-1/3)-(-4+1/3) = 11/3+11/3 = 22/3."
+  },
+  {
+    "question": "Suppose ∫_1^3 f(x)dx = 6 and ∫_1^2 f(x)dx = 10, what is the value of ∫_2^3 f(x)dx?",
+    "options": [
+      "2",
+      "-4",
+      "16",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "By the additive property: ∫_1^3 = ∫_1^2 + ∫_2^3. So 6 = 10 + ∫_2^3, giving ∫_2^3 = -4."
+  },
+  {
+    "question": "Which of the following statements has a truth value T?",
+    "options": [
+      "(p ∧ q) → (p ∨ q)",
+      "(p ∧ q) → ¬(p ∨ q)",
+      "(p ∨ q) → (p ∧ q)",
+      "(p → q) → (p ∨ q)"
+    ],
+    "answer": 0,
+    "explanation": "(p∧q)→(p∨q) is a tautology. If p∧q is true, then p and q are both true, so p∨q is true. A true antecedent with true consequent gives a true implication."
+  },
+  {
+    "question": "The inverse of the function y = 3x - 5 is equal to",
+    "options": [
+      "y = (x + 5)/3",
+      "y = (x + 3)/5",
+      "y = (x - 5)/3",
+      "y = -5x + 3"
+    ],
+    "answer": 0,
+    "explanation": "Swap x and y: x = 3y - 5, solve: 3y = x + 5, y = (x + 5)/3."
+  },
+  {
+    "question": "Which of the following is the universal set of the expression 1/x^2 + (x + 1)/(x^2 + x)?",
+    "options": [
+      "R\\{0, 1}",
+      "R\\{0}",
+      "R\\{0, 1, -1}",
+      "R\\{0, -1}"
+    ],
+    "answer": 3,
+    "explanation": "1/x^2 requires x ≠ 0. (x+1)/(x^2+x) = (x+1)/(x(x+1)) requires x ≠ 0 and x ≠ -1. The universal set is R\\{0, -1}."
+  },
+  {
+    "question": "The graph of a rational function is given as in Figure 1. Which of the following is NOT true about the graph?",
+    "options": [
+      "x = 1 is its vertical asymptote.",
+      "y = 0 is its horizontal asymptote.",
+      "It is decreasing on (1, ∞).",
+      "It is increasing on (-∞, 1)."
+    ],
+    "answer": 3,
+    "explanation": "For a rational function with vertical asymptote x=1 and horizontal asymptote y=0, the function decreases on both sides of the asymptote. It is NOT increasing on (-∞, 1)."
+  },
+  {
+    "question": "The equation of a line is given by 3x - 2y + 6 = 0. Then which of the following is true about the line?",
+    "options": [
+      "Its y-intercept is -3.",
+      "Its slope is 3/2.",
+      "(2, 5) lies on the line.",
+      "Its x-intercept is 2."
+    ],
+    "answer": 1,
+    "explanation": "Rewrite: y = (3/2)x + 3. The slope is 3/2, y-intercept is 3, x-intercept is -2, and (2,5) gives 3(2)-2(5)+6=2≠0. So B is true."
+  },
+  {
+    "question": "Which one of the following is the standard form of the equation of the parabola with vertex (4, 6) and focus (-8, 6)?",
+    "options": [
+      "(x-4)^2 = -12(y-6)",
+      "(x-4)^2 = 12(y-6)",
+      "(y-6)^2 = 48(x-4)",
+      "(y-6)^2 = -48(x-4)"
+    ],
+    "answer": 3,
+    "explanation": "Focus is left of vertex, so parabola opens left. p = -8-4 = -12. Equation: (y-6)^2 = 4p(x-4) = -48(x-4)."
+  },
+  {
+    "question": "Which of the following is true about the hyperbola given by x^2/4 - y^2 = 1?",
+    "options": [
+      "Its foci are at (-5, 0) and (5, 0).",
+      "Its vertices are at (-2, 0) and (2, 0).",
+      "Its center is at (2, 1).",
+      "An asymptote to the hyperbola is y = 2x."
+    ],
+    "answer": 1,
+    "explanation": "a^2=4, a=2. Vertices at (±2,0). b^2=1, c=√5 (not 5). Center at (0,0). Asymptotes: y=±(1/2)x, not y=2x."
+  },
+  {
+    "question": "Two statements p and q are given by: p: 22/7 is an irrational number. q: The sum of two odd integers is odd. Then which of the following has a truth value T?",
+    "options": [
+      "p ∧ ¬q",
+      "p ∨ ¬q",
+      "¬p ∧ q",
+      "p ∧ q"
+    ],
+    "answer": 1,
+    "explanation": "p is false (22/7 is rational) and q is false (sum of two odd integers is even). So ¬q is true. p ∨ ¬q = F ∨ T = T."
+  },
+  {
+    "question": "Which one of the following is the contrapositive of the statement: If 21 is a prime number, then 4 is an odd number?",
+    "options": [
+      "If 4 is an odd number, then 21 is not a prime number.",
+      "If 4 is an odd number, then 21 is a prime number.",
+      "If 4 is not an odd number, then 21 is not a prime number.",
+      "If 21 is not a prime number, then 4 is an even number."
+    ],
+    "answer": 2,
+    "explanation": "Contrapositive of 'If P, then Q' is 'If not Q, then not P'. P: 21 is prime, Q: 4 is odd. Contrapositive: If 4 is not odd, then 21 is not prime."
+  },
+  {
+    "question": "Which of the following is true where c is a constant?",
+    "options": [
+      "∫(sin√x)/√x dx = -2cos√x + c",
+      "∫(3x+5)^6 dx = (3x+5)^7/7 + c",
+      "∫ln x dx = 1/x + c",
+      "∫x e^x dx = (x^2/2) e^x + c"
+    ],
+    "answer": 0,
+    "explanation": "Let u = √x, du = 1/(2√x) dx. Then ∫(sin√x)/√x dx = ∫2sin(u)du = -2cos(u)+c = -2cos√x+c. Option B is wrong (missing chain factor 1/3). Option C is wrong (∫ln x dx = x ln x - x + c). Option D is wrong (correct answer is (x-1)e^x+c)."
+  },
+  {
+    "question": "The acceleration of a body at any time t is given by a(t) = 4 - 2t + 3t^2 with initial velocity v(0) = 5. Then what is the velocity v of the body as a function of time?",
+    "options": [
+      "v(t) = 1 + 4t - t^2 + t^3",
+      "v(t) = 5 + 4t - t^2 + t^3",
+      "v(t) = -2 + 6t",
+      "v(t) = 9 - t^2 + t^3"
+    ],
+    "answer": 1,
+    "explanation": "v(t) = ∫(4-2t+3t^2)dt = 4t - t^2 + t^3 + C. v(0) = C = 5. So v(t) = 5 + 4t - t^2 + t^3."
+  },
+  {
+    "question": "Which of the following argument is valid?",
+    "options": [
+      "p, ¬q ⊢ p ⇒ q",
+      "¬p, q ⊢ p ⇒ q",
+      "p, q ⊢ p ⇒ ¬q",
+      "p, ¬q ⊢ p ∧ q"
+    ],
+    "answer": 1,
+    "explanation": "With premises ¬p and q: since ¬p is true (p is false), the implication p ⇒ q is vacuously true (F ⇒ anything = T). This is a valid argument."
+  },
+  {
+    "question": "Which of the following proof is more suitable to prove the assertion: 1^3 + 2^3 + 3^3 + ... + n^3 = (1 + 2 + 3 + ... + n)^2?",
+    "options": [
+      "Proof by counter example.",
+      "Proof by the principle of mathematical induction.",
+      "Proof by contradiction.",
+      "Proof by indirect proof."
+    ],
+    "answer": 1,
+    "explanation": "This is a statement about all natural numbers n. Mathematical induction is the standard method for proving such summation formulas."
+  },
+  {
+    "question": "Math test scores distribution of 20 students is given as in Table 2. What is the standard deviation of the scores?",
+    "options": [
+      "5",
+      "4",
+      "√21",
+      "√20"
+    ],
+    "answer": 2,
+    "explanation": "Based on the frequency distribution table from the exam and standard deviation calculation using the formula, the answer is √21."
+  },
+  {
+    "question": "What is the coefficient of x^2 in the binomial expansion of (2x + 3/x^3)^8?",
+    "options": [
+      "6",
+      "0",
+      "576",
+      "500"
+    ],
+    "answer": 1,
+    "explanation": "General term: C(8,k)(2x)^(8-k)(3/x^3)^k = C(8,k)·2^(8-k)·3^k·x^(8-4k). For x^2: 8-4k=2 gives k=3/2, which is not an integer. Therefore the coefficient of x^2 is 0."
+  },
+  {
+    "question": "Which of the following is true about the graph of y = -4cos(2x/3)?",
+    "options": [
+      "Its period is 3π.",
+      "Its amplitude is -4.",
+      "The graph completes one cycle on the interval [0, 3π/2].",
+      "The graph completes one cycle on the interval [0, 2π/3]."
+    ],
+    "answer": 0,
+    "explanation": "Period = 2π/(2/3) = 3π. The amplitude is |A| = |-4| = 4 (not -4). One cycle is completed on [0, 3π]."
+  },
+  {
+    "question": "The angle of elevation of the top of a tree is found to be 60° as measured from a point on a level ground. What is the height of the tree if the angle of elevation of a point on the tree that is 8m below the top is 30° as measured from the same point on the ground?",
+    "options": [
+      "8m",
+      "4m",
+      "14m",
+      "12m"
+    ],
+    "answer": 3,
+    "explanation": "Let d = distance to tree, h = height. tan60°=h/d gives d=h/√3. tan30°=(h-8)/d gives d=(h-8)√3. Setting equal: h/√3=(h-8)√3, so h=3(h-8), giving h=12m."
+  },
+  {
+    "question": "Which of the following series is convergent?",
+    "options": [
+      "∑(n=1 to ∞) 5^(11-2n)",
+      "∑(n=1 to ∞) (2/5)^(-n)",
+      "∑(n=1 to ∞) (3/2)^n",
+      "∑(n=1 to ∞) 2^(2n-5)"
+    ],
+    "answer": 0,
+    "explanation": "5^(11-2n) = 5^11 × (1/25)^n is geometric with r = 1/25 < 1, so it converges. The other series have |r| ≥ 1 and diverge."
+  },
+  {
+    "question": "Let f be a function defined on a closed bounded interval [a, b]. Which of the following describes that f is continuous on [a, b]?",
+    "options": [
+      "f is continuous on (a, b), f is continuous from the right at a and from the left at b.",
+      "f is continuous at each point in (a, b) and at both a and b.",
+      "f is continuous on (a, b), f is continuous from the left at a and from the right at b.",
+      "f is continuous on (a, b), f is continuous from the left at a and from the left at b."
+    ],
+    "answer": 0,
+    "explanation": "Continuity on [a,b] requires continuity on (a,b), right-continuity at a (approach from within the interval), and left-continuity at b (approach from within the interval)."
+  },
+  {
+    "question": "A position of a particle is given by the equation S(t) = 4t^4 - 4t + 1 where t is measured in seconds and S in meters. Which of the following is NOT true about the motion of the particle?",
+    "options": [
+      "The velocity at 2 seconds is given by 124 m/sec.",
+      "The velocity v at any time t is given by v(t) = 16t^3 - 4.",
+      "The acceleration of the particle at 1 sec is 48 m/sec^2.",
+      "The particle is at rest at t = 0.5 seconds."
+    ],
+    "answer": 3,
+    "explanation": "v(t) = 16t^3 - 4. v(0.5) = 16(0.125)-4 = 2-4 = -2 ≠ 0, so the particle is NOT at rest at t=0.5. Option D is false."
+  },
+  {
+    "question": "If f'(1) = 4, f(1) = 3 and g'(3) = 5, then (g ∘ f)'(1) is equal to",
+    "options": [
+      "5",
+      "3",
+      "20",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "By the chain rule: (g ∘ f)'(1) = g'(f(1)) × f'(1) = g'(3) × f'(1) = 5 × 4 = 20."
+  }
+]

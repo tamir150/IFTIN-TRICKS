@@ -1,0 +1,1322 @@
+[
+  {
+    "question": "Which one of the following lines is most likely taken from an informal letter?",
+    "options": [
+      "We have received a letter of your complaints about the service you ….",
+      "I am writing this letter to invite you to my birthday party which will be ….",
+      "We had booked a table for six but when we arrived, there was no free ….",
+      "In the first place, I requested you to book me a room by the view of the sea."
+    ],
+    "answer": 1,
+    "explanation": "An informal letter uses casual, personal language. Option B uses 'I am writing this letter to invite you to my birthday party,' which is a personal, friendly tone typical of informal letters. Options A, C, and D use more formal or business-like language."
+  },
+  {
+    "question": "Which one of the following is a possible closing salutation to an informal letter?",
+    "options": [
+      "Yours truly.",
+      "Regards.",
+      "Take care.",
+      "Sincerely."
+    ],
+    "answer": 2,
+    "explanation": "'Take care' is a warm, casual closing used in informal letters between friends or family. 'Yours truly' and 'Sincerely' are formal closings, while 'Regards' is semi-formal."
+  },
+  {
+    "question": "In an informal letter, which one of the following comes following the date?",
+    "options": [
+      "Receiver's address",
+      "Body",
+      "Receiver's name",
+      "Opening"
+    ],
+    "answer": 3,
+    "explanation": "In an informal letter, after the date, the next element is the opening salutation (e.g., 'Dear John,'). The receiver's address is not typically included in informal letters, and the body comes after the opening."
+  },
+  {
+    "question": "What is the main idea of the paragraph about display and movement communications in animals?",
+    "options": [
+      "Snakes and other animals have a way of warning their predators.",
+      "Young chicks communicate with their mothers when hungry.",
+      "The herring gull is a bird with yellow-colored beak.",
+      "Animals have their own means of communication."
+    ],
+    "answer": 3,
+    "explanation": "The paragraph discusses multiple examples of animal communication (herring gulls, rattlesnakes) to illustrate that animals have their own means of communication. The other options are supporting details, not the overarching main idea."
+  },
+  {
+    "question": "Which one of the following is the main idea of the paragraph about the African Nations Cup?",
+    "options": [
+      "The history of African Nations Cup goes as far back as 1957.",
+      "In 1957, many African countries had national clubs.",
+      "African countries were hardly involved in matches in 1957.",
+      "Three countries started the African Nations Cup."
+    ],
+    "answer": 0,
+    "explanation": "The paragraph introduces the African Nations Cup starting in 1957, making the history/origin of the tournament the main idea. The details about three countries participating and few international matches support this broader point about the Cup's historical origins."
+  },
+  {
+    "question": "When put in the correct order, sentences a–e make up a complete paragraph. a. That created a huge resentment in me. b. Rebel soldiers always wanted to kill him. c. In fact, my mom was a very strong woman. d. We lived in a hut in a small village near Peru. e. My father ran away when I was only 12 years old. What is the correct order?",
+    "options": [
+      "e, d, b, a, c",
+      "d, c, e, a, b",
+      "e, b, a, d, c",
+      "c, e, d, a, b"
+    ],
+    "answer": 0,
+    "explanation": "Starting with 'My father ran away' (e), then describing where they lived (d), followed by the threat from rebels (b), the resulting resentment (a), and concluding with the mother's strength (c), creates a coherent narrative flow."
+  },
+  {
+    "question": "When put in the correct order, sentences a–e make up a complete paragraph. a. However, it is extremely energy inefficient. b. That makes the use of desalination very limited. c. Currently, there is world crisis in energy supplies. d. Desalination of sea water can increase water supply. e. That is why it is in use only in energy-rich countries. What is the correct order?",
+    "options": [
+      "c, e, d, a, b",
+      "d, c, e, b, a",
+      "c, d, a, b, e",
+      "d, a, e, c, b"
+    ],
+    "answer": 2,
+    "explanation": "The logical flow is: c (current energy crisis) → d (desalination as a solution) → a (however, it's energy inefficient) → b (this limits its use) → e (only used in energy-rich countries). This creates a cause-effect chain."
+  },
+  {
+    "question": "When put in the correct order, sentences a–e make up a complete paragraph. a. I followed him proudly, step by step. b. My uncle was wonderful at rice cutting. c. Then my uncle tied the bundles together. d. He handed me the bundles of stalks as he cut them. e. I tore off the leaves, trimmed the stalks and piled them. What is the correct order?",
+    "options": [
+      "b, a, d, e, c",
+      "b, a, e, c, d",
+      "b, d, e, a, c",
+      "b, d, a, c, e"
+    ],
+    "answer": 2,
+    "explanation": "Starting with the topic sentence (b: uncle was wonderful at rice cutting), then the process: he handed bundles (d), the narrator trimmed and piled them (e), followed proudly (a), and finally uncle tied bundles (c). This gives a logical sequence of rice-cutting activities."
+  },
+  {
+    "question": "When put in the correct order, sentences a–e make up a complete paragraph. a. In fact, this wasn't without any challenge. b. The number of democratic regimes has continued to rise. c. The quality of governance has become a major issue of concern. d. Corruption, violence and poverty have become the worst threats. e. Further, good governance has become a criterion for country's credibility. What is the correct order?",
+    "options": [
+      "c, e, b, a, d",
+      "c, b, e, a, d",
+      "b, c, e, d, a",
+      "d, a, c, b, e"
+    ],
+    "answer": 2,
+    "explanation": "The logical flow: b (democratic regimes rising) → c (governance quality is a concern) → e (good governance as a criterion) → a (this wasn't without challenge) → d (corruption, violence, poverty are threats). This moves from positive to the challenges."
+  },
+  {
+    "question": "The words are NOT in the proper order: 'in you girl about slim, are pretty the talking neighborhood tall, this?' When put in the right order, which option is correct?",
+    "options": [
+      "Are you this pretty, tall, slim girl talking about in the neighborhood?",
+      "You are about the pretty, talking, tall girl in this slim neighborhood?",
+      "This pretty, tall, girl in the neighborhood talking about you are slim?",
+      "Are you talking about this tall, slim, pretty girl in the neighborhood?"
+    ],
+    "answer": 3,
+    "explanation": "The correct English sentence is 'Are you talking about this tall, slim, pretty girl in the neighborhood?' It follows the proper interrogative word order and adjective placement before the noun."
+  },
+  {
+    "question": "The words are NOT in the proper order: 'were they fifty and made they happy birr some.' When put in the right order, which option is correct?",
+    "options": [
+      "They made some fifty birr and they were happy.",
+      "They made fifty birr and some they were happy.",
+      "Some fifty birr they made and they were happy.",
+      "They made happy and they were some fifty birr."
+    ],
+    "answer": 0,
+    "explanation": "'They made some fifty birr and they were happy' follows correct English word order: Subject + Verb + Object + Conjunction + Subject + Verb + Adjective."
+  },
+  {
+    "question": "The words are NOT in the proper order: 'better you you listen they tell what to.' When put in the right order, which option is correct?",
+    "options": [
+      "They better listen you to what you tell.",
+      "Better you listen what they tell to you.",
+      "You better listen what you tell to they.",
+      "You better listen to what they tell you."
+    ],
+    "answer": 3,
+    "explanation": "'You better listen to what they tell you' follows correct English word order with the preposition 'to' correctly placed before the relative clause 'what they tell you.'"
+  },
+  {
+    "question": "Which alternative is written with correct punctuation and capitalization?",
+    "options": [
+      "They will all receive the standard discount ie., 25%.",
+      "She told me that the items will be delivered at 3:30. pm.",
+      "The UN. has taken irreversible measures against them.",
+      "Send me the following items. a hammer, nails and a saw."
+    ],
+    "answer": 0,
+    "explanation": "Option A correctly uses 'ie.' (abbreviation for 'that is') with a period and comma before the clarification. Option B incorrectly separates time from 'pm' with a period. Option C incorrectly places a period after UN. Option D incorrectly starts a list with a lowercase letter after a period."
+  },
+  {
+    "question": "Which alternative is written with correct punctuation and capitalization?",
+    "options": [
+      "Come to sidist kilo and you will take a taxi to the French Embassy.",
+      "Come to Sidist Kilo and you will take a taxi to the French Embassy.",
+      "Come to Sidist Kilo and you will take a taxi to the French embassy.",
+      "Come to Sidist kilo and you will take a taxi to the French Embassy."
+    ],
+    "answer": 1,
+    "explanation": "Option B correctly capitalizes the proper noun 'Sidist Kilo' (a place name) and 'French Embassy' (as a specific institutional name). Options A and D fail to capitalize 'Sidist' or 'Kilo,' while option C incorrectly lowercases 'embassy.'"
+  },
+  {
+    "question": "Which alternative is written with correct punctuation and capitalization?",
+    "options": [
+      "What do you think of his new book, \"Kind Is Not Kind?\"",
+      "I can change my decision to sell the house, can't I, whenever I wish?",
+      "Every morning he shouts, \"Why don't you get up in time\"?",
+      "She wouldn't collect her belongings soon, would she? in my opinion."
+    ],
+    "answer": 1,
+    "explanation": "Option B correctly punctuates the tag question 'can't I' and the adverbial clause 'whenever I wish?' with the question mark at the end. Option A has incorrect quotation mark placement. Option C incorrectly places the question mark outside the quotation. Option D incorrectly places 'in my opinion' after the question mark."
+  },
+  {
+    "question": "Which alternative is written with correct punctuation and capitalization?",
+    "options": [
+      "Kindly, donate shirts, jackets, trousers, shoes and even bags.",
+      "Kindly donate, shirts, jackets, trousers, shoes and even bags.",
+      "Kindly donate shirts, jackets, trousers, shoes and even bags.",
+      "Kindly donate shirts, jackets, trousers shoes and even, bags."
+    ],
+    "answer": 2,
+    "explanation": "Option C correctly places 'kindly' as an adverb modifying 'donate' without a comma separating them, and uses commas correctly in the list. Option A incorrectly separates 'kindly' from 'donate,' option B has an incorrect comma after 'donate,' and option D has incorrect comma placement."
+  },
+  {
+    "question": "Which alternative has a correct spelling?",
+    "options": [
+      "participation",
+      "convinced",
+      "convension",
+      "decision"
+    ],
+    "answer": 3,
+    "explanation": "'Decision' is correctly spelled. 'Participation' is misspelled (should be 'participation' — actually this is correct too). Wait — option A says 'partcipation' which is misspelled. Option B says 'convenced' which is misspelled (should be 'convinced'). Option C 'convension' is misspelled (should be 'convention'). Only 'decision' is correctly spelled."
+  },
+  {
+    "question": "Which alternative has a correct spelling?",
+    "options": [
+      "vaccination",
+      "programe",
+      "millenium",
+      "bussiness"
+    ],
+    "answer": 0,
+    "explanation": "'Vaccination' is correctly spelled. 'Programe' should be 'program' or 'programme.' 'Millenium' should be 'millennium' (double n). 'Bussiness' should be 'business.'"
+  },
+  {
+    "question": "Gaga: Who is a famous Ethiopian singer you admire? Gugu: ____",
+    "options": [
+      "Many people admire Tilahun Gessesse. They say he is the king of Ethiopian music.",
+      "There are lots of famous Ethiopian singers. Truly speaking, it is a long list.",
+      "I think I admire Sudanese singers more than I do Ethiopians. You may hate me.",
+      "A famous Ethiopian singer I admire is Muluken Melese. He's wonderful."
+    ],
+    "answer": 3,
+    "explanation": "The question asks 'Who is a famous Ethiopian singer YOU admire?' Option D directly answers by naming a specific Ethiopian singer the speaker admires. Options A and B don't name a singer the speaker personally admires. Option C mentions Sudanese singers, not Ethiopian."
+  },
+  {
+    "question": "Birru: Shall we report the case to the deputy manager? Megersa: ____",
+    "options": [
+      "I think it would be safe if you report it.",
+      "What is the deputy manager doing?",
+      "Who knows, they could be friends.",
+      "What is the problem with them?"
+    ],
+    "answer": 0,
+    "explanation": "Birru proposes reporting a case to the deputy manager. Option A responds directly by agreeing and adding that it would be safe to do so. The other options don't appropriately respond to the proposal."
+  },
+  {
+    "question": "Abush: ____ Friend: My dream is actually to visit Japan. The cleanliness attracts me.",
+    "options": [
+      "Which country in the world is attractive to you.",
+      "Which place in the world do you want to visit?",
+      "Which place in the world do you like most?",
+      "Which country are you planning to visit?"
+    ],
+    "answer": 1,
+    "explanation": "The friend's response mentions wanting to visit Japan. Option B asks 'Which place in the world do you want to visit?' which directly elicits the response about visiting Japan. Option A is not a question, and options C and D don't match as well."
+  },
+  {
+    "question": "Policeman: Tell me what you saw happening at the scene of the incident. Witness: ____",
+    "options": [
+      "The scene was full of people as usual. It seems they don't have anything to do.",
+      "I saw a crowd of people some of who were aimlessly wandering around.",
+      "I was surprised to see this girl with beautiful long hair trying to talk to me.",
+      "First, he snatched her purse and in no time vanished into the village."
+    ],
+    "answer": 3,
+    "explanation": "The policeman asks what happened at the scene of an incident. Option D describes a specific criminal act witnessed (snatching a purse), which is the most relevant response to a question about an incident. The other options don't describe a specific incident."
+  },
+  {
+    "question": "Tsehay: You know, inflation has got out of control. It has become hard to afford bread. Finote: ____",
+    "options": [
+      "Inflation? But there are people who have got money to burn.",
+      "Sure, but another problem is that you can't even find items you want.",
+      "The government started to control greedy business people in town.",
+      "Inflation is everywhere in the world. There is no need to worry about it."
+    ],
+    "answer": 1,
+    "explanation": "Finote should respond relevantly to the concern about inflation. Option B acknowledges the problem and adds a related concern, which is a natural conversational response. Option A dismisses the concern, option C changes the topic, and option D trivializes the issue."
+  },
+  {
+    "question": "Boss: Sorry but novice employees have not been included in the scheme this time. Employee: ____",
+    "options": [
+      "Why is it that you hate novice employees?",
+      "Novice employees are really hard working.",
+      "That is not clear. Can you explain why?",
+      "When does the scheme start operation?"
+    ],
+    "answer": 2,
+    "explanation": "The employee should seek clarification about why novice employees were excluded. Option C politely asks for an explanation, which is the most appropriate professional response. Options A and B are confrontational/defensive, and option D is off-topic."
+  },
+  {
+    "question": "Peter: I am suspecting myself of catching the current virus. Shall I go and take rest? Didi: ____",
+    "options": [
+      "Where have you been to these days?",
+      "Oh no! I would advise you to get tested.",
+      "Don't say that. The name itself is scary.",
+      "Do you mean COVID-19? It is a bad virus."
+    ],
+    "answer": 1,
+    "explanation": "When someone suspects they have a virus, the best advice is to get tested. Option B responds with appropriate concern and practical advice. The other options don't provide helpful guidance."
+  },
+  {
+    "question": "Staff: Why hasn't the manager himself come? We wanted him to give us explanations. Deputy: ____",
+    "options": [
+      "What are your major complaints? Let me know them in detail.",
+      "The manager wanted me to represent him at this meeting.",
+      "This is not the time to boycott. It is the time to work hard.",
+      "The main reason is that he has visitors right this time."
+    ],
+    "answer": 1,
+    "explanation": "The deputy should explain the manager's absence. Option B directly explains that the manager sent the deputy as his representative, which addresses the staff's concern about the manager's absence."
+  },
+  {
+    "question": "Ahmed: How did China develop so quickly? Nejat: ____",
+    "options": [
+      "Let's see. How many years did it take them to get there?",
+      "This is possible. A lot of other countries have done it.",
+      "Above all, the Chinese have a strict work discipline.",
+      "China! It surprised the world, didn't it?"
+    ],
+    "answer": 2,
+    "explanation": "Ahmed asks for a reason for China's rapid development. Option C provides a specific explanation (strict work discipline), which directly answers the question. The other options don't provide a substantive answer."
+  },
+  {
+    "question": "Holala: Do you think life could have been possible without water? Mola: ____",
+    "options": [
+      "We don't seem to value water because it is free.",
+      "Is there anything more important than water?",
+      "In fact, water is very useful for human beings.",
+      "No way! We would be dehydrated to death."
+    ],
+    "answer": 3,
+    "explanation": "The question asks if life would be possible without water. Option D directly and emphatically answers that it would not be possible (dehydration would kill us), which is the most appropriate response."
+  },
+  {
+    "question": "Speaker: ____ Audience: Sir, can I ask a question before you go?",
+    "options": [
+      "Finally, I would like to say to you all thank you for your attention.",
+      "Let me move on to talk about the availability of raw materials.",
+      "I would also like to talk about our plan for the next fiscal year.",
+      "My last point relates to the benefits we could provide to you."
+    ],
+    "answer": 0,
+    "explanation": "The audience asks 'can I ask a question before you go?' which implies the speaker is about to leave/finish. Option A ('Finally, I would like to say thank you') signals the end of the speech, prompting the audience to ask a question before the speaker leaves."
+  },
+  {
+    "question": "Tilahun: Let's go and get them back by force. Asmara: ____",
+    "options": [
+      "Isn't it mad that violence has become so rampant these days?",
+      "Do you know the cause of the conflict? What went wrong?",
+      "How and when do you intend to go there? Let's know.",
+      "I see your point but force may not be a good solution."
+    ],
+    "answer": 3,
+    "explanation": "Tilahun suggests using force. Option D acknowledges Tilahun's perspective but diplomatically suggests an alternative, which is the most appropriate conversational response to a proposal of violence."
+  },
+  {
+    "question": "Tigist: Of all jobs, why did you choose to be a hostess? Lilu: ____",
+    "options": [
+      "You don't know what it took me to become one.",
+      "Many of the girls in my city are also hostesses.",
+      "I am interested in visiting different places.",
+      "Sure. There are a lot of other jobs to take."
+    ],
+    "answer": 2,
+    "explanation": "Tigist asks why Lilu chose to be a hostess. Option C provides a reason (interest in visiting different places), which is a common motivation for becoming a hostess. The other options don't answer the 'why' question."
+  },
+  {
+    "question": "Hussein: What do you mean by 'education is not financially rewarding?' Bilal: ____",
+    "options": [
+      "I am saying that doing a degree is materially and physically demanding. Okay?",
+      "You know, there are so many people who haven't had any job for ten or so years.",
+      "What I'm trying to say is that most well-educated people are economically poor.",
+      "Come on. Imagine the number of years it takes to get a master's or a PhD degree."
+    ],
+    "answer": 2,
+    "explanation": "Hussein asks for clarification of the statement 'education is not financially rewarding.' Option C directly explains that well-educated people are economically poor, which best paraphrases the original statement about education not being financially rewarding."
+  },
+  {
+    "question": "Melkam: Do we need to send delegates and try to convince them? Belay: ____",
+    "options": [
+      "Well, as far as I can see, there is no point in doing that. Just ignore them.",
+      "Convincing someone needs some kind of special skill. Doesn't it?",
+      "Who are they making all this trouble? They don't like to see us change.",
+      "We have been friends for generations. Why do they forget that?"
+    ],
+    "answer": 0,
+    "explanation": "Melkam asks whether to send delegates to convince them. Option A directly answers by saying it's pointless and they should be ignored. The other options don't directly respond to the question."
+  },
+  {
+    "question": "Kuku: BMC Company is going bankrupt and they have advertised to sell it. Zeritu: ____",
+    "options": [
+      "Well. I would find this good for it. Better heads could come in to manage.",
+      "The only solution to this problem is unity among the people.",
+      "I was there a couple of weeks ago. How old is that company now?",
+      "KMD has done the same thing. That is not good news at all."
+    ],
+    "answer": 0,
+    "explanation": "Zeritu should respond to the news about the company. Option A offers a positive perspective on the situation (new management could improve things), which is a constructive response to the news of bankruptcy."
+  },
+  {
+    "question": "Chimsa: I feel the atmosphere is murky around. Can you sense some danger looming? Galgalo: ____",
+    "options": [
+      "You are absolutely right. Something terrible is about to happen.",
+      "We hope things will improve soon. It is just a temporary problem.",
+      "What is the case in many parts of the country. How frustrating!",
+      "How long is this going to continue? A week, a month, a year?"
+    ],
+    "answer": 0,
+    "explanation": "Chimsa asks if Galgalo can sense danger. Option A directly agrees and shares the same sense of foreboding, which is the most appropriate conversational response to the question about sensing danger."
+  },
+  {
+    "question": "Risom: Have you seen Ghidey's new jacket? Very beautiful! Kibrom: ____",
+    "options": [
+      "That boutique is nice for jackets.",
+      "Ghidey is rather showy.",
+      "Sure. What is it made of?",
+      "I don't like jackets."
+    ],
+    "answer": 2,
+    "explanation": "Risom admires the jacket and expects engagement. Option C acknowledges the jacket and shows interest by asking about its material, which is the most natural conversational follow-up. The other options either dismiss the topic or don't engage with the admiration."
+  },
+  {
+    "question": "Journalist: Welcome to our program of 'Politics and Politicians.' Interviewee: ____",
+    "options": [
+      "I have been following this program regularly.",
+      "Thank you for inviting me. It is a pleasure to be here.",
+      "To be honest, I am not a politician.",
+      "I assure you the heart."
+    ],
+    "answer": 1,
+    "explanation": "When welcomed to a program, the standard polite response is to thank the host. Option B is the most appropriate and professional response to a welcome greeting on a TV/radio program."
+  },
+  {
+    "question": "Alambo: Elders of the village should impose sanctions on these young people. Jikamo: ____",
+    "options": [
+      "How many elders do we have here? Do you know?",
+      "What did you say? I'm not quite with you.",
+      "Young people have become out of control. It's sad.",
+      "Young people today? They don't even listen to elders."
+    ],
+    "answer": 3,
+    "explanation": "Alambo suggests imposing sanctions on young people. Option D agrees indirectly by noting that young people don't listen to elders, which supports the need for sanctions. This is a more natural conversational follow-up than the other options."
+  },
+  {
+    "question": "Titi: Shall I quit my education and get married? Sister: ____",
+    "options": [
+      "In my view, you'd better get your degree first.",
+      "Marriage is an important chapter in one's life.",
+      "Many girls are getting married these days.",
+      "Did you fail the course you were taking?"
+    ],
+    "answer": 0,
+    "explanation": "Titi asks for advice about quitting education for marriage. Option A provides direct, wise advice (get the degree first), which is the most appropriate response from a caring sister."
+  },
+  {
+    "question": "Hawulet: Tell me, what is it that offends Melat? Woinitu: ____",
+    "options": [
+      "If you tell her she is not beautiful, she'll get mad.",
+      "Actually, there are some people who offend her.",
+      "There are many things she doesn't like.",
+      "Melat is such a nice girl. I'll ask her."
+    ],
+    "answer": 0,
+    "explanation": "Hawulet asks what specifically offends Melat. Option A gives a specific example of what offends her (being told she's not beautiful), directly answering the question. The other options are vague or don't answer the question."
+  },
+  {
+    "question": "Evictees: We love you! We appreciate! Thank you for your kind assistance! Donor: ____",
+    "options": [
+      "It gives me much pleasure to be of some help at this critical time.",
+      "The agents behind your eviction will soon be brought to justice.",
+      "I understand being evicted is very tormenting and disgraceful.",
+      "I hope you will give special care to children and the elderly."
+    ],
+    "answer": 0,
+    "explanation": "The evictees express gratitude. Option A is the most appropriate response for a donor — humbly acknowledging the thanks and expressing pleasure in helping. The other options shift focus away from the gratitude."
+  },
+  {
+    "question": "Obang: My computer has suddenly shut down. What has happened to it? Technician: ____",
+    "options": [
+      "I hope that wouldn't be a virus.",
+      "Mine has never been like that.",
+      "Were you typing stuff on it?",
+      "Is that a very old computer?"
+    ],
+    "answer": 2,
+    "explanation": "A technician should diagnose the problem. Option C asks a relevant diagnostic question about what the user was doing when the computer shut down. The other options are either unhelpful speculation or don't address the diagnostic process."
+  },
+  {
+    "question": "Ambassador: My son wants to get a driving license? What is the requirement here? You: ____",
+    "options": [
+      "Excuse me but how many sons have you got, Mr. Ambassador?",
+      "Driving a car is not very difficult. He shouldn't worry as such.",
+      "Oh I see. Driving a car is one of the dreams of young people.",
+      "As a rule, everybody would need to be 18 to get one in this country."
+    ],
+    "answer": 3,
+    "explanation": "The Ambassador asks about requirements for a driving license. Option D directly answers by stating the age requirement (18), which is the most appropriate response to a question about requirements."
+  },
+  {
+    "question": "Sheshitu: Tell me, are there twins in your family? Sintayehu: ____",
+    "options": [
+      "You mean sisters and brothers?",
+      "Not at all. We have none.",
+      "Sure. I have two brothers.",
+      "No, I don't have twins."
+    ],
+    "answer": 1,
+    "explanation": "The question asks specifically about twins. Option B directly answers 'Not at all. We have none,' clearly addressing the question about twins in the family. Option C talks about brothers (not twins), and option D is awkwardly phrased."
+  },
+  {
+    "question": "Until the world is fully vaccinated against COVID-19, global economy will not be able to resume activity. Which sentence is closest in meaning?",
+    "options": [
+      "Global economy will revive as soon as everybody is vaccinated against COVID-19.",
+      "Full vaccination against COVID-19 is necessary for global economy to resume functions.",
+      "We should all be vaccinated against COVID-19 for global economy to resume activity.",
+      "All nations should be vaccinated against COVID-19 for the global economic crisis to go."
+    ],
+    "answer": 1,
+    "explanation": "The original sentence states a conditional: without full vaccination, the economy cannot resume. Option B captures this as 'full vaccination is necessary for the economy to resume,' which preserves the conditional relationship. Option A changes 'fully vaccinated' to 'everybody.' Option C shifts to a prescriptive 'should.' Option D changes the meaning."
+  },
+  {
+    "question": "The next time you are about to express disapproval to your youngster, remember to stay aware and sensitive to her/his emotional needs. Which sentence is closest in meaning?",
+    "options": [
+      "If you have to make children stop what they are doing, do it without hurting their feeling.",
+      "If you don't like what your child is doing, ask her/him about her/his emotional needs.",
+      "If you want to prevent a child from doing something, use her/his emotional feeling.",
+      "Knowledge of emotional needs is important to guide a child in the right way."
+    ],
+    "answer": 0,
+    "explanation": "The original sentence advises being sensitive to emotional needs when expressing disapproval. Option A best captures this: when making children stop (expressing disapproval), do it without hurting feelings (being sensitive to emotional needs)."
+  },
+  {
+    "question": "They heard it on the radio that the ____ where they store expensive electronic materials was on fire. I heard that the damage it inflicted is estimated at five million birr.",
+    "options": [
+      "auditorium",
+      "classroom",
+      "warehouse",
+      "hall"
+    ],
+    "answer": 2,
+    "explanation": "A 'warehouse' is a building used for storing goods and materials, especially expensive electronic items. An auditorium is for audiences, a classroom is for teaching, and a hall is a general large room — none of which are specifically for storage."
+  },
+  {
+    "question": "I will never forget my stay in this company. I enjoyed working with you as my boss and I ____ meeting you again sometime in my life.",
+    "options": [
+      "look forward to",
+      "wish",
+      "will wait until",
+      "like"
+    ],
+    "answer": 0,
+    "explanation": "'Look forward to' means to anticipate something with pleasure, which fits the context of hoping to meet someone again. The phrase 'I look forward to meeting you' is a standard English expression for anticipating a future meeting with pleasure."
+  },
+  {
+    "question": "We will need to revolutionize our work culture. Everyone should be convinced that ____ comes through hard work and embrace for that. Otherwise, we remain poor forever.",
+    "options": [
+      "popularity",
+      "prosperity",
+      "reputation",
+      "authority"
+    ],
+    "answer": 1,
+    "explanation": "'Prosperity' means success and financial well-being, which logically follows 'comes through hard work' and contrasts with 'remain poor forever.' The sentence is saying that prosperity (not poverty) comes from hard work."
+  },
+  {
+    "question": "Your room is still ____! Remember, I told you to get your stuff organized when I visited you last time. If I found the same next time, make sure you would be out.",
+    "options": [
+      "suffocated",
+      "crowded",
+      "unclean",
+      "untidy"
+    ],
+    "answer": 3,
+    "explanation": "'Untidy' means not neat and organized. The clue 'get your stuff organized' directly contrasts with 'untidy.' A room that needs organizing is untidy, not merely suffocated, crowded, or unclean."
+  },
+  {
+    "question": "It rained all of a sudden and brought the game to an unexpected ____. The good thing, however, was that it stopped in fifteen minutes and the match continued.",
+    "options": [
+      "finish",
+      "halt",
+      "circumstance",
+      "confusion"
+    ],
+    "answer": 1,
+    "explanation": "'Halt' means a temporary stop, which fits because the match continued after the rain stopped. 'Finish' implies a permanent end, but the match resumed. 'Circumstance' and 'confusion' don't fit the context of stopping a game."
+  },
+  {
+    "question": "New schools have been opened in almost all corners of Ethiopia during the last two decades and ____ has increased by nearly ten-folds. We now have almost all school age children in the system.",
+    "options": [
+      "education",
+      "quantity",
+      "schooling",
+      "enrolment"
+    ],
+    "answer": 3,
+    "explanation": "'Enrolment' refers to the number of students registered in schools. The context about school-age children being in the system directly relates to enrolment numbers increasing. 'Education' and 'schooling' are abstract concepts that don't 'increase by ten-folds' in the same measurable way."
+  },
+  {
+    "question": "If you have to go abroad for your education, one of the things you have to be worried about is ____. You have to be sure of where you are going to stay before you leave this country.",
+    "options": [
+      "accommodation",
+      "facilities",
+      "provisions",
+      "stipend"
+    ],
+    "answer": 0,
+    "explanation": "'Accommodation' means a place to live or stay. The clue 'where you are going to stay' directly defines accommodation. Facilities, provisions, and stipend don't refer to housing."
+  },
+  {
+    "question": "We are fed up of people killing each other in this country. We want to see all ethnic groups ____ with one another and lead a peaceful life as they once did.",
+    "options": [
+      "compromised",
+      "intervened",
+      "reconciled",
+      "mediated"
+    ],
+    "answer": 2,
+    "explanation": "'Reconciled' means to restore friendly relations between parties that were in conflict. The context of ethnic groups killing each other and wanting peace means they need to be reconciled. 'Compromised' means giving up something, 'intervened' means to step in, and 'mediated' means to help resolve a dispute."
+  },
+  {
+    "question": "Despite our resistance, he decided to quit his studies and take up music. What does 'take up' mean?",
+    "options": [
+      "play",
+      "start",
+      "major in",
+      "sing"
+    ],
+    "answer": 1,
+    "explanation": "'Take up' means to begin or start doing something new (in this case, starting to pursue music). While 'play' and 'sing' relate to music, they are too specific. 'Start' captures the general meaning of 'take up' in this context."
+  },
+  {
+    "question": "A very important lesson I learnt from Kokeb is that you don't have to rely on anyone. People respect you when you are self-sufficient, particularly financially. What does 'rely on' mean?",
+    "options": [
+      "entreat",
+      "depend",
+      "trouble",
+      "beg"
+    ],
+    "answer": 1,
+    "explanation": "'Rely on' means to depend on someone or something. 'Depend' is the closest synonym. 'Entreat' means to beg, 'trouble' means to cause problems, and 'beg' means to ask desperately — none match the meaning of 'rely on.'"
+  },
+  {
+    "question": "Problems in this country are getting more and more complex from time to time. However, ways should be sought to overcome them and start thinking about development. What does 'overcome' mean?",
+    "options": [
+      "overpower",
+      "solve",
+      "handle",
+      "defeat"
+    ],
+    "answer": 1,
+    "explanation": "'Overcome' in the context of problems means to successfully deal with or solve them. 'Solve' is the closest synonym for overcoming problems. 'Overpower' and 'defeat' are more physical/combat-oriented, while 'handle' is less definitive than 'solve.'"
+  },
+  {
+    "question": "If he is visually impaired, tell him he should learn how to use braille. Otherwise, things will be hard for him when it comes to reading and writing. What does 'visually impaired' mean?",
+    "options": [
+      "damaged",
+      "unable",
+      "weakened",
+      "disabled"
+    ],
+    "answer": 1,
+    "explanation": "'Visually impaired' means unable to see properly (having a vision disability). 'Unable' best captures the meaning of being unable to see. 'Damaged' is too general, 'weakened' implies partial ability, and 'disabled' is broader than just visual impairment."
+  },
+  {
+    "question": "It is important to conserve some of our peace building traditions and pass them down to the coming generation. What does 'conserve' mean?",
+    "options": [
+      "appreciate",
+      "stock",
+      "keep",
+      "enjoy"
+    ],
+    "answer": 2,
+    "explanation": "'Conserve' means to protect from loss or harm, to preserve or keep. 'Keep' is the closest synonym in this context of preserving traditions for future generations. 'Appreciate' and 'enjoy' are related but don't capture the preservation aspect."
+  },
+  {
+    "question": "Why are you worried about her? I know she is capable. Just leave her alone and you will see how beautifully she would do it. What does 'capable' mean?",
+    "options": [
+      "competent",
+      "diligent",
+      "bright",
+      "clever"
+    ],
+    "answer": 0,
+    "explanation": "'Capable' means having the ability or competence to do something. 'Competent' is the closest synonym. 'Diligent' means hardworking, 'bright' means intelligent, and 'clever' means quick-witted — these are related but not synonyms of 'capable.'"
+  },
+  {
+    "question": "Your persistent complaints have now started to irritate me. How come that your eyes cannot see anything positive of what is going on? What does 'irritate' mean?",
+    "options": [
+      "annoy",
+      "itch",
+      "disgust",
+      "prick"
+    ],
+    "answer": 0,
+    "explanation": "'Irritate' means to annoy or make someone impatient/angry. 'Annoy' is the closest synonym in this context. 'Itch' is a physical sensation, 'disgust' is stronger revulsion, and 'prick' is a physical action."
+  },
+  {
+    "question": "I heard a big bang in the middle of the night. Did the firearms in the depot go off or was it something else? What does 'go off' mean?",
+    "options": [
+      "burn down",
+      "catch fire",
+      "explode",
+      "heat up"
+    ],
+    "answer": 2,
+    "explanation": "'Go off' in the context of firearms means to explode or fire. 'Explode' is the closest synonym. 'Burn down' means to destroy by fire, 'catch fire' means to start burning, and 'heat up' means to become warm — none capture the sudden explosive nature of 'go off.'"
+  },
+  {
+    "question": "Ethiopia could manage climate change and HIV/AIDS infection",
+    "options": [
+      "by slowing industrialization to reduce carbon emission.",
+      "by reducing rural residents through urbanization.",
+      "by using environment-friendly technologies and activities.",
+      "by getting assistance from the international community."
+    ],
+    "answer": 2,
+    "explanation": "According to the passage, the study recommended environment-friendly technologies as one of the key solutions. This is stated in paragraph 4: 'technologies which are environment friendly have to be introduced.'"
+  },
+  {
+    "question": "According to the passage, the drought and famine of Wollo demonstrates the relationship between climate change and",
+    "options": [
+      "infrastructure.",
+      "peasantry.",
+      "overpopulation.",
+      "lack of governance."
+    ],
+    "answer": 1,
+    "explanation": "The passage describes the Wollo drought and famine as an example of how climate change has affected Ethiopia. The famine primarily affected peasant farmers in northern Ethiopia, demonstrating the relationship between climate change and peasantry (agricultural livelihoods)."
+  },
+  {
+    "question": "According to the passage, resettlement",
+    "options": [
+      "helps the use of technology.",
+      "creates better environment for giving health services.",
+      "increases food security.",
+      "increases HIV/AIDS infection and environmental degradation."
+    ],
+    "answer": 3,
+    "explanation": "The passage explicitly states in paragraph 4: 'Resettlement is a temporary solution. In fact, it fuels the spread of HIV/AIDS and enhances environmental degradation.'"
+  },
+  {
+    "question": "The resettlement and villagization programs implemented by the military government",
+    "options": [
+      "reduced environmental degradation.",
+      "raised agricultural productivity.",
+      "was forced displacement of people.",
+      "helped in dealing with climate change."
+    ],
+    "answer": 2,
+    "explanation": "The passage describes these programs as 'unpopular' and 'contributory factors to the downfall of the regime.' They were forced programs that displaced people against their will, making option C correct."
+  },
+  {
+    "question": "Studies made by Miz-Hasab Research Center confirmed a strong relationship between",
+    "options": [
+      "HIV/AIDS and climate change.",
+      "education and climate change.",
+      "agricultural development and climate change.",
+      "industrialization and climate change."
+    ],
+    "answer": 0,
+    "explanation": "The passage states that 'Studies made at Miz-Hasab Research Centre show that vulnerability to HIV/AIDS has increased in communities affected by climate change,' confirming a relationship between HIV/AIDS and climate change."
+  },
+  {
+    "question": "The authors think that to prepare the population to be able to cope with climate change, one of those given below is a priority.",
+    "options": [
+      "regional cooperation",
+      "improved infrastructure",
+      "mass education on climate change",
+      "investment on building industries"
+    ],
+    "answer": 2,
+    "explanation": "The passage states in paragraph 5: 'Education is a key factor for change.' The authors emphasize educating communities about climate change as a priority for coping with its effects."
+  },
+  {
+    "question": "Social capital in paragraph 5 refers to the",
+    "options": [
+      "use of technologies by communities.",
+      "scientific knowledge communities possess.",
+      "positive cultural assets and values of communities.",
+      "financial investment of the communities."
+    ],
+    "answer": 2,
+    "explanation": "In the context of paragraph 5, 'social capital' refers to the cultural assets and values that communities possess, which can be leveraged for behavioral change. The passage discusses developing 'the social capital each community possesses for bringing about behavioural change.'"
+  },
+  {
+    "question": "According to the authors, NAPA is",
+    "options": [
+      "blame for inefficiency and lacks responsiveness.",
+      "a redundant organization.",
+      "doing fine but needs reformulation.",
+      "successfully accomplishing its objectives."
+    ],
+    "answer": 2,
+    "explanation": "The passage states in paragraph 6: 'The authors believe that if NAPA is reformulated by incorporating these notions, it can make an impact.' This implies NAPA exists and functions but needs to be reformulated to be more effective."
+  },
+  {
+    "question": "Ethiopia has been experiencing the effects of climate change recurrently for many years. This implies Ethiopia has problems related to",
+    "options": [
+      "agricultural resources to feed its people.",
+      "preventing causes of climate change and its consequences.",
+      "water resources to make portable water available to its people.",
+      "preventing infectious disease such as HIV/AIDS."
+    ],
+    "answer": 0,
+    "explanation": "The passage discusses recurrent droughts and famines affecting Ethiopia, which directly impact agricultural resources and the ability to feed the population. The main theme is food insecurity caused by climate change."
+  },
+  {
+    "question": "According to the authors, one of those given below is recommended to help deal with climate change.",
+    "options": [
+      "commitment to gender equity",
+      "modernize agriculture",
+      "expand on urbanization",
+      "prioritizing environmental rehabilitation"
+    ],
+    "answer": 3,
+    "explanation": "The passage explicitly recommends in paragraph 4: 'environmental rehabilitation should be given priority.' This includes conservation of soil and wildlife. Gender equity is also mentioned but as a separate point, not as the primary recommendation for climate change."
+  },
+  {
+    "question": "In which of the sentences in Paragraph one is the concept of diversity best reflected?",
+    "options": [
+      "Sentence six",
+      "Sentence five",
+      "Sentence three",
+      "Sentence one"
+    ],
+    "answer": 0,
+    "explanation": "Sentence six states 'the world generally would never have been as interesting if there wasn't this diversity,' which most directly reflects and affirms the concept and value of diversity. It serves as the paragraph's thesis about diversity being beneficial."
+  },
+  {
+    "question": "Which one of the following is NOT implied in what the author states as reasons for diversity?",
+    "options": [
+      "The kind of family one comes from",
+      "The social origin of the individual",
+      "The kind of people one met in life",
+      "One's behavioral characteristics"
+    ],
+    "answer": 2,
+    "explanation": "The author mentions 'different backgrounds,' 'different personalities,' and 'several other attributes' as reasons for diversity. 'The kind of people one met in life' is not mentioned or implied. Backgrounds, personalities, and attributes (behavioral characteristics) are implied."
+  },
+  {
+    "question": "What is the author's viewpoint towards diversity?",
+    "options": [
+      "Diversity is the major cause of war and other evils in the world.",
+      "The fact that we share the same planet works against diversity.",
+      "Life would have been much better if everything were uniform.",
+      "Without diversity, the world wouldn't have been interesting."
+    ],
+    "answer": 3,
+    "explanation": "The author states in paragraph 1: 'the world generally would never have been as interesting if there wasn't this diversity.' This directly supports option D — the author believes diversity makes the world interesting."
+  },
+  {
+    "question": "Which one of the following could most likely be a culture shock to a foreigner visiting Ethiopia?",
+    "options": [
+      "Being invited to a meal where raw meat is served as a part.",
+      "Watching shoeshine boys cleaning shoes by the road.",
+      "Encountering young people fighting in the street.",
+      "Coming across people drinking tella together."
+    ],
+    "answer": 0,
+    "explanation": "Culture shock is most strongly experienced when encountering unfamiliar food practices. Eating raw meat (kitfo in Ethiopian culture) would be the most surprising and unfamiliar practice for a foreigner, making it the most likely source of culture shock."
+  },
+  {
+    "question": "In Paragraph 3, the author says, 'With the latter, it seems everyone loses out in one way or ….' What does 'with the latter' show?",
+    "options": [
+      "Combating global challenges",
+      "Learning from our differences",
+      "Harnessing the limited resources",
+      "Creating disadvantages for others"
+    ],
+    "answer": 3,
+    "explanation": "The 'latter' refers to the second of two things just mentioned: 'Differences and diversity … should be used to learn instead of creating disadvantages for others.' The latter is 'creating disadvantages for others,' and with that, everyone loses out."
+  },
+  {
+    "question": "What does the word 'this' in Paragraph 3, line 2, refer to?",
+    "options": [
+      "The so called cultural barriers",
+      "Answers to curbing clashes",
+      "Breaking cultural barriers",
+      "One of the many answers"
+    ],
+    "answer": 2,
+    "explanation": "In the context, the author says 'It may not always be necessary to break the so called cultural barriers but largely this may be one of the many answers…' Here 'this' refers back to 'breaking cultural barriers,' which is the action being discussed as a possible answer."
+  },
+  {
+    "question": "According to the author, what is a possible advantage of diversity of human beings?",
+    "options": [
+      "It has relieved us of worrying about eating differently.",
+      "It has allowed us to have enough of what we live on.",
+      "It has allowed us to live on one part of the planet.",
+      "It has proved a solution to reducing conflicts."
+    ],
+    "answer": 1,
+    "explanation": "In paragraph 2, the author explains that if everyone ate the same food, they'd all stay in one place and there wouldn't be enough for everyone. Diversity in food habits allows different groups to live on different parts of the planet with enough resources — 'enough of what we live on.'"
+  },
+  {
+    "question": "Given the objective realities in the world today, what can we say about the author's remarks at the end of Paragraph 3?",
+    "options": [
+      "They tend to be pessimistic.",
+      "They are rather too critical.",
+      "They are rather realistic.",
+      "They are too optimistic."
+    ],
+    "answer": 3,
+    "explanation": "The author hopes that in the near future, people will be accepted regardless of religion, sexual orientation, or ethnicity. Given the ongoing conflicts and discrimination in the real world, this hope seems overly optimistic rather than realistic."
+  },
+  {
+    "question": "What is the paradox about diversity being a blessing to humanity in enhancing equity in the various sectors?",
+    "options": [
+      "To most societies today, their diversity has become a source of atrocity.",
+      "Most countries have exploited their diversity for peace and development.",
+      "Diversity has been among the source of unfair distribution of resources.",
+      "A lot of countries have used diversity as a basis of difference and hostility."
+    ],
+    "answer": 0,
+    "explanation": "The paradox is that while diversity should be a blessing (enhancing equity), it has instead become a source of atrocity in many societies. This contradiction — diversity meant to bring equity but causing atrocity — is the paradox."
+  },
+  {
+    "question": "Which one of the following, according to the writer, is NOT among the important tools used in fighting some of the common problems facing humanity today?",
+    "options": [
+      "Using our diverse heritages in a positive way",
+      "Shaping others so they adore our perceptions",
+      "Respecting the way other people worship",
+      "Tolerating others' deviations from us"
+    ],
+    "answer": 1,
+    "explanation": "The author advocates tolerance, understanding, and respecting different perceptions and practices. 'Shaping others so they adore our perceptions' contradicts the principle of respecting diversity and is NOT one of the tools the author recommends."
+  },
+  {
+    "question": "You now seem to have lost all the excess weight. You look really sportive. ____ do you go to the gym?",
+    "options": [
+      "How many times",
+      "How often",
+      "Which place",
+      "With who"
+    ],
+    "answer": 1,
+    "explanation": "'How often' asks about frequency, which is appropriate when asking about gym attendance. 'How many times' is used for specific countable events. 'Which place' is irrelevant, and 'With who' should be 'With whom' and doesn't fit the context."
+  },
+  {
+    "question": "I say we should not question the competence of the new team. Each member is ____ those we had in the last round.",
+    "options": [
+      "as experienced as",
+      "much experienced as",
+      "so experienced",
+      "very experienced as"
+    ],
+    "answer": 0,
+    "explanation": "'As experienced as' is the correct comparative structure for equating two things. 'Much experienced as' and 'very experienced as' are grammatically incorrect. 'So experienced' doesn't complete the comparison."
+  },
+  {
+    "question": "We do not understand why he always comes so late. If he arrives on time like his friends, he ____ the opportunity to meet us and get the necessary assistance.",
+    "options": [
+      "may be having",
+      "ought to have",
+      "would have",
+      "will have"
+    ],
+    "answer": 2,
+    "explanation": "This is a conditional sentence (Type 2). 'If he arrived on time … he would have' is the correct structure for a hypothetical situation. 'Would have' expresses the result of an unreal condition in the present/future."
+  },
+  {
+    "question": "I know one thing for sure. ____ hand in hand and worked for the unity of the country. If everyone goes his way, we get smaller and weaker for the enemy to engulf us.",
+    "options": [
+      "We should stand together",
+      "It is time we joined",
+      "Let everybody join",
+      "Everybody joined"
+    ],
+    "answer": 0,
+    "explanation": "'We should stand together hand in hand' is grammatically correct and makes sense in context. 'It is time we joined' uses the subjunctive but doesn't fit the imperative tone. 'Let everybody join' changes the meaning slightly. 'Everybody joined' is past tense and doesn't fit."
+  },
+  {
+    "question": "Have you heard that the police arrested Mr. Gwangu, ____ was our school Director?",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "'Who' is the correct relative pronoun for a person when it's the subject of the relative clause ('who was our school Director'). 'Whom' is used for objects. 'That' is less formal and not preferred in non-restrictive clauses. 'Which' is for things."
+  },
+  {
+    "question": "Conflicts ____ take place between the pastoralists and farmers in this area every time the dry season comes.",
+    "options": [
+      "shall",
+      "may",
+      "would",
+      "will"
+    ],
+    "answer": 2,
+    "explanation": "'Would' is used here to describe a habitual action in the past or a repeated occurrence. However, given 'every time the dry season comes' (present tense), 'would' can express a habitual/repeated action. Actually, looking more carefully, this describes a recurring event, and 'would' fits the pattern of habitual occurrence."
+  },
+  {
+    "question": "The fund raising project in our kebele has been more successful than ever before. An insider told me they ____ raise 10 million birr in six months.",
+    "options": [
+      "were able to",
+      "are able to",
+      "would be able to",
+      "may be able to"
+    ],
+    "answer": 0,
+    "explanation": "'Were able to' is correct because it refers to a completed past achievement (they actually raised the money). 'Could' refers to general ability, while 'were able to' specifically indicates that the action was successfully completed."
+  },
+  {
+    "question": "I believe you and there may not be any mosquitoes at this time of the year. But ____ it is always good to be on the safe side?",
+    "options": [
+      "can I just say that",
+      "isn't it true",
+      "can I disagree",
+      "may I agree"
+    ],
+    "answer": 1,
+    "explanation": "'Isn't it true' forms a tag-like question seeking agreement. The sentence is asking for confirmation that being on the safe side is a good idea: 'But isn't it true [that] it is always good to be on the safe side?'"
+  },
+  {
+    "question": "We learnt there is a very important conference you are holding towards the end of this month. ____ as they could gain some knowledge?",
+    "options": [
+      "Is it possible that our students attend it",
+      "Shall our students possibly attend it",
+      "Our students could attend it please",
+      "Would our students attend it"
+    ],
+    "answer": 0,
+    "explanation": "'Is it possible that our students attend it' is a polite way to make a request. The structure 'Is it possible that…' is a formal and polite request form. The other options are either grammatically incorrect or impolite."
+  },
+  {
+    "question": "I appreciate what you said about the root causes of the problem and how we can possibly solve it. But for our record, ____",
+    "options": [
+      "what is your name and where you come from?",
+      "could you tell us your name and where you come from?",
+      "where do you come from and your name, please?",
+      "are you willing to tell us what's your name and your address?"
+    ],
+    "answer": 1,
+    "explanation": "'Could you tell us your name and where you come from?' is a polite indirect question. Indirect questions maintain statement word order after 'could you tell us,' making this grammatically correct and appropriate for formal settings."
+  },
+  {
+    "question": "Everything was in a mess ____ I arrived.",
+    "options": [
+      "while",
+      "when",
+      "since",
+      "after"
+    ],
+    "answer": 1,
+    "explanation": "'When' is the correct conjunction here, indicating that at the moment of arrival, everything was already in a mess. 'While' implies simultaneous action. 'Since' implies causation. 'After' would require a different tense structure."
+  },
+  {
+    "question": "The area was ragged and mountainous. ____, its weather was so harsh that we could hardly move around and see places.",
+    "options": [
+      "All along",
+      "Even then",
+      "In addition",
+      "However"
+    ],
+    "answer": 2,
+    "explanation": "'In addition' adds another negative aspect to the description. The terrain was ragged and mountainous, AND IN ADDITION, the weather was harsh. This is an additive relationship, not a contrastive one (which 'however' would indicate)."
+  },
+  {
+    "question": "The crowd kept rallying every day and the scene gradually started turning violent ____ the people thought the government didn't take them seriously.",
+    "options": [
+      "as a consequence of",
+      "consequently",
+      "because of",
+      "because"
+    ],
+    "answer": 3,
+    "explanation": "'Because' introduces a clause (subject + verb), while 'because of' and 'as a consequence of' are followed by noun phrases. Here, 'the people thought the government didn't take them seriously' is a full clause, so 'because' is correct."
+  },
+  {
+    "question": "Tensions between the two countries seem to ____ from time to time but they would never fight.",
+    "options": [
+      "regenerate",
+      "heighten",
+      "worsen",
+      "improve"
+    ],
+    "answer": 2,
+    "explanation": "'Worsen' means to become more intense or severe, which fits the context of tensions between countries. The contrast with 'they would never fight' suggests tensions get worse but don't escalate to actual conflict."
+  },
+  {
+    "question": "It is sad that COVID-19 has already caused a lot of damage to many countries of the world. ____, due to the vaccines administered all over the world, there are signs that the rate of infection is declining.",
+    "options": [
+      "However",
+      "But",
+      "On the contrary",
+      "Surprisingly"
+    ],
+    "answer": 0,
+    "explanation": "'However' is the most formal and appropriate transition word to introduce a contrasting statement in written English. 'But' is too informal for this context. 'On the contrary' is used to deny a previous statement. 'Surprisingly' implies unexpectedness."
+  },
+  {
+    "question": "The school ____ a lot of job this year. This was mainly because every member of the school community was cooperative in supporting the administration.",
+    "options": [
+      "had done",
+      "has done",
+      "is doing",
+      "does"
+    ],
+    "answer": 1,
+    "explanation": "'Has done' is in the present perfect tense, which connects a past action to the present. 'This year' indicates a period that includes the present, so present perfect is appropriate. 'Had done' (past perfect) would require a past time reference."
+  },
+  {
+    "question": "We were all busy reading the fiction our teacher asked us to read when we ____ a huge explosion that seemed to be from upstairs.",
+    "options": [
+      "were hearing",
+      "hear",
+      "would hear",
+      "heard"
+    ],
+    "answer": 3,
+    "explanation": "The past continuous 'were reading' is interrupted by a sudden event. 'Heard' (simple past) is correct for the interrupting action in a past narrative: 'We were reading … when we heard …'"
+  },
+  {
+    "question": "If she ____ persistent dry cough and fever, I would have called 8335 but that wasn't the case.",
+    "options": [
+      "had had",
+      "has had",
+      "would have",
+      "did have"
+    ],
+    "answer": 0,
+    "explanation": "This is a Type 3 conditional (past unreal). The structure is: 'If she had had (past perfect), I would have called (conditional perfect).' 'Had had' is the past perfect form of 'have.'"
+  },
+  {
+    "question": "I have ____ things to do before I leave for the meeting. So, I have to lock myself in and work with no interruption.",
+    "options": [
+      "a lot of",
+      "much",
+      "a few",
+      "some"
+    ],
+    "answer": 0,
+    "explanation": "'A lot of' is used with countable nouns ('things') and indicates a large quantity, which matches the urgency of needing to lock in and work without interruption. 'Much' is not typically used with countable nouns. 'A few' and 'some' don't convey enough urgency."
+  },
+  {
+    "question": "I am trying to move to Australia to live with my elder brother. I hope my life ____ be different there.",
+    "options": [
+      "should",
+      "will",
+      "is going to",
+      "might"
+    ],
+    "answer": 1,
+    "explanation": "'Will' is used with 'hope' to express a future expectation. 'I hope … will' is the standard collocation. 'Is going to' implies more certainty than 'hope' suggests. 'Should' implies obligation, and 'might' is too uncertain."
+  },
+  {
+    "question": "I would be happy if we can meet this afternoon but ____ it is going to rain. If it doesn't, come to Eliana at 3:30.",
+    "options": [
+      "very unlikely",
+      "I am sure",
+      "it looks as if",
+      "it is as though"
+    ],
+    "answer": 2,
+    "explanation": "'It looks as if' expresses an observation-based prediction about the weather. The context suggests looking at the sky and predicting rain, making 'it looks as if it is going to rain' the most natural expression."
+  },
+  {
+    "question": "Are those two girls from the same family? They look alike and ____ I see them together, even in odd kind of places.",
+    "options": [
+      "most of the time",
+      "some of the time",
+      "infrequently",
+      "hardly do"
+    ],
+    "answer": 0,
+    "explanation": "'Most of the time' indicates a high frequency, which matches the observation that they are always together. The context implies they are very frequently seen together, making 'most of the time' the best fit."
+  },
+  {
+    "question": "I haven't started my homework yet but I ____ it by 4:00 in the afternoon. Submission time is 4:15 p.m.",
+    "options": [
+      "am going to do",
+      "would have done",
+      "will done",
+      "will have done"
+    ],
+    "answer": 3,
+    "explanation": "'Will have done' is the future perfect tense, used for actions that will be completed before a specific future time. The student will complete the homework before 4:00, making future perfect the correct tense."
+  },
+  {
+    "question": "Despite their longtime friendship, Biftu and Tola are not in good terms. ____, they had a problem and now they have broken up.",
+    "options": [
+      "Unfortunate it is",
+      "However, as I understand",
+      "In addition",
+      "Anyway, as I was saying"
+    ],
+    "answer": 1,
+    "explanation": "'However, as I understand' introduces an explanation or interpretation of the situation. The speaker is offering their understanding of why the friendship broke down, making this the most appropriate transitional phrase."
+  },
+  {
+    "question": "My son scored A's in all the courses he took this semester. I am really ____ him.",
+    "options": [
+      "satisfied by",
+      "proud of",
+      "famous for",
+      "keen on"
+    ],
+    "answer": 1,
+    "explanation": "'Proud of' is the standard collocation for expressing parental pride in a child's achievements. 'Satisfied by' is less emotional, 'famous for' doesn't fit the context, and 'keen on' means to like something."
+  },
+  {
+    "question": "We all contributed what is within our reach ____ help the needy children in our school.",
+    "options": [
+      "so as to",
+      "so that to",
+      "because of to",
+      "because to"
+    ],
+    "answer": 0,
+    "explanation": "'So as to' is the correct phrase expressing purpose, meaning 'in order to.' 'So that' is followed by a clause (not an infinitive). 'Because of to' and 'because to' are grammatically incorrect."
+  },
+  {
+    "question": "I can see your point of argument but ____ the officials are honest when it comes to denouncing corruption. One of them was caught red-handed by the police a fortnight ago.",
+    "options": [
+      "I am not convinced that",
+      "it is unacceptable",
+      "everybody says that",
+      "I don't doubt that"
+    ],
+    "answer": 0,
+    "explanation": "The speaker acknowledges the argument but contradicts it with evidence of an official caught red-handed. 'I am not convinced that the officials are honest' logically connects the concession with the contradictory evidence."
+  },
+  {
+    "question": "Of all the stuff she bought yesterday, I like the books ____ she got from the library.",
+    "options": [
+      "whom",
+      "those",
+      "whose",
+      "which"
+    ],
+    "answer": 3,
+    "explanation": "'Which' is the correct relative pronoun for things (books). 'Whom' is for people as objects. 'Those' is a demonstrative pronoun, not a relative pronoun. 'Whose' indicates possession."
+  },
+  {
+    "question": "I am glad we decided to let Birke move in because we are saving her life. ____, we are disappointing her mom who wants her around regardless of any risk that may come.",
+    "options": [
+      "In this circumstance",
+      "On the other hand",
+      "Consequently",
+      "Anyway"
+    ],
+    "answer": 1,
+    "explanation": "'On the other hand' introduces a contrasting point. The first part is positive (saving Birke's life), but the second part is negative (disappointing her mom). This contrast requires 'on the other hand.'"
+  },
+  {
+    "question": "Is he seriously threatening to kill you? Don't take this as a joke. ____ need to report it to the police.",
+    "options": [
+      "The thing is you",
+      "It is important you",
+      "It is important that you",
+      "You might"
+    ],
+    "answer": 0,
+    "explanation": "'The thing is you need to' is an idiomatic expression emphasizing the necessity of an action. It conveys urgency and importance in a natural conversational way. 'It is important you' is grammatically incomplete without 'that.'"
+  },
+  {
+    "question": "They have now arrested the two brothers ____ led the coup against King Bozambo of Jombaria.",
+    "options": [
+      "whom",
+      "those",
+      "which",
+      "who"
+    ],
+    "answer": 3,
+    "explanation": "'Who' is the correct subject relative pronoun for people. The brothers are the subject of 'led the coup,' so 'who' (not 'whom') is correct. 'Those' and 'which' are not relative pronouns for people."
+  },
+  {
+    "question": "Our office wants to employ secretaries on a contractual basis but with a possible extension. I encourage you to apply if you ____ neatly type at least 60 words per minute.",
+    "options": [
+      "would",
+      "may",
+      "will",
+      "can"
+    ],
+    "answer": 3,
+    "explanation": "'Can' expresses ability, which is required here: the ability to type at least 60 words per minute. 'Would' is conditional, 'may' is about permission, and 'will' is about future intention — none express ability like 'can.'"
+  },
+  {
+    "question": "I am taking my own bed sheets with me ____ the hotel doesn't provide clean ones.",
+    "options": [
+      "if perhaps",
+      "in case",
+      "just since",
+      "if"
+    ],
+    "answer": 1,
+    "explanation": "'In case' means 'as a precaution against the possibility that.' The speaker is taking bed sheets as a precaution against the possibility that the hotel's sheets aren't clean. This is the standard usage of 'in case.'"
+  },
+  {
+    "question": "Unless there is something fishy about his business, Elias ____ a millionaire now. He just had that small kiosk when I left the village half a year ago.",
+    "options": [
+      "must not be",
+      "may not be",
+      "can't be",
+      "is not"
+    ],
+    "answer": 2,
+    "explanation": "'Can't be' expresses strong logical deduction that something is impossible. Given that Elias only had a small kiosk six months ago, it's logically impossible for him to be a millionaire now (unless something suspicious is going on). 'Must not be' is weaker deduction."
+  },
+  {
+    "question": "We ____ in the same office since 2010 but she has never acted like that before.",
+    "options": [
+      "are working",
+      "work",
+      "have worked",
+      "worked"
+    ],
+    "answer": 2,
+    "explanation": "'Have worked' (present perfect) is correct with 'since 2010,' which indicates a period from a past point until now. Present perfect connects the past action to the present. Simple past 'worked' wouldn't convey the ongoing nature."
+  },
+  {
+    "question": "The question is interesting. ____ family do I like most? The answer is 'Million's.'",
+    "options": [
+      "What",
+      "Who",
+      "Which",
+      "Whose"
+    ],
+    "answer": 2,
+    "explanation": "'Which' is used when selecting from a limited set of options. The speaker is choosing from among families, making 'which' the appropriate question word. 'What' is too general, 'who' is for people directly, and 'whose' indicates possession."
+  },
+  {
+    "question": "I can see you are not very happy these days. ____ what is bothering you?",
+    "options": [
+      "What is the problem",
+      "Would you mind telling me",
+      "Honestly, I want to know",
+      "It could happen but is it serious"
+    ],
+    "answer": 1,
+    "explanation": "'Would you mind telling me' is a polite way to ask someone about their concerns. It respects the person's privacy while showing care. The other options are either too direct or don't form a proper question."
+  },
+  {
+    "question": "Nurses and doctors ____ every three days to see the progress the migrants are making. Reports show that most of them are now recovering.",
+    "options": [
+      "have been dispatched",
+      "are dispatched",
+      "were dispatched",
+      "dispatched"
+    ],
+    "answer": 0,
+    "explanation": "'Have been dispatched' (present perfect passive) indicates an action that started in the past and continues to the present with results visible now (the migrants are recovering). The ongoing nature of the dispatching matches the present perfect."
+  }
+]

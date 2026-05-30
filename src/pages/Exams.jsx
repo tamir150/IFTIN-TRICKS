@@ -6,7 +6,7 @@ export const Exams = ({ user, onOpenAuth, triggerNotification }) => {
   const navigate = useNavigate();
 
   const subjects = [
-    { name: 'Mathematics', icon: <Calculator className="w-8 h-8" />, color: 'from-blue-500 to-indigo-600', description: 'Calculus, Algebra, Geometry' },
+    { name: 'Maths', icon: <Calculator className="w-8 h-8" />, color: 'from-blue-500 to-indigo-600', description: 'Calculus, Algebra, Geometry' },
     { name: 'Physics', icon: <Atom className="w-8 h-8" />, color: 'from-indigo-500 to-purple-600', description: 'Mechanics, Electromagnetism, Optics' },
     { name: 'Chemistry', icon: <Beaker className="w-8 h-8" />, color: 'from-purple-500 to-pink-600', description: 'Organic, Inorganic, Physical Chemistry' },
     { name: 'Biology', icon: <Globe className="w-8 h-8" />, color: 'from-emerald-500 to-teal-600', description: 'Genetics, Physiology, Ecology' },

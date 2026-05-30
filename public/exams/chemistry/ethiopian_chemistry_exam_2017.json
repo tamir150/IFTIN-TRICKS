@@ -1,0 +1,882 @@
+[
+  {
+    "question": "Which type of glass is made by heating a mixture of silica, sodium carbonate and limestone?",
+    "options": [
+      "Soda-lime glass",
+      "Pyrex glass",
+      "Borosilicate glass",
+      "Quartz glass"
+    ],
+    "answer": 0,
+    "explanation": "Soda-lime glass is produced by heating silica (SiO2), sodium carbonate (Na2CO3), and limestone (CaCO3). It is the most common type of glass used in windows and bottles."
+  },
+  {
+    "question": "Consider the following galvanic cell: [Zinc strip in 1.0 M Zn(NO3)2, Metal B in 1.0 M BSO4, connected by a voltmeter]. When the Zn strip was connected to metal B at 25 degrees C, the cell potential reading on the voltmeter shows 0.51 V. Which of the following is the standard reduction potential of metal B? (E0 Zn2+/Zn = -0.76 V)",
+    "options": [
+      "E0 B2+/B = 1.27 V",
+      "E0 B2+/B = 0.25 V",
+      "E0 B2+/B = -1.27 V",
+      "E0 B2+/B = -0.25 V"
+    ],
+    "answer": 3,
+    "explanation": "Using Ecell = Ecathode - Eanode. Zn is the anode (more negative reduction potential), so 0.51 = E0 B2+/B - (-0.76). E0 B2+/B = 0.51 - 0.76 = -0.25 V."
+  },
+  {
+    "question": "Which of the following polymer is used to make ropes, clothes, hair combs and stockings?",
+    "options": [
+      "Bakelite",
+      "Teflon",
+      "Nylon",
+      "Perspex"
+    ],
+    "answer": 2,
+    "explanation": "Nylon is a polyamide polymer known for its strength and flexibility, making it suitable for manufacturing ropes, clothes, combs, and stockings."
+  },
+  {
+    "question": "Which of the following catalyst is used in the Ostwald process for the production of HNO3?",
+    "options": [
+      "CuO",
+      "Fe",
+      "V2O5",
+      "Pt"
+    ],
+    "answer": 3,
+    "explanation": "The Ostwald process oxidizes ammonia to nitric acid using a platinum (Pt) catalyst at high temperature. The reaction is: 4NH3 + 5O2 -> 4NO + 6H2O (catalyzed by Pt)."
+  },
+  {
+    "question": "Which one of the following CORRECTLY illustrates the hybridization of orbitals of Be in the molecule BeCl2?",
+    "options": [
+      "Diagram showing no hybridization with 2s and 2p orbitals separate",
+      "Diagram showing sp hybridization with one 2s and one 2p orbital mixing",
+      "Diagram showing sp2 hybridization",
+      "Diagram showing sp3 hybridization"
+    ],
+    "answer": 1,
+    "explanation": "Be in BeCl2 undergoes sp hybridization. One 2s and one 2p orbital of Be mix to form two equivalent sp hybrid orbitals, each overlapping with a Cl 3p orbital to form two sigma bonds. This gives a linear geometry with a bond angle of 180 degrees."
+  },
+  {
+    "question": "What is the electron configuration of O2 molecule as per the molecular orbital model? (Atomic number of O = 8)",
+    "options": [
+      "sigma1s2 sigma*1s2 sigma2s2 sigma*2s2 sigma2px2 (pi2py2 = pi2pz2) (pi*2py1 = pi*2pz1)",
+      "sigma1s2 sigma*1s2 sigma2s2 sigma*2s2 sigma2px2 (pi2py2 = pi2pz2) (pi*2py2 = pi*2pz2)",
+      "sigma1s2 sigma*1s2 sigma2s2 sigma*2s2 sigma2px2 (pi2py2 = pi2pz2) (pi*2py2 = pi*2pz2)",
+      "sigma1s2 sigma*1s2 sigma2s2 sigma*2s2 sigma2px2 (pi2py2 = pi2pz2) (pi*2py1 = pi*2pz1)"
+    ],
+    "answer": 0,
+    "explanation": "O2 has 16 electrons. In MO theory, after filling sigma1s2, sigma*1s2, sigma2s2, sigma*2s2, sigma2px2, pi2py2, pi2pz2, the remaining 2 electrons go singly into pi*2py and pi*2pz (Hund's rule), giving paramagnetic O2 with bond order 2."
+  },
+  {
+    "question": "Which of the following factors does NOT affect the rate of a chemical reaction having solid reactants?",
+    "options": [
+      "Volume of reaction vessel",
+      "Physical state of reactants",
+      "Temperature of reaction",
+      "Concentration of reactants"
+    ],
+    "answer": 0,
+    "explanation": "For reactions involving solid reactants, the volume of the reaction vessel does not affect the rate because solids have a fixed concentration that doesn't change with volume. Surface area, temperature, and physical state all influence reaction rates with solids."
+  },
+  {
+    "question": "At a particular temperature, the equilibrium constant Kc = 0.36 for the reaction SO3(g) <=> SO2(g) + O2(g). In an experiment, 1.00 mol of SO3 is introduced into a 1.00 L container. It was found that there is 0.50 mol of SO2 at equilibrium in the same volume. Which of the following predictions can be drawn from the given data?",
+    "options": [
+      "It is not possible to predict the direction of the reaction.",
+      "The reaction will proceed to the right.",
+      "The reaction will proceed to the left.",
+      "The reaction is at equilibrium."
+    ],
+    "answer": 2,
+    "explanation": "If [SO2] = 0.50 M at this point, then [O2] = 0.50 M and [SO3] = 0.50 M. Qc = (0.50)(0.50)/(0.50) = 0.50. Since Qc (0.50) > Kc (0.36), the reaction will shift to the left (toward reactants) to reach equilibrium."
+  },
+  {
+    "question": "A mineral absorbs purple light of frequency 7.11 x 10^14 Hz. What is the wavelength (in nm) of the absorbed light? (C = 3.00 x 10^8 m/s)",
+    "options": [
+      "514.5 nm",
+      "421.9 nm",
+      "237.5 nm",
+      "184.4 nm"
+    ],
+    "answer": 1,
+    "explanation": "Using c = lambda x f, lambda = c/f = (3.00 x 10^8 m/s) / (7.11 x 10^14 Hz) = 4.219 x 10^-7 m = 421.9 nm."
+  },
+  {
+    "question": "Why do atoms absorb energy when their electrons undergo transitions from a lower energy to a higher energy level? This is because",
+    "options": [
+      "electrons of the atoms absorb energy when they go from higher to lower energy.",
+      "the electrons of the atoms do not have allowable energy levels.",
+      "the electrons of the atoms move from one orbit of higher radius to another one having lower radius.",
+      "the electrons of the atoms move from one orbit of lower radius to another one having larger radius."
+    ],
+    "answer": 3,
+    "explanation": "When electrons transition from a lower energy level (smaller orbit radius) to a higher energy level (larger orbit radius), they must absorb energy equal to the energy difference between the two levels. Moving to a larger radius orbit requires energy input."
+  },
+  {
+    "question": "What are the quantum numbers for the 5s orbital?",
+    "options": [
+      "n = 5, l = 0, ml = 0, ms = +1/2 or -1/2",
+      "n = 5, l = 2, ml = -2, ms = +1/2 or -1/2",
+      "n = 5, l = 1, ml = -2, ms = +1/2 or -1/2",
+      "n = 5, l = 0, ml = -1, ms = +1/2 or -1/2"
+    ],
+    "answer": 0,
+    "explanation": "For a 5s orbital: n = 5 (principal quantum number), l = 0 (s orbital has azimuthal quantum number 0), ml = 0 (only one orientation for l = 0), and ms = +1/2 or -1/2 (spin quantum number)."
+  },
+  {
+    "question": "Which of the following is CORRECT about the set of quantum numbers assigned to the two electrons of the helium atom?",
+    "options": [
+      "The magnetic quantum numbers of both electrons are different.",
+      "The second electron occupies the same orbital as the first with the opposite spin quantum number.",
+      "The second electron occupies the same orbital as the first with the same spin quantum number.",
+      "Both electrons have the same four quantum numbers."
+    ],
+    "answer": 1,
+    "explanation": "Both electrons of helium occupy the 1s orbital, meaning they share n=1, l=0, ml=0. According to the Pauli exclusion principle, no two electrons in an atom can have the same four quantum numbers, so they must have opposite spins: one has ms = +1/2 and the other ms = -1/2."
+  },
+  {
+    "question": "What is the bond formed between two or more atoms by sharing of electrons?",
+    "options": [
+      "Valence bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Ionic bond"
+    ],
+    "answer": 1,
+    "explanation": "A covalent bond is formed when two or more atoms share electron pairs. This differs from ionic bonds (electron transfer), metallic bonds (delocalized electrons in a metal lattice), and valence bonds (a theoretical description of covalent bonding)."
+  },
+  {
+    "question": "Which statement below CORRECTLY describes dipole-dipole forces? It is the force that exists",
+    "options": [
+      "between polar and non-polar molecules.",
+      "between non-polar molecules.",
+      "between polar molecules.",
+      "in all molecules."
+    ],
+    "answer": 2,
+    "explanation": "Dipole-dipole forces are intermolecular forces that exist between polar molecules. The positive end of one polar molecule is attracted to the negative end of another. They do not exist between non-polar molecules (which have London dispersion forces) or universally in all molecules."
+  },
+  {
+    "question": "Comparing the forces between molecules of similar molar masses, which one of the following produces the weakest force?",
+    "options": [
+      "Van der Waals forces",
+      "Ionic forces",
+      "Hydrogen bonding",
+      "Covalent bonds"
+    ],
+    "answer": 0,
+    "explanation": "Van der Waals forces (London dispersion forces) are the weakest intermolecular forces. Among substances of similar molar mass, the order of strength is: Van der Waals < dipole-dipole < hydrogen bonding < ionic forces. Covalent bonds are intramolecular, not intermolecular."
+  },
+  {
+    "question": "What is a limiting reactant? It is the reactant that",
+    "options": [
+      "is completely consumed when the reaction goes to completion.",
+      "is present in excess when the reaction goes to completion.",
+      "remains unreacted as the reaction proceeds.",
+      "is regenerated at the end of the reaction."
+    ],
+    "answer": 0,
+    "explanation": "The limiting reactant is the substance that is completely consumed first in a chemical reaction, thereby limiting the amount of product that can be formed. The other reactants are in excess and some remain unreacted."
+  },
+  {
+    "question": "In which of the following component of the environment does photosynthesis take place?",
+    "options": [
+      "Biosphere",
+      "Lithosphere",
+      "Hydrosphere",
+      "Atmosphere"
+    ],
+    "answer": 0,
+    "explanation": "Photosynthesis takes place in the biosphere, which includes all living organisms. Plants, algae, and some bacteria in the biosphere carry out photosynthesis to convert CO2 and water into glucose and oxygen using sunlight."
+  },
+  {
+    "question": "Which of the following is NOT true about greenhouse effect and greenhouse gases?",
+    "options": [
+      "The greater the percentage of greenhouse gases in the atmosphere, the cooler the earth should be.",
+      "Oxygen (O2) and nitrogen (N2) are transparent to infrared radiation.",
+      "Carbon dioxide and water vapor are greenhouse gases.",
+      "Greenhouse effect is the trapping of infrared radiation by certain gases in the atmosphere."
+    ],
+    "answer": 0,
+    "explanation": "Statement A is false because increasing greenhouse gases traps more infrared radiation, making the Earth warmer, not cooler. This is the fundamental principle behind global warming. The other statements are correct: O2 and N2 are transparent to IR, CO2 and H2O are greenhouse gases, and the greenhouse effect involves trapping of IR radiation."
+  },
+  {
+    "question": "In which of the following is the type of natural resource and the given example CORRECTLY paired?",
+    "options": [
+      "Non-Renewable Resources; water",
+      "Non-Renewable Resources; animal wool",
+      "Renewable Resources; crops",
+      "Renewable Resources; copper"
+    ],
+    "answer": 2,
+    "explanation": "Crops are renewable resources because they can be regrown and replenished within a human lifetime. Water is renewable, not non-renewable. Animal wool is renewable (it grows back). Copper is a non-renewable mineral resource."
+  },
+  {
+    "question": "Which of the following compound is a Bronsted-Lowry base?",
+    "options": [
+      "H2S",
+      "HCl",
+      "NH3",
+      "BF3"
+    ],
+    "answer": 2,
+    "explanation": "According to the Bronsted-Lowry definition, a base is a proton (H+) acceptor. NH3 can accept a proton to form NH4+, making it a Bronsted-Lowry base. H2S and HCl are proton donors (acids). BF3 is a Lewis acid (electron pair acceptor)."
+  },
+  {
+    "question": "In an activity during laboratory session a small amount of lead bromide (PbBr2) crystals were placed in a beaker. Two electrodes are inserted until they are in contact with the PbBr2 crystals. When the PbBr2 crystals in the beaker are gently heated, which of the following will be observed?",
+    "options": [
+      "Lead(II) ion is oxidized at the cathode.",
+      "Lead(II) ion is reduced at the anode.",
+      "Bromide ion is oxidized at the cathode.",
+      "Bromine gas is evolved at the anode."
+    ],
+    "answer": 3,
+    "explanation": "When molten PbBr2 is electrolyzed, Pb2+ migrates to the cathode (reduced to Pb metal) and Br- migrates to the anode (oxidized to Br2 gas). Bromine gas is evolved at the anode: 2Br- -> Br2 + 2e-."
+  },
+  {
+    "question": "What is the name given to the pollution caused by the dumping of non-biodegradable wastes into the environment?",
+    "options": [
+      "Water pollution",
+      "Sound pollution",
+      "Land pollution",
+      "Air pollution"
+    ],
+    "answer": 2,
+    "explanation": "Dumping non-biodegradable wastes (like plastics, metals, glass) onto land causes land pollution. These materials do not decompose naturally and contaminate soil, affecting ecosystems and groundwater."
+  },
+  {
+    "question": "What is the purpose of the conversion of pig iron to steel?",
+    "options": [
+      "To decrease the concentration of iron in the pig iron.",
+      "To increase the concentration of iron in the pig iron.",
+      "To remove impurities by reduction.",
+      "To remove impurities by oxidation."
+    ],
+    "answer": 3,
+    "explanation": "Pig iron contains impurities like carbon, silicon, manganese, and phosphorus. These are removed by oxidation (blowing oxygen through the molten iron), which converts them to gases or slag. This process produces steel with a controlled carbon content."
+  },
+  {
+    "question": "Which of the following statements CORRECTLY describes the law of conservation of mass?",
+    "options": [
+      "Pure compounds always contain the elements in the same percentage by mass.",
+      "A particular compound is composed of the same elements in the same parts by mass.",
+      "Mass is neither created nor destroyed during a chemical reaction.",
+      "The total mass of substances varies during a chemical reaction."
+    ],
+    "answer": 2,
+    "explanation": "The law of conservation of mass, stated by Lavoisier, says that in a closed system, the total mass of reactants equals the total mass of products. Mass is neither created nor destroyed in a chemical reaction. Option A describes the law of definite proportions."
+  },
+  {
+    "question": "What is the density of methane (CH4) at a pressure of 900 torr and a temperature of 25 degrees C? (R = 0.082 atm.L/mol.K, 1 atm = 760 torr)",
+    "options": [
+      "9.2 g/L",
+      "1.25 g/L",
+      "0.92 g/L",
+      "0.78 g/L"
+    ],
+    "answer": 3,
+    "explanation": "Using the ideal gas law: PV = nRT. P = 900/760 = 1.184 atm, T = 298 K. n/V = P/RT = 1.184/(0.082 x 298) = 0.0485 mol/L. Density = (n/V) x M = 0.0485 x 16 = 0.776 g/L, approximately 0.78 g/L."
+  },
+  {
+    "question": "It takes 2.25 minutes for 0.02 mol of He to diffuse. How long will it take to diffuse for the same amount of methane gas, CH4? (M.wt of He = 4 g/mol, CH4 = 16 g/mol)",
+    "options": [
+      "6 min",
+      "4.5 min",
+      "2.25 min",
+      "1.25 min"
+    ],
+    "answer": 1,
+    "explanation": "Using Graham's law: rate(He)/rate(CH4) = sqrt(M(CH4)/M(He)) = sqrt(16/4) = 2. Since rate = amount/time, rate(CH4) = rate(He)/2. Time is inversely proportional to rate, so time(CH4) = 2 x time(He) = 2 x 2.25 = 4.5 min."
+  },
+  {
+    "question": "Which one of the following statement CORRECTLY defines rate of reaction? The rate of a reaction is",
+    "options": [
+      "the measure of the rate of diffusion of different gases inside a tube.",
+      "the study of necessary mechanisms occurred in a chemical reaction.",
+      "the measure of the amount of energy change in a chemical reaction.",
+      "the changes in concentration of reactants or products per unit time."
+    ],
+    "answer": 3,
+    "explanation": "The rate of a chemical reaction is defined as the change in concentration of reactants or products per unit time. It measures how quickly a reaction proceeds and is typically expressed in mol/(L.s)."
+  },
+  {
+    "question": "Consider the following gaseous reversible reaction is at a state of equilibrium: PCl3(g) + Cl2(g) <=> PCl5(g). Which of the following changes in concentration will cause the equilibrium shift to the right?",
+    "options": [
+      "Decreasing the concentrations of the reactants and increasing the concentration of the product.",
+      "Increasing the concentrations of the reactants and decreasing the concentration of the product.",
+      "Increasing the concentration of the reactants and products equivalently.",
+      "Decreasing the concentrations of the reactants and products equivalently."
+    ],
+    "answer": 1,
+    "explanation": "According to Le Chatelier's principle, increasing the concentration of reactants (PCl3 and Cl2) and/or decreasing the concentration of the product (PCl5) shifts the equilibrium to the right (toward products) to counteract the disturbance."
+  },
+  {
+    "question": "Aluminum reacts with oxygen to form aluminum oxide. What is the coefficient of aluminum after balancing the reaction?",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "The unbalanced reaction is Al + O2 -> Al2O3. Balanced: 4Al + 3O2 -> 2Al2O3. The coefficient of aluminum is 4."
+  },
+  {
+    "question": "What property of an ionic compound can be investigated by heating it in a crucible?",
+    "options": [
+      "Crystallization point",
+      "Malleability",
+      "Solubility",
+      "Melting point"
+    ],
+    "answer": 3,
+    "explanation": "Heating an ionic compound in a crucible allows determination of its melting point. Ionic compounds generally have high melting points due to strong electrostatic forces between ions. The crucible withstands the high temperatures needed."
+  },
+  {
+    "question": "Silver has two known isotopes, 107Ag and 108Ag with their percent abundance of 52% and 48%, respectively. What is the average atomic mass of silver?",
+    "options": [
+      "108.86",
+      "107.48",
+      "108.06",
+      "107.89"
+    ],
+    "answer": 1,
+    "explanation": "Average atomic mass = (107 x 0.52) + (108 x 0.48) = 55.64 + 51.84 = 107.48 amu."
+  },
+  {
+    "question": "Which reaction scheme below illustrates the formation of a cation?",
+    "options": [
+      "Mg2+ + 2e- -> Mg",
+      "S + 2e- -> S2-",
+      "2Cl- -> Cl2 + 2e-",
+      "Na -> Na+ + e-"
+    ],
+    "answer": 3,
+    "explanation": "Formation of a cation involves loss of electrons (oxidation). Na -> Na+ + e- shows a neutral sodium atom losing one electron to form the Na+ cation. Options A and B show reduction, and C shows anion oxidation to a neutral molecule."
+  },
+  {
+    "question": "Which statement distinguishes equivalence point from end point in acid-base titration?",
+    "options": [
+      "End point is a point at which the indicator changes color whereas equivalence point is the point where an acid has completely reacted with a base.",
+      "Equivalence point is a point at which the indicator changes color whereas end point is the point where an acid has completely reacted with a base.",
+      "Equivalence point is a point at which reactants start to melt whereas end point is the point where products start to freeze.",
+      "Equivalence point is a point at which reactants start to evaporate whereas end point is the point where a product starts to condense."
+    ],
+    "answer": 0,
+    "explanation": "The equivalence point is the theoretical point where moles of acid exactly equal moles of base (complete neutralization). The end point is the practical point where the indicator changes color, which ideally should coincide with the equivalence point but may differ slightly."
+  },
+  {
+    "question": "Which one is the mathematical expression for Faraday's first law of electrolysis?",
+    "options": [
+      "m = MIt/nF",
+      "m = MPV/RT",
+      "M = n/V(liter)",
+      "m1/E1 = m2/E2"
+    ],
+    "answer": 0,
+    "explanation": "Faraday's first law states that the mass of substance deposited or liberated at an electrode is directly proportional to the quantity of electricity passed: m = MIt/nF, where M is molar mass, I is current, t is time, n is number of electrons, and F is Faraday's constant."
+  },
+  {
+    "question": "Which of the following describes the process of manufacturing valuable products in industries?",
+    "options": [
+      "Manufacturing industry uses only inorganic chemicals in the production of valuable products.",
+      "Carry out unwanted reaction of a material that result in the dissolution or consumption of the material.",
+      "Discharging of a solid, liquid or gaseous substance into an environment that causes unwanted changes.",
+      "Designing to produce a desired output from raw materials using energy through different steps."
+    ],
+    "answer": 3,
+    "explanation": "Manufacturing involves designing processes to convert raw materials into valuable products using energy through various steps. Option B describes corrosion, and option C describes pollution, not manufacturing."
+  },
+  {
+    "question": "Which of the following reaction shows the action of H2SO4 as oxidizing agent?",
+    "options": [
+      "Mg3N2(s) + 4H2SO4(aq) -> 3MgSO4(aq) + (NH4)2SO4(aq)",
+      "Cu(s) + 2H2SO4(aq) -> CuSO4(aq) + SO2(g) + 2H2O(l)",
+      "2KOH(aq) + H2SO4(aq) -> K2SO4(aq) + 2H2O(l)",
+      "SO3(g) + H2O(l) -> H2SO4(aq)"
+    ],
+    "answer": 1,
+    "explanation": "In reaction B, sulfur in H2SO4 is reduced from +6 to +4 (in SO2), while Cu is oxidized from 0 to +2. Since H2SO4 gains electrons (is reduced), it acts as the oxidizing agent. The other reactions show H2SO4 acting as an acid (neutralization) or not changing oxidation state."
+  },
+  {
+    "question": "For the dissociation of HNO2: HNO2(aq) <=> NO2-(aq) + H+(aq), what is the percent ionization of a 0.5 M solution of HNO2? (Ka of HNO2 = 7.1 x 10^-4)",
+    "options": [
+      "9.1%",
+      "3.8%",
+      "1.8%",
+      "0.2%"
+    ],
+    "answer": 1,
+    "explanation": "Ka = x^2/(0.5 - x) approximately = x^2/0.5 = 7.1 x 10^-4. Solving: x = sqrt(7.1 x 10^-4 x 0.5) = sqrt(3.55 x 10^-4) = 0.01884. Percent ionization = (0.01884/0.5) x 100 = 3.77%, approximately 3.8%."
+  },
+  {
+    "question": "A 0.47 M aqueous solution of a weak base has a pOH of 2. What is Kb for the weak base?",
+    "options": [
+      "4.4 x 10^-1",
+      "1.0 x 10^-2",
+      "3.14 x 10^-3",
+      "2.17 x 10^-4"
+    ],
+    "answer": 3,
+    "explanation": "pOH = 2, so [OH-] = 10^-2 = 0.01 M. For a weak base B: Kb = [BH+][OH-]/[B] = (0.01)(0.01)/(0.47 - 0.01) = 0.0001/0.46 = 2.17 x 10^-4."
+  },
+  {
+    "question": "A student was given a standard Zn(s)|Zn2+(aq) half-cell and another half-cell containing copper immersed in 1.00 M CuSO4(aq). When the Zn was connected as the anode at 25 degrees C, the cell potential reading on the voltmeter shows 1.1 V. Which of the following is NOT correct regarding the cell potential measurement?",
+    "options": [
+      "Electrons travel through the external circuit from copper cathode to the zinc anode.",
+      "The zinc electrode was dissolved and the blue color CuSO4 solution would fade.",
+      "The circuit is completed inside the cell by migration of ions through the salt bridge.",
+      "The mass of copper was increased during the cell potential measurement."
+    ],
+    "answer": 0,
+    "explanation": "In a Zn-Cu galvanic cell, Zn is the anode (oxidized) and Cu is the cathode (reduced). Electrons flow from the zinc anode to the copper cathode through the external circuit, NOT from copper to zinc. Statement A is incorrect because it reverses the electron flow direction."
+  },
+  {
+    "question": "Which of the following polymer structures represents polypropylene?",
+    "options": [
+      "Structure with H, CH3, and COOCH3 groups",
+      "Structure with H, H, and CH3 groups",
+      "Structure with H, H, and Cl groups",
+      "Structure with H, H, and H groups"
+    ],
+    "answer": 1,
+    "explanation": "Polypropylene has the repeating unit -[CH2-CH(CH3)]-n. The carbon backbone has two H atoms and one CH3 group per monomer unit, corresponding to option B. Option C represents PVC, and option D represents polyethylene."
+  },
+  {
+    "question": "Which of the following properties is the property of an acidic oxide? An acidic oxide reacts with",
+    "options": [
+      "water to form acids.",
+      "salts to form acids.",
+      "basic oxides to form hydroxides and water.",
+      "bases to form basic hydroxide and water."
+    ],
+    "answer": 0,
+    "explanation": "A key property of acidic oxides is that they react with water to form acids. For example, SO3 + H2O -> H2SO4, CO2 + H2O -> H2CO3. Option C is incorrect because acidic oxides react with basic oxides to form salts, not hydroxides and water."
+  },
+  {
+    "question": "What is the name given to an acid that dissociates (ionizes) only to a slight extent in aqueous solution?",
+    "options": [
+      "Strong acid",
+      "Dilute acid",
+      "Concentrated acid",
+      "Weak acid"
+    ],
+    "answer": 3,
+    "explanation": "A weak acid is one that only partially dissociates in aqueous solution. For example, acetic acid (CH3COOH) only about 1% dissociated in water. This is distinct from concentration (dilute/concentrated) which refers to the amount of acid in solution."
+  },
+  {
+    "question": "Solutions can be classified based upon their pH values. What is a solution whose pH value is 13?",
+    "options": [
+      "Acidic solution",
+      "Amphoteric solution",
+      "Basic solution",
+      "Neutral solution"
+    ],
+    "answer": 2,
+    "explanation": "A pH of 13 is well above 7, indicating a strongly basic (alkaline) solution. Solutions with pH < 7 are acidic, pH = 7 is neutral, and pH > 7 is basic. A pH of 13 corresponds to [H+] = 10^-13 M and [OH-] = 10^-1 = 0.1 M."
+  },
+  {
+    "question": "During laboratory class, a student placed clean water in a beaker and added pieces of calcium metal using tongs. After the reaction is completed, he/she tested the solution using red litmus paper. Which of the following will be observed?",
+    "options": [
+      "The litmus paper turns to red.",
+      "The litmus paper turns to blue.",
+      "The litmus paper turns to colorless.",
+      "The litmus paper maintains its color."
+    ],
+    "answer": 1,
+    "explanation": "Calcium reacts with water to form calcium hydroxide and hydrogen gas: Ca + 2H2O -> Ca(OH)2 + H2. Ca(OH)2 is a base, so the resulting solution is alkaline. Red litmus paper turns blue in basic solutions."
+  },
+  {
+    "question": "Which of the following statements CORRECTLY describes the relationship among wavelength, frequency and speed in an electromagnetic radiation?",
+    "options": [
+      "As the wavelength decreases, the frequency increases.",
+      "As the wavelength increases, the frequency increases.",
+      "As the frequency increases, the speed of light decreases.",
+      "As the wavelength decreases, the speed of light increases."
+    ],
+    "answer": 0,
+    "explanation": "The relationship c = lambda x f shows that speed of light (c) is constant in a vacuum. Since c is constant, wavelength (lambda) and frequency (f) are inversely proportional: as wavelength decreases, frequency must increase, and vice versa."
+  },
+  {
+    "question": "Which of the following organic compounds has the highest boiling point?",
+    "options": [
+      "Ethene",
+      "Ethanol",
+      "Ethane",
+      "Ethanal"
+    ],
+    "answer": 1,
+    "explanation": "Ethanol (CH3CH2OH) has the highest boiling point because it can form hydrogen bonds between its OH groups, which are much stronger than the Van der Waals forces in ethane and ethene, or the dipole-dipole forces in ethanal."
+  },
+  {
+    "question": "What is a Lewis base? It is",
+    "options": [
+      "Proton acceptor",
+      "Proton donor",
+      "Electron pair donor",
+      "Electron pair acceptor"
+    ],
+    "answer": 2,
+    "explanation": "According to the Lewis definition, a base is an electron pair donor. A Lewis base donates a lone pair of electrons to form a coordinate covalent bond. This is broader than the Bronsted-Lowry definition (proton acceptor) and includes species like NH3, OH-, and CO."
+  },
+  {
+    "question": "Given the following information for CH3COOH(aq) <=> CH3COO-(aq) + H+(aq): Initial concentration 0.2 M, change -x, +x, +x. Equilibrium concentrations: 0.2 - x, x, x. Which of the following expressions represents the percent ionization of CH3COOH?",
+    "options": [
+      "(x/0.2) x 100%",
+      "(x/(0.2-x)) x 100%",
+      "((0.2-x)/0.2) x 100%",
+      "((0.2-x)/x) x 100%"
+    ],
+    "answer": 0,
+    "explanation": "Percent ionization is defined as the fraction of the initial concentration that has dissociated, multiplied by 100. It equals (amount ionized / initial concentration) x 100 = (x / 0.2) x 100%."
+  },
+  {
+    "question": "Scandium (Sc) has the electron configuration [Ar] 4s2 3d1. To which group of elements does it belong?",
+    "options": [
+      "Transition elements",
+      "Representative elements",
+      "Nonmetals",
+      "Inner transition elements"
+    ],
+    "answer": 0,
+    "explanation": "Scandium has partially filled d orbitals ([Ar] 4s2 3d1), making it a transition element. Transition elements are defined as elements that have partially filled d orbitals in their atoms or common ions."
+  },
+  {
+    "question": "A student carried out an experiment to determine the melting points of NaCl and CuCl2. He/she added 0.2 g of NaCl and CuCl2 into two different test tubes and heated both tubes simultaneously using a Bunsen burner. Which of the following statements is CORRECT regarding the melting point of NaCl and CuCl2?",
+    "options": [
+      "The melting point of NaCl is higher than that of CuCl2.",
+      "The melting points of NaCl are lower than that of CuCl2.",
+      "Both NaCl and CuCl2 will not melt.",
+      "Both NaCl and CuCl2 will start to melt at the same time."
+    ],
+    "answer": 0,
+    "explanation": "NaCl has a higher melting point (801 degrees C) than CuCl2 (498 degrees C). NaCl forms a more stable ionic lattice due to the higher charge density of Na+ ions and the symmetrical crystal structure, resulting in stronger ionic bonds."
+  },
+  {
+    "question": "Consider the molecular structure of COCl2 shown below. What are the predicted bond angles Cl-C-O and Cl-C-Cl?",
+    "options": [
+      "Cl-C-O < 120 degrees and Cl-C-Cl = 120 degrees",
+      "Cl-C-O and Cl-C-Cl = 120 degrees",
+      "Cl-C-O < 120 degrees and Cl-C-Cl > 120 degrees",
+      "Cl-C-O > 120 degrees and Cl-C-Cl < 120 degrees"
+    ],
+    "answer": 3,
+    "explanation": "COCl2 (phosgene) has a trigonal planar geometry around carbon (sp2 hybridized). The C=O double bond exerts greater electron repulsion than the C-Cl single bonds, pushing the Cl atoms closer together. This results in Cl-C-Cl < 120 degrees and Cl-C-O > 120 degrees."
+  },
+  {
+    "question": "What is the cause of unusual high boiling points of HF, H2O and NH3?",
+    "options": [
+      "Induced dipole forces",
+      "Dipole-dipole forces",
+      "Ion-dipole forces",
+      "Hydrogen bonding"
+    ],
+    "answer": 3,
+    "explanation": "HF, H2O, and NH3 have unusually high boiling points because they form hydrogen bonds between molecules. Hydrogen bonding occurs when H is bonded to highly electronegative atoms (F, O, N), creating strong intermolecular attractions that require significant energy to overcome."
+  },
+  {
+    "question": "Which statement below describes CORRECTLY the assumptions in the kinetic theory of gases?",
+    "options": [
+      "Gas molecules are in random motion with no interactions.",
+      "Gas molecules occupy a finite volume and have indefinite shape.",
+      "The average kinetic energies of gas molecules are independent of the amount of gas.",
+      "The average kinetic energies of gas molecules are independent of temperature."
+    ],
+    "answer": 0,
+    "explanation": "A fundamental assumption of the kinetic molecular theory is that gas molecules are in continuous random motion and do not attract or repel each other (no intermolecular interactions). Option D is wrong because KE depends on temperature. Option B describes a property, not an assumption."
+  },
+  {
+    "question": "If the rate of diffusion of a certain unknown gas is half times the rate of diffusion of helium, what will be the molar mass of the unknown gas? (Atomic mass of He = 4.0 g/mole)",
+    "options": [
+      "8.0 g/mole",
+      "2.0 g/mole",
+      "32.0 g/mole",
+      "16.0 g/mole"
+    ],
+    "answer": 3,
+    "explanation": "Using Graham's law: r(He)/r(unknown) = sqrt(M(unknown)/M(He)) = 2. Therefore, M(unknown)/M(He) = 4. M(unknown) = 4 x 4.0 = 16.0 g/mole."
+  },
+  {
+    "question": "A student added boiling chips into a beaker of water while carrying out an activity to determine the boiling point of water. Why do you think the boiling chips are necessary?",
+    "options": [
+      "To speed up the rate of evaporation.",
+      "To ensure smooth rate of evaporation.",
+      "To reach the boiling point with less consumption of heat.",
+      "To maintain constant temperature and pressure."
+    ],
+    "answer": 1,
+    "explanation": "Boiling chips provide nucleation sites for bubble formation, ensuring smooth and even boiling. Without them, superheating can occur, leading to violent bumping or sudden eruption of the liquid. They prevent bumping, not speed up evaporation."
+  },
+  {
+    "question": "What is the oxidation number of manganese in KMnO4?",
+    "options": [
+      "+6",
+      "+5",
+      "+8",
+      "+7"
+    ],
+    "answer": 3,
+    "explanation": "In KMnO4: K is +1, each O is -2. Let x be the oxidation number of Mn. Then +1 + x + 4(-2) = 0, so x - 7 = 0, x = +7. Manganese has an oxidation number of +7 in KMnO4."
+  },
+  {
+    "question": "2-methyl-1-butene is one of the isomers of C5H10. Which of the following is the CORRECT structural formula of this isomer?",
+    "options": [
+      "CH3-CH2-C(=CH2)-CH3 (with CH3 branch on C)",
+      "CH3-CH(CH3)-CH=CH2",
+      "CH3-CH=CH-CH2-CH3",
+      "CH3-C(=CH)-CH(CH3)-CH3"
+    ],
+    "answer": 0,
+    "explanation": "2-methyl-1-butene has the structure CH2=C(CH3)-CH2-CH3. The double bond is at position 1, and the methyl group is at position 2. Option A represents this structure: the C with the =CH2 also bears a CH3 branch."
+  },
+  {
+    "question": "Which of the following organic compounds is used for the production of 1,2-ethanediol?",
+    "options": [
+      "Ethane",
+      "Ethene",
+      "Ethanol",
+      "Ethyne"
+    ],
+    "answer": 1,
+    "explanation": "Ethene (ethylene) is used to produce 1,2-ethanediol (ethylene glycol). Ethene can be oxidized with cold dilute alkaline KMnO4 to form ethane-1,2-diol, or ethene oxide (from ethene with oxygen over a silver catalyst) can be hydrolyzed to form ethanediol."
+  },
+  {
+    "question": "Which of the following is the main constituent of natural gas?",
+    "options": [
+      "Butane",
+      "Ethane",
+      "Methane",
+      "Propane"
+    ],
+    "answer": 2,
+    "explanation": "Methane (CH4) is the main constituent of natural gas, typically making up 70-90% of natural gas. The remaining components include ethane, propane, butane, and other heavier hydrocarbons in smaller amounts."
+  },
+  {
+    "question": "In order to avoid the decrease in quality of some clothes after washing with water, which of the following chemicals is used for dry cleaning?",
+    "options": [
+      "CH2Cl2",
+      "CH4",
+      "C2Cl4",
+      "C2H4"
+    ],
+    "answer": 2,
+    "explanation": "Tetrachloroethene (C2Cl4), also known as perchloroethylene or perc, is the most commonly used solvent in dry cleaning. It effectively dissolves oils and grease without damaging fabrics and evaporates quickly without leaving residue."
+  },
+  {
+    "question": "Consider the following equilibrium reaction at 298 K: 2NO2(g) <=> 2NO(g) + O2(g). PNO2 = 0.75 atm, PNO = 2.5 x 10^-5 atm, PO2 = 3.5 x 10^-5 atm. What is the equilibrium constant (Kp) at this temperature?",
+    "options": [
+      "1.16 x 10^-9",
+      "5.2 x 10^-15",
+      "3.9 x 10^-14",
+      "2.9 x 10^-14"
+    ],
+    "answer": 2,
+    "explanation": "Kp = (PNO)^2 x PO2 / (PNO2)^2 = (2.5 x 10^-5)^2 x (3.5 x 10^-5) / (0.75)^2 = (6.25 x 10^-10)(3.5 x 10^-5) / 0.5625 = 2.1875 x 10^-14 / 0.5625 = 3.89 x 10^-14, approximately 3.9 x 10^-14."
+  },
+  {
+    "question": "The molecule of BrF5 has both bonding and lone pair of electrons. Based upon these electrons, which one is the CORRECT molecular geometry of the molecule of BrF5?",
+    "options": [
+      "Square pyramidal",
+      "Square planar",
+      "Trigonal bipyramidal",
+      "Trigonal pyramidal"
+    ],
+    "answer": 0,
+    "explanation": "BrF5 has 5 bonding pairs and 1 lone pair around the central Br atom (octahedral electron geometry). The lone pair occupies one position, resulting in a square pyramidal molecular geometry with the 5 F atoms."
+  },
+  {
+    "question": "Consider the structure of an alcohol: CH3CH(OH)CH2CH2CH(OH)CH3. What type of an alcohol is it?",
+    "options": [
+      "Polyhydric alcohol",
+      "Tertiary alcohol",
+      "Dihydric alcohol",
+      "Primary alcohol"
+    ],
+    "answer": 2,
+    "explanation": "The structure contains two hydroxyl (-OH) groups, making it a dihydric alcohol (also called a diol). Polyhydric refers to alcohols with three or more OH groups. The carbon atoms bearing the OH groups are secondary carbons (bonded to 2 other carbons), but the question asks about the type based on the number of OH groups."
+  },
+  {
+    "question": "What is the IUPAC name of the following carboxylic acid? HOOC-CH2-CH(Cl)-CH2-CH2-CH2-CH2-COOH",
+    "options": [
+      "3-chlorooctanedioic acid",
+      "5-chlorooctanoic acid",
+      "3-chlorooctanoic acid",
+      "2-chlorooctanedioic acid"
+    ],
+    "answer": 0,
+    "explanation": "The molecule has 8 carbons with two carboxylic acid groups (dioic acid) and a chloro substituent at position 3. The IUPAC name is 3-chlorooctanedioic acid. The numbering gives the lowest possible locants for the substituent."
+  },
+  {
+    "question": "Which law governs the fact that the ratio of the amount of hydrogen to oxygen by weight will be the same in a drop of water and a lake of water?",
+    "options": [
+      "Law of conservation of mass",
+      "Law of relative composition",
+      "Law of definite composition",
+      "Law of multiple proportions"
+    ],
+    "answer": 2,
+    "explanation": "The law of definite composition (also called law of definite proportions) states that a given chemical compound always contains its component elements in a fixed ratio by mass, regardless of the source or amount of the compound. Water always contains H and O in the mass ratio 1:8."
+  },
+  {
+    "question": "Which statement below CORRECTLY describes the characteristics of chemical equilibrium?",
+    "options": [
+      "A reaction stops if sufficient amount of time is given.",
+      "A reaction stops when it reaches equilibrium.",
+      "A new substance or substances are formed when equilibrium is attained.",
+      "The rates of the forward and reverse reactions are equal."
+    ],
+    "answer": 3,
+    "explanation": "At chemical equilibrium, the rates of the forward and reverse reactions are equal, creating a dynamic equilibrium. The reaction does not stop (eliminating options A and B); rather, both forward and reverse reactions continue at the same rate, so there is no net change in concentrations."
+  },
+  {
+    "question": "What is the CORRECT IUPAC nomenclature of the following alkane? CH3-CH(CH3)-CH2-CH(Cl)-CH2-CH(Cl)-CH2-CH(CH2CH3)-CH3",
+    "options": [
+      "4,6-dichloro-2,8-dimethyldecane",
+      "5,7-dichloro-3,9-dimethyldecane",
+      "4,6-dichloro-8-ethyl-2-methylnonane",
+      "4,6-dichloro-2-ethyl-8-methylnonane"
+    ],
+    "answer": 0,
+    "explanation": "The longest carbon chain has 10 carbons (going through the ethyl group), making it a decane. Numbering from the end giving lowest locants: methyl at C2, chloro at C4 and C6, methyl at C8. The name is 4,6-dichloro-2,8-dimethyldecane."
+  },
+  {
+    "question": "What is the name given to compounds of carbon and hydrogen containing multiple bonds?",
+    "options": [
+      "Aromatic hydrocarbons",
+      "Aliphatic hydrocarbons",
+      "Unsaturated hydrocarbons",
+      "Saturated hydrocarbons"
+    ],
+    "answer": 2,
+    "explanation": "Hydrocarbons containing multiple bonds (double or triple bonds) are called unsaturated hydrocarbons. The multiple bonds mean they are not 'saturated' with hydrogen atoms. Saturated hydrocarbons have only single bonds (alkanes). Aromatic hydrocarbons contain benzene rings."
+  },
+  {
+    "question": "The following reaction can be used for the synthesis of CH3CH=CHCH3 as a desired product: CH3CH2CHBrCH3 + CH3S- -> CH3CH=CHCH3 + CH3SH + Br-. Which of the following is the atom economy for the above reaction? (Atomic masses: H=1; C=12; S=32 and Br=80)",
+    "options": [
+      "48%",
+      "30.43%",
+      "80%",
+      "56%"
+    ],
+    "answer": 1,
+    "explanation": "Atom economy = (MW of desired product / MW of all reactants) x 100. MW of CH3CH=CHCH3 (C4H8) = 4(12)+8(1) = 56. MW of CH3CH2CHBrCH3 = 4(12)+9(1)+80 = 137. MW of CH3S- = 12+3+32 = 47. Total reactants = 184. Atom economy = 56/184 x 100 = 30.43%."
+  },
+  {
+    "question": "Which of the following process involves preventing the growth of bacteria, fungi and reducing the oxidation of fats?",
+    "options": [
+      "Tanning",
+      "Haber-Bosch",
+      "Contact",
+      "Food preservation"
+    ],
+    "answer": 3,
+    "explanation": "Food preservation involves methods to prevent the growth of bacteria, fungi, and other microorganisms, as well as slowing the oxidation of fats that cause rancidity. Tanning processes leather, Haber-Bosch produces ammonia, and Contact process produces sulfuric acid."
+  },
+  {
+    "question": "Which of the following is the overall reaction for electrolysis of molten NaCl?",
+    "options": [
+      "Na+(l) + Cl-(l) -> Na(l) + 1/2 Cl2(g)",
+      "Na(l) + 1/2 Cl2(g) -> Na+(l) + Cl-(l)",
+      "H2O(g) -> H2(g) + 1/2 O2(g)",
+      "H2(g) + 1/2 O2(g) -> H2O(g)"
+    ],
+    "answer": 0,
+    "explanation": "During electrolysis of molten NaCl, Na+ is reduced at the cathode to Na metal, and Cl- is oxidized at the anode to Cl2 gas. The overall reaction is: Na+(l) + Cl-(l) -> Na(l) + 1/2 Cl2(g)."
+  },
+  {
+    "question": "Which of the following occur during the electrolysis of dilute H2SO4?",
+    "options": [
+      "The overall reaction is: H2(g) + 1/2 O2(g) -> H2O(g)",
+      "SO4 2- is discharged at the anode.",
+      "A basic solution is formed.",
+      "H+ is discharged at the negative electrode."
+    ],
+    "answer": 3,
+    "explanation": "During electrolysis of dilute H2SO4, H+ ions migrate to the cathode (negative electrode) where they are reduced to H2 gas. At the anode, water is oxidized to produce O2 gas, not SO4 2-. The solution becomes more acidic, not basic."
+  },
+  {
+    "question": "Which statement below CORRECTLY distinguishes redox and non-redox reactions?",
+    "options": [
+      "Reduction occurs in redox reactions and oxidation takes place in non-redox reactions.",
+      "Electrons are transferred in redox reactions but not in non-redox reactions.",
+      "Acid-base reactions can be considered as both redox and non-redox reactions.",
+      "Oxidation number remains the same in both redox and non-redox reactions."
+    ],
+    "answer": 1,
+    "explanation": "The key distinction is that in redox reactions, electrons are transferred between species (with changes in oxidation numbers), while in non-redox reactions, no electron transfer occurs and oxidation numbers remain unchanged. Both oxidation and reduction occur in redox reactions, not separately."
+  },
+  {
+    "question": "Given the reaction C(s) + CO2(g) <=> 2CO(g), what is the equilibrium constant expression for the reaction?",
+    "options": [
+      "[CO]^2 / [CO2]",
+      "[CO]^2 / ([C][CO2])",
+      "[C][CO2] / [CO]^2",
+      "[CO]^2 / [C]"
+    ],
+    "answer": 0,
+    "explanation": "In equilibrium expressions, the concentrations of pure solids are omitted (their activity = 1). Since C is a solid, its concentration is not included. Kc = [CO]^2 / [CO2], consistent with the stoichiometry of the reaction."
+  },
+  {
+    "question": "Which of the following pair of substances can be considered as examples of the liquid state of matter at room temperature and 1 atm pressure?",
+    "options": [
+      "Water and carbon dioxide",
+      "Carbon and mercury",
+      "Carbon and carbon monoxide",
+      "Water and mercury"
+    ],
+    "answer": 3,
+    "explanation": "At room temperature (25 degrees C) and 1 atm, both water (H2O, mp 0 degrees C) and mercury (Hg, mp -39 degrees C) are liquids. CO2 is a gas, carbon is a solid, and carbon monoxide is a gas at room temperature."
+  },
+  {
+    "question": "Which gas law describes the behavior of gases using the variables: temperature, volume, pressure and number of moles?",
+    "options": [
+      "Boyle's law",
+      "Ideal gas law",
+      "Combined gas law",
+      "Avogadro's law"
+    ],
+    "answer": 1,
+    "explanation": "The ideal gas law (PV = nRT) incorporates all four variables: pressure (P), volume (V), temperature (T), and number of moles (n). Boyle's law only relates P and V, Avogadro's law relates V and n, and the combined gas law relates P, V, and T."
+  },
+  {
+    "question": "Which one of the following CORRECTLY shows the relative charges of an electron, proton and neutron, respectively?",
+    "options": [
+      "0, -1, +1",
+      "0, +1, -1",
+      "-1, 0, +1",
+      "-1, +1, 0"
+    ],
+    "answer": 3,
+    "explanation": "The electron has a charge of -1, the proton has a charge of +1, and the neutron has no charge (0). Listed in order (electron, proton, neutron): -1, +1, 0."
+  },
+  {
+    "question": "Which statement below CORRECTLY describes the Bohr model of an atom?",
+    "options": [
+      "Electrons and neutrons are found in the nucleus.",
+      "Protons and electrons are found in the nucleus.",
+      "Electrons move in circular orbits around the nucleus.",
+      "Protons move in circular orbits around the nucleus."
+    ],
+    "answer": 2,
+    "explanation": "Bohr's model proposes that electrons move in specific circular orbits (energy levels) around the nucleus. The nucleus contains protons and neutrons, not electrons. This model successfully explained the hydrogen emission spectrum."
+  },
+  {
+    "question": "Which statement below CORRECTLY describes periodicity? Periodicity is",
+    "options": [
+      "a row in the Periodic Table which contains elements with same number of shells.",
+      "a regular repetition of chemical and physical properties in the Periodic Table.",
+      "a column of the Periodic Table which contains elements with similar chemical properties.",
+      "a measure of electronegativity which runs from least electronegative to most electronegative elements."
+    ],
+    "answer": 1,
+    "explanation": "Periodicity refers to the regular repetition (periodic pattern) of chemical and physical properties of elements when arranged by increasing atomic number. Properties such as atomic radius, ionization energy, and electronegativity show periodic trends. Option A describes a period, and option C describes a group."
+  },
+  {
+    "question": "Which statement below CORRECTLY expresses hydrogen bonding? It is formed by bonding",
+    "options": [
+      "a hydrogen atom to an element such as oxygen.",
+      "a hydrogen atom to an element such as sodium.",
+      "two hydrogen atoms with unequal sharing of electrons.",
+      "two hydrogen atoms with equal sharing of electrons."
+    ],
+    "answer": 0,
+    "explanation": "Hydrogen bonding occurs when a hydrogen atom covalently bonded to a highly electronegative atom (such as oxygen, nitrogen, or fluorine) is attracted to another electronegative atom in a nearby molecule. The hydrogen acts as a bridge between two electronegative atoms."
+  }
+]

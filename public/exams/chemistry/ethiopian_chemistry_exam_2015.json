@@ -1,0 +1,882 @@
+[
+  {
+    "question": "In a kinetic experiment, a student placed crystals of iodine in a closed reaction vessel, introduced a given quantity of hydrogen gas, and collected data to calculate the rate of formation of hydrogen iodide. What would be the effect obtained on the rate of the reaction, if the student takes more amount of iodine from that used in the first experiment?",
+    "options": [
+      "It speeds up the rate of the reaction.",
+      "It lowers the rate of the reaction.",
+      "The formation of hydrogen iodide will be decreased.",
+      "The rate of the reaction will be constant."
+    ],
+    "answer": 3,
+    "explanation": "Iodine is a solid in this reaction. The concentration of a solid is constant and does not appear in the rate law. Therefore, changing the amount of solid iodine does not affect the rate of the reaction."
+  },
+  {
+    "question": "Which of the following CORRECTLY relates the vapor pressure of a liquid with its boiling point? Boiling point is",
+    "options": [
+      "the temperature at which all the three physical states co-exist.",
+      "the temperature at which the vapor pressure becomes equal to the external pressure.",
+      "the temperature at which molecules present in the vapor phase go back to the liquid state.",
+      "the temperature at which the kinetic energy of molecules is much less than the intermolecular force."
+    ],
+    "answer": 1,
+    "explanation": "By definition, the boiling point of a liquid is the temperature at which its vapor pressure equals the external (atmospheric) pressure, allowing bubbles of vapor to form throughout the liquid."
+  },
+  {
+    "question": "Consider this equilibrium system: CO(g) + Fe2O3(s) ⇌ CO2(g) + 3FeO(s). Which of the following disturbances shifts the equilibrium position to the right?",
+    "options": [
+      "Removing CO2(g)",
+      "Removing CO(g)",
+      "Removing FeO(s)",
+      "Adding Fe2O3(s)"
+    ],
+    "answer": 0,
+    "explanation": "Removing a product (CO2) shifts the equilibrium to the right (toward products) to partially replace the removed substance, according to Le Chatelier's principle. Solids (FeO, Fe2O3) do not affect the equilibrium position."
+  },
+  {
+    "question": "Which one of the following resulted from interaction of the atomic orbitals of bonding atoms to produce new electron distribution associated with the entire molecule?",
+    "options": [
+      "Hybrid orbital",
+      "Molecular orbital",
+      "Atomic orbital",
+      "Bonding orbital"
+    ],
+    "answer": 1,
+    "explanation": "A molecular orbital is formed by the combination (linear combination) of atomic orbitals from different atoms and is delocalized over the entire molecule, unlike hybrid orbitals which are on a single atom."
+  },
+  {
+    "question": "Which type of organic substances would be produced by reacting a mixture of a carboxylic acid and an alcohol in the presence of H2SO4?",
+    "options": [
+      "Ketones",
+      "Aldehydes",
+      "Esters",
+      "Ethers"
+    ],
+    "answer": 2,
+    "explanation": "The reaction of a carboxylic acid with an alcohol in the presence of an acid catalyst (H2SO4) is called Fischer esterification, and it produces an ester and water."
+  },
+  {
+    "question": "Which one of the following is the reducing agent in the following reaction? 8NH3(g) + 6NO2(g) → 7N2(g) + 12H2O(l)",
+    "options": [
+      "NO2",
+      "NH3",
+      "N2",
+      "H2O"
+    ],
+    "answer": 1,
+    "explanation": "In NH3, nitrogen has an oxidation state of -3 and is oxidized to 0 in N2. The species that is oxidized (loses electrons) is the reducing agent. Therefore, NH3 is the reducing agent."
+  },
+  {
+    "question": "Carbon forms two stable compounds with oxygen, namely, carbon monoxide and carbon dioxide. For a fixed mass of carbon, the ratio of oxygen in carbon monoxide to oxygen in carbon dioxide is 1:2. This result is consistent with the law of",
+    "options": [
+      "definite proportion.",
+      "conservation of mass.",
+      "constant composition.",
+      "multiple proportion."
+    ],
+    "answer": 3,
+    "explanation": "The law of multiple proportion states that when two elements form more than one compound, the ratios of the mass of the second element that combine with a fixed mass of the first element are in small whole numbers. Here, the ratio 1:2 illustrates this law."
+  },
+  {
+    "question": "When a system at equilibrium is disturbed by a change of variable, the system shifts the equilibrium position in a way that tends to counteract this change of variable. This is a statement for",
+    "options": [
+      "Pauli's exclusion principle.",
+      "Aufbau principle.",
+      "Heisenberg uncertainty principle.",
+      "Le Chatelier's Principle."
+    ],
+    "answer": 3,
+    "explanation": "This is the exact statement of Le Chatelier's Principle, which predicts how a system at equilibrium responds to disturbances in concentration, pressure, or temperature."
+  },
+  {
+    "question": "Which one of the following graphs illustrates the rate change in terms of change in reactant concentration with time?",
+    "options": [
+      "A graph showing concentration decreasing linearly with time.",
+      "A graph showing rate decreasing exponentially with time.",
+      "A graph showing an increasing straight line with time.",
+      "A graph showing rate increasing with time."
+    ],
+    "answer": 1,
+    "explanation": "For a typical chemical reaction, the rate decreases over time as the reactant concentration decreases. The rate vs time graph shows an exponential (or at least decreasing) curve, reflecting the diminishing concentration of reactants."
+  },
+  {
+    "question": "Which one of the following gas laws states that the volume of a fixed amount of gas maintained at constant pressure is directly proportional to the absolute temperature of the gas?",
+    "options": [
+      "Charles' law",
+      "Boyle's law",
+      "Avogadro's law",
+      "Combined gas law"
+    ],
+    "answer": 0,
+    "explanation": "Charles' law states that at constant pressure, the volume of a fixed amount of gas is directly proportional to its absolute temperature (V ∝ T at constant P and n)."
+  },
+  {
+    "question": "The pH of a 0.1 M solution of formic acid (HCOOH) is 3. What is the Ka of the acid?",
+    "options": [
+      "1.01 × 10⁻⁵",
+      "1.01 × 10⁻⁷",
+      "9.99 × 10⁻⁴",
+      "9.99 × 10⁻⁵"
+    ],
+    "answer": 0,
+    "explanation": "pH = 3, so [H⁺] = 10⁻³ M. Ka = [H⁺][HCOO⁻]/[HCOOH] = (10⁻³)(10⁻³)/(0.1 - 0.001) = 10⁻⁶/0.099 ≈ 1.01 × 10⁻⁵."
+  },
+  {
+    "question": "A system does 15 J of work and no other changes take place. Which of the following function has fallen by 15 J?",
+    "options": [
+      "Internal energy",
+      "Specific heat",
+      "Enthalpy",
+      "Entropy"
+    ],
+    "answer": 0,
+    "explanation": "From the first law of thermodynamics, ΔU = q + w. If no heat is exchanged (q = 0) and the system does 15 J of work (w = -15 J), then ΔU = -15 J. Internal energy decreases by 15 J."
+  },
+  {
+    "question": "Which of the following is CORRECTLY stated about the spontaneity of a reaction?",
+    "options": [
+      "For an endothermic reaction with negative reaction entropy, the reaction is spontaneous at all temperatures.",
+      "For an exothermic reaction with positive reaction entropy, the reaction is non-spontaneous at all temperatures.",
+      "For an endothermic reaction with positive reaction entropy, the reaction is non-spontaneous at low temperature.",
+      "For an exothermic reaction with negative reaction entropy, the reaction is spontaneous at high temperature."
+    ],
+    "answer": 2,
+    "explanation": "For an endothermic reaction (ΔH > 0) with positive entropy (ΔS > 0), ΔG = ΔH - TΔS. At low temperatures, the ΔH term dominates, making ΔG positive (non-spontaneous). At high temperatures, the TΔS term dominates, making ΔG negative (spontaneous)."
+  },
+  {
+    "question": "In thermodynamics: solutions in a beaker, a gas in a cylinder, a reaction vessel, a biological cell are examples of",
+    "options": [
+      "thermodynamic variables.",
+      "state function.",
+      "path function.",
+      "thermodynamic system."
+    ],
+    "answer": 3,
+    "explanation": "A thermodynamic system is the specific portion of the universe under study. Solutions in a beaker, gas in a cylinder, a reaction vessel, and a biological cell are all examples of thermodynamic systems."
+  },
+  {
+    "question": "Given the following bond energies (kJ/mol): H-H = 436, N-N = 193, N=N = 409, N≡N = 942, and the enthalpy for the reaction ½N₂(g) + 3/2H₂(g) → NH₃(g); ΔH = -45 kJ/mol. What is the bond energy for NH₃?",
+    "options": [
+      "1125",
+      "1170",
+      "960",
+      "1080"
+    ],
+    "answer": 1,
+    "explanation": "Bonds broken = ½(942) + 3/2(436) = 471 + 654 = 1125 kJ. ΔH = bonds broken - bonds formed → -45 = 1125 - 3(N-H). Solving: 3(N-H) = 1170 kJ/mol, which is the total bond energy of all three N-H bonds in NH₃."
+  },
+  {
+    "question": "The rate law for (CH₃)₃C-Br(aq) + H₂O(l) → (CH₃)₃C-OH(aq) + H⁺(aq) + Br⁻(aq) is rate = k[(CH₃)₃C-Br]. The accepted mechanism has three steps. Why does H₂O not appear in the rate law?",
+    "options": [
+      "Water is a catalyst in the reaction.",
+      "Water is an intermediate species.",
+      "Water exists in the liquid state in the reaction.",
+      "Water is missing in the rate determining step."
+    ],
+    "answer": 3,
+    "explanation": "The rate law depends only on the reactants in the rate-determining (slow) step. Water appears in a fast step, not in the slow (rate-determining) step, so it does not appear in the rate law."
+  },
+  {
+    "question": "Which type of substances has the following general formula? (R₁, R₂, and R₃ are hydrocarbon groups.) CH₂-O-CO-R₁ | CH-O-CO-R₂ | CH₂-O-CO-R₃",
+    "options": [
+      "Carboxylic acids",
+      "Fats",
+      "Alcohols",
+      "Fatty acids"
+    ],
+    "answer": 1,
+    "explanation": "The structure shown is a triglyceride (fat), consisting of a glycerol backbone esterified with three fatty acid chains (R₁, R₂, R₃). Fats and oils are the common names for triglycerides."
+  },
+  {
+    "question": "The rate law for CO(g) + NO₂(g) → CO₂(g) + NO(g) is rate = k[NO₂]². Which one of the following would be a plausible mechanism for the reaction?",
+    "options": [
+      "NO₂ + NO₂ → NO₃ + NO (slow); NO₃ + CO → NO₂ + CO₂ (fast)",
+      "NO₂ + NO → NO₂ + NO₂ (slow); NO₃ + CO → NO₂ + CO₂ (fast)",
+      "NO₂ + NO → NO₂ + NO₃ (slow); NO₃ + CO₂ → NO₂ + CO (fast)",
+      "NO₂ + NO₂ → NO₃ + NO (fast); NO₃ + CO → NO₂ + CO₂ (slow)"
+    ],
+    "answer": 0,
+    "explanation": "The rate law depends on the slow (rate-determining) step. Since rate = k[NO₂]², the slow step must involve two NO₂ molecules. Option A has NO₂ + NO₂ in the slow step, giving rate = k[NO₂]², which matches the observed rate law."
+  },
+  {
+    "question": "The speed with which a solute goes into solution is",
+    "options": [
+      "degree of solvation.",
+      "heat of solution.",
+      "rate of dissolution.",
+      "extent of dissolution."
+    ],
+    "answer": 2,
+    "explanation": "The rate of dissolution refers to how fast (speed) a solute dissolves in a solvent. Degree and extent refer to how much dissolves, while heat of solution is the energy change."
+  },
+  {
+    "question": "Which one of the following explains how 2 L of 1 M NaOH aqueous stock solution is converted into a 0.25 M NaOH solution?",
+    "options": [
+      "Adding 6 L water to the stock solution",
+      "Adding 8 L water to the stock solution",
+      "Evaporating 0.25 L of water from the stock solution",
+      "Evaporating 1 L of water from the stock solution"
+    ],
+    "answer": 0,
+    "explanation": "Using M₁V₁ = M₂V₂: 1 × 2 = 0.25 × V₂ → V₂ = 8 L. Since we already have 2 L, we need to add 8 - 2 = 6 L of water."
+  },
+  {
+    "question": "Which one of the following is TRUE about isotopes?",
+    "options": [
+      "Isotopes of an element are atoms that have different number of electrons and protons.",
+      "Isotopes of an element are identical in mass number.",
+      "Isotopes of the same element contain the same number of neutrons.",
+      "Isotopes of an element have the same chemical properties."
+    ],
+    "answer": 3,
+    "explanation": "Isotopes have the same number of protons (same element) but different numbers of neutrons (different mass numbers). Since chemical properties depend on electron configuration, which is determined by proton number, isotopes have the same chemical properties."
+  },
+  {
+    "question": "Which one of the following describes the quantum mechanical model?",
+    "options": [
+      "The locations of electrons in an atom are described in terms of probability.",
+      "An atom is represented by a solid indestructible sphere.",
+      "An atom is a sphere with a positively charged matter, in which electrons are embedded.",
+      "Electrons moved around the nucleus of an atom in circular orbits."
+    ],
+    "answer": 0,
+    "explanation": "The quantum mechanical model describes electrons in terms of probability distributions (orbitals) rather than fixed paths. Option B is Dalton's model, C is Thomson's model, and D is Bohr's model."
+  },
+  {
+    "question": "Which one of the following is the diagrammatic representation of ³⁵₁₇Cl?",
+    "options": [
+      "Diagram showing 17 protons, 17 neutrons, 17 electrons in arrangement 2-8-7",
+      "Diagram showing 17 protons, 18 neutrons, 17 electrons in arrangement 2-8-7",
+      "Diagram showing 17 protons, 18 neutrons, 18 electrons in arrangement 2-8-8",
+      "Diagram showing 17 protons, 20 neutrons, 17 electrons in arrangement 2-8-7"
+    ],
+    "answer": 1,
+    "explanation": "³⁵₁₇Cl has atomic number 17 (17 protons, 17 electrons) and mass number 35, so neutrons = 35 - 17 = 18. The electron arrangement is 2-8-7. The correct diagram must show 17p, 18n, and electron configuration 2, 8, 7."
+  },
+  {
+    "question": "Which one of the following is an ionic compound?",
+    "options": [
+      "CaCl₂",
+      "CO₂",
+      "PCl₃",
+      "H₂O₂"
+    ],
+    "answer": 0,
+    "explanation": "CaCl₂ is ionic because calcium (a metal) transfers electrons to chlorine (a nonmetal), forming Ca²⁺ and Cl⁻ ions. CO₂, PCl₃, and H₂O₂ are covalent compounds (nonmetal-nonmetal bonding)."
+  },
+  {
+    "question": "An element is located in Group VIIA and 3rd period of the modern periodic table. On the basis of this the element:",
+    "options": [
+      "generally forms an ion with -2 charges.",
+      "has very low ionization energy.",
+      "forms an acidic oxide.",
+      "has extremely low electron affinity."
+    ],
+    "answer": 2,
+    "explanation": "The element in Group VIIA, Period 3 is chlorine. Halogens (Group VIIA) form acidic oxides (e.g., Cl₂O₇). They form -1 ions (not -2), have high ionization energy, and high electron affinity."
+  },
+  {
+    "question": "Which of the properties of solvents would NOT be affected by the formation of a solution with a non-volatile solute?",
+    "options": [
+      "Boiling Point",
+      "Chemical potential",
+      "Chemical identity",
+      "Freezing Point"
+    ],
+    "answer": 2,
+    "explanation": "Adding a non-volatile solute changes boiling point (elevation), freezing point (depression), vapor pressure (lowering), and chemical potential. However, the chemical identity of the solvent itself remains unchanged."
+  },
+  {
+    "question": "The partial pressure of acetylene, C₂H₂, in a container is 10 atm at 25°C. What is the solubility in molarity of C₂H₂? Assume that C₂H₂ obeys Henry's law. (K_H = 1.04 mol/L·atm)",
+    "options": [
+      "9.62",
+      "0.104",
+      "104",
+      "10.4"
+    ],
+    "answer": 3,
+    "explanation": "By Henry's law: C = K_H × P = 1.04 mol/(L·atm) × 10 atm = 10.4 mol/L."
+  },
+  {
+    "question": "What is the normality of a solution that contains 19.6 g of H₂SO₄ in 20 mL of the solution?",
+    "options": [
+      "0.02",
+      "0.01",
+      "20",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "Moles of H₂SO₄ = 19.6/98 = 0.2 mol. Molarity = 0.2/0.02 = 10 M. Since H₂SO₄ provides 2 H⁺ per molecule, Normality = 2 × 10 = 20 N."
+  },
+  {
+    "question": "Which one of the following illustrates an extensive property?",
+    "options": [
+      "The electrode potential at standard condition for the half-reaction 2Cu²⁺ + 4e⁻ → 2Cu is the same as for Cu²⁺ + 2e⁻ → Cu.",
+      "If a system is divided into parts and it is found that the property of the complete system has a value that is the sum of the values of the property of all the parts.",
+      "Doubling the volume of a sample also doubles the mass; so the ratio of mass to volume remains the same.",
+      "If water in two beakers at the same temperature are mixed to make a single quantity of water and the temperature of the combined quantity of water is the same as it was in the two separate beakers."
+    ],
+    "answer": 1,
+    "explanation": "An extensive property depends on the amount of matter. When a system is divided, the total value of an extensive property equals the sum of its parts (e.g., mass, volume). Options A, C, and D describe intensive properties (independent of amount)."
+  },
+  {
+    "question": "The point in a titration at which the number of moles of OH⁻ ions added to a solution is equal to the number of moles of H⁺ ions originally present is",
+    "options": [
+      "Zero point",
+      "End point",
+      "Triple point",
+      "Equivalence point"
+    ],
+    "answer": 3,
+    "explanation": "The equivalence point is the point in a titration where the moles of titrant added exactly equal the moles of analyte originally present. The end point is where the indicator changes color, which ideally coincides with the equivalence point."
+  },
+  {
+    "question": "Which one of the following is TRUE about the electrolysis of a molten hypothetical electrolyte, MX?",
+    "options": [
+      "X is produced at the cathode.",
+      "M is produced at the anode.",
+      "Electrons are not transferred from one species to the other.",
+      "The overall reaction is a redox reaction."
+    ],
+    "answer": 3,
+    "explanation": "In electrolysis of molten MX: M⁺ is reduced at the cathode (M⁺ + e⁻ → M), and X⁻ is oxidized at the anode (X⁻ → X + e⁻). The overall process involves both reduction and oxidation, making it a redox reaction."
+  },
+  {
+    "question": "During the extraction of a metal, the metallic ore was fused with NaOH in air and then dissolved in water to obtain the soluble metal-containing species. The solution is treated with acid. Finally the obtained oxide is reduced to its metal by aluminum. The most probable unknown metal would be",
+    "options": [
+      "Ca",
+      "Zn",
+      "Cr",
+      "Pb"
+    ],
+    "answer": 2,
+    "explanation": "The described process (alkali fusion with NaOH in air, dissolution, acid treatment, and aluminothermic reduction) is characteristic of chromium extraction from chromite ore. Chromium is reduced from Cr₂O₃ by the thermite (aluminothermic) process."
+  },
+  {
+    "question": "Why does tin NOT react with cold water but calcium reacts with cold water quite readily?",
+    "options": [
+      "Due to its less reactive nature.",
+      "Due to the formation of a thin oxide layer.",
+      "Due to its physical state.",
+      "Due to the pH of water."
+    ],
+    "answer": 0,
+    "explanation": "Calcium is an alkaline earth metal (Group IIA) with very low ionization energy and high electropositivity, making it very reactive with water. Tin is a post-transition metal with much lower reactivity due to its higher ionization energy and less negative reduction potential."
+  },
+  {
+    "question": "Why is vulcanization performed in natural rubber?",
+    "options": [
+      "To convert the monomer unit in natural rubber into polymer.",
+      "To establish cross-links between polymer chains in the natural rubber.",
+      "To decrease the number of monomer units in the natural rubber.",
+      "To increase the number of monomer units in the natural rubber."
+    ],
+    "answer": 1,
+    "explanation": "Vulcanization introduces sulfur cross-links between the polymer chains of natural rubber (polyisoprene), improving its strength, elasticity, and resistance to heat and wear."
+  },
+  {
+    "question": "Which one of the following is the determination of the cell potential of a Zn-Cu cell using a voltmeter?",
+    "options": [
+      "In the Cu half-cell, Cu strip will be dipped in ZnSO₄ solution.",
+      "In the Zn half-cell, Zn strip will be dipped in CuSO₄ solution.",
+      "Each U-tube served as a salt bridge that can be filled with saturated KCl.",
+      "After the experiment the mass of zinc is increased."
+    ],
+    "answer": 2,
+    "explanation": "A salt bridge (often a U-tube filled with KCl solution) connects the two half-cells to maintain electrical neutrality while preventing direct mixing of the solutions. Each metal strip must be in its own ion solution (Cu in CuSO₄, Zn in ZnSO₄), and Zn loses mass (dissolves) at the anode."
+  },
+  {
+    "question": "Which one of the following is an example of molecular crystals?",
+    "options": [
+      "Diamond",
+      "Sodium chloride",
+      "Solid carbon dioxide",
+      "Magnesium"
+    ],
+    "answer": 2,
+    "explanation": "Solid CO₂ (dry ice) is a molecular crystal held together by weak van der Waals (dispersion) forces between CO₂ molecules. Diamond is a covalent network solid, NaCl is an ionic crystal, and Mg is a metallic crystal."
+  },
+  {
+    "question": "Which one of the following could NOT be considered as a factor influencing the rate of chemical reaction?",
+    "options": [
+      "Presence of catalyst",
+      "Surface area of reactants",
+      "The rate constant of the reaction",
+      "Temperature of reactants"
+    ],
+    "answer": 2,
+    "explanation": "The rate constant (k) is not a factor that influences the rate; rather, it is a mathematical constant that reflects the effect of temperature, catalyst, and other factors on the rate. It is a measure/result, not a cause."
+  },
+  {
+    "question": "Which one of the following shows the hybridization scheme of the central atom in H₂O?",
+    "options": [
+      "sp² hybridization with three hybrid orbitals",
+      "sp² hybridization with three hybrid orbitals (different electron filling)",
+      "sp³ hybridization with four hybrid orbitals showing two lone pairs and two bonding orbitals",
+      "sp³ hybridization with four hybrid orbitals showing one lone pair"
+    ],
+    "answer": 2,
+    "explanation": "In H₂O, oxygen undergoes sp³ hybridization producing four sp³ orbitals: two contain lone pairs and two form sigma bonds with hydrogen atoms. This gives the bent molecular geometry with a bond angle of approximately 104.5°."
+  },
+  {
+    "question": "In which of the following order of a reaction, a plot of ln[A]ₜ versus time is a straight line whose slope is -k?",
+    "options": [
+      "First",
+      "Zero",
+      "Third",
+      "Second"
+    ],
+    "answer": 0,
+    "explanation": "For a first-order reaction, the integrated rate law is ln[A]ₜ = ln[A]₀ - kt. A plot of ln[A]ₜ vs t gives a straight line with slope = -k."
+  },
+  {
+    "question": "A forward and reverse reaction continue to take place at equal rates at microscopic level without change in composition at macroscopic level. This statement is the definition of",
+    "options": [
+      "Chemical kinetics",
+      "Dynamic equilibrium",
+      "Degree of freedom",
+      "The law of mass action"
+    ],
+    "answer": 1,
+    "explanation": "Dynamic equilibrium occurs when the forward and reverse reactions proceed at equal rates, so the concentrations of reactants and products remain constant at the macroscopic level even though reactions continue at the microscopic level."
+  },
+  {
+    "question": "The heat change at constant pressure that results when 1 mole of a compound is formed from its elements in their standard states is",
+    "options": [
+      "standard entropy of reaction.",
+      "standard enthalpy of reaction.",
+      "standard reduction potential.",
+      "standard enthalpy of formation."
+    ],
+    "answer": 3,
+    "explanation": "The standard enthalpy of formation (ΔH°f) is defined as the enthalpy change when 1 mole of a compound is formed from its constituent elements in their standard states at 1 atm and a specified temperature (usually 25°C)."
+  },
+  {
+    "question": "What is a redox reaction? It is a reaction in which",
+    "options": [
+      "two insoluble ions in compounds form an insoluble product.",
+      "electrons are transferred between species.",
+      "atoms or ions of two compounds exchange bonding partners.",
+      "an acid and a base neutralize each other."
+    ],
+    "answer": 1,
+    "explanation": "A redox (reduction-oxidation) reaction involves the transfer of electrons between species. One species loses electrons (oxidation) while another gains electrons (reduction)."
+  },
+  {
+    "question": "Which one of the following explains how electroplating takes place?",
+    "options": [
+      "The electrolyte is an aqueous solution of a salt of the plated metal.",
+      "The object to be electroplated either metal or graphite-coated plastic constitutes the anode.",
+      "The cations in the electrolyte are supplied either by the added salt or from oxidation of the anode.",
+      "Metal is deposited on the anode by reduction of ions in the electrolyte solution."
+    ],
+    "answer": 2,
+    "explanation": "In electroplating, the cations of the plating metal in the electrolyte are supplied either by adding a salt of that metal to the solution or by the oxidation of the anode (made of the plating metal), which continuously replenishes the metal ions in solution."
+  },
+  {
+    "question": "How is the equivalent mass of a base obtained?",
+    "options": [
+      "By multiplying its molar mass by the number of OH⁻ ions furnished by one formula unit of a base.",
+      "By dividing its molar mass by the number of OH⁻ ions furnished by one formula unit of a base.",
+      "By multiplying its number of equivalents by the number of OH⁻ ions furnished by one formula unit of a base.",
+      "By dividing its number of equivalents by the number of OH⁻ ions furnished by one formula unit of a base."
+    ],
+    "answer": 1,
+    "explanation": "The equivalent mass of a base = Molar mass / number of OH⁻ ions per formula unit. For example, the equivalent mass of Ca(OH)₂ = 74/2 = 37 g/equivalent, since it furnishes 2 OH⁻ ions."
+  },
+  {
+    "question": "Which one of the following reactions would occur spontaneously in an aqueous solution at 25°C? (Given half-reactions and standard reduction potentials: Sn²⁺/Sn = -0.14V, Br₂/Br⁻ = +1.07V, Ag⁺/Ag = +0.80V, Ni²⁺/Ni = -0.25V, Ca²⁺/Ca = -2.87V, Cd²⁺/Cd = -0.40V, Cu²⁺/Cu⁺ = +0.15V, Fe³⁺/Fe²⁺ = +0.77V)",
+    "options": [
+      "2Ag(s) + Ni²⁺(aq) → 2Ag⁺(aq) + Ni(s)",
+      "2Br⁻(aq) + Sn²⁺(aq) → Br₂(l) + Sn(s)",
+      "Cu⁺(aq) + Fe²⁺(aq) → Cu²⁺(aq) + Fe(s)",
+      "Ca(s) + Cd²⁺(aq) → Ca²⁺(aq) + Cd(s)"
+    ],
+    "answer": 3,
+    "explanation": "E°cell = E°(cathode) - E°(anode). For option D: E°cell = E°(Cd²⁺/Cd) - E°(Ca²⁺/Ca) = (-0.40) - (-2.87) = +2.47 V > 0, so spontaneous. All other options yield negative E°cell values."
+  },
+  {
+    "question": "Which of the following statements describes chemical industries? It is",
+    "options": [
+      "an area of chemistry concerned with the speeds, or rates, at which chemical reactions occur.",
+      "an expression for the composition of a compound in terms of the symbols of the atoms of elements involved.",
+      "a process in which dissolved solute comes out of solution and forms crystals.",
+      "a firm that involves usage of raw material to produce desired products by using chemical reactions and refining methods."
+    ],
+    "answer": 3,
+    "explanation": "A chemical industry is a firm/establishment that uses raw materials and chemical reactions along with refining methods to produce desired chemical products. Option A describes chemical kinetics, B describes chemical formula, and C describes crystallization."
+  },
+  {
+    "question": "What will be the product if phosphorus reacts with excess amount of oxygen?",
+    "options": [
+      "HPO₃",
+      "HPO₄",
+      "P₄O₁₀",
+      "P₂O₃"
+    ],
+    "answer": 2,
+    "explanation": "When phosphorus reacts with excess oxygen, it is fully oxidized to form phosphorus pentoxide, P₄O₁₀ (also written as P₂O₅). P₂O₃ is formed with limited oxygen, and HPO₃/HPO₄ are not direct products of phosphorus combustion."
+  },
+  {
+    "question": "One of the basic differences between metallic conduction and electrolytic conduction is:",
+    "options": [
+      "The conduction of electricity is due to the movement of ions in an electrolytic conduction while the flow of mobile electrons in metallic conduction.",
+      "The charge carriers in metals are cations and anions while mobile electrons are in electrolytic conduction.",
+      "The charge carriers in metals are localized electrons while strongly held ions are in electrolytic conduction.",
+      "The conduction of electricity is due to the movement of ions in metallic conduction while the flow of mobile electrons in electrolytic conduction."
+    ],
+    "answer": 0,
+    "explanation": "In metallic conduction, charge is carried by mobile (delocalized) electrons. In electrolytic conduction, charge is carried by the movement of ions (cations and anions) in solution. Option A correctly states this distinction."
+  },
+  {
+    "question": "Which one of the following gases is released from combustion of a fuel in an industrial machinery causing global warming?",
+    "options": [
+      "CO",
+      "CO₂",
+      "NO",
+      "SO₂"
+    ],
+    "answer": 1,
+    "explanation": "CO₂ (carbon dioxide) is the primary greenhouse gas released from combustion of fossil fuels in industrial machinery. It is the main contributor to global warming among the listed options."
+  },
+  {
+    "question": "The number of digits to the right of the decimal point denotes:",
+    "options": [
+      "Significant figures",
+      "Decimal places",
+      "Conversion factor",
+      "Scientific notation"
+    ],
+    "answer": 1,
+    "explanation": "The number of digits to the right of the decimal point is called decimal places. For example, 3.142 has 3 decimal places. Note that significant figures and decimal places are different concepts."
+  },
+  {
+    "question": "Which of the following would occur during the formation of ions?",
+    "options": [
+      "Inner most shell electrons are involved.",
+      "Valence electrons are shared between atoms.",
+      "The electronic configuration of an atom forming the ion remains unaffected.",
+      "Valence electrons are transferred from one atom to another."
+    ],
+    "answer": 3,
+    "explanation": "During ion formation (in ionic bonding), valence electrons are transferred from one atom to another. The atom losing electrons becomes a cation, and the atom gaining electrons becomes an anion. Inner shell electrons are not involved."
+  },
+  {
+    "question": "In order to illustrate the structure and properties of a solid, a student put hundred marble balls into a box representing metal cations and the empty space between and around the marbles representing the electron sea. Which one of the following bonding is represented by this model?",
+    "options": [
+      "Covalent bonding",
+      "Ionic bonding",
+      "Metallic bonding",
+      "Dative bonding"
+    ],
+    "answer": 2,
+    "explanation": "The model describes metallic bonding, where positive metal ions (cations) are arranged in a lattice and surrounded by a 'sea' of delocalized electrons. The marbles represent the cations and the space between represents the mobile electron sea."
+  },
+  {
+    "question": "Which one of the following explains dipole-dipole force?",
+    "options": [
+      "A type of intermolecular force that exists between non-polar molecules.",
+      "The intermolecular attraction between oppositely charged poles of nearby polar molecules.",
+      "An attractive force resulting from temporary dipoles induced in molecules.",
+      "An electrostatic attraction between metal ions and valence electrons."
+    ],
+    "answer": 1,
+    "explanation": "Dipole-dipole forces are intermolecular attractions between the positive end of one polar molecule and the negative end of another. Option A describes London dispersion forces, C describes induced dipole forces, and D describes metallic bonding."
+  },
+  {
+    "question": "Which one of the following reactions creates energy in our bodies during respiration?",
+    "options": [
+      "C₆H₁₂O₆(s) + 6O₂(g) → 6CO₂(g) + 6H₂O(l)",
+      "6CO₂(g) + 6H₂O(l) → C₆H₁₂O₆(s) + 6O₂(g)",
+      "C₆H₁₂O₆(s) → 2C₂H₅OH(l) + 2CO₂(g)",
+      "NH₂CONH₂(g) + H₂O(g) → 2NH₃(l) + CO₂(g)"
+    ],
+    "answer": 0,
+    "explanation": "Cellular respiration is the process by which glucose (C₆H₁₂O₆) is oxidized with oxygen to produce CO₂ and H₂O, releasing energy. This is the primary energy-producing reaction in our bodies."
+  },
+  {
+    "question": "A reaction that involves the exchange of positive and negative ions of each reactant. This is a definition of",
+    "options": [
+      "Decomposition reaction",
+      "Combination reaction",
+      "Double displacement reaction",
+      "Single displacement reaction"
+    ],
+    "answer": 2,
+    "explanation": "A double displacement (metathesis) reaction involves the exchange of ions between two compounds: AB + CD → AD + CB. The positive and negative ions of each reactant swap partners."
+  },
+  {
+    "question": "What are the four quantum numbers for an electron in a 2s orbital?",
+    "options": [
+      "n=2, l=1, m_l=0, m_s=+1/2",
+      "n=2, l=1, m_l=1, m_s=+1/2",
+      "n=2, l=0, m_l=0, m_s=+1/2",
+      "n=2, l=0, m_l=0, m_s=-1/2"
+    ],
+    "answer": 2,
+    "explanation": "For a 2s orbital: n = 2 (second shell), l = 0 (s orbital), m_l = 0 (only value for l=0), m_s = +1/2 (by convention for the first electron). Options A and B have l=1 which corresponds to p orbitals, not s."
+  },
+  {
+    "question": "A student uses a digital balance (±0.02), a thermometer (±0.1), a measuring cylinder (±0.05), and a beaker (±0.5) during an experiment. Which of the above instruments is more precise?",
+    "options": [
+      "The thermometer",
+      "The digital balance",
+      "The measuring cylinder",
+      "The beaker"
+    ],
+    "answer": 1,
+    "explanation": "Precision is indicated by the smallest uncertainty. The digital balance has the smallest uncertainty (±0.02), making it the most precise instrument among those listed."
+  },
+  {
+    "question": "Which one of the following explains that light has BOTH wave and particle nature?",
+    "options": [
+      "A beam of light is a stream of particles of electromagnetic energy, with energy proportional to the observed frequency of the light.",
+      "An electron that is bound to the nucleus behaves like a standing wave and its position is given in terms of probability.",
+      "Microscopic systems, such as atoms and molecules can possess wave properties.",
+      "Light consists of electromagnetic waves which have an oscillating electric and magnetic disturbance."
+    ],
+    "answer": 0,
+    "explanation": "Option A combines both particle nature (light as particles/photons) and wave nature (energy proportional to frequency, E = hν), demonstrating the dual nature of light. The other options describe only one aspect or relate to matter waves rather than light."
+  },
+  {
+    "question": "A nuclear breakdown in which particles or electromagnetic radiation is emitted is",
+    "options": [
+      "Radioactive isotopes",
+      "Radioactivity",
+      "Radio wave",
+      "Radioactive decay"
+    ],
+    "answer": 3,
+    "explanation": "Radioactive decay is the process by which an unstable nucleus breaks down, emitting particles (alpha, beta) or electromagnetic radiation (gamma rays). Radioactivity is the phenomenon, and radioactive isotopes are the substances that undergo this process."
+  },
+  {
+    "question": "Which statement describes valence shell electron pair repulsion (VSEPR) theory?",
+    "options": [
+      "Each degenerate orbital is occupied by a single electron before the second electrons of opposite spin enter the orbitals.",
+      "Electron pairs will be as far apart from each other in three dimensional space as possible.",
+      "Atomic orbitals are capable of combining to produce new electron distribution.",
+      "A covalent bond is formed when orbitals of two atoms overlap and the overlap region is occupied by a pair of electrons."
+    ],
+    "answer": 1,
+    "explanation": "VSEPR theory states that electron pairs (bonding and non-bonding) around a central atom arrange themselves to maximize their separation (minimize repulsion) in 3D space, determining molecular geometry. Option A is Hund's rule, C is MO theory, and D is VB theory."
+  },
+  {
+    "question": "Which one of the following is a colorless, flammable volatile liquid and miscible with non-polar solvents?",
+    "options": [
+      "Benzene",
+      "Ethanol",
+      "Methanol",
+      "Methane"
+    ],
+    "answer": 0,
+    "explanation": "Benzene (C₆H₆) is a colorless, flammable, volatile liquid that is non-polar and miscible with other non-polar solvents. Ethanol and methanol are polar and miscible with water. Methane is a gas."
+  },
+  {
+    "question": "The IUPAC name of the compound with the structure: CH₃-CH(CH₃)-CH(CH₃)-CH(CH₃)-CH₂-CH₃ is:",
+    "options": [
+      "3,4,5-Trimethylhexane",
+      "2-Ethyl-3,4-dimethylpentane",
+      "4-Ethyl-2,3-dimethylpentane",
+      "2,3,4-Trimethylhexane"
+    ],
+    "answer": 3,
+    "explanation": "The longest continuous carbon chain has 6 carbons (hexane). Numbering from the end nearest the branches gives methyl substituents at positions 2, 3, and 4. The correct IUPAC name is 2,3,4-trimethylhexane. Option C is incorrect because the ethyl branch makes the longest chain 6 carbons, not 5."
+  },
+  {
+    "question": "Which one of the following petroleum products is used as a solvent and in dry cleaning?",
+    "options": [
+      "Kerosene",
+      "Petroleum ether",
+      "Paraffin wax",
+      "Diesel oil"
+    ],
+    "answer": 1,
+    "explanation": "Petroleum ether (also called ligroin) is a light fraction of petroleum consisting of low-boiling hydrocarbons. It is commonly used as a solvent in laboratories and in the dry cleaning industry."
+  },
+  {
+    "question": "Which one of the following is NOT TRUE about the laboratory preparation of ethylene by dehydration of ethanol?",
+    "options": [
+      "The collected ethylene gas in the experiment decolorizes Br₂ in CCl₄.",
+      "Concentrated sulphuric acid acts as a dehydrating agent.",
+      "Combustion of ethylene produces a non-luminous flame.",
+      "The collected ethylene gas in the experiment decolorizes alkaline KMnO₄."
+    ],
+    "answer": 2,
+    "explanation": "Ethylene (C₂H₄) is an unsaturated hydrocarbon with a higher carbon-to-hydrogen ratio than alkanes. When it burns, it tends to produce a luminous (smoky) flame due to incomplete combustion, not a non-luminous flame. Options A, B, and D are all true statements about ethylene preparation."
+  },
+  {
+    "question": "Which one of the following is an essential nutrient of plants?",
+    "options": [
+      "Aluminum",
+      "Lead",
+      "Sodium",
+      "Potassium"
+    ],
+    "answer": 3,
+    "explanation": "Potassium (K) is one of the three primary macronutrients (NPK - nitrogen, phosphorus, potassium) essential for plant growth. Aluminum and lead are not essential nutrients, and sodium is not essential for most plants."
+  },
+  {
+    "question": "Which one of the following is the main reason for the large difference in dipole moment between the triatomic molecules water (H₂O) and carbon dioxide (CO₂)?",
+    "options": [
+      "The presence of lone pairs of electrons in water (H₂O) partially reinforces bond polarities.",
+      "The higher electronegativity difference among atoms in water (H₂O) than in carbon dioxide (CO₂).",
+      "The presence of multiple bonds in carbon dioxide (CO₂) while single bonds in water.",
+      "The bonds in carbon dioxide (CO₂) are directed 180° and bond polarity reinforces each other."
+    ],
+    "answer": 0,
+    "explanation": "The key difference is that H₂O has a bent geometry with lone pairs on oxygen that reinforce the molecular dipole, giving a net dipole moment. In CO₂, the linear geometry (180°) causes the two C=O bond dipoles to cancel, resulting in zero net dipole. The lone pairs in water both cause the bent shape and add to the overall dipole."
+  },
+  {
+    "question": "How many non-bonding pairs of electrons are present in the valence shell of the central atom in ClF?",
+    "options": [
+      "1",
+      "0",
+      "3",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "In ClF, chlorine is the central atom with 7 valence electrons. One electron is used in bonding with F, leaving 6 electrons = 3 lone pairs. So there are 3 non-bonding pairs of electrons on the central atom (Cl)."
+  },
+  {
+    "question": "Which one would be observed in a laboratory activity that is applied on naphthalene?",
+    "options": [
+      "It is soluble in benzene.",
+      "It conducts electricity in molten state.",
+      "It shows relatively high melting point.",
+      "It is soluble in water."
+    ],
+    "answer": 0,
+    "explanation": "Naphthalene is a non-polar molecular solid, so it follows 'like dissolves like' and is soluble in non-polar solvents such as benzene. It does not conduct electricity (no ions), has a relatively low melting point (molecular crystal), and is insoluble in water (non-polar)."
+  },
+  {
+    "question": "Which one of the following statements is CORRECT?",
+    "options": [
+      "Valence bond model simply shows the linkage between atoms and the presence of lone pairs.",
+      "Lewis model predicts the shapes of molecules based on electron-pair repulsions around a central atom.",
+      "In Lewis model, electrons repel one another and a pair of bonding electrons lies far apart as possible.",
+      "Valence bond model explains molecular shape from the interaction of atomic orbitals."
+    ],
+    "answer": 3,
+    "explanation": "The valence bond model explains molecular shape through the concept of orbital hybridization and overlap. Option B describes VSEPR theory (not Lewis model). Option A oversimplifies the VB model. Option C mixes VSEPR concepts with Lewis model incorrectly."
+  },
+  {
+    "question": "The energy required to completely separate one mole of a solid ionic compound into gaseous ions is a/an",
+    "options": [
+      "Ionization energy",
+      "Activation energy",
+      "Lattice energy",
+      "Bond energy"
+    ],
+    "answer": 2,
+    "explanation": "Lattice energy is defined as the energy required to completely separate one mole of a solid ionic compound into its gaseous ions. It is a measure of the strength of ionic bonding in the crystal lattice."
+  },
+  {
+    "question": "Which of the following compounds reacts with basic oxide to form salt and water?",
+    "options": [
+      "Acid",
+      "Acidic oxide",
+      "Base",
+      "Neutral oxide"
+    ],
+    "answer": 0,
+    "explanation": "An acid reacts with a basic oxide (metal oxide) to produce salt and water. For example: 2HCl + CaO → CaCl₂ + H₂O. This is a neutralization reaction between an acid and a base (basic oxide)."
+  },
+  {
+    "question": "Which one of the following reactions represents formation of an acid from its salt?",
+    "options": [
+      "CH₃COOH(aq) + CH₃OH(aq) → CH₃COOCH₃(aq) + H₂O(l)",
+      "P₂O₅(s) + 6NaOH(aq) → 2Na₃PO₄(s) + 3H₂O(l)",
+      "NaNO₃(s) + H₂SO₄(l) → NaHSO₄(s) + HNO₃(l)",
+      "AgNO₃(aq) + NaCl(aq) → NaNO₃(aq) + AgCl(s)"
+    ],
+    "answer": 2,
+    "explanation": "In option C, HNO₃ (an acid) is produced from NaNO₃ (a salt of nitric acid) by reacting with H₂SO₄. This is a laboratory method for preparing volatile acids from their salts using a less volatile acid."
+  },
+  {
+    "question": "The negative logarithm to the base ten of the hydrogen ion concentration is known as",
+    "options": [
+      "Ka",
+      "Kb",
+      "pH",
+      "pOH"
+    ],
+    "answer": 2,
+    "explanation": "pH is defined as the negative base-10 logarithm of the hydrogen ion concentration: pH = -log[H⁺]. It is a measure of the acidity or alkalinity of a solution."
+  },
+  {
+    "question": "Which one of the following is an example of a secondary cell (rechargeable)?",
+    "options": [
+      "Daniel's cell",
+      "Lead storage cell",
+      "Leclanche dry cell",
+      "Zinc-carbon dry cell"
+    ],
+    "answer": 1,
+    "explanation": "A lead storage cell (lead-acid battery) is a secondary (rechargeable) cell used in automobiles. Daniel's cell, Leclanché dry cell, and zinc-carbon dry cell are all primary (non-rechargeable) cells."
+  },
+  {
+    "question": "Which one of the following is responsible for electrolytic conductivity?",
+    "options": [
+      "Ions strongly held in a fixed position.",
+      "Free electrons.",
+      "Electrons held in a fixed position.",
+      "Movement of ions."
+    ],
+    "answer": 3,
+    "explanation": "Electrolytic conductivity is due to the movement of ions (cations and anions) in solution or in molten state. Free electrons are responsible for metallic (electronic) conductivity, not electrolytic."
+  },
+  {
+    "question": "Which one of the following statements is TRUE about gases?",
+    "options": [
+      "The particles of gases are closely packed together.",
+      "The volume of a gas is kept constant as pressure increases.",
+      "When a gas sample is heated at constant pressure, its volume decreases.",
+      "The volume of a gas is equal to the volume of its container."
+    ],
+    "answer": 3,
+    "explanation": "Gases expand to fill their container, so the volume of a gas equals the volume of its container. Gas particles are far apart (not closely packed). Pressure increase decreases volume (Boyle's law). Heating at constant pressure increases volume (Charles' law)."
+  },
+  {
+    "question": "Which one of the following mathematical expressions is derived from the combination of Boyle's law, Charles' law and Avogadro's law?",
+    "options": [
+      "V ∝ nT/P",
+      "V ∝ nP/T",
+      "V ∝ T/(nP)",
+      "V ∝ P/(nT)"
+    ],
+    "answer": 0,
+    "explanation": "Combining Boyle's law (V ∝ 1/P), Charles' law (V ∝ T), and Avogadro's law (V ∝ n) gives V ∝ nT/P, which is the ideal gas law PV = nRT."
+  },
+  {
+    "question": "180 g of calcium carbonate is allowed to react with 156 g of hydrochloric acid according to the following reaction. Which of the following substances is the limiting reagent? CaCO₃ + 2HCl → CaCl₂ + CO₂ + H₂O (Atomic masses: Ca=40, O=16, C=12, H=1, Cl=35.5)",
+    "options": [
+      "HCl",
+      "CaCO₃",
+      "H₂O",
+      "CO₂"
+    ],
+    "answer": 1,
+    "explanation": "Moles of CaCO₃ = 180/100 = 1.8 mol. Moles of HCl = 156/36.5 = 4.27 mol. Required HCl for 1.8 mol CaCO₃ = 2 × 1.8 = 3.6 mol. Since 4.27 > 3.6, HCl is in excess and CaCO₃ is the limiting reagent."
+  },
+  {
+    "question": "Which one of the following isomers differs in the arrangement of carbon atoms in the longest continuous carbon chain?",
+    "options": [
+      "Geometric isomers",
+      "Position isomers",
+      "Chain isomers",
+      "Structural isomers"
+    ],
+    "answer": 2,
+    "explanation": "Chain isomers (also called skeletal isomers) differ in the arrangement of carbon atoms that form the longest continuous carbon chain. For example, n-butane and isobutane (2-methylpropane) are chain isomers."
+  },
+  {
+    "question": "Which one of the following methods can be used in the laboratory for the preparation of alkynes?",
+    "options": [
+      "Dehydration of alcohols with concentrated sulphuric acid.",
+      "Heating of sodium salt of an organic acid with soda lime.",
+      "Dehydrohalogenation of adjacent dihalides with sodium hydroxide.",
+      "Hydrogenation of alkenes with a metal catalyst."
+    ],
+    "answer": 2,
+    "explanation": "Alkynes can be prepared by double dehydrohalogenation of vicinal (adjacent) dihalides using a strong base like NaOH or KOH. Option A produces alkenes, B produces alkanes (decarboxylation), and D produces alkanes (hydrogenation)."
+  }
+]

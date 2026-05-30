@@ -1,0 +1,722 @@
+[
+  {
+    "question": "Which one of the following would you use in closing your application for a job?",
+    "options": ["Best regards", "Yours sincerely", "With respect", "Yours"],
+    "answer": 1,
+    "explanation": "'Yours sincerely' is the standard formal closing for a job application letter. 'Best regards' is semi-formal, and 'Yours' alone is too informal."
+  },
+  {
+    "question": "What would you have at the top right-hand corner of your letter of complaint to a company?",
+    "options": ["Company manager's name", "Your name", "Company's address", "Date of the letter"],
+    "answer": 3,
+    "explanation": "In a formal letter, the date is placed at the top right-hand corner. The sender's address may appear above the date, but among the options, the date is the standard element."
+  },
+  {
+    "question": "Which one of the following lines best exemplifies a sentence from a formal letter?",
+    "options": ["Thank you very much for your letter of 25 July", "Don't forget to give me a call as soon as you", "It is annoying for me to tell you that", "I hope this will help you enjoy your"],
+    "answer": 0,
+    "explanation": "Option A uses formal register appropriate for business correspondence. The other options are either too informal (B) or inappropriate in tone (C, D)."
+  },
+  {
+    "question": "Which one of the following is the main idea of the paragraph about killing animals and forests?",
+    "options": ["We have to make all efforts to conserve our wild life.", "Some of the species of the wild life are in danger.", "The dodo has gone extinct so many years ago.", "Forests are homes to most of our wild life."],
+    "answer": 0,
+    "explanation": "The paragraph urges action to stop killing animals and protect forests, making conservation the central theme. Options B, C, and D are supporting details, not the main idea."
+  },
+  {
+    "question": "What is the main idea of the paragraph about animals and scent?",
+    "options": ["Animals use urine, faeces and sweat to communicate.", "Scents are used to indicate if cats are ready for mate.", "Scents are the main tool of communication for cats.", "All animals communicate through scents."],
+    "answer": 3,
+    "explanation": "The paragraph begins with 'All animals produce a scent' and discusses various ways scents function across species, making D the broadest and most accurate main idea."
+  },
+  {
+    "question": "Arrange the sentences about governance: a. But governance is about more than just Government. b. Companies also use it to manage their interaction and activities. c. People use governance in their daily lives to manage human relationships. d. When most people hear the word governance they think of the Government.",
+    "options": ["a c b d", "d c b a", "d a c b", "c b d a"],
+    "answer": 2,
+    "explanation": "The logical order starts with the common assumption (d), then contrasts it (a), then broadens with examples (c, b): d-a-c-b."
+  },
+  {
+    "question": "Arrange the sentences about the UN: a. In other words, that is one expected to be the government of the world. b. The General Assembly has decided that the problems of the world are so complex. c. In practice this will mean that the UN will make laws, not simply recommendations. d. It now seems that a new United Nations with power over national governments is needed.",
+    "options": ["b d a c", "d c b a", "d b a c", "b c a d"],
+    "answer": 2,
+    "explanation": "The paragraph starts with the proposal (d), then gives the reasoning (b), restates the idea (a), and concludes with the practical implication (c): d-b-a-c."
+  },
+  {
+    "question": "Arrange the sentences about the water tap: a. Nevertheless, I reached it to hear a gurgle and then a hiss. b. It had been left open and was trickling precious water away. c. I thought of going out but went straight back to the yard tap. d. That meant the water was gone dashing our hope of getting a drop.",
+    "options": ["b a d c", "c a d b", "c b a d", "b d c a"],
+    "answer": 2,
+    "explanation": "The narrator goes to the tap (c), finds it running (b), hears the sound (a), and realizes the water is being wasted (d): c-b-a-d."
+  },
+  {
+    "question": "Arrange the sentences about farming schemes: a. One is the revival of ancient tradition of building small dams. b. There are many other imaginative ideas that are helping farmers. c. Another scheme in Bangladesh involves the use of treadle pumps. d. These create reservoirs for collecting rainwater to serve single villages.",
+    "options": ["c b d a", "b c d a", "b d a c", "b a d c"],
+    "answer": 3,
+    "explanation": "The topic sentence (b) introduces imaginative ideas, then the first example (a), its explanation (d), and the second example (c): b-a-d-c."
+  },
+  {
+    "question": "In which one of the following sentences is the full stop correctly used?",
+    "options": ["The illness, i.e., Covid-19 is not yet under control, according to W.H.O.", "The illness, ie., Covid-19 is not yet under control, according to WHO.", "The illness, ie, Covid-19 is not yet under control, according to WHO.", "The illness, i.e., Covid-19 is not yet under control, according to WHO."],
+    "answer": 3,
+    "explanation": "Option D uses the correct abbreviation 'i.e.' with periods, and 'WHO' without periods (as it is the standard form of the acronym). Option A incorrectly uses W.H.O. with periods for an acronym."
+  },
+  {
+    "question": "Which one of the following sentences has a correct use of quotation mark?",
+    "options": ["\"Perhaps we should decline the invitation,\" he said. \"They know we are busy.\"", "\"Perhaps we should decline the invitation, he said. \"They know we are busy.\"", "\"Perhaps we should decline the invitation,\" he said. \"They know we are busy.\"", "\"Perhaps we should decline the invitation, he said. They know we are busy.\""],
+    "answer": 2,
+    "explanation": "Option C correctly places the closing quotation mark after 'invitation,' before the dialogue tag 'he said,' and starts a new quoted sentence. Options A and B differ in the placement of the first closing quotation mark."
+  },
+  {
+    "question": "In which one of the following sentences is the capitalization correct?",
+    "options": ["The Ras Hotel in Addis Ababa is very close to the National Theatre.", "The Ras Hotel in Addis Ababa is very close to the national theatre.", "The Ras hotel in Addis Ababa is very close to the National theatre.", "The Ras hotel in Addis Ababa is very close to the National Theatre."],
+    "answer": 0,
+    "explanation": "Both 'Hotel' and 'Theatre' are part of proper noun names and must be capitalized. Option A correctly capitalizes all proper nouns."
+  },
+  {
+    "question": "In which one of the following sentences is the comma correctly used?",
+    "options": ["Our school needs chairs, desks, computers and more. Please, help!", "Our school needs chairs, desks, computers and more. Please help!", "Our school needs chairs, desks, computers and, more. Please, help!", "Our school needs chairs, desks, computers, and more. Please help!"],
+    "answer": 1,
+    "explanation": "Option B correctly uses commas to separate items in a list without an Oxford comma (acceptable in British English), and does not place an unnecessary comma after 'Please'."
+  },
+  {
+    "question": "Rearrange: is ways important the countryside in life better many in.",
+    "options": ["The countryside in life is better in many important ways.", "Life in the countryside is better in many important ways.", "In the life countryside is better in many important ways.", "In the countryside is better life in important many ways."],
+    "answer": 1,
+    "explanation": "'Life in the countryside is better in many important ways' is the only grammatically correct and natural English sentence."
+  },
+  {
+    "question": "Rearrange: ice the in has temperatures to led of the increase melting.",
+    "options": ["The melting temperatures of ice has led in to the increase.", "The melting has led to the increase in temperatures of ice.", "The increase in temperatures has led to the melting of ice.", "In the melting of the ice temperatures has led to increase."],
+    "answer": 2,
+    "explanation": "'The increase in temperatures has led to the melting of ice' is the grammatically correct and scientifically meaningful sentence."
+  },
+  {
+    "question": "Rearrange: many take have systems also developed to forms postal.",
+    "options": ["Postal systems have also developed to take many forms.", "Postal systems have to take many forms also developed.", "Many forms have also developed to take postal systems.", "To take many forms have also developed postal systems."],
+    "answer": 0,
+    "explanation": "'Postal systems have also developed to take many forms' is the only grammatically correct sentence."
+  },
+  {
+    "question": "Which one of the following words is correctly spelled?",
+    "options": ["acheivement", "hiccough", "lambering", "todlers"],
+    "answer": 1,
+    "explanation": "'Hiccough' is a valid British English spelling of hiccup. 'Achievement' (not acheivement), 'lumbering' (not lambering), and 'toddlers' (not todlers) are misspelled."
+  },
+  {
+    "question": "Which one of the following words is correctly spelled?",
+    "options": ["copperation", "desission", "goverment", "millennium"],
+    "answer": 3,
+    "explanation": "'Millennium' is the correct spelling. The others should be 'cooperation', 'decision', and 'government'."
+  },
+  {
+    "question": "Debebe: I know you enjoy reading. Tadesse: Yes I do, particularly autobiography of famous individuals. A famous person I admire is President Abraham Lincoln of the USA. Debebe: He deserves to be admired;",
+    "options": ["he worked hard for the civil rights of blacks and abolished slavery.", "he was the richest president of the USA.", "he put the USA in a civil war.", "he became president though a happy lucky person."],
+    "answer": 0,
+    "explanation": "Lincoln is admired for his work on civil rights and abolishing slavery, which is the most positive and factual statement among the options."
+  },
+  {
+    "question": "Abeba: The chairman suggested that we should introduce English language support programs to needy university students. Almaz: ___ provided we have the resources.",
+    "options": ["I think it looks wishful", "I think it is remote", "I think it looks ambitious", "I think it looks a good idea"],
+    "answer": 3,
+    "explanation": "'I think it looks a good idea' fits with the conditional 'provided we have the resources,' expressing conditional agreement."
+  },
+  {
+    "question": "Keninisa: I am not denying the value of knowledge based courses. What I am saying is that we need to make our language classes practice oriented. Kaseye: ___. You are right.",
+    "options": ["I disagree", "I see your point", "I am confused", "I am not sure"],
+    "answer": 1,
+    "explanation": "'I see your point' acknowledges understanding and leads naturally to 'You are right,' showing agreement."
+  },
+  {
+    "question": "Dinku: The number of people contracting Covid-19 is increasing at an alarming rate. The economy is getting weaker and weaker because people are staying at home. Abdu: ___",
+    "options": ["In my view we have to strengthen lockdown measures.", "In my view, covid is a fake story.", "In my view, we should ignore the disease.", "In my view vaccination may be of help."],
+    "answer": 3,
+    "explanation": "Vaccination offers a solution that addresses the health crisis without worsening the economic situation, making it the most constructive response."
+  },
+  {
+    "question": "Sara: COVID-19 is putting our health system in a crisis. John: Yes, ___",
+    "options": ["another problem is people are getting depressed.", "another problem is we are losing our beloved ones.", "another problem is the economy is slowing.", "another problem is people are getting ill."],
+    "answer": 1,
+    "explanation": "'Another problem is we are losing our beloved ones' adds the most serious and emotionally significant dimension to the health crisis discussion."
+  },
+  {
+    "question": "Gebisa: Would you please tell me why you are scared to drive a car? Jemal: ___",
+    "options": ["I had a car accident at the age of 24.", "I am not interested at all.", "I don't like to drive.", "It is a work by itself."],
+    "answer": 0,
+    "explanation": "Having had a car accident directly explains why someone would be scared to drive, answering the question logically."
+  },
+  {
+    "question": "Degu: I am having difficulty to learn English particularly grammar. Alemu: ___ consult grammar work manuals.",
+    "options": ["Then", "You must", "I would advise you to", "You have to"],
+    "answer": 2,
+    "explanation": "'I would advise you to' is the most polite and appropriate way to give advice in a conversation, fitting the context of helping a friend."
+  },
+  {
+    "question": "Abebe: We have called this extraordinary meeting of staff. May I call upon the Dean to introduce our new Board chairman? Dean: ___",
+    "options": ["For your information the gentle man sitting next to me is the new Board Director of our school.", "I am introducing Dr. Mitiku Amdisa who is appointed as the new Board Director of our school.", "It gives me much pleasure to me to introduce to you the new Board Director of our school, Dr. Mitiku Amdisa.", "We have gathered here to receive the new Board Director of our school."],
+    "answer": 2,
+    "explanation": "Option C uses formal introduction language appropriate for an official ceremony, even though it contains a minor redundancy ('to me'). It remains the most formal and suitable choice."
+  },
+  {
+    "question": "Dean: Dear colleagues this academic year we have delivered all courses required of us. In addition, we have also conducted a number of research works. Staff: Would you tell us how we are performing in our student and industry linkage? Dean: ___ we have successfully integrated our students with the industry and are getting practical skills.",
+    "options": ["nevertheless", "consequently", "In fact", "Above all"],
+    "answer": 2,
+    "explanation": "'In fact' is used to emphasize a positive statement, reinforcing the claim about successful industry integration."
+  },
+  {
+    "question": "Aster: God has given us the most vital thing for free, water. Beletu: Yes water has many uses for us. We use it for drink, growing plants and cleaning our clothes and houses. Aster: Yes, but it needs management; ___, it can transmit many water borne diseases such as cholera.",
+    "options": ["besides", "otherwise", "then", "so"],
+    "answer": 1,
+    "explanation": "'Otherwise' means 'if not' — if water is not managed properly, it can transmit diseases. This shows the consequence of poor management."
+  },
+  {
+    "question": "Election Board spokesman: Dear journalist all detailed preparations are being made for the 6th national election. Journalist: It is good to hear that but how about the election process? Spokesman: ___ it will be peaceful, fair and democratic.",
+    "options": ["I am sure", "I hope that", "I presume", "I think that"],
+    "answer": 0,
+    "explanation": "A spokesman representing an election board would express certainty ('I am sure') about the process, not mere hope or speculation."
+  },
+  {
+    "question": "Ashebir: The Entoto Park is one of the exciting parks in Addis. The restaurants are fantastic. Tadelle: I have heard many people saying the same. Ashebir: Anytime of the week is conducive if ___ the park.",
+    "options": ["you should take drinks", "I don't know what to tell you", "you want to visit", "you should take lunch"],
+    "answer": 2,
+    "explanation": "'You want to visit' completes the conditional sentence logically: the park is conducive anytime if you want to visit it."
+  },
+  {
+    "question": "Suzi: You see these days skills in information technology is much needed. People in this field are rich. I want to be a software engineer. Abate: ___",
+    "options": ["I can't think of you as a software engineer.", "Wishing is one thing and doing is another.", "IT is not as simple as you may think.", "IT requires knowledge of physics and mathematics."],
+    "answer": 1,
+    "explanation": "'Wishing is one thing and doing is another' cautions that wanting something and achieving it are different, which is the most appropriate response to someone motivated only by wealth."
+  },
+  {
+    "question": "Adugna: What you are saying on language teaching methodology is simply unrealistic and more of a dream. Mohammed: ___",
+    "options": ["You do not understand what I am telling you.", "It is waste of time to talk to you on professional matters.", "You only know teacher fronted teaching.", "What I am trying to say is that we should practice cooperative learning."],
+    "answer": 3,
+    "explanation": "Option D respectfully clarifies Mohammed's position by restating the main point about cooperative learning, addressing the criticism constructively."
+  },
+  {
+    "question": "Nahom: Our company though profitable has weaknesses that we need to address. Dawit: ___",
+    "options": ["Let's rejoice our success and we may do more next time.", "I am not interested to talk about weaknesses when our achievements are already impressive.", "Well as far as I can see we need to give priority to our clients' needs.", "We have done well so far, let's see others when they happen."],
+    "answer": 2,
+    "explanation": "Option C constructively addresses the weaknesses by suggesting a priority area (clients' needs), which is the most professional response."
+  },
+  {
+    "question": "Gedu: What could be the cause for the decline of quality of education in Ethiopia? I know the youth would like to be competitive. Tamrat: ___",
+    "options": ["The main reason is that the educational bureaucracy is filled by corrupt officials.", "The main reason is that parents are not supporting their children as they should do.", "The main reason is that the selection and training of teachers is not competitive.", "The main reason is that students are not interested to learn."],
+    "answer": 2,
+    "explanation": "The selection and training of teachers being non-competitive directly affects the quality of education and connects to the youth's desire to be competitive."
+  },
+  {
+    "question": "Ademe: Drought victims are increasing in numbers in Ethiopia. We have to do something. Tafesse: Yes, ___",
+    "options": ["people are fighting against each other.", "but it does not concern us.", "drought is a punishment from God.", "we really should mobilize our staff to allocate one month salary to help victims."],
+    "answer": 3,
+    "explanation": "Option D shows agreement and proposes concrete action to help drought victims, which is the most appropriate response."
+  },
+  {
+    "question": "Takele: This jacket is beautiful. What is it made of? Shop keeper: Yes, ___",
+    "options": ["you can buy it", "if you like it buy it", "it is made of leather", "I just sell"],
+    "answer": 2,
+    "explanation": "The shopkeeper directly answers the question about what the jacket is made of: 'it is made of leather.'"
+  },
+  {
+    "question": "Chairman: No staff should miss a class without the knowledge of the department. Course coordinator: ___",
+    "options": ["Transportation is a problem here; staff cannot arrive as per schedule.", "As a rule you would need to be in class ahead of time.", "Salary is poor; staffs work in private colleges, too.", "Covid is a problem, for any discomfort staffs stay at home."],
+    "answer": 0,
+    "explanation": "The course coordinator explains the practical reason why staff miss classes (transportation issues), which directly addresses the chairman's concern."
+  },
+  {
+    "question": "Asmare: We are suffering because our politics is breeding corruption, discrimination and violence. Ahmed: ___",
+    "options": ["I'm sorry, I'm not quite with you, and you are against ethnic rights.", "I'm sorry, I'm not quite with you, and politics is not our domain.", "I'm sorry, I'm not quite with you, for there are other reasons contributing to what you just said.", "I'm sorry, I'm not quite with you, and you should take politics for what it is."],
+    "answer": 2,
+    "explanation": "Option C politely disagrees while providing a reasoned counterpoint — that other factors also contribute to the problems mentioned."
+  },
+  {
+    "question": "Desta: The quality of education is declining year in and year out. Admasu: ___",
+    "options": ["This has been said again and again; it should not bother us.", "Quality of education is not our main problem; we have others that we need to address.", "Can you explain why you think quality of education is on the decline?", "Yes, so what!"],
+    "answer": 2,
+    "explanation": "'Can you explain why you think quality of education is on the decline?' seeks clarification in a respectful manner, which is the most appropriate communicative response."
+  },
+  {
+    "question": "Mariam: I am assigned to study accounting, but I am not happy with it. Sa'ed: ___",
+    "options": ["It is your choice.", "You can work in my shop.", "You should not worry; I'd find this good for you.", "You are afraid of additions and subtractions."],
+    "answer": 2,
+    "explanation": "Option C is encouraging and reassuring, telling Mariam not to worry and that accounting could be good for her."
+  },
+  {
+    "question": "Abera: Dear students, university education requires you to study regularly. Dinkenesh: Sir, what do you advise us to do well in our courses? Abera: I am sure, if you study hard and attend classes regularly ___",
+    "options": ["you will do well in the courses you take", "you could understand what is everything there", "you might know how to make friends", "you may get what you want from it"],
+    "answer": 0,
+    "explanation": "The first conditional structure 'if you study hard...you will do well' is the logical and grammatically correct completion, directly addressing the question about doing well in courses."
+  },
+  {
+    "question": "Amanuel: We have had interesting presentations and discussions today. I would like to say at last ___",
+    "options": ["thank you for your attention.", "attending is not enough; you have to be active participants.", "you should not miss such events.", "we will have similar events in the future."],
+    "answer": 0,
+    "explanation": "'Thank you for your attention' is the standard and most appropriate way to close a formal presentation or meeting."
+  },
+  {
+    "question": "Interviewer: ___ Guest: I am from the USA. I train teachers of English and have been doing this work for thirty years.",
+    "options": ["It is pleasure to have you here. Would you please tell me where you are from and what you do?", "Tell me what you would like to say about yourself and your work?", "Where are you from and tell me what you do?", "I gather you teach English tell me who you are and what you do?"],
+    "answer": 0,
+    "explanation": "Option A is the most polite and professional way for an interviewer to introduce a guest and ask about their background."
+  },
+  {
+    "question": "Aberash: You asked me to report to your office. Employer: Your name is Aberash. I learned that you volunteered to help old aged people. Aberash: Yes sir. Employer: We are supporting old people who have no family to support them. ___ about your parents and family?",
+    "options": ["What do you say", "What do you know", "Tell me", "Would you mind telling me"],
+    "answer": 3,
+    "explanation": "'Would you mind telling me' is the most polite and appropriate way to ask a personal question in a professional setting."
+  },
+  {
+    "question": "The falls in coffee price have a serious effect on farmers' incomes and that is why Ethiopia's Coffee Farmers' Cooperative Union (ECFCU) was set up.",
+    "options": ["ECFCU was established in reaction to falls in coffee price.", "ECFCU has been able to improve farmers' incomes.", "ECFCU has a serious effect on farmers' incomes.", "As a result of ECFCU, coffee price went up."],
+    "answer": 0,
+    "explanation": "The original sentence says the ECFCU was set up because of (in reaction to) the falls in coffee price, which is restated in option A."
+  },
+  {
+    "question": "The reformatory means much more to these difficult teenagers than their medicine.",
+    "options": ["In the absence of their medicine, the teenagers are equally happy with the reformatory.", "To the teenagers, their medicine has less benefits than the reformatory.", "The teenagers value the reformatory as well as their medicine.", "The teenagers have benefited a lot from their medicine."],
+    "answer": 1,
+    "explanation": "If the reformatory means 'much more' than medicine, then medicine has less benefit compared to the reformatory."
+  },
+  {
+    "question": "He has been depressed all week, but he seems a little more ___ today.",
+    "options": ["sociable", "energetic", "pleasing", "cheerful"],
+    "answer": 3,
+    "explanation": "'Cheerful' is the opposite of 'depressed' and fits the contrast indicated by 'but.'"
+  },
+  {
+    "question": "Don't ask me anything about this town. I am a ___ here, too.",
+    "options": ["foreigner", "intruder", "newcomer", "stranger"],
+    "answer": 3,
+    "explanation": "'Stranger' means someone unfamiliar with a place. 'I am a stranger here' is a common expression meaning 'I don't know this place.'"
+  },
+  {
+    "question": "After rigorous training, medical doctors are eventually ___ to treat patients.",
+    "options": ["accepted", "licensed", "employed", "taught"],
+    "answer": 1,
+    "explanation": "After training, doctors must be 'licensed' (given official permission) to treat patients legally."
+  },
+  {
+    "question": "Your efforts should not be ___ by the rumors going around. Just keep up with the good work.",
+    "options": ["rubbished", "tarnished", "questioned", "disrupted"],
+    "answer": 1,
+    "explanation": "'Tarnished' means damaged or spoiled. Rumors can tarnish (damage the reputation of) your efforts, and the advice is to not let that happen."
+  },
+  {
+    "question": "The two countries are still at war and their ___ relations are getting worse and worse. Why doesn't the African Union interfere?",
+    "options": ["diplomatic", "charismatic", "neighborly", "popular"],
+    "answer": 0,
+    "explanation": "'Diplomatic relations' refers to the official relationships between countries, which can deteriorate during conflicts."
+  },
+  {
+    "question": "Animals such as elephants may go ___ in a few years as their tusks have become more and more attractive to poachers than ever before.",
+    "options": ["extinct", "dead", "expensive", "targeted"],
+    "answer": 0,
+    "explanation": "Heavy poaching can cause species to go 'extinct' (cease to exist), which is the most serious and appropriate consequence in this context."
+  },
+  {
+    "question": "We are planning to entrust all orphans in the village to ___ families willing to bring them up like their biological children.",
+    "options": ["charitable", "sensible", "foster", "kind"],
+    "answer": 2,
+    "explanation": "'Foster families' are families that take in and raise children who are not their own, which is the correct term for this context."
+  },
+  {
+    "question": "His feet are beginning to ___ up. I think he should see his doctor as soon as possible.",
+    "options": ["mount", "swell", "puff", "grow"],
+    "answer": 1,
+    "explanation": "'Swell up' means to enlarge due to fluid accumulation, which is a medical symptom requiring a doctor's attention."
+  },
+  {
+    "question": "Although they tried to make off after robbing the bank, the police managed to arrest everyone involved. (make off = ?)",
+    "options": ["take over", "put off", "run away", "chase away"],
+    "answer": 2,
+    "explanation": "'Make off' means to run away or escape, especially after doing something wrong."
+  },
+  {
+    "question": "One good thing about ecotourism is that it makes attempts to sustain the wellbeing of human and non-human assets in the locality. (sustain = ?)",
+    "options": ["maintain", "tolerate", "create", "hold"],
+    "answer": 0,
+    "explanation": "'Sustain' means to maintain or keep something at a certain level, which is closest in meaning to 'maintain.'"
+  },
+  {
+    "question": "Many professionals doubt that interactive approaches to teaching yield better results than individual endeavors. (interactive = ?)",
+    "options": ["competitive", "cooperative", "multiple", "social"],
+    "answer": 1,
+    "explanation": "'Interactive' in the context of teaching approaches means involving cooperation between people, closest to 'cooperative.'"
+  },
+  {
+    "question": "Small animals beneficial to the ecosystem should be looked after so we could bring the environment back to normal. (beneficial = ?)",
+    "options": ["useful", "healthy", "attractive", "familiar"],
+    "answer": 0,
+    "explanation": "'Beneficial' means producing good results or helpful, which is closest in meaning to 'useful.'"
+  },
+  {
+    "question": "Neither of his children takes after him and that created a rift between him and his wife. (takes after = ?)",
+    "options": ["agree with", "care for", "worry about", "look like"],
+    "answer": 3,
+    "explanation": "'Takes after' means to resemble or look like a parent or ancestor in appearance or character."
+  },
+  {
+    "question": "I now understand that she is so cruel that she can even kill her own husband. It wasn't her true personality that we have known until today. (cruel = ?)",
+    "options": ["foolish", "thrifty", "benign", "brutal"],
+    "answer": 3,
+    "explanation": "'Cruel' means deliberately causing pain or suffering, which is closest in meaning to 'brutal.'"
+  },
+  {
+    "question": "In many countries in Asia, primary education is not compulsory, so some parents may choose not to send their children to school. (compulsory = ?)",
+    "options": ["compulsive", "mandatory", "universal", "important"],
+    "answer": 1,
+    "explanation": "'Compulsory' means required by law or rule, which is closest in meaning to 'mandatory.'"
+  },
+  {
+    "question": "You don't have to leave everything to her. She is still so immature that you cannot expect her to make logical and thoughtful decisions of that kind. (immature = ?)",
+    "options": ["impolite", "uncritical", "unfriendly", "unstable"],
+    "answer": 3,
+    "explanation": "'Immature' in the context of being unable to make logical and thoughtful decisions suggests emotional instability, closest to 'unstable.'"
+  },
+  {
+    "question": "Which one of the following is NOT among the impacts of terrorism implied in Paragraph 3?",
+    "options": ["It has fostered a sense of hatred among people of different races.", "It has claimed the lives of so many people in many countries.", "It has created an environment of hostility between countries.", "It has ruined the economy of many individuals and nations."],
+    "answer": 0,
+    "explanation": "Paragraph 3 mentions catastrophic loss of property and human life, and hindering peace between communities and nations, but does not specifically mention fostering hatred among different races."
+  },
+  {
+    "question": "Which one of the following words/phrases in Paragraph 2 shows that people are no more patient with one another?",
+    "options": ["environment of tension", "reduced tolerance", "declining values", "violence"],
+    "answer": 1,
+    "explanation": "'Reduced tolerance' directly means people are less patient and accepting of one another."
+  },
+  {
+    "question": "How does the writer characterize the modern world?",
+    "options": ["Only few countries enjoy peaceful life and respect for one another.", "When the present war is over, peace will prevail everywhere.", "There is hope for future generations to live a better life.", "It is possible that we see new countries created."],
+    "answer": 0,
+    "explanation": "The passage describes the modern world as 'highly fragmented, less peaceful and unsafe,' implying that only few places enjoy peace."
+  },
+  {
+    "question": "Which one of the following is a serious threat to our survival on this planet?",
+    "options": ["The terrorism that exploits disengaged youths", "The ill-feelings developed among human beings", "The way our communities are interconnected", "The poor quality of life of mankind today"],
+    "answer": 0,
+    "explanation": "The passage links powerful weaponry and terrorism to threats against human survival, and paragraph 1 states our survival depends on peace."
+  },
+  {
+    "question": "According to the passage, which one of the following is true about peace?",
+    "options": ["For individuals, it is possible that they grow in the absence of peace.", "Our planet is insignificantly affected if there is no peace.", "A community anywhere needs peace to develop.", "Peace is a priority agenda for some religions."],
+    "answer": 2,
+    "explanation": "The passage states that 'Peace is a fundamental component of community development,' meaning every community needs peace to develop."
+  },
+  {
+    "question": "What is the main idea conveyed by the last sentence in the passage?",
+    "options": ["Religion is the main cause of all peace problems that we see in today's world.", "In today's world, we lack a deeper understanding to solve our problems.", "There is a need for genuine discussion among various interest groups.", "Peace problems in the society are increasing from time to time."],
+    "answer": 2,
+    "explanation": "The last sentence calls for 'genuine interfaith dialogue, tolerance and harmony,' indicating the need for genuine discussion among different groups."
+  },
+  {
+    "question": "What, according to the extremists, would the young gain from joining them?",
+    "options": ["gaining respect for their religion", "having better social relation", "getting radicalized", "living better life"],
+    "answer": 3,
+    "explanation": "The passage states extremists use 'the rhetoric of a better life' to attract youth, promising they will live a better life."
+  },
+  {
+    "question": "What is misrepresented as Jihad? (Paragraph 4)",
+    "options": ["The violent extremists' ideological messages", "The struggle waged by violent extremists", "The young and impressionable minds", "The violent extremist narratives"],
+    "answer": 1,
+    "explanation": "The passage says the 'struggle' is what is misrepresented as Jihad by violent extremist groups."
+  },
+  {
+    "question": "Which one of the following is NOT among the opportunities that violent extremists exploit to get the youth involved in extremist activities?",
+    "options": ["being out of the school system", "lack of public platforms", "lack of training", "joblessness"],
+    "answer": 2,
+    "explanation": "The passage mentions unemployment (joblessness), being out of school, and lack of public platforms as exploited conditions. 'Lack of training' is not mentioned."
+  },
+  {
+    "question": "What does the phrase 'these conflicts' in Paragraph 3, line 4, refer to?",
+    "options": ["different types of conflicts", "those hindering peace", "extremist actions", "terrorism"],
+    "answer": 0,
+    "explanation": "In context, 'these conflicts' refers back to 'different types of conflicts' mentioned at the beginning of the same paragraph."
+  },
+  {
+    "question": "What makes Jenner different from the rest of the children?",
+    "options": ["That he began to study medicine when he was only 13.", "That he studied anatomy and surgery under Hunter.", "That he would never forget his terrible days.", "That he survived the variolation."],
+    "answer": 3,
+    "explanation": "The passage states that children were kept until they 'either died or recovered' and 'Fortunately for humanity, Jenner survived.' His survival is what made him different."
+  },
+  {
+    "question": "What was the main problem associated with variolation at that time?",
+    "options": ["A small proportion of those variolated were disabled for life.", "One in ten of those variolated seriously suffered the disease.", "It gave a healthy person the mild form of the disease.", "About 10% of those variolated died of the disease."],
+    "answer": 1,
+    "explanation": "The passage states 'About 10% of those variolated came down with a severe case of smallpox,' meaning one in ten suffered seriously."
+  },
+  {
+    "question": "During the time, what was the death rate in percentage of children who caught smallpox?",
+    "options": ["about 66%", "about 33%", "about 20%", "about 13%"],
+    "answer": 1,
+    "explanation": "The passage states smallpox 'killed one in three (about 33%) infants and young children.'"
+  },
+  {
+    "question": "Where were the children kept after being infected?",
+    "options": ["They had a special room where such children were quarantined.", "They were made to stay in a camp prepared for such children.", "They stayed in a farm building where animals were kept.", "They were kept in a special ward in a hospital."],
+    "answer": 2,
+    "explanation": "The passage says Jenner was 'locked in a barn' with other children. A barn is a farm building where animals are kept."
+  },
+  {
+    "question": "Why were children infected intentionally with a deadly disease? Because...",
+    "options": ["there were too many children during those days.", "that was the way children were brought up.", "doctors knew the infection would not kill.", "they were being vaccinated."],
+    "answer": 2,
+    "explanation": "Variolation was based on the belief that infecting healthy people with mild cases would give them protection. Doctors believed the infection would not kill because they used mild forms."
+  },
+  {
+    "question": "Why was Jenner's report rejected for publication?",
+    "options": ["The reviewers felt it refuted accepted theories.", "It was not based on adequate experiment.", "The reviewers felt envious of his work.", "The report had serious inaccuracies."],
+    "answer": 0,
+    "explanation": "The passage states 'Jenner's theory was too much of a challenge to the accepted medical beliefs of the time,' meaning it refuted accepted theories."
+  },
+  {
+    "question": "Why didn't Phipps develop smallpox after the second variolation?",
+    "options": ["A mild form of smallpox was used in the second variolation.", "The smallpox variolation was not as risky as they thought.", "The variolation of cowpox guarded him against smallpox.", "Because he was a healthy child, he could resist smallpox."],
+    "answer": 2,
+    "explanation": "Phipps had been previously infected with cowpox (first stage of the experiment), which gave him immunity against smallpox during the second variolation."
+  },
+  {
+    "question": "Why did many of the physicians think Jenner was taking too great a risk? Because...",
+    "options": ["doing the variolation again would be an act of child abuse.", "they believed the experiment was not worth doing.", "he was variolating Phipps for the second time.", "he was variolating Phipps with a riskier virus."],
+    "answer": 2,
+    "explanation": "Jenner had already infected Phipps with cowpox once, and then variolated him with smallpox a second time, which other physicians saw as dangerously excessive."
+  },
+  {
+    "question": "What do you think was the response of James Phipps' parents to Jenner's request?",
+    "options": ["They were silent but Jenner made his own decision to do the experiment.", "They agreed that the experiment was risky.", "They agreed because they knew there was no serious risk.", "They did not agree because the experiment was risky."],
+    "answer": 1,
+    "explanation": "Jenner 'asked the parents...for permission to conduct a risky experiment' — they agreed but acknowledged the risk, since the experiment was described as risky."
+  },
+  {
+    "question": "Jenner performed the procedure many times although he used.... What does 'the procedure' refer to?",
+    "options": ["using less severe methods", "treating patients gently", "performing surgery", "doing variolation"],
+    "answer": 3,
+    "explanation": "In context, 'the procedure' refers to variolation, which Jenner performed many times as a common medical practice."
+  },
+  {
+    "question": "Chairman: Have you talked with the instructor about your case?",
+    "options": ["He has angered me.", "It has been time wasting.", "What case you are talking about.", "Yes, I have. He advised me to take a make-up test."],
+    "answer": 3,
+    "explanation": "Option D directly answers the yes/no question and provides relevant follow-up information, which is the most appropriate response."
+  },
+  {
+    "question": "Buying food items from open markets is not ___ that of the super markets.",
+    "options": ["very expensive", "more expensive", "expensive", "as expensive as"],
+    "answer": 3,
+    "explanation": "'Not as expensive as' is the correct comparative structure to show that open market prices are less than supermarket prices."
+  },
+  {
+    "question": "___ English as my major field since I finished my first year at university.",
+    "options": ["had studied", "have studied", "studied", "will have studied"],
+    "answer": 1,
+    "explanation": "'Have studied' (present perfect) is correct with 'since' to indicate an action that began in the past and continues to the present."
+  },
+  {
+    "question": "He bought a Toyota car ___ is the latest model and very expensive.",
+    "options": ["whom", "which", "who", "whose"],
+    "answer": 1,
+    "explanation": "'Which' is the correct relative pronoun for things (a car). 'Whom' and 'who' are for people; 'whose' shows possession."
+  },
+  {
+    "question": "Dr. Kiflu ___ will lecture on HIV/AIDS.",
+    "options": ["which is an internist", "whose is an internist", "whom is an internist", "who is an internist"],
+    "answer": 3,
+    "explanation": "'Who' is the correct subject relative pronoun for a person. 'Whom' is used as an object, not a subject."
+  },
+  {
+    "question": "The professor ___ like if he was consulted on the matter.",
+    "options": ["should", "would", "shall", "Will"],
+    "answer": 1,
+    "explanation": "'Would' is used in conditional constructions with 'if' to express hypothetical results: 'The professor would like if he was consulted.'"
+  },
+  {
+    "question": "___ you happen to meet Deribsa please ask him to call me.",
+    "options": ["In case", "Shall", "At last", "Will"],
+    "answer": 0,
+    "explanation": "'In case' means 'if it happens that' — 'In case you happen to meet Deribsa' means 'if by chance you meet him.'"
+  },
+  {
+    "question": "Damene: COVID-19 is a curse.... Taitu: Oh!",
+    "options": ["You should not worry; just relax.", "It is a disease.", "Can I just say that we are careless too.", "Who cares about covid 19?"],
+    "answer": 2,
+    "explanation": "Option C adds a thoughtful perspective to the conversation by suggesting that human carelessness is also a factor, fitting the dialogue naturally."
+  },
+  {
+    "question": "Although I love talking to people on different issues, ___ I prefer to stay alone.",
+    "options": ["as a result", "in fact", "most of the time", "moreover"],
+    "answer": 2,
+    "explanation": "'Most of the time' correctly qualifies the contrast — while loving conversation, the speaker prefers solitude most of the time."
+  },
+  {
+    "question": "The students ___ with the necessary information on how to use the computer tablets.",
+    "options": ["would provide", "have provide", "provided", "are provided"],
+    "answer": 3,
+    "explanation": "'Are provided' (passive voice) is correct: the students are given information by someone else."
+  },
+  {
+    "question": "I enjoyed my lunch yesterday. My children and wife also liked it. The soup was well prepared. The 'injera' was soft. The tea was delicious. ___",
+    "options": ["I also played table tennis.", "I love my children.", "Overall it was wonderful.", "My wife is proud."],
+    "answer": 2,
+    "explanation": "'Overall it was wonderful' summarizes the series of positive statements about the lunch, providing an appropriate conclusion."
+  },
+  {
+    "question": "If you want to succeed as a university student, you should study regularly; ___, you should not miss lectures.",
+    "options": ["In addition", "Since", "However", "Otherwise"],
+    "answer": 0,
+    "explanation": "'In addition' adds another important piece of advice to the first recommendation, both being positive suggestions for success."
+  },
+  {
+    "question": "Chaltu loves her father more than her mother ___ he supported her to go to school.",
+    "options": ["because", "in addition", "however", "then"],
+    "answer": 0,
+    "explanation": "'Because' provides the reason why Chaltu loves her father more — he supported her education."
+  },
+  {
+    "question": "Rahel is artistically talented. She has ___ our house.",
+    "options": ["belittled", "beautified", "left", "ignored"],
+    "answer": 1,
+    "explanation": "'Beautified' means made more beautiful, which logically follows from Rahel being artistically talented."
+  },
+  {
+    "question": "If I ___ help you I would be happy.",
+    "options": ["would have helped", "had had helped", "were able to", "had helped"],
+    "answer": 2,
+    "explanation": "'Were able to' fits the second conditional structure: 'If I were able to help you, I would be happy.' This expresses a hypothetical present ability."
+  },
+  {
+    "question": "The writing courses you took are helpful. You ___ write your school story.",
+    "options": ["must", "can", "have to", "may"],
+    "answer": 1,
+    "explanation": "'Can' expresses ability — because the courses were helpful, you now have the ability to write your story."
+  },
+  {
+    "question": "We will discuss the matter ___ the director comes.",
+    "options": ["because", "then", "since", "when"],
+    "answer": 3,
+    "explanation": "'When' indicates the time condition for the discussion — it will happen at the time the director arrives."
+  },
+  {
+    "question": "You would have scored at least a pass grade ___.",
+    "options": ["if you had regularly attended lectures", "if you will regularly attend lectures", "if you regularly attended lectures", "if you regularly attend lectures"],
+    "answer": 0,
+    "explanation": "The third conditional (past hypothetical) requires 'if + past perfect' with 'would have': 'You would have scored...if you had regularly attended.'"
+  },
+  {
+    "question": "___, I will definitely get the job.",
+    "options": ["If I score the best grades in the exam", "If I will score the best grades in the exam", "If scored the best grades in the exam", "If I had scored the best grades in then exam"],
+    "answer": 0,
+    "explanation": "The first conditional uses 'if + present simple' with 'will + verb': 'If I score the best grades, I will definitely get the job.'"
+  },
+  {
+    "question": "Ahmed: The University should not enroll students whose English is weak. Said: ___ English should be given such importance. We can give refresher courses for those that need it.",
+    "options": ["It is easy to say that", "It is fair to say that", "I would agree that", "I am not convinced that"],
+    "answer": 2,
+    "explanation": "'I would agree that' expresses agreement with Ahmed's position, and the follow-up about refresher courses offers a constructive solution."
+  },
+  {
+    "question": "Although Egypt has been intimidating Ethiopia militarily not to start the second round of filling the Grand Renaissance Dam, ___ it is coming back to the negotiating table.",
+    "options": ["it has no option", "it is bragging but", "it is now begging Ethiopia", "it looks as if"],
+    "answer": 3,
+    "explanation": "'It looks as if' introduces the observation that despite military threats, Egypt appears to be returning to negotiations."
+  },
+  {
+    "question": "Did you attend the discussion on election held at the city hall?",
+    "options": ["It is not my interest to attend such meetings.", "I did not want to waste my time.", "I was giving make up class.", "No, I did not."],
+    "answer": 3,
+    "explanation": "'No, I did not' directly and appropriately answers a yes/no question in English."
+  },
+  {
+    "question": "Abdissa is determined to finish his academic studies quickly and get married. According to his plan he ___ his PhD by 2025.",
+    "options": ["hopes to have done", "will have done", "could have done", "might have done"],
+    "answer": 1,
+    "explanation": "'Will have done' (future perfect) is used for actions that will be completed by a specific future time (by 2025)."
+  },
+  {
+    "question": "We seem to agree on the importance of agricultural transformation for our development. ___, at the beginning of my discussion, education is a key to development and we need to focus on that.",
+    "options": ["As I stressed", "As I said", "Any way as I was saying", "In fact as I said"],
+    "answer": 0,
+    "explanation": "'As I stressed' refers back to a point previously emphasized at the beginning of the discussion, showing continuity of argument."
+  },
+  {
+    "question": "Our director is ___ to drink tea in the staff room.",
+    "options": ["too proud", "too worried", "too nervous", "too shy"],
+    "answer": 3,
+    "explanation": "'Too shy to drink tea in the staff room' means the director is too self-conscious to join others, which is a common social scenario."
+  },
+  {
+    "question": "The Ministry of Health gives us regular education on Covid-19 ___ help ourselves from contracting the virus.",
+    "options": ["then", "so as to", "so", "to have"],
+    "answer": 1,
+    "explanation": "'So as to' expresses purpose — the education is given so as to (in order to) help people avoid contracting the virus."
+  },
+  {
+    "question": "We have collected reliable and valid data. If it is carefully analyzed, it ___ show why students at university are not doing well in their fields of study.",
+    "options": ["could", "will", "may", "might"],
+    "answer": 1,
+    "explanation": "'Will' expresses strong certainty in a first conditional — if the data is carefully analyzed, it will show the reasons."
+  },
+  {
+    "question": "Belay: It is getting late in the evening. Aster: ___",
+    "options": ["It is time went to dance.", "It is time we went to bed.", "It is time we went to bed.", "It is time we went to read."],
+    "answer": 2,
+    "explanation": "'It is time we went to bed' uses the correct 'it is time + past tense' structure and is the most appropriate response when it's getting late in the evening."
+  },
+  {
+    "question": "Gebru irritates me because he does not like to work. ___, I like him because he is honest.",
+    "options": ["On the other hand", "In addition", "Then", "In fact"],
+    "answer": 0,
+    "explanation": "'On the other hand' introduces a contrasting positive point — despite disliking his laziness, the speaker appreciates his honesty."
+  },
+  {
+    "question": "The chairman is busy. You ___ see him after lunch.",
+    "options": ["have to", "might", "should", "must"],
+    "answer": 1,
+    "explanation": "'Might' expresses possibility — since the chairman is busy now, you might be able to see him later, after lunch."
+  },
+  {
+    "question": "Professor Lakew, ___, is the dean of our college.",
+    "options": ["which plays ground tennis on Sundays", "whom he plays ground tennis on Sundays", "who plays ground tennis on Sundays", "whose he plays ground tennis on Sundays"],
+    "answer": 2,
+    "explanation": "'Who' is the correct relative pronoun for a person acting as the subject of the relative clause."
+  },
+  {
+    "question": "Kilile ___ in hospital since last week.",
+    "options": ["is", "has been", "was", "had been"],
+    "answer": 1,
+    "explanation": "'Has been' (present perfect) is used with 'since' to indicate a state that began in the past and continues to the present."
+  },
+  {
+    "question": "The president has invited me to write the final five year report. ___, he has to transfer 25% of the agreed pay to my account first.",
+    "options": ["Moreover", "However", "Otherwise", "Since"],
+    "answer": 1,
+    "explanation": "'However' introduces a contrasting condition — the invitation is accepted, but the payment must be made first."
+  },
+  {
+    "question": "Tesfay: Adamu was not selected for the job although he did very well in the qualifying examination. Yared: Yes, he is excellent; this ___.",
+    "options": ["may be", "can't be", "shall be", "can be"],
+    "answer": 1,
+    "explanation": "'Can't be' expresses strong disbelief — it's hard to believe someone excellent was not selected, so this can't be right/fair."
+  },
+  {
+    "question": "I know you love that tea room. ___ do you go there?",
+    "options": ["Occasionally", "How often", "Incidentally", "Sometimes"],
+    "answer": 1,
+    "explanation": "'How often' is the correct question word to ask about frequency of visiting a place."
+  },
+  {
+    "question": "I am fun of Tesfaye ___ book you are reading just now.",
+    "options": ["whose", "whom", "which", "that"],
+    "answer": 0,
+    "explanation": "'Whose' shows possession — Tesfaye's book. The relative clause 'whose book you are reading' identifies which Tesfaye."
+  },
+  {
+    "question": "I am sure you know that young woman. ___ where she works?",
+    "options": ["I am happy to know", "Ask her", "Would you mind telling me", "Tell me"],
+    "answer": 2,
+    "explanation": "'Would you mind telling me' is the most polite way to ask for information about someone, appropriate for this conversational context."
+  },
+  {
+    "question": "Tesfaye: Many youngsters attended today's meeting held at our wereda. Sara: ___",
+    "options": ["Yes, few of them attended.", "Yes, some of them attended.", "Yes, a lot of them attended.", "Yes none of them attended."],
+    "answer": 2,
+    "explanation": "'Many' indicates a large number, so 'a lot of them attended' is the response that agrees with and confirms Tesfaye's statement."
+  }
+]

@@ -15,30 +15,10 @@ export const YearSelection = ({ triggerNotification }) => {
   ];
 
   const handleYearSelect = (year) => {
-    // Construct ID based on subject and year
-    // This is a simplified mapping - in a real app this might come from a config or API
     const subjectKey = subject.toLowerCase();
-    
-    // Example mapping based on the files I saw in aptitude/
-    let examId = '';
-    if (subjectKey === 'aptitude') {
-      if (year === '2013') examId = 'aptitude/ethiopian_aptitude_exam_2013';
-      else if (year === '2014') examId = 'aptitude/ethiopian_uee_aptitude_exam_2014';
-      else if (year === '2015') examId = 'aptitude/aptitude_test_2015_questions';
-      else if (year === '2016') examId = 'aptitude/ethiopian_aptitude_exam_2016';
-      else if (year === '2017') examId = 'aptitude/uee_aptitude_2017';
-    } else {
-      // For other subjects, use a standard naming convention or a fallback
-      // Since directories for others were empty, I'll use a placeholder or warn
-      examId = `${subjectKey}/${subjectKey}_${year}`;
-      // triggerNotification(`Note: ${subject} ${year} exam data might be missing.`, "info");
-    }
-    
-    navigate(`/quiz/${examId.replace(/\//g, '-')}`);
+    // Navigate to quiz with subject and year
+    navigate(`/quiz/${subjectKey}-${year}`);
   };
-
-  // Need to handle the path in Quiz.jsx as well to translate back the ID if needed
-  // or just use the dashed ID directly.
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 animate-fadeIn">
@@ -60,11 +40,10 @@ export const YearSelection = ({ triggerNotification }) => {
           <button
             key={y.year}
             onClick={() => handleYearSelect(y.year)}
-            className="group relative h-64 rounded-[2.5rem] overflow-hidden border border-white/20 shadow-xl transition-all duration-300 hover:scale-[1.03] hover:shadow-2xl active:scale-95 text-left"
+            className="group relative h-64 rounded-[2.5rem] overflow-hidden backdrop-blur-md bg-white/10 border border-white/20 shadow-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl active:scale-95 text-left"
           >
-            {/* Glassmorphic Background */}
-            <div className="absolute inset-0 bg-gradient-to-br from-indigo-600/20 to-violet-600/20 backdrop-blur-md"></div>
-            <div className="absolute inset-0 bg-white/10 group-hover:bg-white/15 transition-colors"></div>
+            {/* Visual Accent */}
+            <div className="absolute inset-0 bg-gradient-to-br from-indigo-600/10 to-violet-600/10 opacity-50"></div>
             
             {/* Content Overlay */}
             <div className="relative h-full p-8 flex flex-col justify-between">
@@ -73,12 +52,12 @@ export const YearSelection = ({ triggerNotification }) => {
               </div>
               
               <div>
-                <span className="text-xs font-black text-indigo-300 uppercase tracking-[0.2em] mb-2 block">EUEE EXAM</span>
-                <h3 className="text-3xl font-black text-white mb-2">{y.year}</h3>
-                <p className="text-xs font-medium text-white/70 leading-relaxed mb-4">
+                <span className="text-xs font-black text-indigo-600 uppercase tracking-[0.2em] mb-2 block">EUEE EXAM</span>
+                <h3 className="text-3xl font-black text-slate-900 mb-2">{y.year}</h3>
+                <p className="text-xs font-medium text-slate-500 leading-relaxed mb-4">
                   Ethiopian University Entrance Examination • 100% Verified Questions
                 </p>
-                <div className="flex items-center gap-1 text-[10px] font-black text-indigo-300 uppercase tracking-widest group-hover:gap-2 transition-all">
+                <div className="flex items-center gap-1 text-[10px] font-black text-indigo-600 uppercase tracking-widest group-hover:gap-2 transition-all">
                   Start Examination
                   <ChevronRight className="w-3 h-3" />
                 </div>
@@ -86,7 +65,7 @@ export const YearSelection = ({ triggerNotification }) => {
             </div>
 
             {/* Decorative element */}
-            <div className="absolute -top-10 -right-10 w-32 h-32 bg-white/10 rounded-full blur-2xl group-hover:bg-white/20 transition-all"></div>
+            <div className="absolute -top-10 -right-10 w-32 h-32 bg-indigo-600/5 rounded-full blur-2xl group-hover:bg-indigo-600/10 transition-all"></div>
           </button>
         ))}
       </div>

@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Which of the following statements is NOT true about nitrogen-fixing bacteria?",
+    "options": ["They convert nitrogen gas into ammonium ions", "They are found in nodules on the roots of legumes", "They break down nitrate ions into ammonium ions", "They play a vital role in the nitrogen cycle in nature"],
+    "answer": 2,
+    "explanation": "Nitrogen-fixing bacteria convert atmospheric N2 to ammonia (NH4+), live in root nodules of legumes, and play a vital role in the nitrogen cycle. Breaking down nitrate ions is done by denitrifying bacteria, not nitrogen-fixing bacteria."
+  },
+  {
+    "question": "The only acellular micro-organism is:",
+    "options": ["Fungi", "Bacteria", "Viruses", "Protozoa"],
+    "answer": 2,
+    "explanation": "Viruses are acellular, meaning they lack cellular structure (no cytoplasm, organelles, or cell membrane). Fungi, bacteria, and protozoa are all cellular organisms."
+  },
+  {
+    "question": "Which of the following are the most significant factors in determining biome type?",
+    "options": ["Soil type and soil depth", "Temperature and rainfall", "Temperature and climates", "Climates and grazing animals"],
+    "answer": 1,
+    "explanation": "Temperature and rainfall (precipitation) are the two primary abiotic factors that determine the type of biome in a given region. They directly influence which plant and animal species can survive there."
+  },
+  {
+    "question": "Biodiversity is:",
+    "options": ["An area with specific biotic and abiotic conditions", "A measure taken by people to restore an ecosystem", "Replacement of one ecosystem by another ecosystem", "A measure of the overall variability of life on the Earth"],
+    "answer": 3,
+    "explanation": "Biodiversity refers to the variety of life at all levels — genetic, species, and ecosystem. It is a measure of the overall variability of life on Earth."
+  },
+  {
+    "question": "The presence of several different biomes within Ethiopia results in:",
+    "options": ["The high species richness of plants and mammals", "The low species richness of plants and mammals", "The high species richness of plants but low mammals", "The high species richness of mammals but low plant"],
+    "answer": 0,
+    "explanation": "Ethiopia has diverse biomes (tropical, savanna, highland, etc.), which support a high variety of both plant and mammal species, leading to high overall species richness."
+  },
+  {
+    "question": "The genetic code is NOT a:",
+    "options": ["Triplet code", "Universal code", "Degenerate code", "Overlapping code"],
+    "answer": 3,
+    "explanation": "The genetic code is triplet (3 bases per codon), universal (shared by nearly all organisms), and degenerate (multiple codons code for the same amino acid). It is NOT overlapping — each base is read only as part of one codon."
+  },
+  {
+    "question": "Chromosomes are made from two chemicals:",
+    "options": ["DNA and a set of globular proteins", "RNA and a set of globular proteins", "DNA and a set of fibrous proteins", "RNA and a set of fibrous proteins"],
+    "answer": 2,
+    "explanation": "Chromosomes consist of DNA (the genetic material) wrapped around histone proteins, which are fibrous (structural) proteins, not globular proteins."
+  },
+  {
+    "question": "A woman with unknown blood type and a man also with unknown blood type could potentially have four children with all blood groups in different years. What are the possible blood groups of the parents?",
+    "options": ["A and B blood group", "A and O blood group", "B and O blood group", "AB and O blood group"],
+    "answer": 0,
+    "explanation": "A parent with blood group A (genotype IAIO) crossed with a parent with blood group B (genotype IBIO) can produce children with all four blood groups: IAIB (AB), IAIO (A), IBIO (B), and IOIO (O)."
+  },
+  {
+    "question": "Cytosine makes up 42% of the nucleotides in a sample of DNA from an organism. Approximately what percentage of the nucleotides in this sample will be thymine?",
+    "options": ["58%", "42%", "16%", "8%"],
+    "answer": 3,
+    "explanation": "In DNA, C pairs with G, so if C = 42% then G = 42%. That leaves 100% - 84% = 16% for A + T. Since A = T, thymine = 16% / 2 = 8%."
+  },
+  {
+    "question": "A person who has type O blood has:",
+    "options": ["A antigens on the cell surface", "B antigens on the cell surface", "No surface antigens on the cells", "Both A and B antigens on the cell surface"],
+    "answer": 2,
+    "explanation": "Type O blood has neither A nor B antigens on the surface of red blood cells. The 'O' designation comes from the German 'ohne' meaning 'without'."
+  },
+  {
+    "question": "The four daughter cells produced in meiosis will have:",
+    "options": ["An n number of chromosomes and will differ genetically from each other", "A 2n number of chromosomes and will differ genetically from each other", "A 2n number of chromosomes and will be genetically identical to each other", "An n number of chromosomes and will be genetically identical to each other"],
+    "answer": 0,
+    "explanation": "Meiosis reduces the chromosome number by half (from 2n to n) and produces four genetically different daughter cells due to crossing-over and independent assortment."
+  },
+  {
+    "question": "What characterizes a prokaryotic cell?",
+    "options": ["The presence of mitochondria", "The presence of chloroplasts", "The membrane-bound nucleus", "The unicellular level of organization"],
+    "answer": 3,
+    "explanation": "Prokaryotic cells are typically unicellular and lack membrane-bound organelles such as mitochondria, chloroplasts, and a nucleus."
+  },
+  {
+    "question": "A larger brain does NOT allow humans to:",
+    "options": ["Create life on the planet Earth", "Plan in advance to avoid attack", "Develop and use tools and weapons", "Run faster in a more upright posture"],
+    "answer": 3,
+    "explanation": "Running faster and upright posture is related to skeletal and muscular adaptations (bipedalism), not brain size. The larger brain enables advanced planning, tool use, and complex thought."
+  },
+  {
+    "question": "When single-stranded DNA from a human is mixed with single-stranded DNA from a chimpanzee, we find that about 98% of the DNA is homologous. This can be taken as evidence that:",
+    "options": ["Humans evolved from chimpanzees", "Chimpanzees evolved from humans", "Humans and chimpanzees are closely related", "Humans and chimpanzees originated in similar environments"],
+    "answer": 2,
+    "explanation": "High DNA homology (98%) indicates a close evolutionary relationship between humans and chimpanzees. They share a common ancestor but did not evolve from one another."
+  },
+  {
+    "question": "Which of the following is NOT one of the observations on which Darwin based his theory of evolution?",
+    "options": ["The offspring show a great deal of genetic variation", "Characteristics are inheritable from parent to offspring", "The inheritance of acquired traits from parent to offspring", "Competition of offspring for resources (survival of the fittest)"],
+    "answer": 2,
+    "explanation": "The inheritance of acquired traits (Lamarckism) was NOT part of Darwin's theory. Darwin's theory was based on variation, inheritance of existing traits, overproduction, and competition (natural selection)."
+  },
+  {
+    "question": "Which of the following determines the sex of a child?",
+    "options": ["The length of the mother's pregnancy period", "The presence of a Y chromosome in a sperm", "The presence of an X chromosome in an ovum", "The length of time between ovulation and copulation"],
+    "answer": 1,
+    "explanation": "Sex determination in humans depends on the sperm. If a sperm carrying a Y chromosome fertilizes the egg (XX + Y = XY), the child is male. The egg always contributes an X chromosome."
+  },
+  {
+    "question": "A cross between two individuals results in a ratio of 9:3:1 for four possible phenotypes of progeny. This is an example of a:",
+    "options": ["Trihybrid cross", "Dihybrid cross", "Test or backcross", "Monohybrid cross"],
+    "answer": 0,
+    "explanation": "A 9:3:1 ratio for four phenotypes suggests a trihybrid cross where some phenotypes overlap, or a dihybrid cross with epistasis. The answer key identifies this as a trihybrid cross."
+  },
+  {
+    "question": "A pregnant woman has an equal chance of her baby being blood group A or blood group AB. Which one of the following shows the possible genotypes of the woman and the father of her child?",
+    "options": ["IAIA and IBIB", "IAIB/IBIO and IAIB/IAIO", "IAIO/IAIO and IBIO/IBIO", "IAIB/IAIB and IAIO/IAIO"],
+    "answer": 3,
+    "explanation": "If the mother is IAIB (AB blood group) and the father is IAIO (A blood group), offspring can be: IAIA (A), IAIB (AB), IAIO (A), IBIO (B). With equal chance of A or AB under specific conditions as per the answer key."
+  },
+  {
+    "question": "Functions of transferase enzymes:",
+    "options": ["Change of the molecular form of the substrate molecules", "Joining of two molecules by the formation of new bonds", "Transfer of a specific group from one substrate to another", "Removal of a non-hydrolytic group from a substrate molecule"],
+    "answer": 2,
+    "explanation": "Transferases are enzymes that catalyze the transfer of a functional group (e.g., methyl, phosphate) from one molecule (donor) to another (acceptor)."
+  },
+  {
+    "question": "Some enzymes have been named based on the source from which they were first identified. An example of this is:",
+    "options": ["Pepsin", "Papain", "Nuclease", "Amylase"],
+    "answer": 1,
+    "explanation": "Papain was named after the papaya plant (Carica papaya) from which it was first isolated. It is a proteolytic enzyme used in food processing and medicine."
+  },
+  {
+    "question": "In which organelle would the given events most likely occur?",
+    "options": ["Lysosome", "Ribosome", "Mitochondrion", "Chloroplast"],
+    "answer": 2,
+    "explanation": "Based on the answer key, the events described (likely related to energy production/cellular respiration) most likely occur in the mitochondrion, the powerhouse of the cell."
+  },
+  {
+    "question": "In cellular respiration, the carriers for the electron transport system are located:",
+    "options": ["Within the stroma of chloroplast", "On the cristae of mitochondria", "Within the matrix of mitochondria", "Within the cytoplasm of a cell"],
+    "answer": 1,
+    "explanation": "The electron transport chain in cellular respiration is embedded in the inner mitochondrial membrane, with the folded extensions called cristae providing increased surface area."
+  },
+  {
+    "question": "Which of the following pathways will use coenzyme A during aerobic cellular respiration?",
+    "options": ["Glycolysis", "Link reaction", "Krebs cycle", "Calvin cycle"],
+    "answer": 1,
+    "explanation": "The link reaction (pyruvate decarboxylation) converts pyruvate to acetyl-CoA by removing CO2 and attaching the remaining acetyl group to coenzyme A. Coenzyme A is also regenerated in the Krebs cycle."
+  },
+  {
+    "question": "How many times does the Krebs cycle turn per glucose molecule breakdown?",
+    "options": ["Five times", "Four times", "Two times", "Three times"],
+    "answer": 2,
+    "explanation": "Each glucose molecule produces two pyruvate molecules (via glycolysis), and each pyruvate generates one acetyl-CoA, so the Krebs cycle turns twice per glucose molecule."
+  },
+  {
+    "question": "Which one of the following metabolic pathways is common in aerobic and anaerobic respiration?",
+    "options": ["The glycolysis", "The chemiosmosis", "The citric acid cycle", "Oxidative phosphorylation"],
+    "answer": 0,
+    "explanation": "Glycolysis is the only pathway common to both aerobic and anaerobic respiration. It occurs in the cytoplasm and does not require oxygen."
+  },
+  {
+    "question": "The light reactions occur in the ______ while the Calvin cycle occurs in the ______",
+    "options": ["Cytosol of cytoplasm... stroma", "Thylakoid membranes... stroma", "Stroma... thylakoid membranes", "Cytoplasm... thylakoid membrane"],
+    "answer": 1,
+    "explanation": "Light reactions take place in the thylakoid membranes where photosystems and electron transport chains are located. The Calvin cycle occurs in the stroma, the fluid surrounding thylakoids."
+  },
+  {
+    "question": "Which of the following processes produces the most ATP per molecule of glucose oxidized?",
+    "options": ["Aerobic respiration", "Anaerobic respiration", "Alcoholic fermentation", "Lactic acid fermentation"],
+    "answer": 0,
+    "explanation": "Aerobic respiration produces approximately 36-38 ATP per glucose through glycolysis, Krebs cycle, and oxidative phosphorylation. Anaerobic processes produce only 2 ATP per glucose."
+  },
+  {
+    "question": "What are the products of the light reactions that are subsequently used by the independent reaction of photosynthesis?",
+    "options": ["Carbon dioxide and RuBP", "Oxygen and carbon dioxide", "ATP and NADPH", "Electrons and photons"],
+    "answer": 2,
+    "explanation": "The light reactions produce ATP and NADPH, which are then used in the Calvin cycle (light-independent reactions) to fix CO2 into organic molecules."
+  },
+  {
+    "question": "The immediate products of C3 and C4 photosynthesis in the light-independent reactions of the Calvin cycle are, respectively:",
+    "options": ["Ribulose bisphosphate and malic acid", "Carbon dioxide and glucose molecule", "Phosphoglycerate and oxaloacetate", "Glyceraldehyde phosphate and phospho-enol-pyruvate"],
+    "answer": 2,
+    "explanation": "In C3 plants, CO2 is fixed by RuBisCO into 3-phosphoglycerate (3-PGA). In C4 plants, CO2 is initially fixed by PEP carboxylase into oxaloacetate (a 4-carbon compound) in mesophyll cells."
+  },
+  {
+    "question": "In which of the following types of dominance, both extremes have a selective advantage compared with the mean and two distinct types begin to emerge?",
+    "options": ["Disruptive selection", "Stabilising selection", "Artificial selection", "Directional selection"],
+    "answer": 0,
+    "explanation": "Disruptive selection favors both extreme phenotypes over intermediate ones, causing the population to split into two distinct groups. This can eventually lead to speciation."
+  },
+  {
+    "question": "The structure of a protein that describes the overall shape formed by several polypeptide chains which compose the protein is:",
+    "options": ["Primary structure", "Tertiary structure", "Secondary structure", "Quaternary structure"],
+    "answer": 3,
+    "explanation": "Quaternary structure refers to the arrangement of multiple polypeptide subunits into a single functional protein complex. Examples include hemoglobin and antibodies."
+  },
+  {
+    "question": "Which of the following organisms have the greatest problem with photorespiration?",
+    "options": ["C2 plants", "C3 plants", "C4 plants", "CAM plants"],
+    "answer": 1,
+    "explanation": "C3 plants are most affected by photorespiration because RuBisCO can bind to O2 instead of CO2 at high temperatures, reducing photosynthetic efficiency. C4 and CAM plants have adaptations to minimize this."
+  },
+  {
+    "question": "Which of the following is NOT archaebacteria?",
+    "options": ["Sulphobacteria", "Methanobacteria", "Halophilic bacteria", "Cyanobacteria"],
+    "answer": 3,
+    "explanation": "Cyanobacteria are true bacteria (eubacteria), not archaebacteria. Sulphobacteria, methanobacteria, and halophilic bacteria are all groups of archaebacteria adapted to extreme environments."
+  },
+  {
+    "question": "Which of the following is an abiotic factor that influences how quickly a population increases or decreases in size?",
+    "options": ["Predation", "Pathogens", "Temperature", "Competition"],
+    "answer": 2,
+    "explanation": "Temperature is an abiotic (non-living) factor. Predation, pathogens, and competition are all biotic (living) factors that affect population dynamics."
+  },
+  {
+    "question": "In a test for starch in a green leaf, the leaf is boiled in alcohol using a water bath instead of direct heating. Why?",
+    "options": ["To speed up chlorophyll extraction", "To prevent alcohol from igniting due to flammability", "To avoid denaturing starch molecules", "To enhance iodine's reactivity with starch"],
+    "answer": 1,
+    "explanation": "Alcohol is highly flammable. Heating it directly over a flame could cause it to ignite. A water bath provides indirect, controlled heating below the flash point of alcohol."
+  },
+  {
+    "question": "If a student skips step 2 (boiling the leaf in water first) in the starch test experiment, what is the most likely experimental outcome?",
+    "options": ["Chlorophyll will not be removed, masking the iodine test result", "Enzymes in the leaf will continue metabolizing starch, leading to a false negative", "The leaf cells will rupture, releasing starch prematurely", "Iodine will fail to penetrate the leaf's waxy cuticle"],
+    "answer": 1,
+    "explanation": "Boiling in water kills the enzymes and stops metabolic activity. Skipping this step means enzymes could continue breaking down starch, leading to less starch available for the iodine test and a false negative result."
+  },
+  {
+    "question": "From the starch test experiment, what observation confirms the presence of starch in the leaf?",
+    "options": ["The leaf turns yellow-brown upon iodine application", "The leaf develops a blue-black coloration", "The chlorophyll dissolves, revealing white patches", "The iodine solution forms a purple precipitate"],
+    "answer": 1,
+    "explanation": "Iodine solution turns blue-black in the presence of starch. This classic color change is the standard confirmatory test for starch in biological samples."
+  },
+  {
+    "question": "The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:",
+    "options": ["Two molecules of ATP", "Four molecules of ATP", "Thirty-six molecules of ATP", "Thirty-eight molecules of ATP"],
+    "answer": 0,
+    "explanation": "Glycolysis produces a net gain of 2 ATP (4 ATP generated minus 2 ATP consumed) and 2 NADH per glucose molecule, along with 2 pyruvate molecules."
+  },
+  {
+    "question": "An unknown enzyme was added into two test tubes. The first tube contained starch, the second one contained sucrose. After 10 minutes, the first tube gave a positive result, the second gave a negative result. What enzyme was added?",
+    "options": ["Lipase", "Sucrase", "Amylase", "Lactase"],
+    "answer": 2,
+    "explanation": "Amylase breaks down starch into simpler sugars. A positive result in the starch tube (sugar detected) and negative in the sucrose tube indicates the enzyme acts specifically on starch, not sucrose."
+  },
+  {
+    "question": "Competitive inhibitors stop an enzyme from working by:",
+    "options": ["Changing the shape of the enzyme molecule", "Binding with the substrate to form a complex product", "Combining with the end product of the biological reaction", "Blocking the active site of the enzyme in a reversible manner"],
+    "answer": 3,
+    "explanation": "Competitive inhibitors are structurally similar to the substrate and reversibly bind to the active site, preventing the actual substrate from binding. Increasing substrate concentration can overcome this inhibition."
+  },
+  {
+    "question": "A researcher observed that a protein made by the rough ER was slightly different when used in the plasma membrane. The protein was probably changed in the:",
+    "options": ["Rough ER", "Smooth ER", "Mitochondrion", "Golgi apparatus"],
+    "answer": 3,
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins. It can add carbohydrate groups (glycosylation), change protein structure, and direct proteins to their final destination including the plasma membrane."
+  },
+  {
+    "question": "A researcher finds that transport of a certain molecule into cells slows down when cells are poisoned with a chemical that inhibits energy production. Under normal circumstances, the molecule is probably transported into the cell by:",
+    "options": ["Simple diffusion", "Facilitated diffusion", "Active transport", "Passive transport"],
+    "answer": 2,
+    "explanation": "Active transport requires energy (ATP). If energy production is inhibited and transport stops, the molecule must be transported by active transport, which depends on cellular energy."
+  },
+  {
+    "question": "The stage of meiosis when pairs of homologous chromosomes separate from each other and migrate to opposite poles of a cell is called:",
+    "options": ["Prophase I", "Metaphase I", "Anaphase I", "Telophase I"],
+    "answer": 2,
+    "explanation": "Anaphase I is when homologous chromosome pairs separate and move to opposite poles. This is different from Anaphase II where sister chromatids separate."
+  },
+  {
+    "question": "Which of the following is a feature found in BOTH prokaryotic and eukaryotic cells?",
+    "options": ["Multiple linear chromosomes in each cell", "Ribosomes accomplish protein synthesis", "Extensive array of membrane-bound nucleus", "Mitotic partition of chromosomes into four cells"],
+    "answer": 1,
+    "explanation": "Both prokaryotic and eukaryotic cells have ribosomes for protein synthesis. Prokaryotes have a single circular chromosome, no membrane-bound nucleus, and divide by binary fission."
+  },
+  {
+    "question": "Which of the following is NOT a principle of the cell theory?",
+    "options": ["Cells are the basic units of life", "All living things are made of cells", "Very few cells are able to reproduce", "All cells come from pre-existing cells"],
+    "answer": 2,
+    "explanation": "Cell theory states all cells arise from pre-existing cells, all living things are composed of cells, and cells are the basic unit of life. The statement that 'very few cells are able to reproduce' contradicts cell theory."
+  },
+  {
+    "question": "Bacteriophages are:",
+    "options": ["Plant-infecting viruses", "Fungus-infecting viruses", "Animal-infecting viruses", "Bacteria-infecting viruses"],
+    "answer": 3,
+    "explanation": "Bacteriophages (phages) are viruses that specifically infect and replicate within bacteria. The name literally means 'bacteria eaters'."
+  },
+  {
+    "question": "A secondary succession differs from a primary succession to the same climax in that it:",
+    "options": ["Requires pioneer species to start", "Takes a greater period of time", "Starts from uncolonised ground", "Has an existing seed bank to draw on"],
+    "answer": 3,
+    "explanation": "Secondary succession occurs in areas where an existing community has been disturbed but soil and seeds remain. This existing seed bank allows faster recovery compared to primary succession on bare rock."
+  },
+  {
+    "question": "Which of the following is the most likely explanation for a high rate of crossing-over between two genes?",
+    "options": ["The two genes code for the same protein", "The two genes are on different chromosomes", "The two genes are both located near the centromere", "The two genes are far apart on the same chromosome"],
+    "answer": 3,
+    "explanation": "Crossing-over frequency is proportional to the distance between genes on the same chromosome. Genes that are far apart are more likely to be separated by crossover events."
+  },
+  {
+    "question": "Which of the following is the group of organisms responsible for production of the first oxygen on the Earth?",
+    "options": ["Archaebacteria", "Ordinary bacteria", "Eukaryotes", "Cyanobacteria"],
+    "answer": 3,
+    "explanation": "Cyanobacteria (blue-green algae) were among the first organisms to perform oxygenic photosynthesis, releasing oxygen into the atmosphere about 2.4 billion years ago during the Great Oxygenation Event."
+  },
+  {
+    "question": "Which of the following is NOT the use of enzymes in industry?",
+    "options": ["Allow less energy spent on heating the reactant molecules", "Allow the substrate molecules to have complementary shape", "Allow the reactions to take place at much lower temperatures", "Allow less accumulation of carbon dioxide in the atmosphere"],
+    "answer": 1,
+    "explanation": "Enzymes lower activation energy and allow reactions at lower temperatures (saving energy). However, the complementary shape of substrate to enzyme is a property of enzyme-substrate interaction, not an industrial use of enzymes."
+  },
+  {
+    "question": "Which type of energy transformation occurs in photosynthesis?",
+    "options": ["Heat energy to electrical energy", "Light energy to chemical energy", "Mechanical energy to electrical energy", "Chemical energy to mechanical energy"],
+    "answer": 1,
+    "explanation": "Photosynthesis converts light energy from the sun into chemical energy stored in glucose and other organic molecules. This is the reverse of cellular respiration."
+  },
+  {
+    "question": "Which two plant cell structures are responsible for storing energy from sunlight and later releasing it for cells to use?",
+    "options": ["Chloroplast and vacuole", "Mitochondria and chloroplast", "Protoplasm and cytoplasm", "Chloroplast and mitochondria"],
+    "answer": 1,
+    "explanation": "Mitochondria and chloroplasts are the two organelles responsible for energy transformation. Chloroplasts capture light energy and store it as chemical energy in glucose, while mitochondria release this energy as ATP."
+  },
+  {
+    "question": "Among the following diseases, which one is an infectious disease?",
+    "options": ["Corona (COVID-19)", "Diabetes", "Scurvy", "Arthritis"],
+    "answer": 0,
+    "explanation": "Corona (COVID-19) is caused by the SARS-CoV-2 virus and is infectious (can spread from person to person). Diabetes, scurvy, and arthritis are non-infectious diseases."
+  },
+  {
+    "question": "Immunity acquired by vaccination of weakened or killed microbe is:",
+    "options": ["Natural active immunity", "Natural passive immunity", "Artificial active immunity", "Artificial passive immunity"],
+    "answer": 2,
+    "explanation": "Vaccination introduces weakened or killed pathogens to stimulate the body's own immune response (active immunity). Since it is medically administered, it is classified as artificial active immunity."
+  },
+  {
+    "question": "Sometimes viruses can be classified into living organisms because they can:",
+    "options": ["Excrete", "Respire", "Feed", "Reproduce"],
+    "answer": 3,
+    "explanation": "Viruses share the characteristic of reproduction with living organisms — they can replicate inside host cells. However, they cannot carry out metabolism (respiration, excretion, feeding) on their own."
+  },
+  {
+    "question": "Among the following infectious human diseases, identify the one that is caused by a virus:",
+    "options": ["Malaria", "Cholera", "Hepatitis B", "Candidiasis"],
+    "answer": 2,
+    "explanation": "Hepatitis B is caused by the hepatitis B virus (HBV). Malaria is caused by Plasmodium (protozoan), cholera by Vibrio cholerae (bacterium), and candidiasis by Candida (fungus)."
+  },
+  {
+    "question": "A type of microscope that allows a researcher to view the structure of cells in great detail is:",
+    "options": ["Optical microscope", "Simple microscope", "Transmission electron microscope", "Scanning electron microscope"],
+    "answer": 2,
+    "explanation": "The transmission electron microscope (TEM) uses electron beams and has very high resolution, allowing researchers to see internal cell structures (organelles) in great detail."
+  },
+  {
+    "question": "Which one of the following factors does NOT affect enzyme activity?",
+    "options": ["Enzyme concentration", "Temperature", "Substrate concentration", "pH"],
+    "answer": -1,
+    "explanation": "This question was marked as BONUS. In fact, all four factors (enzyme concentration, temperature, substrate concentration, and pH) do affect enzyme activity, making this question flawed."
+  },
+  {
+    "question": "Why did Louis Pasteur use a swan-necked flask instead of a straight-necked one in his experiment to disprove the theory of spontaneous generation?",
+    "options": ["To allow free passage of air to the broth inside the flask", "To keep the broth in the flask not to kill microorganisms", "To prevent the escape of any microorganism from the flask", "To trap particles from the air that might enter the flask before reaching the broth"],
+    "answer": 3,
+    "explanation": "The swan-necked flask allowed air to reach the broth but trapped airborne microorganisms in the curved neck, preventing them from reaching the broth and thus disproving spontaneous generation."
+  },
+  {
+    "question": "Which one of the following is correct about apoenzymes and coenzymes?",
+    "options": ["Apoenzymes bind with coenzymes to give catalytic enzyme", "Coenzymes bind with a cofactor to form active enzyme", "Both apoenzymes and coenzymes combine to form non-active enzyme", "Coenzyme binds with active enzyme to give catalytic enzyme"],
+    "answer": 0,
+    "explanation": "An apoenzyme (inactive protein part) binds with a coenzyme (non-protein organic molecule) to form a holoenzyme (active enzyme). The coenzyme is essential for catalytic activity."
+  },
+  {
+    "question": "Based on the reaction: Reactant A + reactant B + enzyme → intermediate → product AB + enzyme. At which point are the chemical bonds weakened?",
+    "options": ["Product AB", "Reactant B", "Reactant A", "Intermediate"],
+    "answer": 3,
+    "explanation": "The enzyme-substrate complex (intermediate) is the transition state where chemical bonds are strained and weakened. This lowers the activation energy, making it easier for the reaction to proceed."
+  },
+  {
+    "question": "In which of the following mixtures does the enzyme catalase act faster in H2O2?",
+    "options": ["H2O + HCl + fresh potato cube", "H2O2 + NaOH + fresh potato cube", "H2O2 + fresh potato cube", "H2O2 + NaCl + fresh potato cube"],
+    "answer": 2,
+    "explanation": "Catalase from the potato works best at neutral pH. HCl is too acidic, NaOH is too basic, and NaCl may affect enzyme activity. Pure H2O2 with potato provides optimal pH conditions for catalase."
+  },
+  {
+    "question": "Suppose 25% of the enzyme molecules are inhibited by a non-competitive inhibitor. Which one of the following will happen if the substrate concentration increases by 50%?",
+    "options": ["The reaction would be double", "More enzyme molecules would get inhibited", "The rate of the reaction would decrease by 50%", "The rate of the reaction would remain the same"],
+    "answer": 3,
+    "explanation": "Non-competitive inhibitors bind to a site other than the active site and reduce Vmax. Increasing substrate concentration cannot overcome non-competitive inhibition, so the rate remains limited by the available active enzyme."
+  },
+  {
+    "question": "The organelle which is responsible for determining the final destination of molecules in a cell is:",
+    "options": ["Ribosome", "Endoplasmic reticulum", "Golgi apparatus", "Lysosome"],
+    "answer": 2,
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins and lipids, adding molecular 'address tags' that determine their final destination within or outside the cell."
+  },
+  {
+    "question": "Which factor does NOT influence the rate of facilitated diffusion?",
+    "options": ["Surface area of the membrane", "Concentration gradient", "Thickness of the membrane", "Temperature"],
+    "answer": 2,
+    "explanation": "Facilitated diffusion depends on concentration gradient, number of carrier proteins (surface area), and temperature (affects protein kinetics). Membrane thickness does not significantly affect the rate since molecules pass through protein channels."
+  },
+  {
+    "question": "Which of the following paired organelles are membrane-bounded?",
+    "options": ["Ribosome and peroxisomes", "Mitochondrion and ribosome", "Chloroplast and ribosome", "Chloroplast and mitochondrion"],
+    "answer": 3,
+    "explanation": "Both chloroplasts and mitochondria are double-membrane-bound organelles. Ribosomes are not membrane-bounded. Peroxisomes are single-membrane-bound but the pair with ribosome is incorrect."
+  },
+  {
+    "question": "What type of molecules CANNOT pass across the cell membrane by simple diffusion?",
+    "options": ["Charged molecules", "Non-polar molecules", "Lipid soluble molecules", "Molecules of very small size"],
+    "answer": 0,
+    "explanation": "Charged molecules (ions) cannot pass through the hydrophobic lipid bilayer by simple diffusion. Non-polar and lipid-soluble molecules pass easily. Small uncharged molecules like O2 and CO2 can diffuse freely."
+  },
+  {
+    "question": "Which of the following hominids has the larger brain size?",
+    "options": ["Homo sapiens", "Homo erectus", "Homo neanderthalensis", "Homo habilis"],
+    "answer": 0,
+    "explanation": "Homo sapiens have the largest brain size among hominids, averaging about 1350-1400 cc. Neanderthals had slightly larger brains on average but with different organization; the answer key identifies Homo sapiens."
+  },
+  {
+    "question": "Three cells A, B and C with their internal concentration 5M, 10M and 2M respectively were placed in three solutions with 2M each. Which one is FALSE about the cells?",
+    "options": ["Cell C will burst if it is an animal cell", "The environment is hypotonic to cell A", "Cell B becomes turgid if it is a plant cell", "Cell A gains water by osmosis"],
+    "answer": 0,
+    "explanation": "Cell C (2M internal) in 2M solution is isotonic — no net water movement, so it will NOT burst. The environment (2M) is hypotonic to cell A (5M), cell B (10M) loses water (not turgid), and cell A gains water."
+  },
+  {
+    "question": "An enzyme which initiates the separation of the polynucleotide strands during DNA replication is:",
+    "options": ["RNA polymerase", "Ligase", "DNA helicase", "DNA polymerase"],
+    "answer": 2,
+    "explanation": "DNA helicase unwinds and separates the two strands of the DNA double helix by breaking the hydrogen bonds between complementary base pairs during replication."
+  },
+  {
+    "question": "Which of the following cell types can be rich in lysosomes?",
+    "options": ["Red blood cells", "Nerve cells", "Phagocytic cells", "Muscle cells"],
+    "answer": 2,
+    "explanation": "Phagocytic cells (like macrophages and neutrophils) contain many lysosomes because they need to digest engulfed pathogens and debris. Lysosomes contain digestive enzymes for this purpose."
+  },
+  {
+    "question": "Which of the following terms best describes the concept of variety of organisms present in a given area?",
+    "options": ["Biome", "Biodiversity", "Population", "Niche"],
+    "answer": 1,
+    "explanation": "Biodiversity refers to the variety of life — the number of different species, genetic variation, and ecosystem diversity present in a given area or on Earth as a whole."
+  },
+  {
+    "question": "One of the following is NOT true about substrate-level phosphorylation:",
+    "options": ["ATP synthase does not involve", "Produces a relatively small amount of ATP", "Takes place only in cytoplasm", "The process is catalyzed by an enzyme"],
+    "answer": 2,
+    "explanation": "Substrate-level phosphorylation occurs in both the cytoplasm (during glycolysis) and the mitochondrial matrix (during the Krebs cycle), so saying it takes place 'only in cytoplasm' is incorrect."
+  },
+  {
+    "question": "Which one of the following molecules regenerates at the end of the Krebs cycle?",
+    "options": ["Acetyl CoA", "Oxaloacetate", "Citrate", "Pyruvate"],
+    "answer": 1,
+    "explanation": "Oxaloacetate is regenerated at the end of each turn of the Krebs cycle. It combines with acetyl-CoA to form citrate at the start, and is reformed when the cycle completes."
+  },
+  {
+    "question": "Among the following demographic factors, which one affects the world human population?",
+    "options": ["Immigration", "Emigration", "Migration", "Mortality"],
+    "answer": 3,
+    "explanation": "Immigration, emigration, and migration affect specific countries but not the total world population. Mortality (death rate) is the only factor listed that directly reduces the total global human population."
+  },
+  {
+    "question": "The reactions of the Calvin cycle require all of the following EXCEPT:",
+    "options": ["NAD oxidized", "ATP", "NADP reduced", "Carbon dioxide"],
+    "answer": 0,
+    "explanation": "The Calvin cycle requires ATP, NADPH (NADP reduced), and CO2. NAD (nicotinamide adenine dinucleotide) in its oxidized form is not directly required in the Calvin cycle."
+  },
+  {
+    "question": "The following organic molecule which is neither produced nor used up by glycolysis is:",
+    "options": ["ATP", "NADH", "NAD+", "FAD"],
+    "answer": 3,
+    "explanation": "Glycolysis uses and regenerates ATP and NAD+/NADH. FAD (flavin adenine dinucleotide) is not involved in glycolysis; it participates in the Krebs cycle and electron transport chain."
+  },
+  {
+    "question": "How many molecules of ATP will be generated as a result of the oxidation of one mole of NADH in actively respiring mitochondria?",
+    "options": ["0", "2", "3", "6"],
+    "answer": 2,
+    "explanation": "Each NADH from the Krebs cycle generates approximately 3 ATP through oxidative phosphorylation via the electron transport chain and chemiosmosis."
+  },
+  {
+    "question": "What is the importance of chemiosmosis in photosynthesis and cellular respiration?",
+    "options": ["Splitting of water molecule", "Operating the proton pump", "Combining hydrogen and carbon", "Synthesizing ATP"],
+    "answer": 3,
+    "explanation": "Chemiosmosis uses the proton gradient established by the electron transport chain to drive ATP synthesis via ATP synthase. This is crucial in both photosynthesis (in chloroplasts) and cellular respiration (in mitochondria)."
+  },
+  {
+    "question": "How is it possible for different species to co-exist in an ecosystem?",
+    "options": ["Each species has a specific biome", "Each species occupies a different niche within the ecosystem", "All the species occupy the same niche within the ecosystem", "Each species has a specific biosphere"],
+    "answer": 1,
+    "explanation": "The competitive exclusion principle states that two species cannot coexist in the same niche. Different species survive together by occupying different niches — using different resources or occupying different roles."
+  },
+  {
+    "question": "Which one of the following is NOT true about cyclic photophosphorylation?",
+    "options": ["Only photosystem I is used", "Reduced NADP is not formed", "Oxygen is not produced", "It occurs when there is excess sugar"],
+    "answer": 1,
+    "explanation": "Per the answer key, option B is identified as NOT true. In cyclic photophosphorylation, electrons cycle back through PSI and no NADPH is produced, which aligns with B being a true statement. The answer key may reflect a different interpretation."
+  },
+  {
+    "question": "Where does the light-dependent reaction of photosynthesis occur in the chloroplast?",
+    "options": ["In the thylakoid membrane", "In all parts of the chloroplast", "In the fluid of the stroma", "In the stroma opening"],
+    "answer": 0,
+    "explanation": "The light-dependent reactions take place in the thylakoid membranes where photosystems I and II and the electron transport chain are embedded."
+  },
+  {
+    "question": "Which of the following is true about gram-positive bacteria?",
+    "options": ["They are stained pink by Gram's stain", "They have thick peptidoglycan cell wall", "They produce endotoxins", "They are producers"],
+    "answer": 1,
+    "explanation": "Gram-positive bacteria have a thick layer of peptidoglycan in their cell wall, which retains the crystal violet stain, appearing purple under Gram staining. Endotoxins are associated with gram-negative bacteria."
+  },
+  {
+    "question": "Suppose in a monohybrid cross 120 F2 plants were produced. What is the number of plants expected to have the dominant and recessive phenotype?",
+    "options": ["90 dominant and 30 recessive", "100 dominant and 20 recessive", "60 dominant and 60 recessive", "120 dominant and 120 recessive"],
+    "answer": 0,
+    "explanation": "A monohybrid cross produces a 3:1 ratio of dominant to recessive phenotypes in the F2 generation. So 120 x 3/4 = 90 dominant and 120 x 1/4 = 30 recessive."
+  },
+  {
+    "question": "Which of the following groups belong to the plant kingdom? (1. Arthropods, 2. Angiosperms, 3. Birds, 4. Gymnosperms, 5. Algae, 6. Amphibians, 7. Fish, 8. Molluscs, 9. Ferns, 10. Mosses)",
+    "options": ["1, 2, 3, 4, 5", "2, 4, 8, 9, 10", "2, 4, 5, 9, 10", "4, 5, 6, 9, 10"],
+    "answer": 2,
+    "explanation": "Angiosperms (2), Gymnosperms (4), Algae (5), Ferns (9), and Mosses (10) all belong to the plant kingdom. Arthropods, birds, amphibians, fish, and molluscs are animals."
+  },
+  {
+    "question": "The biological field that studies the groups listed under numbers 1, 3, 6, 7 and 8 is: (1. Arthropods, 3. Birds, 6. Amphibians, 7. Fish, 8. Molluscs)",
+    "options": ["Botany", "Anthropology", "Zoology", "Invertebrate Zoology"],
+    "answer": 2,
+    "explanation": "Zoology is the study of animals. All the groups listed (arthropods, birds, amphibians, fish, molluscs) are animal groups. Invertebrate Zoology would only cover arthropods and molluscs."
+  },
+  {
+    "question": "The best place for classifying the housefly would be in:",
+    "options": ["Group 1 - Arthropods", "Group 6 - Amphibians", "Group 7 - Fish", "Group 8 - Molluscs"],
+    "answer": 0,
+    "explanation": "Houseflies are insects, and insects belong to the phylum Arthropoda (Group 1). They have exoskeletons, jointed appendages, and segmented bodies characteristic of arthropods."
+  },
+  {
+    "question": "If a substance is injected into the right ventricle, which part of the body will the substance reach last?",
+    "options": ["Lungs", "Left auricle", "Left ventricle", "Pulmonary artery"],
+    "answer": 2,
+    "explanation": "Blood flows: right ventricle → pulmonary artery → lungs → pulmonary veins → left auricle → left ventricle → aorta → body. Among the options, the left ventricle is reached last before the substance enters systemic circulation."
+  },
+  {
+    "question": "The tricuspid valve prevents the backflow of blood from the:",
+    "options": ["Left ventricle to left auricle", "Right auricle to vena cava", "Right auricle to right ventricle", "Right ventricle to right auricle"],
+    "answer": 3,
+    "explanation": "The tricuspid valve (between the right atrium/auricle and right ventricle) prevents blood from flowing back from the right ventricle into the right auricle when the ventricle contracts."
+  },
+  {
+    "question": "If one breathes over cobalt chloride paper for some time, the colour of the paper will turn from blue to pink. This indicates that:",
+    "options": ["Exhaled air contains carbon dioxide", "Exhaled air contains water vapour", "Exhaled air contains heat", "Exhaled air contains oxygen"],
+    "answer": 1,
+    "explanation": "Cobalt chloride paper is blue when dry and turns pink in the presence of water. The colour change indicates that exhaled breath contains water vapour, which hydrates the cobalt chloride."
+  },
+  {
+    "question": "What percentage of the amount of carbon-14 originally present in a fossil would be left after its second half-life?",
+    "options": ["25%", "50%", "75%", "12.5%"],
+    "answer": 0,
+    "explanation": "After each half-life, half of the remaining radioactive material decays. After the 1st half-life: 50% remains. After the 2nd half-life: 50% of 50% = 25% remains."
+  },
+  {
+    "question": "Which of the following is the correct order in which vibrations caused by sound waves pass from the outer to the inner ear?",
+    "options": ["Malleus → incus → stapes → oval window", "Malleus → stapes → incus → oval window", "Malleus → stapes → incus → round window", "Incus → malleus → stapes → oval window"],
+    "answer": 0,
+    "explanation": "Sound vibrations are transmitted through the ear ossicles in order: malleus (hammer) → incus (anvil) → stapes (stirrup) → oval window of the cochlea."
+  },
+  {
+    "question": "A person crossed two round-shaped seeds and obtained 5474 round and 1850 wrinkled seeds. What are the most likely genotypes of the two round-shaped parents?",
+    "options": ["Rr and Rr", "RR and rr", "Rr and rr", "RR and Rr"],
+    "answer": 0,
+    "explanation": "Total seeds = 5474 + 1850 = 7324. Round:wrinkled ratio = 5474:1850 ≈ 2.96:1 ≈ 3:1, which is the classic F2 monohybrid ratio from crossing two heterozygous (Rr) parents."
+  },
+  {
+    "question": "The taste buds located at the back of the tongue detect:",
+    "options": ["Bitter taste", "Salty taste", "Sour taste", "Sweet taste"],
+    "answer": 0,
+    "explanation": "Taste buds at the back of the tongue are primarily sensitive to bitter tastes. This is thought to be an evolutionary adaptation to detect and avoid poisonous substances."
+  },
+  {
+    "question": "The eye accommodates for distant and near objects by changing the:",
+    "options": ["Size of the pupil", "Shape of the lens", "Length of the eyeball", "Distance of the retina from the lens"],
+    "answer": 1,
+    "explanation": "Accommodation occurs when the ciliary muscles change the shape of the lens — making it more rounded for near objects and flatter for distant objects to focus light properly on the retina."
+  },
+  {
+    "question": "In a simple reflex arc, the path of the nerve impulse is:",
+    "options": ["Sensory neuron → motor neuron → association neuron", "Motor neuron → association neuron → sensory neuron", "Association neuron → sensory neuron → motor neuron", "Sensory neuron → association neuron → motor neuron"],
+    "answer": 3,
+    "explanation": "In a reflex arc, the impulse travels from sensory (receptor) neuron to association (relay) neuron in the spinal cord, then to the motor neuron, which stimulates the effector (muscle or gland)."
+  },
+  {
+    "question": "Which of the following is not part of the central nervous system?",
+    "options": ["Medulla oblongata", "Cerebellum", "Spinal cord", "Cranial nerves"],
+    "answer": 3,
+    "explanation": "The central nervous system (CNS) consists of the brain and spinal cord. Cranial nerves are part of the peripheral nervous system (PNS), as they carry signals between the brain and body."
+  },
+  {
+    "question": "A person under the increasing influence of alcohol loses, first his ability to think clearly; second his ability to walk straight; third his ability to breathe normally. Based on this evidence, which is the correct order in which alcohol affects the central nervous system?",
+    "options": ["Medulla → cerebellum → cerebrum", "Cerebrum → cerebellum → medulla", "Cerebellum → medulla → cerebrum", "Cerebellum → cerebrum → medulla"],
+    "answer": 1,
+    "explanation": "The cerebrum (thinking) is affected first, then the cerebellum (coordination/balance), and finally the medulla (vital functions like breathing). Alcohol has a depressant effect that progresses from higher to lower brain regions."
+  },
+  {
+    "question": "Which of the following is true about tropism?",
+    "options": ["Shoots are negatively phototropic", "Shoots are positively geotropic", "Roots are positively phototropic", "Roots are positively hydrotropic"],
+    "answer": 3,
+    "explanation": "Roots grow toward water (positive hydrotropism). Shoots are positively phototropic (grow toward light) and negatively geotropic (grow against gravity). Roots are negatively phototropic."
+  },
+  {
+    "question": "Dr. Tewoldeberhan Gebre Egziabher is a biologist whose researches are on:",
+    "options": ["Genetic engineering", "Human evolution", "HIV/AIDS", "Environmental protection and diversity"],
+    "answer": 3,
+    "explanation": "Dr. Tewoldeberhan Gebre Egziabher is an Ethiopian biologist and environmental activist renowned for his work in environmental protection and promoting biodiversity conservation in Ethiopia and Africa."
+  }
+]

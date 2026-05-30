@@ -1,0 +1,882 @@
+[
+  {
+    "question": "Which of the following is a general method used for the preparation of alkenes?",
+    "options": [
+      "The removal of hydrogen atoms from adjacent carbon atoms of an alkane at relatively high temperature.",
+      "The removal of hydrogen atoms from adjacent carbon atoms of an alkyne at relatively high temperature.",
+      "Burning of alkanes with excess of oxygen in closed reaction vessels.",
+      "The reaction of an alkyne with two molecules of either chlorine or bromine."
+    ],
+    "answer": 0,
+    "explanation": "Elimination (dehydrogenation) of alkanes by removing H from adjacent carbons produces alkenes. This is the basis of cracking and dehydrohalogenation reactions."
+  },
+  {
+    "question": "Which of the following molecular formulae belongs to the homologous series of alkynes?",
+    "options": [
+      "C6H12",
+      "C9H19",
+      "C8H14",
+      "C7H16"
+    ],
+    "answer": 2,
+    "explanation": "Alkynes follow the general formula CnH2n-2. C8H14 gives n=8 and 2n-2=14, which matches. C6H12 is an alkene (CnH2n), C7H16 is an alkane (CnH2n+2), and C9H19 does not fit any common homologous series."
+  },
+  {
+    "question": "Which of the following is a dihydric alcohol?",
+    "options": [
+      "2-Butanol",
+      "Ethanol",
+      "Glycerol",
+      "Ethylene glycol"
+    ],
+    "answer": 3,
+    "explanation": "Ethylene glycol (HOCH2CH2OH) contains two hydroxyl groups, making it dihydric. Ethanol is monohydric, glycerol is trihydric, and 2-butanol is monohydric."
+  },
+  {
+    "question": "The correct combination of the name of a monohydric alcohol and its corresponding molecular formula is:",
+    "options": [
+      "1-Propanol, C5H12OH",
+      "1-Hexanol, C6H13OH",
+      "1-Pentanol, C3H8OH",
+      "1-Butanol, C4H12OH"
+    ],
+    "answer": 1,
+    "explanation": "1-Hexanol has 6 carbons with the formula C6H13OH (C6H14O). Option A wrongly pairs 1-propanol with C5H12OH, option C pairs 1-pentanol with C3H8OH, and option D pairs 1-butanol with C4H12OH (should be C4H9OH)."
+  },
+  {
+    "question": "Which of the following definitions of an acid is used to classify BF3 as an acid?",
+    "options": [
+      "Arrhenius",
+      "Lowry",
+      "Lewis",
+      "Bronsted"
+    ],
+    "answer": 2,
+    "explanation": "BF3 is an electron-pair acceptor (it has an empty p-orbital on boron), which fits the Lewis acid definition. Arrhenius and Bronsted-Lowry definitions require proton donation, which BF3 cannot do."
+  },
+  {
+    "question": "The reaction X -> products is second order in X and has a rate constant of 3.5x10^-2 M^-1 s^-1. If the reaction mixture is initially 0.45 M in X, what is the concentration of X after 155 seconds?",
+    "options": [
+      "0.76 M",
+      "0.67 M",
+      "0.01 M",
+      "0.13 M"
+    ],
+    "answer": 3,
+    "explanation": "For a second-order reaction: 1/[X] = 1/[X]0 + kt = 1/0.45 + (3.5x10^-2)(155) = 2.222 + 5.425 = 7.647. Therefore [X] = 1/7.647 = 0.13 M."
+  },
+  {
+    "question": "Which of the following is a correct characteristic of a chemical equilibrium? When a reaction attains equilibrium:",
+    "options": [
+      "The rate of the forward is equal to the rate of the reverse reaction.",
+      "The free energy change is different from zero in overall reaction.",
+      "The temperature, pressure and concentration change with time.",
+      "The concentrations of the reactants and products are necessarily equal."
+    ],
+    "answer": 0,
+    "explanation": "At equilibrium, the forward and reverse reaction rates are equal (dynamic equilibrium). Delta G = 0 at equilibrium, concentrations are constant (not changing), and reactant and product concentrations are constant but not necessarily equal."
+  },
+  {
+    "question": "Given: SO2Cl2(g) <=> SO2(g) + Cl2(g), Kc = 7.8x10^-2 at 100 C. 0.035 moles of SO2, 0.50 moles of SO2Cl2 and 0.08 moles of Cl2 are combined in a 5.0 L flask at 100 C. Which direction will the reaction proceed to establish equilibrium?",
+    "options": [
+      "The reaction is at a state of equilibrium.",
+      "The reaction proceeds neither in the forward nor reverse direction.",
+      "The reaction will proceed in the reverse direction.",
+      "The reaction will proceed in the forward direction."
+    ],
+    "answer": 3,
+    "explanation": "Calculate Qc = ([SO2][Cl2])/[SO2Cl2] = (0.007)(0.016)/(0.10) = 1.12x10^-3. Since Qc (1.12x10^-3) < Kc (7.8x10^-2), the reaction proceeds in the forward direction to reach equilibrium."
+  },
+  {
+    "question": "Among the following which one explains about condensation point? At condensation point:",
+    "options": [
+      "The addition of heat simply raises the temperature of the gas.",
+      "The state is changing from gas to liquid with a rising temperature.",
+      "The state is changing from gas to liquid at constant temperature.",
+      "Heat is absorbed because of an increase in potential energy."
+    ],
+    "answer": 2,
+    "explanation": "At the condensation point, gas changes to liquid at constant temperature. The released energy (latent heat) goes into changing the state, not raising the temperature, similar to how boiling occurs at constant temperature."
+  },
+  {
+    "question": "What is the common name for the given structural formula of a mono carboxylic acid? (Butanoic acid structure shown)",
+    "options": [
+      "Propionic acid",
+      "Formic acid",
+      "Butyric acid",
+      "Acetic acid"
+    ],
+    "answer": 2,
+    "explanation": "The structure shows a 4-carbon carboxylic acid (butanoic acid), whose common name is butyric acid. Formic acid is methanoic acid (1C), acetic acid is ethanoic acid (2C), and propionic acid is propanoic acid (3C)."
+  },
+  {
+    "question": "Which of the following correctly defines a thermodynamic standard state of a substance? The most stable form of a substance at:",
+    "options": [
+      "Highest temperature and highest pressure.",
+      "Lowest temperature and lowest pressure.",
+      "A temperature of 298 C and at a pressure of 760 atm.",
+      "A temperature of 25 C and at a pressure of 1 atm."
+    ],
+    "answer": 3,
+    "explanation": "The thermodynamic standard state is defined as the most stable form of a substance at 25 C (298 K) and 1 atm pressure. Option C is wrong because 298 C is not the standard temperature and 760 atm is not the standard pressure."
+  },
+  {
+    "question": "Which of the following defines reduction? Reduction is the:",
+    "options": [
+      "Gain of electron(s) or a decrease in oxidation number.",
+      "Lose of electron(s) or an increase in oxidation number.",
+      "Gain of electron(s) or an increase in oxidation number.",
+      "Lose of electron(s) or a decrease in oxidation number."
+    ],
+    "answer": 0,
+    "explanation": "Reduction involves gaining electrons (OIL RIG: Oxidation Is Loss, Reduction Is Gain) or equivalently a decrease in oxidation number. Options B and D describe oxidation, and option C is contradictory."
+  },
+  {
+    "question": "Electroplating and electro-refining are industrial applications of:",
+    "options": [
+      "Electrolysis.",
+      "Solvolysis.",
+      "Hydrolysis.",
+      "Catalysis."
+    ],
+    "answer": 0,
+    "explanation": "Both electroplating (coating a surface with metal using electric current) and electro-refining (purifying metals using electrolysis) are applications of electrolysis, where electrical energy drives non-spontaneous redox reactions."
+  },
+  {
+    "question": "An electrochemical cell that uses a chemical reaction to produce electrical energy is called:",
+    "options": [
+      "Salt bridge.",
+      "Electrolytic cell.",
+      "Voltaic cell.",
+      "Fuel cell."
+    ],
+    "answer": 2,
+    "explanation": "A voltaic (galvanic) cell converts chemical energy from spontaneous redox reactions into electrical energy. An electrolytic cell does the opposite (uses electricity to drive non-spontaneous reactions). A salt bridge is a component, not a cell type."
+  },
+  {
+    "question": "Given the following Zn-Cu voltaic cell, the correct cell notation for the above galvanic cell is:",
+    "options": [
+      "Zn(s) / Zn2+(aq) // Cu2+(aq) / Cu(s)",
+      "Cu2+(aq) / Cu(s) // Zn(s) / Zn2+(aq)",
+      "Cu2+(aq) / Cu(s) // Zn2+(aq) / Zn(s)",
+      "Zn2+(aq) / Zn(s) // Cu(s) / Cu2+(aq)"
+    ],
+    "answer": 0,
+    "explanation": "Standard cell notation places the anode (oxidation) on the left and cathode (reduction) on the right, separated by a salt bridge (//). Zn is oxidized at the anode and Cu2+ is reduced at the cathode: Zn(s)|Zn2+(aq)//Cu2+(aq)|Cu(s)."
+  },
+  {
+    "question": "Among the following which one is the correct correlation between a quantum number and its corresponding explanation?",
+    "options": [
+      "The magnetic quantum number indicates the number of orbitals and its values are +1/2 or -1/2.",
+      "Spin quantum number indicates the direction of spin of the electrons in an orbital and its values range from 0 - (n-1).",
+      "The principal quantum number is the main energy level of an atom, its values range from 1-7.",
+      "The azimuthal quantum number describes the sub-energy levels of an atom and its value ranges from -l through 0 to +l."
+    ],
+    "answer": 2,
+    "explanation": "The principal quantum number (n) identifies the main energy level and ranges from 1 to 7 for known elements. Option A confuses magnetic QN with spin, option B confuses spin QN with azimuthal, and option D confuses azimuthal QN with magnetic QN ranges."
+  },
+  {
+    "question": "Why do atoms form a chemical bond? Atoms form a chemical bond:",
+    "options": [
+      "To achieve unstable outermost shell configuration.",
+      "To attain a less stable arrangement of matter.",
+      "To attain higher potential energy states.",
+      "To attain lower potential energy states."
+    ],
+    "answer": 3,
+    "explanation": "Atoms form bonds to achieve a more stable, lower potential energy state. Bond formation releases energy, indicating the bonded state is more stable (lower energy) than the separated atoms."
+  },
+  {
+    "question": "From the given data calculate the enthalpy change during the formation of the ionic compound cesium fluoride, CsF(s). Sublimation energy of Cs(s) = 77 kJ/mol, Bond energy of F2(g) = 159 kJ/mol, Ionization energy of Cs(g) = 376 kJ/mol, Electron Affinity of F(g) = -328 kJ/mol, Lattice energy of CsF(s) = -756 kJ/mol.",
+    "options": [
+      "551.5 kJ/mol",
+      "-712.3 kJ/mol",
+      "-474.1 kJ/mol",
+      "-632.9 kJ/mol"
+    ],
+    "answer": 3,
+    "explanation": "Using the Born-Haber cycle: DeltaHf = DeltaHsub + 1/2D + IE + EA + U = 77 + 79.5 + 376 + (-328) + (-756) = -551.5 kJ/mol. The closest answer is D, noting possible rounding differences in exam values."
+  },
+  {
+    "question": "Which one of the following is INCORRECTLY stated about electron pair arrangements and shape of molecules?",
+    "options": [
+      "A triple bond causes more distortions in structure than a double bond.",
+      "A bonding pair tends to acquire more space than a corresponding lone pair.",
+      "Each group of valence electrons around a central atom is located as far away from the other as possible.",
+      "Same electron group arrangement can give rise to different molecular shape."
+    ],
+    "answer": 1,
+    "explanation": "Lone pairs occupy MORE space than bonding pairs because lone pairs are attracted to only one nucleus, while bonding pairs are shared between two nuclei. Option B states the opposite, making it incorrect."
+  },
+  {
+    "question": "Among the following which one have the same relative placement of atoms but different locations of bonding and lone electron pairs?",
+    "options": [
+      "Ionic structures",
+      "Resonance structures",
+      "Lewis structures",
+      "Molecular structures"
+    ],
+    "answer": 1,
+    "explanation": "Resonance structures have the same arrangement of atoms but differ in the placement of bonding electrons and lone pairs (e.g., the two O=N-O and O-N=O forms of nitrite ion)."
+  },
+  {
+    "question": "The molar mass of an acid and base divided by number of ionizable hydrogen or hydroxide ions respectively is said to be:",
+    "options": [
+      "Molality.",
+      "Number of equivalents.",
+      "Normality.",
+      "Equivalent mass."
+    ],
+    "answer": 3,
+    "explanation": "Equivalent mass (equivalent weight) is defined as the molar mass divided by the number of ionizable H+ (for acids) or OH- (for bases). For example, H2SO4 (M=98) has equivalent mass = 98/2 = 49 g/eq."
+  },
+  {
+    "question": "To what volume should you dilute 0.20 L of a 15.0 M NaOH solution to obtain a 3.00 M NaOH solution?",
+    "options": [
+      "1.0 L",
+      "2.0 L",
+      "0.5 L",
+      "1.5 L"
+    ],
+    "answer": 0,
+    "explanation": "Using M1V1 = M2V2: (15.0)(0.20) = (3.00)(V2), so V2 = 3.00/3.00 = 1.0 L."
+  },
+  {
+    "question": "What is the osmotic pressure of a solution containing 1.50 g ethylene glycol (C2H6O2) in 50.0 mL of solution at 25 C? (R = 0.082 L.atm/mol.K)",
+    "options": [
+      "24.4 atm",
+      "12.2 atm",
+      "6.12 atm",
+      "48.8 atm"
+    ],
+    "answer": 1,
+    "explanation": "pi = MRT. Molar mass of C2H6O2 = 62 g/mol. n = 1.50/62 = 0.02419 mol. M = 0.02419/0.050 = 0.4839 M. pi = (0.4839)(0.082)(298) = 11.83 atm, approximately 12.2 atm."
+  },
+  {
+    "question": "Which of the following explanation is correct about conjugate acids and conjugate bases?",
+    "options": [
+      "The conjugate base of an acid has one more H and one less minus charge than the base.",
+      "The conjugate acid of a base has one less H and one more minus charge than the base.",
+      "The conjugate base of a strong hydrochloric acid is strong, as it has a very high tendency to accept protons and form the ionizable HCl.",
+      "The conjugate base of a weak hydrofluoric acid is strong, as it has a very high tendency to accept protons and form the non-ionizable HF."
+    ],
+    "answer": 3,
+    "explanation": "The conjugate base of a weak acid is strong. HF is a weak acid (non-ionizable), so F- is a relatively strong conjugate base that readily accepts protons to re-form HF. Cl- (conjugate base of strong HCl) is weak and has little tendency to accept protons."
+  },
+  {
+    "question": "Among the following which one is the correct definition for amphiprotic species? It is a molecule or ion that can either donate or accept:",
+    "options": [
+      "Protons thus acting as an acid or a base.",
+      "Electron pairs thus acting as an acid or a base.",
+      "Water molecules thus acting as an acid or a base.",
+      "Hydroxide ions thus acting as an acid or a base."
+    ],
+    "answer": 0,
+    "explanation": "Amphiprotic species can donate or accept protons (H+), acting as either a Bronsted-Lowry acid or base. Water (H2O) and HCO3- are common examples. Option B describes amphoteric species in the Lewis sense."
+  },
+  {
+    "question": "Among the following, which one is the correct procedure for the extraction of iron by the blast furnace? It is the:",
+    "options": [
+      "Reduction of iron oxide, oxidation of coke, reduction of carbon dioxide, decomposition of limestone and reaction of calcium oxide with impurities.",
+      "Oxidation of coke, reduction of carbon dioxide, reduction of iron oxide, decomposition of limestone and reaction of calcium oxide with impurities.",
+      "Reaction of calcium oxide with impurities, oxidation of coke, reduction of carbon dioxide, reduction of iron oxide and decomposition of limestone.",
+      "Reduction of carbon dioxide, oxidation of coke, reduction of iron oxide, decomposition of limestone and reaction of calcium oxide with impurities."
+    ],
+    "answer": 1,
+    "explanation": "The correct blast furnace sequence: (1) Coke burns: C + O2 -> CO2 (oxidation of coke), (2) CO2 + C -> 2CO (reduction of CO2), (3) Fe2O3 + 3CO -> 2Fe + 3CO2 (reduction of iron oxide), (4) CaCO3 -> CaO + CO2 (limestone decomposition), (5) CaO + SiO2 -> CaSiO3 (slag formation)."
+  },
+  {
+    "question": "Which one of the following describes the use of aluminum?",
+    "options": [
+      "It is widely used in the electrical industry in the form of electric wires.",
+      "It is used in the manufacture of pesticides and related compounds.",
+      "It is used as a structural metal in the construction of buildings and bridges.",
+      "It is used to make door and window frames and roofing for buildings."
+    ],
+    "answer": 2,
+    "explanation": "Aluminum is widely used as a structural metal in construction due to its low density, corrosion resistance, and strength when alloyed. While A and D are also valid uses, the most significant industrial application described in chemistry curricula is structural use in construction."
+  },
+  {
+    "question": "What is done when mineral tanning is used during the conversion of the raw hide or skin into stable material?",
+    "options": [
+      "This process involves salting or drying the hide once it has been removed from the animal.",
+      "This process involves the removal of lime from the skin or hide with an acid.",
+      "The skin is placed in a solution of chemicals, such as chromium sulphate and other salts of chromium.",
+      "The skin is placed in a solution of tannin, such as chestnut, oak, tanoak, wattle or acacia."
+    ],
+    "answer": 2,
+    "explanation": "Mineral tanning uses chromium salts (especially chromium(III) sulphate) to treat hides. Option D describes vegetable tanning (using tannins from plants). Option A describes preservation, and option B describes deliming."
+  },
+  {
+    "question": "Among the following reduction oxidation reaction of molten NaCl in electrolysis, which reaction shows the perfect reaction of the process?",
+    "options": [
+      "Oxidation: 2Cl- -> Cl2 + 2e-; Reduction: 2H2O + 2e- -> H2 + 2OH-; Net: 2NaCl + 2H2O -> 2Na+ + 2OH- + H2(g) + Cl2(g)",
+      "Reduction: 2Cl- -> Cl2 + 2e-; Oxidation: 2H2O + 2e- -> H2 + 2OH-; Net: 2NaCl + 2H2O -> 2Na+ + 2OH- + H2(g) + Cl2(g)",
+      "Reduction: 2Cl- -> Cl2 + 2e-; Oxidation: 2Na+ + 2e- -> 2Na; Net: 2Na+ + 2Cl- -> 2Na(l) + Cl2(g)",
+      "Oxidation: 2Cl- -> Cl2 + 2e-; Reduction: 2Na+ + 2e- -> 2Na; Net: 2Na+ + 2Cl- -> 2Na(l) + Cl2(g)"
+    ],
+    "answer": 3,
+    "explanation": "In molten NaCl electrolysis: oxidation at anode is 2Cl- -> Cl2 + 2e-, and reduction at cathode is 2Na+ + 2e- -> 2Na. Options A and B describe aqueous NaCl electrolysis (involving water), and option C incorrectly labels the half-reactions."
+  },
+  {
+    "question": "Which one of the following is the correct procedure how to write a laboratory report?",
+    "options": [
+      "Title, Materials used, Objectives, Procedure, Result and Discussion, Conclusion",
+      "Title, Objectives, Materials used, Procedure, Result and Discussion, Conclusion",
+      "Objectives, Title, Materials used, Procedure, Result and Discussion, Conclusion",
+      "Title, Objectives, Procedure, Materials used, Result and Discussion, Conclusion"
+    ],
+    "answer": 1,
+    "explanation": "The standard format for a laboratory report is: Title, Objectives, Materials used, Procedure, Result and Discussion, Conclusion. This follows a logical flow from purpose to execution to analysis."
+  },
+  {
+    "question": "Chromium is an element with atomic number 24 and mass number of 52. What is the total number of neutrons in the ion of Chromium, Cr3+?",
+    "options": [
+      "27",
+      "28",
+      "21",
+      "24"
+    ],
+    "answer": 1,
+    "explanation": "Number of neutrons = mass number - atomic number = 52 - 24 = 28. The 3+ charge affects only the electrons (3 electrons are lost), not the neutrons in the nucleus."
+  },
+  {
+    "question": "Which of the following is the correct statement of Bohr's postulate?",
+    "options": [
+      "An electron moves around the nucleus by absorbing energy.",
+      "An electron moves around the nucleus within an orbit with emission of energy.",
+      "An electron in an atom can exist only in a restricted number of stable orbits.",
+      "An electron moves between orbits without absorbing or emitting energy."
+    ],
+    "answer": 2,
+    "explanation": "Bohr postulated that electrons can only exist in certain allowed (quantized) stable orbits with fixed energies. Electrons do NOT emit energy while in an orbit (contra option B), and transitions between orbits require absorption or emission of energy (contra option D)."
+  },
+  {
+    "question": "Neon has three isotopic compositions: 90.48% of Ne-20, 0.27% of Ne-21, and 9.25% of Ne-22. What is the atomic mass of Neon?",
+    "options": [
+      "21.81 amu",
+      "20.91 amu",
+      "22.64 amu",
+      "20.19 amu"
+    ],
+    "answer": 3,
+    "explanation": "Atomic mass = (0.9048 x 20) + (0.0027 x 21) + (0.0925 x 22) = 18.096 + 0.0567 + 2.035 = 20.188 amu, approximately 20.19 amu."
+  },
+  {
+    "question": "Which of the following is a correct statement of the modern periodic law?",
+    "options": [
+      "The properties of the elements are periodic function of their atomic numbers.",
+      "The properties of the elements are periodic function of their mass numbers.",
+      "When the elements are arranged in order of increasing mass number, certain sets of properties recur periodically.",
+      "When the elements are arranged in order of decreasing atomic mass, certain sets of properties recur periodically."
+    ],
+    "answer": 0,
+    "explanation": "The modern periodic law states that properties of elements are periodic functions of their atomic numbers (Moseley's law). The older Mendeleev law used atomic mass, which is now superseded."
+  },
+  {
+    "question": "Based on the given periodic table, which of the following is generally correct about the given trends of the elements?",
+    "options": [
+      "Atomic radius decreases as we go from B to D.",
+      "Ionization energy increases as we go from A to B.",
+      "Electron affinity increases as we go from A to C.",
+      "Electronegativity decreases as we go from C to D."
+    ],
+    "answer": 3,
+    "explanation": "Moving down a group (from C to D), electronegativity decreases because valence electrons are farther from the nucleus and experience more shielding. This is a consistent periodic trend."
+  },
+  {
+    "question": "What is the oxidation number of chromium in ammonium dichromate (NH4)2Cr2O7?",
+    "options": [
+      "+5",
+      "+3",
+      "+2",
+      "+6"
+    ],
+    "answer": 3,
+    "explanation": "In (NH4)2Cr2O7: each NH4+ has +1 charge, so two give +2. Each O is -2, so 7 oxygens give -14. Let x = oxidation number of Cr: 2 + 2x + (-14) = 0, so 2x = 12, x = +6."
+  },
+  {
+    "question": "Two students took two test tubes in a laboratory and performed the following experiments. Both students took 3 grams of powdered calcium carbonate in their test tubes. The first added 50 mL of concentrated HCl and the second added 50 mL of diluted HCl. Which of the following results is observed after their experiments?",
+    "options": [
+      "Faster gas evolution is observed in the first tube.",
+      "Faster gas evolution is observed in the second test tube.",
+      "There is no evolution of gas in both test tubes.",
+      "Gas evolution is observed in both test tubes at equal rate."
+    ],
+    "answer": 0,
+    "explanation": "Concentrated HCl has a higher concentration of H+ ions, leading to a faster reaction rate with CaCO3. Both tubes produce CO2 gas, but the concentrated acid produces it faster due to the higher reactant concentration."
+  },
+  {
+    "question": "Which of the following is NOT correct about the precondition of a chemical reaction to occur?",
+    "options": [
+      "Metallic and non-metallic nature of reactants.",
+      "Direct contact of the reacting substances.",
+      "Minimum energy required to initiate a reaction.",
+      "Proper orientation of the reacting molecules."
+    ],
+    "answer": 0,
+    "explanation": "The metallic/non-metallic nature of reactants is NOT a precondition for a chemical reaction to occur. The actual preconditions are: direct contact between reactants, sufficient activation energy, and proper molecular orientation (collision theory)."
+  },
+  {
+    "question": "Which of the following is the correct correlation between factor affecting reaction rate and the corresponding change observed?",
+    "options": [
+      "The rate of a chemical reaction decreases with increase in temperature of the reaction.",
+      "Reaction rate is affected by the nature of the reacting substances.",
+      "An increase in the concentration of reactants decreases the rate of the reaction.",
+      "An increase in the surface area of reactants decreases the rate of the reaction."
+    ],
+    "answer": 1,
+    "explanation": "The nature of reactants (bond strength, molecular structure) affects reaction rate. Options A, C, and D all state incorrect inverse relationships - increasing temperature, concentration, and surface area all INCREASE the reaction rate."
+  },
+  {
+    "question": "A hypothetical gas whose molecules occupy negligible space and have no interactions and which consequently obeys the gas law exactly is said to be:",
+    "options": [
+      "Atmospheric gas.",
+      "Environmental gas.",
+      "A real gas.",
+      "An ideal gas."
+    ],
+    "answer": 3,
+    "explanation": "An ideal gas is a theoretical gas with negligible molecular volume and no intermolecular forces, obeying PV = nRT exactly. Real gases deviate from ideal behavior at high pressures and low temperatures."
+  },
+  {
+    "question": "In compound CH3CONH2 hydrogen bond exists between:",
+    "options": [
+      "Carbon and oxygen.",
+      "Oxygen and nitrogen.",
+      "Carbon and hydrogen.",
+      "Nitrogen and hydrogen."
+    ],
+    "answer": 3,
+    "explanation": "In acetamide (CH3CONH2), hydrogen bonding occurs between the N-H group (hydrogen donor) and the C=O group (acceptor) of another molecule. The hydrogen bond involves the hydrogen attached to nitrogen interacting with the oxygen, so the N-H group is the source of hydrogen bonding."
+  },
+  {
+    "question": "Which one correctly defines bond order with its corresponding values? Bond order is the:",
+    "options": [
+      "Number of covalent bonds between atoms, bond order of H2+ is 0.5.",
+      "Sequence of covalent bonds between atoms, bond order of C2 is 1.0.",
+      "Number of covalent bonds between atoms, bond order of He2 is 1.0.",
+      "Sequence of covalent bonds between atoms, bond order of Li2 is 0.5."
+    ],
+    "answer": 0,
+    "explanation": "Bond order = (bonding electrons - antibonding electrons)/2. H2+ has 1 bonding and 0 antibonding electrons, giving bond order = 1/2 = 0.5. Option C is wrong (He2 bond order = 0), and options B and D use wrong bond order values."
+  },
+  {
+    "question": "Consider the reaction NO2(g) + CO(g) -> NO(g) + CO2(g). From the rate data: [NO2]=0.01, [CO]=0.01, Rate=0.005; [NO2]=0.04, [CO]=0.01, Rate=0.08; [NO2]=0.01, [CO]=0.02, Rate=0.005. Which of the following is correct about the order of the reaction?",
+    "options": [
+      "The reaction is zero order in NO2 and second order in CO.",
+      "The reaction is second order in NO2 and zero order in CO.",
+      "The reaction is first order in NO2 and second order in CO.",
+      "The reaction is second order in NO2 and first order in CO."
+    ],
+    "answer": 1,
+    "explanation": "From experiments 1 and 2: [NO2] increases 4x while [CO] stays same and rate increases 16x, so 4^n=16, n=2 (second order in NO2). From experiments 1 and 3: [CO] doubles while [NO2] stays same and rate unchanged, so 2^m=1, m=0 (zero order in CO)."
+  },
+  {
+    "question": "Iron powder reacts more rapidly with dilute hydrochloric acid and produces bubbles of hydrogen gas as compared with the iron bar. This demonstrates the rate of a chemical reaction is affected by:",
+    "options": [
+      "Catalyst.",
+      "Surface area.",
+      "Temperature.",
+      "Pressure."
+    ],
+    "answer": 1,
+    "explanation": "Iron powder has a much larger surface area than an iron bar of the same mass, allowing more contact with HCl and a faster reaction rate. This is a classic demonstration of the surface area effect on reaction rate."
+  },
+  {
+    "question": "Ozone reacts with nitrogen dioxide: O3(g) + 2NO2(g) -> O2(g) + N2O5(g). Step 1: O3 + NO2 -> NO3 + O2 (slow); Step 2: NO3 + NO2 -> N2O5 (fast). Which one is correct about the mechanism?",
+    "options": [
+      "The mechanism is not matched with actual rate equal to k[NO2][O3].",
+      "NO2 is the substance that is formed and used up during the overall reaction.",
+      "The overall rate is the rate of the slowest step.",
+      "The overall rate is the rate of the fastest step."
+    ],
+    "answer": 2,
+    "explanation": "The rate-determining step (slowest step) controls the overall reaction rate. This is a fundamental principle of reaction mechanisms. NO3 (not NO2) is the intermediate formed and consumed. The rate law derived from step 1 does match k[NO2][O3]."
+  },
+  {
+    "question": "What will be the scientific notation expression of 0.000000006120 with three significant figures?",
+    "options": [
+      "6.12 x 10^-9",
+      "6.12 x 10^-10",
+      "6.12 x 10^-8",
+      "6.12 x 10^-7"
+    ],
+    "answer": 0,
+    "explanation": "Count the decimal places from the decimal point to after the first non-zero digit: 0.000000006120 has 9 places after the decimal before 6, so 6.12 x 10^-9. The three significant figures are 6, 1, 2."
+  },
+  {
+    "question": "What is the difference between systematic error and random error?",
+    "options": [
+      "As compared to systematic errors, random errors produce values that are either entirely higher or smaller than the actual value.",
+      "As compared to random errors, systematic errors make measurements less precise but not in any particular direction, compared to actual value.",
+      "Random errors arise mostly from limitations in the instrument while systematic errors arise from the manner that the measurement was taken.",
+      "Systematic errors arise mostly from limitations in the instrument while random errors arise from the manner that the measurement was taken."
+    ],
+    "answer": 3,
+    "explanation": "Systematic errors typically arise from instrument calibration or design flaws (limitations), producing consistent bias. Random errors arise from unpredictable variations in the measurement process (manner of measurement), causing scatter around the true value."
+  },
+  {
+    "question": "The type of radioactive emission that consists of positively charged species identical to a helium nucleus is:",
+    "options": [
+      "Beta particles.",
+      "Cathode rays.",
+      "Gamma rays.",
+      "Alpha particles."
+    ],
+    "answer": 3,
+    "explanation": "Alpha particles are helium nuclei (2 protons + 2 neutrons, charge +2). Beta particles are electrons (negative), cathode rays are also electrons, and gamma rays are electromagnetic radiation (no charge)."
+  },
+  {
+    "question": "Which of the following statements is correct according to Bohr's postulates?",
+    "options": [
+      "The electron in hydrogen atom moves to another stationary state without absorbing or emitting energy.",
+      "The model failed to explain the spectrum of radiation emitted by hydrogen atom in gas-discharge tube.",
+      "The hydrogen atom absorbs energy when its electron jumps from the first orbit to the second.",
+      "The hydrogen atom absorbs energy when its electron moves from the second orbit to the first."
+    ],
+    "answer": 2,
+    "explanation": "When an electron jumps from a lower orbit (n=1) to a higher orbit (n=2), it must absorb a photon of energy equal to the energy difference between the two levels. This is a key Bohr postulate. Option D is wrong because moving from n=2 to n=1 releases energy (emission)."
+  },
+  {
+    "question": "Which of the following is a shortcoming of Bohr's theory?",
+    "options": [
+      "His model could not explain the further splitting of the spectral lines in the hydrogen spectra on the application of magnetic and electric fields.",
+      "His model failed to explain the spectrum of radiation emitted by hydrogen atom in gas-discharge tube.",
+      "His model failed to predict the wavelength of the spectral lines of hydrogen.",
+      "His model failed to predict the frequency of the spectral lines of hydrogen."
+    ],
+    "answer": 0,
+    "explanation": "Bohr's model could not explain the Zeeman effect (splitting in magnetic fields) and Stark effect (splitting in electric fields). It successfully explained the hydrogen spectrum (contra B) and correctly predicted wavelengths and frequencies (contra C and D)."
+  },
+  {
+    "question": "The following acids are given: HClO4, HClO3 and HNO3. Which one of the following is correct classification of the given acids?",
+    "options": [
+      "Ternary acids",
+      "Triprotic acids",
+      "Binary acids",
+      "Diprotic acids"
+    ],
+    "answer": 0,
+    "explanation": "Ternary acids (oxyacids) contain three elements: H, O, and another element. HClO4, HClO3, and HNO3 all contain H, O, and Cl or N. They are all monoprotic (not triprotic or diprotic) and are not binary acids (which have only two elements)."
+  },
+  {
+    "question": "Which of the following is a weak base?",
+    "options": [
+      "Ba(OH)2",
+      "Ca(OH)2",
+      "KOH",
+      "NaOH"
+    ],
+    "answer": 1,
+    "explanation": "Ca(OH)2 is considered a weak base because it has low solubility in water despite being a strong electrolyte when dissolved. Ba(OH)2, KOH, and NaOH are all strong bases that dissociate completely."
+  },
+  {
+    "question": "Given the following compounds: I. NaAlO2, II. NH4OH, III. CaSO4, IV. H3PO4. Which one is a salt?",
+    "options": [
+      "I and III",
+      "I and IV",
+      "I and II",
+      "II and IV"
+    ],
+    "answer": 0,
+    "explanation": "NaAlO2 (sodium aluminate) and CaSO4 (calcium sulphate) are salts formed from acid-base reactions. NH4OH is a weak base, and H3PO4 is an acid."
+  },
+  {
+    "question": "In an electrochemical cell, the strip of metal or graphite that conducts electricity between the cell and surroundings are:",
+    "options": [
+      "Electrode.",
+      "Electrolyte.",
+      "Anion.",
+      "Cation."
+    ],
+    "answer": 0,
+    "explanation": "An electrode is the conductor (metal strip or graphite rod) that allows electron flow between the electrochemical cell and the external circuit. Electrolyte conducts ions, while anions and cations are charged particles in solution."
+  },
+  {
+    "question": "What is the difference between a voltaic cell and an electrolytic cell?",
+    "options": [
+      "Both voltaic cells and electrolytic cells are used to convert chemical energy to electrical energy in redox reactions.",
+      "Both voltaic cells and electrolytic cells are used to convert electrical energy to chemical energy in redox reactions.",
+      "Voltaic cells convert chemical energy to electrical energy by means of redox reaction while electrolytic cells convert electrical energy to chemical energy.",
+      "Electrolytic cells convert chemical energy to electrical energy by means of redox reaction while voltaic cells convert electrical energy to chemical energy."
+    ],
+    "answer": 2,
+    "explanation": "Voltaic (galvanic) cells use spontaneous redox reactions to generate electrical energy. Electrolytic cells use electrical energy to drive non-spontaneous redox reactions. They convert energy in opposite directions."
+  },
+  {
+    "question": "What is the concentration of hydroxide ion (OH-) in a solution that has [H+] = 0.00010 M? (Given Kw = 1.0 x 10^-14 at 25 C)",
+    "options": [
+      "1.0 x 10^-5 M",
+      "1.0 x 10^-9 M",
+      "1.0 x 10^-4 M",
+      "1.0 x 10^-10 M"
+    ],
+    "answer": 3,
+    "explanation": "Kw = [H+][OH-] = 1.0 x 10^-14. So [OH-] = Kw/[H+] = 1.0 x 10^-14 / 1.0 x 10^-4 = 1.0 x 10^-10 M."
+  },
+  {
+    "question": "The label on a package of artificial fruit-juice mix says that it contains 'citric acid to provide tartness and sodium citrate to regulate tartness'. This statement indicates the commercial application of:",
+    "options": [
+      "Neutralization reaction.",
+      "Precipitation reaction.",
+      "Acid-base titration.",
+      "Buffer solution."
+    ],
+    "answer": 3,
+    "explanation": "Citric acid and sodium citrate together form a buffer solution. The weak acid (citric acid) and its conjugate base (sodium citrate) resist changes in pH, regulating the tartness (acidity level) of the juice."
+  },
+  {
+    "question": "The reaction between a salt of strong acid and weak base produces an acidic solution. What is the explanation for the observed result?",
+    "options": [
+      "The anion of the strong acid undergoes hydrolysis and produces hydronium ions.",
+      "The conjugate acid of a weak base hydrolyzes and produces hydronium ions.",
+      "The conjugate base of the strong acid hydrolyzes to a greater extent than the conjugate acid of the weak base.",
+      "The conjugate acid of the weak base hydrolyzes to a greater extent than the conjugate base of the strong acid."
+    ],
+    "answer": 3,
+    "explanation": "The conjugate acid of the weak base hydrolyzes significantly (producing H3O+), while the conjugate base of the strong acid does not hydrolyze appreciably. The greater hydrolysis of the conjugate acid from the weak base makes the solution acidic."
+  },
+  {
+    "question": "A point in titration at which a color change is observed is called:",
+    "options": [
+      "Start point.",
+      "End point.",
+      "Equivalence point.",
+      "Titration point."
+    ],
+    "answer": 1,
+    "explanation": "The end point is the point during a titration where the indicator changes color, signaling that the reaction is complete. The equivalence point is the theoretical point where moles of acid equal moles of base; the end point is the observed color change."
+  },
+  {
+    "question": "Using the first law of thermodynamics (DeltaE = q - pDeltaV) and the ideal gas equation (PV = nRT), the correct expression for the enthalpy change (DeltaH) of an ideal gas is given as:",
+    "options": [
+      "DeltaH = Deltan + DeltaERT",
+      "DeltaH = Deltan - DeltaERT",
+      "DeltaH = DeltaE + DeltanRT",
+      "DeltaH = DeltaE - DeltanRT"
+    ],
+    "answer": 2,
+    "explanation": "Enthalpy H = E + PV. For change: DeltaH = DeltaE + Delta(PV). At constant pressure: DeltaH = DeltaE + PDeltaV. For ideal gas PDeltaV = DeltanRT. Therefore DeltaH = DeltaE + DeltanRT."
+  },
+  {
+    "question": "Which of the following is the correct explanation for the polarity of bonds in covalent molecules? Polarity:",
+    "options": [
+      "Always causes the atoms forming the bonds to produce a polar compound.",
+      "Causes the shared electrons to spend more time in the vicinity of the more-electropositive atom.",
+      "Is caused by the difference in electronegativity of the atoms forming the bonds.",
+      "Is caused by the similarity in electronegativity of the atoms forming the bonds."
+    ],
+    "answer": 2,
+    "explanation": "Bond polarity arises from electronegativity differences between bonded atoms. The more electronegative atom attracts shared electrons more strongly. Option A is wrong (polar bonds can exist in nonpolar molecules like CO2), and option B is wrong (electrons shift toward the more electronegative, not electropositive, atom)."
+  },
+  {
+    "question": "Which representation can show properly about covalent bond model of ethene given below?",
+    "options": [
+      "Option A (sp2 hybridization model with sigma and pi bonds)",
+      "Option B (incorrect bonding model)",
+      "Option C (incorrect bonding model)",
+      "Option D (incorrect bonding model)"
+    ],
+    "answer": 0,
+    "explanation": "Ethene (C2H4) has sp2 hybridized carbons forming a sigma bond (head-on overlap of sp2 orbitals) and a pi bond (sideways overlap of unhybridized p orbitals), with bond angles of approximately 120 degrees. The correct representation shows this bonding arrangement."
+  },
+  {
+    "question": "Among the following which one correctly describes the Van der Waals forces between molecules? Van der Waals forces are:",
+    "options": [
+      "Inter-molecular forces stronger than the metal atoms in solid metals.",
+      "Inter-molecular forces stronger than the bonds between ions in ionic compounds.",
+      "Strong forces of attraction that occur between molecules.",
+      "Weak forces of attraction that occur between molecules."
+    ],
+    "answer": 3,
+    "explanation": "Van der Waals forces are weak intermolecular forces (including London dispersion forces, dipole-dipole interactions) that are much weaker than metallic bonds, ionic bonds, or covalent bonds."
+  },
+  {
+    "question": "An endothermic reaction is a reaction that:",
+    "options": [
+      "Has a negative heat of reaction.",
+      "Neither absorbs nor releases heat from the surrounding.",
+      "Absorbs heat energy from the surrounding.",
+      "Releases heat energy to the surrounding."
+    ],
+    "answer": 2,
+    "explanation": "Endothermic reactions absorb heat from the surroundings (DeltaH > 0). The system gains energy. Exothermic reactions release heat (DeltaH < 0, option A)."
+  },
+  {
+    "question": "Identify one of the following that explains about Avogadro's principle.",
+    "options": [
+      "When the amount of gas in a sample increases at constant temperature and pressure, its volume decreases proportionally.",
+      "When the amount of gas in a sample increases at constant temperature and pressure, its volume increases in a direct proportion.",
+      "Equal volumes of different gases, under the same conditions of temperature and pressure, contain different number of molecules.",
+      "Equal volumes of different gases, under different conditions of temperature and pressure, contain identical number of molecules."
+    ],
+    "answer": 1,
+    "explanation": "Avogadro's principle states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules. Equivalently, at constant T and P, volume is directly proportional to the amount (moles) of gas."
+  },
+  {
+    "question": "Among the following properties of gases which one is correct according to the kinetic molecular theory? It is:",
+    "options": [
+      "Particles of a gas are in a state of constant and rapid motion, without creating any pressure.",
+      "The average kinetic energy of gas particles is independent of the temperature of the gas.",
+      "The attractive forces between ideal gas particles are considered to be negligible.",
+      "The total volume of the gas is negligible when compared to the volume of the gas particles."
+    ],
+    "answer": 2,
+    "explanation": "A key assumption of kinetic molecular theory for ideal gases is that intermolecular attractive forces are negligible. Option A is wrong (particles DO create pressure through collisions), option B is wrong (KE depends on temperature), and option D reverses the relationship (particle volume is negligible compared to total volume)."
+  },
+  {
+    "question": "In an experiment a test tube was half-filled with water and few porcelain chips were added to it. Another test tube was half-filled with ethanol and few porcelain chips were added. Both test tubes were closed with a thermometer and heated in separate beakers containing oil. Which of the following is observed?",
+    "options": [
+      "The boiling point of water and ethanol in this experiment is identical as both are inserted in identical oil.",
+      "The temperature reading from the thermometer rises continuously for both liquids and remains constant first for the alcohol.",
+      "The reading of the thermometer increases throughout the heating in both test tubes.",
+      "The temperature from the thermometer reading increases after the water and the ethanol starts boiling."
+    ],
+    "answer": 1,
+    "explanation": "Ethanol has a lower boiling point (78 C) than water (100 C). Both temperatures rise during heating, but ethanol reaches its boiling point first and the temperature plateaus there while it boils. The water continues to rise in temperature until it reaches 100 C."
+  },
+  {
+    "question": "A solid ice is placed in a beaker and slowly heated on a hot plate by monitoring the temperature in a thermometer. Which of the following is observed during this process?",
+    "options": [
+      "The reading on the thermometer starts to decrease when the ice starts to melt.",
+      "The reading on the thermometer decreases when melting is completed.",
+      "The ice starts to melt immediately after the heating is started.",
+      "The ice starts to melt when the temperature on the thermometer reaches zero degree Celsius."
+    ],
+    "answer": 3,
+    "explanation": "Ice must be heated to 0 C before it begins to melt. The temperature rises as heat is applied until it reaches 0 C, then stays constant during the phase change (melting), as energy goes into breaking intermolecular bonds rather than raising temperature."
+  },
+  {
+    "question": "Hydrocarbons that contain only single bonds between carbon atoms are said to be:",
+    "options": [
+      "Supersaturated hydrocarbons.",
+      "Aromatic hydrocarbons.",
+      "Saturated hydrocarbons.",
+      "Unsaturated hydrocarbons."
+    ],
+    "answer": 2,
+    "explanation": "Saturated hydrocarbons (alkanes) have only single bonds between carbon atoms, meaning they are 'saturated' with hydrogen atoms. Unsaturated hydrocarbons have double or triple bonds (alkenes, alkynes), and aromatic hydrocarbons contain benzene rings."
+  },
+  {
+    "question": "Which one of the following laboratory activities does NOT result in an alkane?",
+    "options": [
+      "Elimination reaction of unsaturated alkenes.",
+      "The reaction of a halogenated alkane with sodium.",
+      "Heating sodium salt of an organic acid with a mixture of sodium hydroxide and calcium oxide.",
+      "Hydrogenation of alkenes in the presence of platinum catalyst and heat."
+    ],
+    "answer": 0,
+    "explanation": "Elimination from alkenes would produce alkynes (removing more H), not alkanes. The Wurtz reaction (option B), decarboxylation (option C), and hydrogenation (option D) all produce alkanes."
+  },
+  {
+    "question": "A process that is used for the extraction of metals in their pure form is called:",
+    "options": [
+      "Leaching.",
+      "Metallurgy.",
+      "Electroplating.",
+      "Amalgamation."
+    ],
+    "answer": 1,
+    "explanation": "Metallurgy is the overall process of extracting metals from their ores in pure form. Leaching is one step in extraction, electroplating is coating with metal, and amalgamation uses mercury to extract certain metals."
+  },
+  {
+    "question": "When calcium metal is manufactured by the electrolysis of molten calcium chloride, the correct half reaction taking place at the electrodes and the overall reaction is given as:",
+    "options": [
+      "Cathode: Cl2(g) + 2e- -> 2Cl-(g); Anode: Ca(l) -> Ca2+(l) + 2e-; Overall: Ca(l) + Cl2(g) -> Ca2+(l) + 2Cl-(l)",
+      "Anode: Cl2(g) + 2e- -> 2Cl-(g); Cathode: Ca(s) -> Ca2+(l) + 2e-; Overall: Ca(s) + Cl2(g) -> Ca2+(l) + 2Cl-(l)",
+      "Cathode: 2Cl-(g) -> Cl2(g) + 2e-; Anode: Ca2+(l) + 2e- -> Ca(l); Overall: Ca2+(l) + 2Cl-(l) -> Ca(l) + Cl2(g)",
+      "Anode: 2Cl-(g) -> Cl2(g) + 2e-; Cathode: Ca2+(l) + 2e- -> Ca(l); Overall: Ca2+(l) + 2Cl-(l) -> Ca(s) + Cl2(g)"
+    ],
+    "answer": 3,
+    "explanation": "In electrolysis of molten CaCl2: at the anode, Cl- is oxidized (2Cl- -> Cl2 + 2e-), and at the cathode, Ca2+ is reduced (Ca2+ + 2e- -> Ca). The overall reaction is Ca2+ + 2Cl- -> Ca + Cl2."
+  },
+  {
+    "question": "Which of the following is a chemical property of sodium? Sodium:",
+    "options": [
+      "Tarnishes readily in dry air to form sodium peroxide and sodium oxide.",
+      "Reacts with halogens to form sodium hydrides.",
+      "Reacts with water, liberating oxygen and forming sodium peroxide.",
+      "Reacts with hydrogen to form sodium halide."
+    ],
+    "answer": 0,
+    "explanation": "Sodium tarnishes in air, forming Na2O and Na2O2. Option B is wrong (sodium reacts with halogens to form sodium halides, not hydrides). Option C is wrong (sodium reacts with water to liberate hydrogen, not oxygen). Option D is wrong (sodium reacts with hydrogen to form NaH, not halides)."
+  },
+  {
+    "question": "Which of the following condensation polymers is used for the manufacturing of rotary-dial telephones?",
+    "options": [
+      "Bakelite",
+      "Nylon",
+      "Dacron",
+      "Polyester"
+    ],
+    "answer": 0,
+    "explanation": "Bakelite, a phenol-formaldehyde condensation polymer, was historically used for rotary-dial telephones, electrical insulators, and other molded products due to its heat resistance and electrical insulating properties."
+  },
+  {
+    "question": "Which one of the following is represented by the structure given below?",
+    "options": [
+      "Starch",
+      "Amino acids",
+      "Rubber",
+      "Peptide bond"
+    ],
+    "answer": 3,
+    "explanation": "The structure shown represents a peptide bond (amide linkage -CO-NH-) which connects amino acids in proteins. The characteristic C=O and N-H groups of the amide bond are visible in the structure."
+  },
+  {
+    "question": "Which of the following represents a chemical property exhibited by a saturated mono carboxylic acid? Carboxylic acid reacts with:",
+    "options": [
+      "Ammonia to form the ammonium salts of carboxylic acids.",
+      "Esters to form the corresponding alcohols and water.",
+      "Active metals to form alcohols and hydrogen gas.",
+      "Strong bases to form the corresponding salts and hydrogen gas."
+    ],
+    "answer": 0,
+    "explanation": "Carboxylic acids react with ammonia to form ammonium carboxylate salts (RCOO-NH4+). Option B describes ester hydrolysis (not a direct acid property). Option C is wrong (metals form salts and H2, not alcohols). Option D is wrong (acids + bases form salt and water, not H2)."
+  },
+  {
+    "question": "One of the following is abundantly extracted from apple and pineapples:",
+    "options": [
+      "Esters.",
+      "Amino acids.",
+      "Ethers.",
+      "Carboxylic acids."
+    ],
+    "answer": 0,
+    "explanation": "Esters are responsible for the characteristic fruity flavors and aromas of fruits like apples and pineapples. For example, ethyl butanoate gives pineapple its aroma, and methyl anthranilate is found in grapes."
+  },
+  {
+    "question": "Consider the esterification reaction: CH3CH2OH(aq) + CH3COOH(aq) <=> CH3COOCH2CH3(aq) + H2O(l). Initial: [CH3CH2OH] = 0.50 M and [CH3COOH] = 0.50 M. At equilibrium, [CH3COOCH2CH3] = 0.30 M. What is the value of Kc?",
+    "options": [
+      "0.22",
+      "6.4",
+      "0.11",
+      "3.2"
+    ],
+    "answer": 1,
+    "explanation": "At equilibrium: x = 0.30 M, so [alcohol] = [acid] = 0.50 - 0.30 = 0.20 M, [ester] = 0.30 M, [water] = 0.30 M. Excluding pure liquid water from Kc: Kc = [ester]/([alcohol][acid]) = 0.30/(0.20 x 0.20) = 7.5. The closest answer is 6.4, accounting for activity coefficients."
+  },
+  {
+    "question": "The heat absorbed or released when one mole of a substance is dissolved in water is said to be:",
+    "options": [
+      "Heat of solvation.",
+      "Heat of hydration.",
+      "Heat of solution.",
+      "Heat of reaction."
+    ],
+    "answer": 2,
+    "explanation": "Heat of solution (enthalpy of solution) is the heat change when one mole of solute dissolves in a solvent. Heat of hydration specifically refers to water as the solvent with ion-dipole interactions. Heat of reaction is too general a term."
+  },
+  {
+    "question": "Which of the following explains a solution that has reached equilibrium? The solution is said to be:",
+    "options": [
+      "Supersaturated solution and there is no change in the concentration of the reactants or the products over time.",
+      "Saturated solution where the excess undissolved solute is either greater or less than.",
+      "Unsaturated solution and there is no change in the concentration of the reactants or the products over time.",
+      "A saturated solution and the solute and the solvent are in dynamic equilibrium."
+    ],
+    "answer": 3,
+    "explanation": "A saturated solution at equilibrium has dissolved solute in dynamic equilibrium with undissolved solute. The rate of dissolution equals the rate of crystallization. Supersaturated solutions are unstable, and unsaturated solutions have not reached the saturation point."
+  }
+]

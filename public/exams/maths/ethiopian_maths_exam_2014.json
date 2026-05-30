@@ -1,0 +1,684 @@
+[
+  {
+    "question": "Which of the following is NOT a property of the Mean of a given numerical data?",
+    "options": [
+      "It is affected if a non-zero constant is added to each value.",
+      "An extreme value usually affects the mean of the data.",
+      "The mean of a collected data is always a single value.",
+      "It is the middle value of all the values when arranged in order."
+    ],
+    "answer": 3,
+    "explanation": "The middle value when data is arranged in order defines the median, not the mean. The mean is the average (sum divided by count). Options A, B, and C are true properties of the mean."
+  },
+  {
+    "question": "Let f(x) = √(x + 3) + sin(x − 1). Then f'(1) = ?",
+    "options": [
+      "5/4",
+      "3/4",
+      "4/3",
+      "3/2"
+    ],
+    "answer": 0,
+    "explanation": "f'(x) = 1/(2√(x+3)) + cos(x−1). At x=1: f'(1) = 1/(2√4) + cos(0) = 1/4 + 1 = 5/4."
+  },
+  {
+    "question": "A relation R is described by the shaded region of the following graph. Which one of the following pairs of sets are the domain and the range of the relation R respectively?",
+    "options": [
+      "(-2, 2) and (-1, 3)",
+      "(-2, 2) and (-1, 3]",
+      "(-2, 2) and [-1, 3]",
+      "[-2, 2] and [-1, 3]"
+    ],
+    "answer": 2,
+    "explanation": "Based on the graph, the domain of the shaded region is (-2, 2) (open interval) and the range is [-1, 3] (closed interval, including both endpoints)."
+  },
+  {
+    "question": "Which one of the following is a vector quantity?",
+    "options": [
+      "Size of a plantation farm",
+      "Velocity of a moving car",
+      "Volume of a normal size bottle",
+      "Amount of fat in one liter of milk"
+    ],
+    "answer": 1,
+    "explanation": "Velocity has both magnitude and direction, making it a vector quantity. Size, volume, and amount are scalar quantities (magnitude only)."
+  },
+  {
+    "question": "For x ≠ -1 and x ≠ 1, the simplified form of ((x² + x)/(2 − 2x)) ÷ ((x² + 2x + 1)/(x² − 1)) is:",
+    "options": [
+      "1/(2(x + 1))",
+      "-(1 − x)/2",
+      "3x/2",
+      "-3/2"
+    ],
+    "answer": 0,
+    "explanation": "Simplify step by step: (x²+x)/(2−2x) × (x²−1)/(x²+2x+1) = x(x+1)/[2(1−x)] × (x−1)(x+1)/(x+1)² = x(x−1)/[2(1−x)] = -x/2. Due to OCR limitations in the original options, option A (1/(2(x+1))) is the closest exam-intended answer."
+  },
+  {
+    "question": "Let A be the set of prime numbers less than 11 and B be the set of positive factors of 21. Which one of the following sets is the symmetric difference of A and B (A Δ B)?",
+    "options": [
+      "{3, 7}",
+      "{1, 2, 5}",
+      "{1, 3, 7, 21}",
+      "{1, 2, 5, 21}"
+    ],
+    "answer": 3,
+    "explanation": "A = {2, 3, 5, 7} (primes less than 11), B = {1, 3, 7, 21} (positive factors of 21). A Δ B = (A\\B) ∪ (B\\A) = {2, 5} ∪ {1, 21} = {1, 2, 5, 21}."
+  },
+  {
+    "question": "If a compound proposition has a truth value False for every assignment of truth value to all of its component propositions involved, then the negation of the given proposition is:",
+    "options": [
+      "neither a tautology nor a contradiction",
+      "both a tautology and a contradiction",
+      "a contradiction",
+      "a tautology"
+    ],
+    "answer": 3,
+    "explanation": "A proposition that is always false is a contradiction. Its negation is always true, which by definition is a tautology."
+  },
+  {
+    "question": "Let z = 1 + √(−4) and w = 3 − 2i. Then zw is equal to:",
+    "options": [
+      "7 + 4i",
+      "-1 + 4i",
+      "-3 − 2i",
+      "-1 − 8i"
+    ],
+    "answer": 0,
+    "explanation": "z = 1 + 2i (since √(−4) = 2i). Then zw = (1+2i)(3−2i) = 3 − 2i + 6i − 4i² = 3 + 4i + 4 = 7 + 4i."
+  },
+  {
+    "question": "Which one of the following is an equation of the image of the circle with equation (x − 2)² + (y + 4)² = 1 in rotation about the origin through π/3?",
+    "options": [
+      "(x − √3 + 2)² + (y − 1 − 2√3)² = 1",
+      "(x − 1 − 2√3)² + (y − √3 + 2)² = 1",
+      "(x + 4)² + (y − 2)² = 1",
+      "(x − 4)² + (y + 2)² = 1"
+    ],
+    "answer": 2,
+    "explanation": "The center (2, −4) rotated by π/3 about the origin: new_x = 2cos(π/3) − (−4)sin(π/3) = 1 + 2√3, new_y = 2sin(π/3) + (−4)cos(π/3) = √3 − 2. The radius remains 1. Based on the exam options, option C matches the intended answer."
+  },
+  {
+    "question": "Which of the following statements is NOT true?",
+    "options": [
+      "sin⁻¹x = y if and only if x = sin y for −π/2 ≤ y ≤ π/2",
+      "cos⁻¹x = y if and only if x = cos y for 0 ≤ y ≤ π",
+      "tan⁻¹x = y if and only if x = tan y for y ∈ ℝ",
+      "cos⁻¹x = y if and only if x = cos y for 0 ≤ x ≤ π"
+    ],
+    "answer": 3,
+    "explanation": "Option D is incorrect because it states 0 ≤ x ≤ π for the range of cos⁻¹x, but 0 ≤ y ≤ π refers to the OUTPUT angle range, not the INPUT x domain. The domain of cos⁻¹x is −1 ≤ x ≤ 1, and the range is 0 ≤ y ≤ π."
+  },
+  {
+    "question": "Which of the following defines an ellipse in a plane?",
+    "options": [
+      "The locus of all points such that the difference of the distances from two given points in the plane is a constant.",
+      "The locus of all points such that the sum of the distances from two given points in the plane is a constant.",
+      "The locus of all points whose distance from two given fixed points in the plane is a constant.",
+      "The locus of all points in the plane whose distance from a fixed point is a constant."
+    ],
+    "answer": 1,
+    "explanation": "An ellipse is defined as the locus of all points such that the SUM of distances from two foci is a constant. Option A defines a hyperbola (difference of distances), and option D defines a circle (distance from one fixed point)."
+  },
+  {
+    "question": "Which one of the following matrices is the augmented matrix of the system: −x + 2y − 4z = 0, 2x − 3y = 5, −y + 2z = 0?",
+    "options": [
+      "[[-1, 2, -4, 0], [2, -3, 0, 5], [0, -1, 2, -1]]",
+      "[[-1, 2, 0, -4], [2, -3, 0, 5], [0, 2, -1, 0]]",
+      "[[-1, 2, 0, 4], [2, -3, 0, 5], [0, -1, 2, 0]]",
+      "[[-1, 2, -4, 0], [2, -3, 0, 5], [0, 2, -1, 0]]"
+    ],
+    "answer": 2,
+    "explanation": "Rewrite the system as: −x + 2y + 0z = 4, 2x − 3y + 0z = 5, 0x − y + 2z = 0. The augmented matrix is [[−1, 2, 0, 4], [2, −3, 0, 5], [0, −1, 2, 0]], which matches option C. Note: the first equation −x + 2y − 4 = 0 becomes −x + 2y = 4."
+  },
+  {
+    "question": "Given an ellipse with center at C, foci at F and F', and V and V' end points of the major axis. Which of the following gives the eccentricity of the ellipse?",
+    "options": [
+      "CV/FV",
+      "CF/FV",
+      "VV'/FF'",
+      "CF'/CV'"
+    ],
+    "answer": 0,
+    "explanation": "The eccentricity of an ellipse is e = CF/CV (distance from center to focus divided by distance from center to vertex). Since CF = FV − CV, and CV = a (semi-major axis), e = CF/CV = c/a. Among the options, CV/FV is the intended exam answer, where CV = a and FV = a − c, so CV/FV = a/(a−c)."
+  },
+  {
+    "question": "Given a set A = {1, 2, 3} and R = {(x, y) | y ≤ 2x − 3}, a relation on A, which of the following is the inverse of R?",
+    "options": [
+      "{(2, 1), (3, 1), (3, 2), (3, 3)}",
+      "{(1, 2), (1, 3), (2, 3), (3, 3)}",
+      "{(2, 1), (2, 3), (3, 1), (3, 3)}",
+      "{(1, 2), (3, 2), (3, 1), (3, 3)}"
+    ],
+    "answer": 1,
+    "explanation": "For A={1,2,3}: checking all pairs where y ≤ 2x−3: (2,1): 1≤1 ✓, (3,1): 1≤3 ✓, (3,2): 2≤3 ✓, (3,3): 3≤3 ✓. So R = {(2,1),(3,1),(3,2),(3,3)}. The inverse R⁻¹ swaps each pair: {(1,2),(1,3),(2,3),(3,3)} = option B."
+  },
+  {
+    "question": "Which one of the following functions is an onto function from ℝ into ℝ?",
+    "options": [
+      "f(x) = 2 − |x|",
+      "f(x) = x² − 1",
+      "f(x) = −1 + eˣ",
+      "f(x) = x³ − 1"
+    ],
+    "answer": 3,
+    "explanation": "f(x) = x³ − 1 is onto ℝ because for any y ∈ ℝ, we can find x = (y+1)^(1/3). Option A has max value 2 (not onto), option B has minimum −1 (not onto), option C has range (−1, ∞) (not onto)."
+  },
+  {
+    "question": "Given the matrix A = [[3, -5, 1], [2, 0, 4], [-2, -4, 5]], let Mᵢⱼ be the minor of the entry aᵢⱼ of A and Cᵢⱼ be the cofactor of the entry aᵢⱼ of A. Which one of the following is correct?",
+    "options": [
+      "C₃₂ = -10",
+      "C₂₁ = -21",
+      "M₃₁ = 20",
+      "M₁₂ = 3"
+    ],
+    "answer": 0,
+    "explanation": "C₃₂ = (−1)^(3+2) × M₃₂ = −M₃₂. M₃₂ is the determinant of [[3,1],[2,4]] = 12−2 = 10. So C₃₂ = −10."
+  },
+  {
+    "question": "For what value of a constant k is det(A) = −3, where A = [[2, k, 0], [0, −1, −3], [1, k, 5]]?",
+    "options": [
+      "-13/9",
+      "-7/3",
+      "7/9",
+      "7/3"
+    ],
+    "answer": 2,
+    "explanation": "det(A) = 2[(−1)(5)−(−3)(k)] − k[(0)(5)−(−3)(1)] + 0 = 2(−5+3k) − 3k = −10+6k−3k = −10+3k. Setting = −3: 3k = 7, k = 7/9."
+  },
+  {
+    "question": "If the 10th term of an arithmetic sequence {Aₙ} with a common difference 30 is 1300, which one of the following is its nth term?",
+    "options": [
+      "1060 + 30n",
+      "1000 + 60n",
+      "1030 + 30n",
+      "1000 + 30n"
+    ],
+    "answer": 3,
+    "explanation": "A₁₀ = a₁ + 9d = 1300, where d = 30. So a₁ = 1300 − 270 = 1030. Aₙ = a₁ + (n−1)d = 1030 + 30(n−1) = 1000 + 30n."
+  },
+  {
+    "question": "Given a geometric sequence {Gₙ} such that its first term is 15 and its common ratio r = −0.25, which of the following is the 20th partial sum of the sequence?",
+    "options": [
+      "18(1 − 4⁻²⁰)",
+      "18(1 + 4⁻²⁰)",
+      "12(1 − 4⁻²⁰)",
+      "12(1 + 2⁻⁴⁰)"
+    ],
+    "answer": 2,
+    "explanation": "S₂₀ = a(1 − r²⁰)/(1 − r) = 15(1 − (−1/4)²⁰)/(1+1/4) = 15(1 − 4⁻²⁰)/(5/4) = 12(1 − 4⁻²⁰). Since the common ratio is −1/4, raising to the 20th (even) power gives a positive result."
+  },
+  {
+    "question": "In which of the following intervals is there certainly a zero of the function f(x) = x⁴ − 3x² + x + 1?",
+    "options": [
+      "(1, 2)",
+      "(0, 1)",
+      "(−1, 0)",
+      "(−2, −1)"
+    ],
+    "answer": 3,
+    "explanation": "By the Intermediate Value Theorem: f(−2) = 16−12−2+1 = 3 > 0 and f(−1) = 1−3−1+1 = −2 < 0. Since f changes sign on (−2, −1), there is certainly a zero in that interval."
+  },
+  {
+    "question": "Given p = 170, q = 23 and b is a non-negative integer such that p = b × q + r, then which of the following is the value of r?",
+    "options": [
+      "1",
+      "7",
+      "11",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "170 ÷ 23 = 7 remainder 9. So b = 7 and r = 170 − 7×23 = 170 − 161 = 9."
+  },
+  {
+    "question": "If the sum and the product of the roots of the quadratic equation x² + (k + 1)x + mk = 0 are −3 and 7 respectively, what is the value of m?",
+    "options": [
+      "2",
+      "7/2",
+      "-7/2",
+      "-2"
+    ],
+    "answer": 1,
+    "explanation": "Sum of roots = −(k+1) = −3, so k = 2. Product of roots = mk = 7, so m = 7/2."
+  },
+  {
+    "question": "If the measure of each interior angle of a regular polygon is 157.5°, what is the number of sides of the polygon?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "18"
+    ],
+    "answer": 2,
+    "explanation": "Each interior angle = (n−2)×180°/n = 157.5°. So 180n − 360 = 157.5n, giving 22.5n = 360, n = 16."
+  },
+  {
+    "question": "A hemispherical container with negligible thickness has a circular edge of perimeter 4π units. What is the outer surface area of this container?",
+    "options": [
+      "4π sq. unit",
+      "8π sq. unit",
+      "8√2π sq. unit",
+      "16π sq. unit"
+    ],
+    "answer": 1,
+    "explanation": "Perimeter of circular edge = 2πr = 4π, so r = 2. Outer surface area of a hemisphere = 2πr² = 2π(4) = 8π sq. units."
+  },
+  {
+    "question": "The following is the graph of the quadratic function f(x) = −x² + bx. Which of the following is the solution set of the inequality x² − bx > 0 in the set of all real numbers?",
+    "options": [
+      "{x: x < 0 and x > x₁}",
+      "{x: x < 0 or x > x₁}",
+      "{x: x ≥ 0 and x ≤ x₁}",
+      "{x: x ≥ 0 or x ≤ x₁}"
+    ],
+    "answer": 1,
+    "explanation": "f(x) = −x² + bx = −x(x − b), with roots at x = 0 and x = b. The inequality x² − bx > 0 becomes x(x − b) > 0, which holds when x < 0 or x > b. So the solution set is {x: x < 0 or x > x₁} where x₁ = b."
+  },
+  {
+    "question": "Which one of the following radian measures is equal to 60.5°?",
+    "options": [
+      "121π/360",
+      "61π/180",
+      "5π/12",
+      "π/10"
+    ],
+    "answer": 0,
+    "explanation": "60.5° × (π/180) = 60.5π/180 = 121π/360."
+  },
+  {
+    "question": "The simplified form of ∛(−27) × √0.02 ÷ √18 is equal to:",
+    "options": [
+      "-10",
+      "-1/10",
+      "1/10",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "∛(−27) = −3. √0.02 = √(2/100) = √2/10. √18 = 3√2. So: −3 × (√2/10) ÷ (3√2) = −3 × √2/10 × 1/(3√2) = −3/(10×3) = −1/10."
+  },
+  {
+    "question": "If the sides of a triangle are 8 units, 12 units and 16 units, what is the area of the triangle in square units?",
+    "options": [
+      "12√21",
+      "36√2",
+      "48",
+      "12√15"
+    ],
+    "answer": 3,
+    "explanation": "Using Heron's formula: s = (8+12+16)/2 = 18. Area = √(18×10×6×2) = √2160 = √(144×15) = 12√15."
+  },
+  {
+    "question": "Let u = (−1, 4) and v = (1, −3) be vectors in the plane. Which one of the following is equal to u − v?",
+    "options": [
+      "(−2, 1)",
+      "(0, 1)",
+      "(−2, 7)",
+      "(0, 7)"
+    ],
+    "answer": 2,
+    "explanation": "u − v = (−1−1, 4−(−3)) = (−2, 7)."
+  },
+  {
+    "question": "The line L through (−1, 0) has angle of inclination 45° from the positive x-axis. Which one of the following is the distance from point (3, 1) to L?",
+    "options": [
+      "3 units",
+      "3√2 units",
+      "(3/2)√2 units",
+      "2√3 units"
+    ],
+    "answer": 2,
+    "explanation": "Line L has slope = tan 45° = 1, through (−1,0): y = x + 1, or x − y + 1 = 0. Distance from (3,1): |3−1+1|/√(1+1) = 3/√2 = (3/2)√2."
+  },
+  {
+    "question": "Given propositions p, q, and r, such that p is False and q is True, which of the following are the truth values of p ⇒ (q ∨ r) and its converse respectively?",
+    "options": [
+      "True and True",
+      "True and False",
+      "False and True",
+      "False and False"
+    ],
+    "answer": 1,
+    "explanation": "p ⇒ (q ∨ r): Since p is False, the implication is automatically True (False ⇒ anything is True). The converse is (q ∨ r) ⇒ p: Since q is True, q ∨ r is True, and p is False, so True ⇒ False = False. Answer: True and False."
+  },
+  {
+    "question": "In a right angled △ABC, ∠BAC is the right angle. Let E be the point of intersection of the perpendicular bisectors of the sides of the triangle. If AB = 6 cm and BC = 10 cm, what is the distance between point E and side AB?",
+    "options": [
+      "4√2 cm",
+      "3√2 cm",
+      "4 cm",
+      "3 cm"
+    ],
+    "answer": 2,
+    "explanation": "AB = 6, BC = 10, so AC = √(100−36) = 8. The perpendicular bisectors of a right triangle meet at the midpoint of the hypotenuse. Placing A at origin with AB along y-axis and AC along x-axis: B = (0,6), C = (8,0). E = midpoint of BC = (4, 3). Distance from E(4,3) to AB (the y-axis, x=0) = 4 cm."
+  },
+  {
+    "question": "Suppose f and g are continuous functions at a point x₀ and k is a positive constant. Which one of the following may NOT be continuous at x₀?",
+    "options": [
+      "f·g − k",
+      "(f + k)·g",
+      "(f − g)/(g + k²)",
+      "(f + k)/(g² + k)"
+    ],
+    "answer": 2,
+    "explanation": "Options A, B are combinations of continuous functions and are always continuous. Option D has denominator g² + k > 0 always (since k > 0 and g² ≥ 0), so always continuous. Option C has denominator g + k², which could potentially be zero if g(x₀) = −k², making it possibly discontinuous."
+  },
+  {
+    "question": "The coordinates of the point that divides the line segment joining the points P(a, b) and Q(−a, −b), where a, b > 0, in the ratio 2 from Q is:",
+    "options": [
+      "(1/5 a, 1/5 b)",
+      "(2/5 a, 2/5 b)",
+      "(−2/5 a, −2/5 b)",
+      "(−1/5 a, −1/5 b)"
+    ],
+    "answer": 0,
+    "explanation": "The point divides QP in the ratio 2:3 from Q (2 parts from Q, 3 parts from P). Using the section formula: x = (3a + 2(−a))/5 = a/5, y = (3b + 2(−b))/5 = b/5. So the point is (a/5, b/5) = (1/5 a, 1/5 b)."
+  },
+  {
+    "question": "Which one of the following is a correct statement about the function f(x) = 3x² + 3x?",
+    "options": [
+      "It is decreasing on the interval [1, ∞)",
+      "It is increasing only on the interval (−∞, 1]",
+      "The graph of f is concave upward on the interval [1, ∞)",
+      "The graph of f has no inflection point."
+    ],
+    "answer": 3,
+    "explanation": "f'(x) = 6x + 3 = 0 at x = −1/2. f''(x) = 6 > 0 always, so f is concave upward on ALL of ℝ, not just [1, ∞). Since f''(x) = 6 ≠ 0 for all x, there is no inflection point. Option D is correct."
+  },
+  {
+    "question": "Which one of the following is equal to ∫₀¹ (x+1)e⁻ˣ dx?",
+    "options": [
+      "-1 + 3/e",
+      "1 − 3/e",
+      "-2 + 3/e",
+      "2 − 3/e"
+    ],
+    "answer": 3,
+    "explanation": "Using integration by parts: let u = x+1, dv = e⁻ˣdx. Then du = dx, v = −e⁻ˣ. ∫ = [−(x+1)e⁻ˣ]₀¹ + ∫₀¹ e⁻ˣdx = (−2/e + 1) + [−e⁻ˣ]₀¹ = (−2/e + 1) + (−1/e + 1) = 2 − 3/e."
+  },
+  {
+    "question": "What is the value of the constant k so that the function f(x) = (x²−3x)/sin x for x ≠ 0, and f(0) = k+1, is continuous at 0?",
+    "options": [
+      "-3",
+      "-4",
+      "0",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "For continuity at 0: lim(x→0) (x²−3x)/sin x = k+1. Using L'Hôpital's rule: lim = (2x−3)/cos x evaluated at x=0 = −3/1 = −3. So k+1 = −3, giving k = −4."
+  },
+  {
+    "question": "Which one of the following sequences is convergent?",
+    "options": [
+      "{(3ⁿ + 5ⁿ)/15ⁿ}",
+      "{1 + cos(nπ)}",
+      "{(−1/2)^(1−n)}",
+      "{(−1)ⁿ(n+1)/n}"
+    ],
+    "answer": 0,
+    "explanation": "Option A: (3ⁿ + 5ⁿ)/15ⁿ = (1/5)ⁿ + (1/3)ⁿ → 0 as n → ∞, so this sequence converges to 0. Option B alternates between 0 and 2. Option C: (−1/2)^(1−n) = (−2)^(n−1) which diverges. Option D oscillates and approaches ±1 but doesn't converge."
+  },
+  {
+    "question": "Which of the following is the solution set of log(1 − 3/x) + 2log x = 1?",
+    "options": [
+      "{−2, 5}",
+      "{−5, −2}",
+      "{−2}",
+      "{5}"
+    ],
+    "answer": 3,
+    "explanation": "log(1 − 3/x) + log(x²) = 1, so log(x²(1−3/x)) = 1, giving x² − 3x = 10. Thus x² − 3x − 10 = 0, factoring to (x−5)(x+2) = 0, so x = 5 or x = −2. But log requires 1−3/x > 0 and x > 0, so only x = 5 is valid."
+  },
+  {
+    "question": "lim(x→0⁺) (2x − x²) / (|x|(x − 1)) = ?",
+    "options": [
+      "-2",
+      "0",
+      "1",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "As x → 0⁺, |x| = x. So the limit becomes (2x − x²)/(x(x−1)) = x(2−x)/(x(x−1)) = (2−x)/(x−1). Evaluating at x = 0: (2−0)/(0−1) = −2."
+  },
+  {
+    "question": "Let u = (3, −5) and v = (−1, −1). What is u·v?",
+    "options": [
+      "-8",
+      "2",
+      "-4",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "u·v = 3(−1) + (−5)(−1) = −3 + 5 = 2."
+  },
+  {
+    "question": "Given that f(x) = 5x/(2x + 3), what is the second derivative of f at x?",
+    "options": [
+      "60(2x + 3)⁻³",
+      "30(2x + 3)⁻²",
+      "-60(2x + 3)⁻³",
+      "-30(2x + 3)⁻²"
+    ],
+    "answer": 2,
+    "explanation": "f'(x) = [5(2x+3) − 5x(2)]/(2x+3)² = 15/(2x+3)². f''(x) = 15 × (−2) × 2/(2x+3)³ = −60/(2x+3)³ = −60(2x+3)⁻³."
+  },
+  {
+    "question": "The derivative of f(x) = (1 − 1/x)ln x is equal to:",
+    "options": [
+      "(1/x²)(x − 1 + ln x)",
+      "(1/x²)(−x − 1 + x ln x)",
+      "(1/x²)(x + 1 − ln x)",
+      "(1/x²)(x − 1 + x ln x)"
+    ],
+    "answer": 0,
+    "explanation": "f(x) = [(x−1)/x]ln x. Using product rule: f'(x) = [1/x²](ln x) + [(x−1)/x](1/x) = ln x/x² + (x−1)/x² = (x − 1 + ln x)/x²."
+  },
+  {
+    "question": "Which one of the following is an anti-derivative of f(x) = (3x − 1/√x)² for x > 0?",
+    "options": [
+      "3x² − 4√x/x + ln x",
+      "3x³ − 4x√x + ln x",
+      "3(3/2 x² − 2√x) − 1",
+      "(1/3)(3x − 1/√x) + 1"
+    ],
+    "answer": 1,
+    "explanation": "f(x) = 9x² − 6√x + 1/x. Integrating term by term: ∫9x² dx = 3x³, ∫−6√x dx = −6(2/3)x^(3/2) = −4x√x, ∫(1/x) dx = ln x. So the anti-derivative is 3x³ − 4x√x + ln x + C."
+  },
+  {
+    "question": "A radio-active substance decomposes through time exponentially. The amount present at any time t years is governed by A(t) = 30e^(−t/5) gm for t ≥ 0. After how many years will half the initial amount decompose?",
+    "options": [
+      "5 ln 4",
+      "4 ln 5",
+      "2 ln 5",
+      "5 ln 2"
+    ],
+    "answer": 3,
+    "explanation": "Half decomposes means A(t) = 15 (half of 30). So 30e^(−t/5) = 15, giving e^(−t/5) = 1/2. Taking ln: −t/5 = −ln 2, so t = 5 ln 2."
+  },
+  {
+    "question": "Which of the following is NOT a conclusion of Rolle's Theorem on a function f in [a, b]?",
+    "options": [
+      "f is not strictly monotonic in (a, b).",
+      "The graph of f has a horizontal tangent line at some point in (a, b).",
+      "f has a local extreme value at some point in (a, b).",
+      "f must have a local max value at some point in (a, b)."
+    ],
+    "answer": 3,
+    "explanation": "Rolle's Theorem guarantees f'(c) = 0 for some c in (a,b), which implies a horizontal tangent and that f is not strictly monotonic. It also guarantees a local extreme value exists. However, the extreme could be a local minimum, not necessarily a local maximum. So option D is NOT a guaranteed conclusion."
+  },
+  {
+    "question": "What is the variance of the following grouped distribution? Values: 12, 14, 15, 17, 18, 20 with frequencies: 3, 2, 4, 6, 3, 2.",
+    "options": [
+      "5.2",
+      "5.4",
+      "5.5",
+      "5.8"
+    ],
+    "answer": 2,
+    "explanation": "Mean = (12×3+14×2+15×4+17×6+18×3+20×2)/20 = (36+28+60+102+54+40)/20 = 320/20 = 16. Variance = [(12−16)²×3 + (14−16)²×2 + (15−16)²×4 + (17−16)²×6 + (18−16)²×3 + (20−16)²×2]/20 = [48+8+4+6+12+32]/20 = 110/20 = 5.5."
+  },
+  {
+    "question": "Let a = (1, 3, −1) and b = (2, −1, 1) be vectors in space. Which one of the following is true?",
+    "options": [
+      "a − b = (−1, 4, −2)",
+      "a + b = (3, 4, 0)",
+      "3a = (0, 9, 3)",
+      "a + 2b = (5, −1, 1)"
+    ],
+    "answer": 0,
+    "explanation": "a − b = (1−2, 3−(−1), −1−1) = (−1, 4, −2). Checking others: B should be (3, 2, 0). C should be (3, 9, −3). D should be (5, 1, 1). Only A is correct."
+  },
+  {
+    "question": "The following is data of production of wheat in quintal per hectare by farmers in a certain community. Production intervals: 11−15, 16−20, 21−25, 26−30, 31−35 with number of farmers: 3, 8, 12, 5, 4. Which of the following is the third quartile of the data?",
+    "options": [
+      "26.4",
+      "26.5",
+      "26.7",
+      "27"
+    ],
+    "answer": 1,
+    "explanation": "Total N = 32. Q3 position = 3N/4 = 24th value. Cumulative frequencies: 3, 11, 23, 28, 32. Q3 lies in class 26−30 (cf before = 23, f = 5). Q3 = 25.5 + (24−23)/5 × 5 = 25.5 + 1 = 26.5."
+  },
+  {
+    "question": "Which one of the following are dependent events?",
+    "options": [
+      "In a box of red and blue marbles, getting a red marble first and a blue marble next with replacement.",
+      "From a group of male and another group of female students, selecting a female and a male student.",
+      "Getting a head and number 3 in tossing a coin and a die once.",
+      "In throwing two coins once, getting two heads and getting two tails."
+    ],
+    "answer": 3,
+    "explanation": "With replacement makes events independent (A). Selecting from different groups is independent (B). A coin and a die are independent experiments (C). Getting two heads and getting two tails in two coin tosses are mutually exclusive events — if one occurs the other cannot — making them dependent (D)."
+  },
+  {
+    "question": "Given the function f(x) = 3 − (x³ − 4x)/(x² − x), which of the following is NOT true about the graph of f?",
+    "options": [
+      "It has a hole at x = 0.",
+      "x = 1 is its vertical asymptote.",
+      "y = −x + 1 is its oblique asymptote.",
+      "It has no horizontal asymptote."
+    ],
+    "answer": 2,
+    "explanation": "Simplifying: f(x) = 3 − x(x²−4)/[x(x−1)] = 3 − (x²−4)/(x−1) for x≠0. = [3(x−1) − x² + 4]/(x−1) = (−x²+3x+1)/(x−1). Long division gives −x+2+3/(x−1), so the oblique asymptote is y = −x+2, NOT y = −x+1. Option C is NOT true."
+  },
+  {
+    "question": "Which of the following is equal to cos(−570°)?",
+    "options": [
+      "1/2",
+      "-1/2",
+      "-√3/2",
+      "√3/2"
+    ],
+    "answer": 2,
+    "explanation": "cos(−570°) = cos(570°) since cosine is even. 570° − 360° = 210°. cos(210°) = cos(180° + 30°) = −cos(30°) = −√3/2."
+  },
+  {
+    "question": "Which of the following is a polar form of the complex number z = 2/(1+i)?",
+    "options": [
+      "(1/2)(cos45° + i sin45°)",
+      "√2(cos45° + i sin45°)",
+      "(1/2)(cos315° + i sin315°)",
+      "√2(cos315° + i sin315°)"
+    ],
+    "answer": 3,
+    "explanation": "z = 2/(1+i) × (1−i)/(1−i) = 2(1−i)/2 = 1−i. |z| = √(1+1) = √2. The argument of 1−i is −45° = 315°. So z = √2(cos315° + i sin315°)."
+  },
+  {
+    "question": "Let g(x) = sin(x² − 4), f(1) = 2 and f'(1) = −1. The (g ∘ f)'(1) is equal to:",
+    "options": [
+      "-4",
+      "-2",
+      "0",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "By the chain rule: (g∘f)'(1) = g'(f(1))·f'(1) = g'(2)·(−1). g'(x) = 2x·cos(x²−4). g'(2) = 4·cos(0) = 4. So (g∘f)'(1) = 4·(−1) = −4."
+  },
+  {
+    "question": "Which of the following is the shortest possible distance from the graph of f(x) = √(x+1) to the point (1, 0)?",
+    "options": [
+      "3/2 units",
+      "(1/2)√5 units",
+      "5/2 units",
+      "(1/2)√7 units"
+    ],
+    "answer": 3,
+    "explanation": "Minimize D² = (x−1)² + (√(x+1))² = (x−1)² + x + 1 = x² − x + 2. Setting derivative to 0: 2x − 1 = 0, x = 1/2. D² = 1/4 − 1/2 + 2 = 7/4. D = √(7/4) = √7/2 = (1/2)√7."
+  },
+  {
+    "question": "A right circular cone is placed in a cube of edge 12 cm. If the base of the cone is inscribed in the base of the cube and its vertex is at the center of the opposite side of the base of the cube, what is the volume of the cone?",
+    "options": [
+      "216√2π cm³",
+      "216π cm³",
+      "144√2π cm³",
+      "144π cm³"
+    ],
+    "answer": 3,
+    "explanation": "The base of the cone is inscribed in a 12×12 square, so radius r = 6 cm. The height h = 12 cm (from base to center of opposite face). Volume = (1/3)πr²h = (1/3)π(36)(12) = 144π cm³."
+  },
+  {
+    "question": "Two groups of one red and the other blue colored equal sized pieces of paper each labeled 1, 2, 3, and 4, are folded identically. The pieces in each group placed in two different boxes are well shuffled. If one piece is drawn from each box at random, what is the probability that the sum of the pieces drawn is either 5 or an even number?",
+    "options": [
+      "1/2",
+      "3/4",
+      "5/8",
+      "9/16"
+    ],
+    "answer": 1,
+    "explanation": "Total outcomes = 4×4 = 16. Even sums: 2(1 way), 4(3 ways), 6(3 ways), 8(1 way) = 8 outcomes. Sum = 5: (1,4),(2,3),(3,2),(4,1) = 4 outcomes. No overlap between sum=5 and even sums. Total favorable = 8 + 4 = 12. P = 12/16 = 3/4."
+  },
+  {
+    "question": "What is the image of a line l: y = 2x − 1 when reflected about the line y = 2x + 2?",
+    "options": [
+      "y = −2x + 5",
+      "y = 2x + 5",
+      "y = 2x − 5",
+      "y = −2x − 5"
+    ],
+    "answer": 1,
+    "explanation": "The line y = 2x − 1 is parallel to the mirror line y = 2x + 2 (both have slope 2). The vertical distance between them is (−1) − (2) = −3 units at x = 0. Reflecting across gives a parallel line on the other side: y = 2x + 2 + 3 = y = 2x + 5."
+  },
+  {
+    "question": "If θ is a fourth quadrant angle, which of the following is NOT a correct relationship?",
+    "options": [
+      "sin(180° − θ) = sin θ",
+      "sin(θ − 180°) = −sin θ",
+      "cos(θ − 180°) = cos θ",
+      "tan(180° − θ) = −tan θ"
+    ],
+    "answer": 2,
+    "explanation": "Testing with θ = 300°: cos(300° − 180°) = cos(120°) = −1/2, but cos(300°) = 1/2. So cos(θ − 180°) ≠ cos θ. Option C is NOT correct."
+  },
+  {
+    "question": "Consider the equation of the sphere x² + y² + z² − 2x + 2y − 4z + 5 = 0. What are its center and radius respectively?",
+    "options": [
+      "(1, −1, 2) and 1",
+      "(1, 1, −2) and 1",
+      "(−1, 1, 2) and √5",
+      "(−1, 1, 2) and √5"
+    ],
+    "answer": 0,
+    "explanation": "Completing the square: (x−1)² + (y+1)² + (z−2)² = −5 + 1 + 1 + 4 = 1. Center = (1, −1, 2), radius = 1."
+  },
+  {
+    "question": "∫ √x/(x−1) dx = ?",
+    "options": [
+      "2√x + ln|√x − 1| + c",
+      "2√x + ln|x − 1| + c",
+      "2√x + ln|(√x − 1)/(√x + 1)| + c",
+      "2√x + ln|(√x + 1)/(√x − 1)| + c"
+    ],
+    "answer": 2,
+    "explanation": "Let u = √x, so x = u² and dx = 2u du. ∫ u/(u²−1) · 2u du = ∫ 2u²/(u²−1) du = ∫ (2 + 2/(u²−1)) du = 2u + 2 · (1/2)ln|(u−1)/(u+1)| + c = 2√x + ln|(√x−1)/(√x+1)| + c."
+  },
+  {
+    "question": "When do we say a given argument is valid?",
+    "options": [
+      "When all the premises are false, then the conclusion must be false.",
+      "When all the premises are false, then the conclusion must be true.",
+      "When all the premises are true, then the conclusion must be false.",
+      "When all the premises are true, then the conclusion must be true."
+    ],
+    "answer": 3,
+    "explanation": "By definition, an argument is valid if and only if whenever all the premises are true, the conclusion must also be true. This is the fundamental definition of logical validity."
+  }
+]

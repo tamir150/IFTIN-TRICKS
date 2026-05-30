@@ -1,0 +1,1322 @@
+[
+  {
+    "question": "When you put in the correct order, sentences a-d make up a complete paragraph. a. However, communal living can be a choice to reduce your rent. b. You can do that in two different ways: communally or individually. c. If you don't have financial worries, you can opt for the individual one. d. That enables you enjoy more freedom with what to do in your own room. Which of the following contains the correct order?",
+    "options": [
+      "b c d a",
+      "a b c d",
+      "c d a b",
+      "d b c a"
+    ],
+    "answer": 0,
+    "explanation": "b introduces two options → c explains the individual choice → d gives a benefit of individual living → a contrasts with communal living as an alternative for reducing rent."
+  },
+  {
+    "question": "When you put in the correct order, sentences a-d make up a complete paragraph. a. However, they may not detect incorrect or misused words. b. They may not also catch other language errors in our writing. c. Our computers are made to alert us when we make spelling mistakes. d. So, we don't have to hesitate to look up anything that we suspect is wrong. Which of the following contains the correct order?",
+    "options": [
+      "b c d a",
+      "a b c d",
+      "c a b d",
+      "d c a b"
+    ],
+    "answer": 2,
+    "explanation": "c states the positive function of computers → a contrasts with their limitation → b adds another limitation → d draws the conclusion that we should verify ourselves."
+  },
+  {
+    "question": "When you put in the correct order, sentences a-d make up a complete paragraph. a. A typical example is what happened in the late 1990s. b. Dependence on coffee has thrown a lot of nations into crisis. c. This usually happens when the world commodity price falls. d. Coffee farmers' unions should be set up to resist the problem. Which of the following contains the correct order?",
+    "options": [
+      "d b c a",
+      "b c a d",
+      "c d a b",
+      "a b d c"
+    ],
+    "answer": 1,
+    "explanation": "b states the main problem (dependence on coffee → crisis) → c explains when it happens → a gives a specific example → d proposes a solution."
+  },
+  {
+    "question": "When you put in the correct order, sentences a-d make up a complete paragraph. a. Most of the rise occurred in the 1990s. b. There is a lot of evidence that the climate is changing. c. In many parts of the world temperatures have risen by 0.7°C. d. However, it is happening faster in some countries than in others. Which of the following contains the correct order?",
+    "options": [
+      "c b d a",
+      "c d b a",
+      "a c b d",
+      "b d c a"
+    ],
+    "answer": 3,
+    "explanation": "b presents the general claim (climate is changing) → d contrasts that it's faster in some countries → c provides specific data (0.7°C rise) → a adds a temporal detail (most rise in the 1990s)."
+  },
+  {
+    "question": "is their students like passing who actually failed in killing have a generation exams. Which of the following is the correct sentence?",
+    "options": [
+      "Passing a generation is like killing students who have actually failed in their exams.",
+      "Passing students who have actually failed in their exams is like killing a generation.",
+      "Killing a generation is like passing students in their exams who have actually failed.",
+      "Passing students in their exams is like a generation who have actually failed killing."
+    ],
+    "answer": 1,
+    "explanation": "'Passing students who have actually failed in their exams is like killing a generation' is grammatically correct and logically coherent — it compares the act of passing undeserving students to destroying a generation."
+  },
+  {
+    "question": "be who stories learn there about are to many couldn't how rich people. Which of the following is the correct sentence?",
+    "options": [
+      "There are many stories about people who couldn't learn how to be rich.",
+      "Many rich people are there who couldn't learn about how to be stories.",
+      "Stories are there about many rich people who couldn't learn how to be.",
+      "Stories about how many people are there who couldn't learn to be rich."
+    ],
+    "answer": 0,
+    "explanation": "'There are many stories about people who couldn't learn how to be rich' is the only grammatically correct and meaningful sentence formed from the jumbled words."
+  },
+  {
+    "question": "the take Bikila first to Abebe gold ever an was Olympic home African medal. Which of the following is the correct sentence?",
+    "options": [
+      "The first African Abebe Bikila was ever to take home an Olympic gold medal.",
+      "Abebe Bikila ever take an Olympic gold medal to home was the first African.",
+      "Abebe Bikila was ever the first African gold to take home an Olympic medal.",
+      "Abebe Bikila was the first African to ever take home an Olympic gold medal."
+    ],
+    "answer": 3,
+    "explanation": "'Abebe Bikila was the first African to ever take home an Olympic gold medal' is grammatically correct and accurately conveys the historical fact about the Ethiopian marathon runner."
+  },
+  {
+    "question": "What is your opening sentence in a formal letter supposed to do?",
+    "options": [
+      "Greet the person you are writing the letter to.",
+      "State clearly why you are writing the letter.",
+      "Make your address known to the person you are writing to.",
+      "Introduce yourself to the person you are writing to."
+    ],
+    "answer": 1,
+    "explanation": "In formal letter writing, the opening sentence should state the purpose of the letter clearly so the reader knows immediately why you are writing."
+  },
+  {
+    "question": "When do we use 'Dear Sir/Madam' in a formal letter?",
+    "options": [
+      "When we want to show respect to the person we are writing to.",
+      "When we want to write about something that is very serious.",
+      "When the person we are writing to is the head of an organization.",
+      "When we do not know the name of the person to whom we write."
+    ],
+    "answer": 3,
+    "explanation": "'Dear Sir/Madam' is used as a salutation in formal letters when the writer does not know the name of the recipient."
+  },
+  {
+    "question": "Which of the following could be a typical ending to your letter of complaint to a company?",
+    "options": [
+      "Many thanks,",
+      "Yours truly,",
+      "Yours faithfully,",
+      "Kind regards,"
+    ],
+    "answer": 2,
+    "explanation": "'Yours faithfully' is the standard formal closing used in letters when the recipient's name is not known (begun with Dear Sir/Madam), which is typical for complaint letters to companies."
+  },
+  {
+    "question": "Which of the following is correctly punctuated and capitalized? (We used to stay at the Hilton Hotel and dine at Kokeb Restaurant.)",
+    "options": [
+      "We used to stay at the Hilton Hotel and dine at Kokeb restaurant.",
+      "We used to stay at the Hilton hotel and dine at Kokeb Restaurant.",
+      "We used to stay at the Hilton Hotel and dine at Kokeb Restaurant.",
+      "We used to stay at the Hilton hotel and dine at Kokeb restaurant."
+    ],
+    "answer": 2,
+    "explanation": "Both 'Hilton Hotel' and 'Kokeb Restaurant' are proper nouns (names of specific establishments) and must be capitalized. Option C correctly capitalizes both."
+  },
+  {
+    "question": "Which of the following is correctly punctuated? (We bought them blankets, bed sheets, cloths and some rice.)",
+    "options": [
+      "We bought them blankets, bed sheets, cloths and some rice.",
+      "We bought them blankets, bed sheets, cloths and, some rice.",
+      "We bought them, blankets, bed sheets, cloths and some rice.",
+      "We bought them blankets, bed sheets, cloths, and some rice."
+    ],
+    "answer": 0,
+    "explanation": "Option A correctly uses commas to separate items in a list without an Oxford comma (standard in British English), and does not introduce any misplaced commas."
+  },
+  {
+    "question": "Which of the following is correctly punctuated? (At St. Paul Hospital, they train doctors in a variety of fields, e.g., cardiology, neurology, etc.)",
+    "options": [
+      "At St. Paul Hospital, they train doctors in a variety of fields, eg., cardiology, neurology, etc.",
+      "At St Paul Hospital, they train doctors in a variety of fields, e.g., cardiology, neurology, etc.",
+      "At St. Paul Hospital, they train doctors in a variety of fields, e.g., cardiology, neurology, etc.",
+      "At St. Paul Hospital, they train doctors in a variety of fields, e.g, cardiology, neurology, etc,"
+    ],
+    "answer": 2,
+    "explanation": "Option C has the period after 'St', the full 'e.g.' with both periods and comma, and 'etc.' with a period — all correctly punctuated."
+  },
+  {
+    "question": "Which of the following is correctly punctuated? (They donated money; gave out food, clothing and medication; and pledged a lot more.)",
+    "options": [
+      "They donated money; gave out food; clothing and medication, and pledged a lot more.",
+      "They donated money; gave out food; clothing and medication; and pledged a lot more.",
+      "They donated money; gave out food, clothing; and medication; and pledged a lot more.",
+      "They donated money; gave out food, clothing and medication; and pledged a lot more."
+    ],
+    "answer": 1,
+    "explanation": "Option B correctly uses semicolons to separate the major items in a complex list (money; food; clothing and medication; and pledged), maintaining consistency throughout."
+  },
+  {
+    "question": "Which of the following is correctly spelt?",
+    "options": [
+      "conssession",
+      "recession",
+      "compasion",
+      "divission"
+    ],
+    "answer": 1,
+    "explanation": "'Recession' is the only correctly spelt word. The correct spellings of the others are: concession, compassion, division."
+  },
+  {
+    "question": "Which of the following is correctly spelt?",
+    "options": [
+      "thaught",
+      "tought",
+      "wrought",
+      "sought"
+    ],
+    "answer": 3,
+    "explanation": "'Sought' (past tense of seek) is correctly spelt. 'Wrought' is also a valid word, but 'sought' is the more commonly tested and expected answer. 'Thaught' should be 'thought' and 'tought' should be 'taught'."
+  },
+  {
+    "question": "Which one of the following sentences is most likely taken from a descriptive paragraph?",
+    "options": [
+      "Paul was such a quiet chap who was always silent regardless of the bitter injustice.",
+      "Paul says injustice kills your work spirit and demoralizes those who work hard.",
+      "Paul understands that injustice is a practice that everybody should fight and eliminate.",
+      "Paul finally convinced himself that he should rebel and then went straight to his boss."
+    ],
+    "answer": 0,
+    "explanation": "A descriptive paragraph describes a person, place, or thing. Option A describes Paul's character (quiet, always silent) — a description. The other options express opinions, arguments, or narrative actions."
+  },
+  {
+    "question": "Which one of the following sentences is most likely taken from a paragraph developed using cause-effect method?",
+    "options": [
+      "Whenever she gets nervous and depressed, I try to calm her down.",
+      "There are lots of things that make life in the area very difficult.",
+      "Every morning, we clean the compound and make everything very neat.",
+      "Robots are one of the most amazing inventions of the human mind."
+    ],
+    "answer": 1,
+    "explanation": "A cause-effect paragraph explains why something happens. Option B states that 'lots of things' cause life to be difficult, which directly sets up a cause-effect structure."
+  },
+  {
+    "question": "The more we help him, ______ sense of dependency he would develop. So, handle things cautiously.",
+    "options": [
+      "more",
+      "less",
+      "the most",
+      "the more"
+    ],
+    "answer": 3,
+    "explanation": "This is a parallel comparative structure: 'the more... the more...' Both clauses need 'the' + comparative. 'The more we help him, the more sense of dependency he would develop.'"
+  },
+  {
+    "question": "You don't seem to have ever seen the creature ______ I told you about. It looked nothing like a kangaroo except in the way it walked.",
+    "options": [
+      "one",
+      "who",
+      "whom",
+      "which"
+    ],
+    "answer": 3,
+    "explanation": "'Which' is the correct relative pronoun for things/animals in a defining relative clause. 'The creature which I told you about' is grammatically correct."
+  },
+  {
+    "question": "If one doesn't sleep for days in a row, one ______ getting disturbed psychologically and may even die. Sleep is very important for normal functions of life.",
+    "options": [
+      "will start",
+      "starts",
+      "is going to start",
+      "may start"
+    ],
+    "answer": 0,
+    "explanation": "In the first conditional (if + present, will + base form), 'will start' is the correct completion: 'If one doesn't sleep... one will start getting disturbed.'"
+  },
+  {
+    "question": "Mulugeta always adored the ______ Toyota car that his father drove at the beginning of the 80's.",
+    "options": [
+      "red ugly old small",
+      "old small red ugly",
+      "ugly old small red",
+      "small red ugly old"
+    ],
+    "answer": 2,
+    "explanation": "The standard adjective order before a noun is: opinion → age → size → color. 'Ugly' (opinion) → 'old' (age) → 'small' (size) → 'red' (color) → Toyota car."
+  },
+  {
+    "question": "They asked us to ______ them a favour of disclosing the company's secret but that was unacceptable to us. We cannot compromise our integrity.",
+    "options": [
+      "bestow",
+      "give",
+      "make",
+      "do"
+    ],
+    "answer": 3,
+    "explanation": "The correct collocation is 'do someone a favour' or 'do a favour for someone.' 'Do' is the verb that collocates with 'favour' in this expression."
+  },
+  {
+    "question": "______ the pilot and his crew recognized the plane had a problem. However, they didn't say anything lest disturbing the passengers.",
+    "options": [
+      "Together",
+      "Either",
+      "All",
+      "Both"
+    ],
+    "answer": 3,
+    "explanation": "'Both' is used with two referents (the pilot and his crew). 'Both the pilot and his crew' is the correct correlative pair."
+  },
+  {
+    "question": "You've been coughing the whole afternoon. ______ that problem very common?",
+    "options": [
+      "Is syrup good for that",
+      "Why do you do that",
+      "Why don't you see your doctor",
+      "Do you need medicine for that"
+    ],
+    "answer": 2,
+    "explanation": "The context suggests someone is giving health advice. 'Why don't you see your doctor' is the most appropriate and natural health suggestion in a conversation."
+  },
+  {
+    "question": "If you enjoy ______, you can register with us and trek around the city every Sunday in the afternoon.",
+    "options": [
+      "walking",
+      "to walk",
+      "to have a walk",
+      "to be walking"
+    ],
+    "answer": 0,
+    "explanation": "After the verb 'enjoy,' we use the gerund (-ing form). 'Enjoy walking' is grammatically correct; 'enjoy to walk' is incorrect."
+  },
+  {
+    "question": "We don't have to ______ them make off with such an irreplaceable heritage of the nation. They should be accountable for what they did.",
+    "options": [
+      "allow",
+      "let",
+      "concede",
+      "permit"
+    ],
+    "answer": 1,
+    "explanation": "'Let' is followed by a bare infinitive (let them make), while 'allow' and 'permit' require 'to' (allow them to make). The sentence uses the bare infinitive 'make,' so 'let' is correct."
+  },
+  {
+    "question": "They have been clearing the forest for three days. ______ intervened to stop them.",
+    "options": [
+      "Someone need",
+      "I want someone",
+      "How about you",
+      "I wish someone"
+    ],
+    "answer": 3,
+    "explanation": "'I wish someone had intervened' expresses a wish about a past event that didn't happen. The structure 'I wish someone + past participle' fits the context of regretting inaction."
+  },
+  {
+    "question": "He has been paralyzed for months and was literally bed-ridden. Thanks God, he now is ______ walk around in the house.",
+    "options": [
+      "interested to",
+      "able to",
+      "turning able to",
+      "feeling able to"
+    ],
+    "answer": 1,
+    "explanation": "'Able to' is the correct phrase indicating regained ability after paralysis. 'He now is able to walk' means he has recovered the capacity to walk."
+  },
+  {
+    "question": "There are thousands of displaced people in different parts of the country who have no proper shelter, food or cloth. Don't you think we ______ help them?",
+    "options": [
+      "ought to",
+      "shall",
+      "could",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Ought to' expresses moral obligation or duty, which is appropriate when discussing helping displaced people. It conveys a stronger sense of moral necessity than 'could' or 'might.'"
+  },
+  {
+    "question": "______ gentleman we saw at the gate as we were coming in is the new school director. I heard he was a teacher at Burame Secondary School.",
+    "options": [
+      "Which",
+      "Some",
+      "The",
+      "A"
+    ],
+    "answer": 2,
+    "explanation": "'The' is the definite article needed because the gentleman is specifically identified ('we saw at the gate'). Definite reference requires 'the,' not 'a' or 'some.'"
+  },
+  {
+    "question": "______ Berhe ______ Umnod tampered with this computer. I haven't seen them around and I think they were out of office the whole day.",
+    "options": [
+      "Either...or",
+      "Neither...nor",
+      "Not only...but also",
+      "Both...and"
+    ],
+    "answer": 1,
+    "explanation": "Since both were out of office the whole day, neither could have tampered with the computer. 'Neither Berhe nor Umnod tampered with this computer' is the logical and grammatical choice."
+  },
+  {
+    "question": "When Debela arrived, she ______ doro wot. But he didn't have the time to wait and enjoy it.",
+    "options": [
+      "had been making",
+      "has been making",
+      "was making",
+      "is making"
+    ],
+    "answer": 2,
+    "explanation": "'Was making' (past continuous) describes an action in progress when another past event occurred. She was in the process of making doro wot when Debela arrived."
+  },
+  {
+    "question": "Their plane is expected to land slightly after 3:00 pm. ______ it gets late, give me a call and I'll see what I can do.",
+    "options": [
+      "But for",
+      "Probably",
+      "Unless",
+      "In case"
+    ],
+    "answer": 3,
+    "explanation": "'In case' means 'if it should happen that' or 'as a precaution.' 'In case it gets late, give me a call' is a natural way to say 'if it happens to get late.'"
+  },
+  {
+    "question": "When the police arrived, the burglars ______ away with the money. But there is hope that they would be caught.",
+    "options": [
+      "are already making",
+      "have been making",
+      "have already made",
+      "had already made"
+    ],
+    "answer": 3,
+    "explanation": "'Had already made' (past perfect) indicates the burglars completed the action before the police arrived. Past perfect is used for an action completed before another past event."
+  },
+  {
+    "question": "They took off early morning ______ make it in time. Otherwise, they would be late.",
+    "options": [
+      "in order that",
+      "so as to",
+      "with the intention of",
+      "in the interest of to"
+    ],
+    "answer": 1,
+    "explanation": "'So as to' expresses purpose and is followed by a bare infinitive: 'so as to make it in time.' 'In order that' requires a clause, and 'with the intention of' requires a gerund."
+  },
+  {
+    "question": "______ prices are still on the rise, we hope they will come down in the near future.",
+    "options": [
+      "Although",
+      "Even if",
+      "Nevertheless",
+      "In contrast to"
+    ],
+    "answer": 0,
+    "explanation": "'Although' introduces a concession clause: although prices are rising (fact), we hope they will come down (contrasting hope). 'Nevertheless' is an adverb, not a conjunction, and 'In contrast to' requires a noun phrase."
+  },
+  {
+    "question": "She was packing all morning as her flight was scheduled for the evening of that same day. ______, her husband was arranging stuff in his office.",
+    "options": [
+      "Contrarily",
+      "Meanwhile",
+      "What is more",
+      "Supposedly"
+    ],
+    "answer": 1,
+    "explanation": "'Meanwhile' indicates that two actions were happening at the same time. She was packing while her husband was arranging things in his office — simultaneous actions."
+  },
+  {
+    "question": "______ it has drastically changed the world in many positive ways, modernization has also spoiled the cultures of many nations and created undisciplined citizens.",
+    "options": [
+      "However",
+      "In spite of",
+      "In comparison",
+      "Despite the fact that"
+    ],
+    "answer": 3,
+    "explanation": "'Despite the fact that' introduces a concessive clause followed by a full clause. 'However' is an adverb, 'In spite of' requires a noun/gerund, and 'In comparison' doesn't convey concession."
+  },
+  {
+    "question": "Never borrow money from this group of loaners. They'll ______ you pay back double.",
+    "options": [
+      "make",
+      "do",
+      "force",
+      "let"
+    ],
+    "answer": 0,
+    "explanation": "'Make' someone do something = compel them (bare infinitive). 'They'll make you pay back double.' 'Force' also means compel but is less natural in this colloquial context, and 'let' means allow."
+  },
+  {
+    "question": "You shouldn't expect us exactly at 6:00 pm. We ______ make it but if we happen to be a bit late, just take it easy and start the programme.",
+    "options": [
+      "shall",
+      "must",
+      "could",
+      "can"
+    ],
+    "answer": 2,
+    "explanation": "'Could' expresses possibility: 'We could make it' means it's possible we'll arrive on time. This fits the context of uncertainty about arrival time."
+  },
+  {
+    "question": "She was telling me the story of her ex-boyfriend who died in a car crash ten years ago. Then she ______ burst into tears and screams and I could never stop her.",
+    "options": [
+      "silently",
+      "suddenly",
+      "romantically",
+      "sensibly"
+    ],
+    "answer": 1,
+    "explanation": "'Suddenly' is the most appropriate adverb — she unexpectedly burst into tears and screams while recounting the story. The other options don't logically fit the context."
+  },
+  {
+    "question": "It is a pity she didn't see her brother. Had she arrived a day earlier, she ______ met him and enjoyed a bit of time with him.",
+    "options": [
+      "must have",
+      "will have",
+      "could have",
+      "should have"
+    ],
+    "answer": 2,
+    "explanation": "This is a third conditional (past unreal). 'Had she arrived' is the inverted form of 'if she had arrived.' The correct completion is 'could have met' — expressing a possible but unreal past outcome."
+  },
+  {
+    "question": "Everybody understands that most of you worked very hard ______ you would pass this test. But you don't have to lose hope if the result happens to be against your expectation.",
+    "options": [
+      "despite",
+      "so that",
+      "as a result of which",
+      "which means"
+    ],
+    "answer": 1,
+    "explanation": "'So that' expresses purpose: 'you worked very hard so that you would pass this test.' The purpose of working hard was to pass the test."
+  },
+  {
+    "question": "If what you are telling me is true, then I ______ straight away and register with them. I don't want to miss the opportunity.",
+    "options": [
+      "will go",
+      "must on",
+      "am going to go",
+      "am going"
+    ],
+    "answer": 0,
+    "explanation": "In the first conditional (if + present, will + base form): 'If what you are telling me is true, then I will go straight away.' 'Will go' is the correct future form."
+  },
+  {
+    "question": "You ______ edited. I know how serious the instructor is with deadlines and he could give you a zero.",
+    "options": [
+      "had better",
+      "ought to",
+      "would",
+      "might"
+    ],
+    "answer": 0,
+    "explanation": "'Had better' gives strong advice with a warning of negative consequences. 'You had better [get it] edited' warns that not doing so could result in a zero."
+  },
+  {
+    "question": "The house ______ into last night and they have already reported it to the police. I'll try to follow up the progress.",
+    "options": [
+      "was being broken",
+      "has been broken",
+      "has broken",
+      "was broken"
+    ],
+    "answer": 3,
+    "explanation": "'Was broken into' (past simple passive) describes a completed event in the past. The house was burglarized last night, which is a finished past action."
+  },
+  {
+    "question": "If it ______ for at least a month or so during the last three years, their cattle would have resisted the drought to a certain degree and perhaps survived in a better number.",
+    "options": [
+      "has rained",
+      "had rained",
+      "had been raining",
+      "did rain"
+    ],
+    "answer": 1,
+    "explanation": "This is a third conditional (past unreal): 'If it had rained... their cattle would have resisted.' 'Had rained' is the past perfect form needed in the if-clause."
+  },
+  {
+    "question": "Her father walks very ______ but she is like a tortoise. She saunters very slowly.",
+    "options": [
+      "urgently",
+      "quick",
+      "fastly",
+      "fast"
+    ],
+    "answer": 3,
+    "explanation": "'Fast' is both an adjective and an adverb — it doesn't change form. 'Fastly' is not a word. 'Quick' is an adjective (the adverb is 'quickly'). 'Urgently' doesn't fit the contrast with 'slowly.'"
+  },
+  {
+    "question": "I wish that we ______ today. It is really freezing and wet.",
+    "options": [
+      "didn't need to work",
+      "have not worked",
+      "will not need to work",
+      "are not working"
+    ],
+    "answer": 0,
+    "explanation": "'Wish' + past tense expresses a present unreal desire. 'I wish we didn't need to work today' means we need to work but I wish we didn't."
+  },
+  {
+    "question": "I was offered ______ a reasonable fund for helping them organize the competition but I did not accept it because I just wanted to make my own contribution.",
+    "options": [
+      "much",
+      "the",
+      "an",
+      "a"
+    ],
+    "answer": 3,
+    "explanation": "'A' is the indefinite article used before consonant sounds. 'A reasonable fund' is correct because 'reasonable' starts with a consonant sound and the fund is non-specific."
+  },
+  {
+    "question": "______ she came home, I made her coffee. Then we sat together and had hours of talk and talk.",
+    "options": [
+      "While",
+      "When",
+      "Suddenly",
+      "Prior"
+    ],
+    "answer": 1,
+    "explanation": "'When' indicates a sequential action: 'When she came home, I made her coffee.' The coffee-making followed her arrival. 'While' implies simultaneous actions."
+  },
+  {
+    "question": "Can anyone tell me ______ book this is? It has been lying here for months.",
+    "options": [
+      "of who",
+      "which",
+      "what about",
+      "whose"
+    ],
+    "answer": 3,
+    "explanation": "'Whose' indicates possession. 'Whose book this is?' asks about the owner of the book. 'Of who' is grammatically incorrect, and 'which/what about' don't express possession."
+  },
+  {
+    "question": "She likes chatting with children and ______. We actually have a lot in common but unlike her, I hate playing with dogs.",
+    "options": [
+      "so do I",
+      "I too like",
+      "also do I",
+      "also I like"
+    ],
+    "answer": 0,
+    "explanation": "'So do I' is the correct agreement structure for a positive statement: 'She likes... so do I' means 'I also like.' The inverted 'so + auxiliary + subject' pattern is standard."
+  },
+  {
+    "question": "The school director sent you a message but apparently, your sister ______ to tell you. You were supposed to report to his office this morning.",
+    "options": [
+      "is forgetting",
+      "has forgot",
+      "forgot",
+      "forgets"
+    ],
+    "answer": 2,
+    "explanation": "'Forgot' (simple past) describes a completed past action. She forgot to tell you in the past, and the result is that you missed the appointment. Simple past is most appropriate for a completed failure to act."
+  },
+  {
+    "question": "He was doing the washing up ______ she was cleaning the house. We like that they help one another.",
+    "options": [
+      "during",
+      "before",
+      "since",
+      "while"
+    ],
+    "answer": 3,
+    "explanation": "'While' indicates two simultaneous actions: he was washing up while she was cleaning. 'During' requires a noun phrase, not a clause."
+  },
+  {
+    "question": "Chuchu: Your friend has got a good job, hasn't she? Meklit: ______.",
+    "options": [
+      "Yes, she's got a job. I heard it is out of town.",
+      "Getting a job is not very easy these days.",
+      "I feel that the offer is rather too low, birr 2500 a month.",
+      "She graduated about five years back, you know."
+    ],
+    "answer": 0,
+    "explanation": "The tag question 'hasn't she?' expects confirmation. Option A confirms directly with 'Yes' and adds relevant information about the job being out of town."
+  },
+  {
+    "question": "Eyob: What is your grandma like? Sisu: ______.",
+    "options": [
+      "She's now been ill for a year.",
+      "She likes eating shiro wot.",
+      "She had a checkup yesterday. Right move!",
+      "She's very old and weak. She is 92."
+    ],
+    "answer": 3,
+    "explanation": "'What is your grandma like?' asks for a general description. Option D provides a descriptive answer about her age and condition, which best answers the question."
+  },
+  {
+    "question": "Teacher: Where is the boy sitting over there? Fola: ______.",
+    "options": [
+      "He always fights with people and no one likes him.",
+      "He is locked up. What I mean is, ... he is jailed.",
+      "His name is Zekarias. I don't know his father's name.",
+      "He is very intelligent. You don't know that, do you?"
+    ],
+    "answer": 2,
+    "explanation": "'Where is the boy sitting over there?' seeks identification. Option C identifies the boy by name, which is the most direct and appropriate response."
+  },
+  {
+    "question": "Telila: Why didn't you come to my party? Aster: ______.",
+    "options": [
+      "Was it held at your home or...?",
+      "Did everyone else come?",
+      "I apologize for that. I was on-duty.",
+      "I could imagine it was so lavish."
+    ],
+    "answer": 2,
+    "explanation": "The question asks for a reason for not attending. Option C provides an apology and a legitimate reason (being on-duty), which is the most appropriate conversational response."
+  },
+  {
+    "question": "Haji: Why don't we visit Chebera Churchura? Gorge: ______.",
+    "options": [
+      "I think the biggest problem is where to stay. There is no hotel there.",
+      "Is the administration under the SNNPR or the federal government?",
+      "I've seen it on TV and they're now almost finishing it. Great achievement!",
+      "We have contributed money, though I don't know exactly how much."
+    ],
+    "answer": 0,
+    "explanation": "'Why don't we visit...?' is a suggestion. Option A responds by raising a practical concern about the suggestion (no hotel), which is a natural conversational response."
+  },
+  {
+    "question": "Mimi: I guess our driver was thrown out. Anyway, it was predictable. Kuku: ______.",
+    "options": [
+      "I'm sorry I didn't follow what you said.",
+      "I don't understand what he threw out.",
+      "It was a serious accident and he lost a hand.",
+      "I think he and his boss were great friends."
+    ],
+    "answer": 0,
+    "explanation": "'Thrown out' in this context likely means 'ejected from a vehicle' in an accident. Kuku's confusion about the phrasing is natural, so asking for clarification ('I'm sorry I didn't follow') is appropriate."
+  },
+  {
+    "question": "Oumer: Shall I pay you when I come back in June? Mensur: ______.",
+    "options": [
+      "Never lend anyone your money. They don't pay you back.",
+      "No! I will have already left for Spain by the end of May.",
+      "Are you flying or taking a bus? How long will you be there?",
+      "I know you have hundreds and thousands in the bank. Bravo!"
+    ],
+    "answer": 1,
+    "explanation": "Mensur's response directly answers the payment proposal: paying in June won't work because he'll already have left by the end of May. This is the most relevant response."
+  },
+  {
+    "question": "Tesfaye: What advantage do I have in joining the union? Bereket: ______.",
+    "options": [
+      "You're always against such new ideas, aren't you, brother?",
+      "Come on! Many of our close friends have joined it already.",
+      "Someone from the union was talking about its details yesterday.",
+      "Lots! For instance, you can get a loan of at least birr 50,000."
+    ],
+    "answer": 3,
+    "explanation": "The question asks about advantages of joining. Option D directly lists advantages (getting a loan), which most appropriately answers the question."
+  },
+  {
+    "question": "Colleague: We're going out for dinner tonight, aren't we? You: ______.",
+    "options": [
+      "I'm not coming, if you don't mind.",
+      "That restaurant is always busy.",
+      "Are you a member of the Social Committee?",
+      "How much money do we have for that?"
+    ],
+    "answer": 0,
+    "explanation": "The tag question 'aren't we?' seeks confirmation. Option A gives a clear, polite response about not attending, which directly addresses the invitation."
+  },
+  {
+    "question": "Amesu: When is your sister going to the university? Yonas: ______.",
+    "options": [
+      "Addis Ababa University is her favorite choice.",
+      "In my opinion, she is not going to do that. She is not interested.",
+      "None of the universities will start within a month. They are not ready.",
+      "She wants to go to Dubai and work. They have bought her a ticket."
+    ],
+    "answer": 1,
+    "explanation": "The question asks 'when' the sister is going. Option B directly answers by stating she's not going because she's not interested, which is the most responsive answer."
+  },
+  {
+    "question": "Journalist: Why is it that you always avoid coming out on mass media such as TV? Psychologist: ______.",
+    "options": [
+      "In fact, mass media plays a big role in raising awareness on the issue.",
+      "The reason I don't want to do that is very personal. You know, ....",
+      "You know many people who call themselves elites like TVs and radios.",
+      "After all, mass media in this country should be doing their proper jobs."
+    ],
+    "answer": 1,
+    "explanation": "The question asks 'why' the psychologist avoids mass media. Option B directly provides the reason ('the reason I don't want to do that is very personal'), which most appropriately answers the question."
+  },
+  {
+    "question": "Christian: Sir! ______ my field of studies, but basically it is ...... Mr. Sharma: That is one of the best astronomers in India?",
+    "options": [
+      "Is it true that you finished just on time. Good job!",
+      "Your presentation that you have published over fifty one books so far.",
+      "Some people say something about Artificial Intelligence?",
+      "Would you like to say something about Artificial Intelligence?"
+    ],
+    "answer": 3,
+    "explanation": "The dialogue suggests Christian is asking Mr. Sharma (an astronomer) a question. Option D forms a proper question that could initiate the conversation about the speaker's field."
+  },
+  {
+    "question": "Almaz: This plate fell off the cabinet but it didn't break. Husband: ______.",
+    "options": [
+      "Please, keep the plates in a safe place.",
+      "These days, plates are not like that.",
+      "You are being rather too careless these days.",
+      "How nice! It seems to be made of porcelain."
+    ],
+    "answer": 2,
+    "explanation": "The husband's natural response to something falling off the cabinet would be to express concern about carelessness. Option C is a realistic conversational response."
+  },
+  {
+    "question": "Tesfaye: The security guard tells me his wife has been hospitalized. You: ______.",
+    "options": [
+      "Really? Health care is very expensive these days.",
+      "You know, I have never met his wife, have you?",
+      "Perhaps we could contribute some money and help.",
+      "What a pity! Who takes care of the children then?"
+    ],
+    "answer": 2,
+    "explanation": "Hearing about someone's hospitalization, offering to help (contribute money) is a caring and proactive response. Option C is the most appropriate and supportive reaction."
+  },
+  {
+    "question": "Woltaji: Where is the office of the National Farmers Union? Mbobo: ______.",
+    "options": [
+      "I have been to that office only two days ago. It is on a beautiful building.",
+      "You don't need any bus or taxi for that. Are you a stranger around?",
+      "Office of the National Farmers Union? They're easing food prices in this country.",
+      "Up there. When you see a tall building with blue glasses, you should turn left."
+    ],
+    "answer": 3,
+    "explanation": "The question asks for directions. Option D provides clear, helpful directions to the office, which directly answers the question."
+  },
+  {
+    "question": "Director: We are going to suspend that student who broke the window. Unit leader: ______.",
+    "options": [
+      "I agree. That would be an essential measure.",
+      "Such misconducts are becoming a fashion.",
+      "Amazing! Why do some students like to misbehave?",
+      "Which section does he belong to? Section 4?"
+    ],
+    "answer": 0,
+    "explanation": "A unit leader responding to the director's decision would most appropriately either agree or disagree. Option A shows professional agreement with the disciplinary measure."
+  },
+  {
+    "question": "Shashe: I wanted to buy a TV but I couldn't decide the brand. Melat: ______.",
+    "options": [
+      "Most TV programs are really boring.",
+      "The best these days is Sony T.L.C.",
+      "I know someone who sells electronics stuff.",
+      "Good TVs cost over 50,000 birr now."
+    ],
+    "answer": 2,
+    "explanation": "Shashe needs help deciding on a TV brand. Option C offers practical help by suggesting someone who sells electronics, which is the most useful response."
+  },
+  {
+    "question": "You: He wouldn't give me back my computer. What should I do? Sister: ______.",
+    "options": [
+      "Is that the computer they gave you from your office?",
+      "Unless you pay him back his money, he won't do it.",
+      "It is very difficult to do assignments without a computer.",
+      "Doesn't he know that computers make life very easy?"
+    ],
+    "answer": 1,
+    "explanation": "The question asks 'What should I do?' — seeking advice. Option B provides practical advice by explaining the situation and what needs to happen for the computer to be returned."
+  },
+  {
+    "question": "Leul: I hear they have all been trapped in a tunnel. Brother: ______.",
+    "options": [
+      "When do they come out, you think?",
+      "I know tunnels could be dangerous.",
+      "In fact, tunnels should have been out of use.",
+      "No, no! What can be done to save them?"
+    ],
+    "answer": 3,
+    "explanation": "Hearing about people trapped in a tunnel, the most natural and concerned response is Option D: expressing alarm and asking about rescue efforts."
+  },
+  {
+    "question": "Kebede: Do you think their plan is going to work out? Nigist: ______.",
+    "options": [
+      "Who knows? Let's wait and see.",
+      "Good plans can sometimes fail.",
+      "By the way, who has masterminded it?",
+      "Plans should be carefully discussed."
+    ],
+    "answer": 0,
+    "explanation": "The question asks for an opinion about a plan's success. Option A gives a non-committal but natural response: uncertainty and the need to wait for results."
+  },
+  {
+    "question": "Interviewer: Was that your first time starring in a film? Bamlak: ______.",
+    "options": [
+      "No, I don't remember the films I starred in.",
+      "No, I had acted in another film before that.",
+      "No, I acted in a film in English - No Good Death.",
+      "Never, I was involved in three films after that."
+    ],
+    "answer": 1,
+    "explanation": "The question asks if it was the first time. Option B directly answers 'No' and provides the logical explanation (had acted before), which is the clearest response."
+  },
+  {
+    "question": "Interviewer: ______. Jorgie: Actually, my interest is in fashion designing.",
+    "options": [
+      "Did I hear you like fashion designing?",
+      "Do you like fashion designing?",
+      "Why are you interested in fashion designing?",
+      "Could you tell me about your interest?"
+    ],
+    "answer": 3,
+    "explanation": "Jorgie's response 'Actually, my interest is in fashion designing' most naturally follows a question asking about interests generally. Option D asks broadly about interests, eliciting Jorgie's response about fashion designing."
+  },
+  {
+    "question": "Driver: What do you mean? How can a robot replace me? You: ______.",
+    "options": [
+      "To give you an idea, robots can do anything we do.",
+      "Robots are products of modern technology.",
+      "I have seen robots on TV and they are really very smart.",
+      "Haven't you seen robots helping people cross roads?"
+    ],
+    "answer": 0,
+    "explanation": "The driver is questioning how a robot could replace him. Option A directly explains the idea by giving an example (robots can do anything we do), which best addresses the driver's question."
+  },
+  {
+    "question": "Farah: Is that boy Ali, your classmate? Nisra: ______.",
+    "options": [
+      "I didn't know you knew Ali.",
+      "Ali is very gentle and polite.",
+      "No, Ali is not as tall as this one.",
+      "No, Ali is from around Babile."
+    ],
+    "answer": 2,
+    "explanation": "The question asks whether the boy is Ali. Option C directly answers by explaining why the boy isn't Ali (Ali is not as tall), which is the most relevant response to the identification question."
+  },
+  {
+    "question": "Student: Sir, We've won the inter-school competition. Our school stood first. Director: ______.",
+    "options": [
+      "Wasn't the competition stiff as such?",
+      "This is our first time to participate.",
+      "What great news! I'm pleased to hear that.",
+      "Really? I actually knew two of the judges."
+    ],
+    "answer": 2,
+    "explanation": "A director hearing good news about the school would naturally express pleasure and encouragement. Option C is the most appropriate and positive response."
+  },
+  {
+    "question": "Teacher: I always see Mimi and Bultum studying. They're working hard. Colleague: ______.",
+    "options": [
+      "Bultum is one of the very hardworking students in class.",
+      "Maybe, they'll also need to do other things in between.",
+      "You know, I teach them two subjects - Biology and Chemistry.",
+      "Great! There is a good chance they'll pass the national exam."
+    ],
+    "answer": 3,
+    "explanation": "The teacher observes students working hard. Option D naturally connects hard work to a positive outcome (passing the exam), which is the most relevant and encouraging response."
+  },
+  {
+    "question": "The rapid spread of HIV and AIDS is a consequence of mass denial and social disgrace of persons living with the virus. Which sentence has the closest meaning?",
+    "options": [
+      "Denying the existence of HIV/AIDS leads to eventual disgrace of victims.",
+      "The main cause of HIV/AIDS is denial and social disgrace.",
+      "The existence of HIV/AIDS and disgrace of people living with the virus aggravates the spread of the virus.",
+      "The spread of HIV/AIDS gets worse when people deny infection and also alienate victims."
+    ],
+    "answer": 3,
+    "explanation": "The original sentence says the rapid spread is a consequence of denial and social disgrace. Option D captures this: the spread worsens when people deny the existence and alienate victims — matching the cause-effect relationship."
+  },
+  {
+    "question": "Abusing drugs can only provide a temporary escape from the world of reality. Which sentence has the closest meaning?",
+    "options": [
+      "Drugs are used by people who live in an elusive world.",
+      "Drug abuse can effectively solve temporary problems.",
+      "Drug abuse is a means of avoiding unpleasant facts of life.",
+      "Drug abuse creates a world free of worries and sufferings."
+    ],
+    "answer": 2,
+    "explanation": "'Temporary escape from reality' means avoiding the real world for a short time. Option C rephrases this as 'avoiding unpleasant facts of life,' which is the closest meaning."
+  },
+  {
+    "question": "Why do adult learners write better than some of the best younger students?",
+    "options": [
+      "Because their teachers preferred teaching writing to the other skills.",
+      "Because they liked writing more than they did the other skills.",
+      "Because during their days, the system had given more emphasis to writing.",
+      "Because today's students attach more importance to leadership only."
+    ],
+    "answer": 2,
+    "explanation": "The passage states: 'Because they went to high school at a time when learning how to write was considered more important than advanced student leadership.' This matches option C."
+  },
+  {
+    "question": "Why do university professors prefer teaching adults to teaching young people?",
+    "options": [
+      "Adult learners have a clear purpose for being on campus.",
+      "Eighteen year-olds join universities with foggy notions.",
+      "Adults work much harder than their younger counterparts.",
+      "Younger students are much more careless about their life."
+    ],
+    "answer": 0,
+    "explanation": "The passage says professors enjoy teaching adults because 'they frequently work harder and have a better idea of what they want out of school.' Option A captures this clear purpose."
+  },
+  {
+    "question": "What makes adult students feel insecure?",
+    "options": [
+      "Friends and family members may dislike them.",
+      "Younger students sometimes swear at them.",
+      "Socially, it is hard to compete with younger students.",
+      "Some of the students may envy their performance."
+    ],
+    "answer": 0,
+    "explanation": "The passage states: 'Friends and family may not like or understand their new status.' Option A paraphrases this as friends and family members may dislike them."
+  },
+  {
+    "question": "Comparatively, why do older students tend to get their work done in time?",
+    "options": [
+      "Some of them have sick children whom they have to look after.",
+      "They do not want to be rushed up when it is too late.",
+      "It is to have time for unforeseen situations that may unexpectedly drag them away.",
+      "The old school system shaped them in a way that does not procrastinate duties."
+    ],
+    "answer": 2,
+    "explanation": "Phyllis Dunham says: 'I'm going to get the assignment done because I know I might have to stay home one day with my sick child.' This shows they finish early to have time for unexpected situations (option C)."
+  },
+  {
+    "question": "What, according to Mike Rollo, was the problem at the University of Florida?",
+    "options": [
+      "Younger girls embarrass older women calling them 'mothers'.",
+      "Older students feel so unfit to the context.",
+      "Older students account for only about one-fifth of the student community.",
+      "The University administration is new to handling older students."
+    ],
+    "answer": 3,
+    "explanation": "Mike Rollo says: 'They're putting a strain on the place because we're not used to dealing with them.' This means the administration is not accustomed to handling older students (option D)."
+  },
+  {
+    "question": "'I thought I left my mother at home' (Paragraph 3). 'My mother' in this sentence refers to:",
+    "options": [
+      "The speaker's mom",
+      "Women classmates",
+      "Older women in the group",
+      "Elderly women on campus"
+    ],
+    "answer": 2,
+    "explanation": "A young student says this about older women classmates who remind her of her mother. 'My mother' metaphorically refers to the older women in the group."
+  },
+  {
+    "question": "What does 'The feeling can be mutual' mean (Paragraph 4)?",
+    "options": [
+      "Both the grownups and their roommates feel the same way.",
+      "Both groups think it is hard to live with the other.",
+      "Both the university and the youngsters think those grownups are unfit.",
+      "Both the university and the youngsters think the grownups are old."
+    ],
+    "answer": 1,
+    "explanation": "'The feeling can be mutual' means both sides share the same sentiment. In this context, both the older and younger students find it difficult to live with each other."
+  },
+  {
+    "question": "'... because we're not used to dealing with them' (Paragraph 3). What does the word 'them' refer to?",
+    "options": [
+      "Younger students",
+      "Older students",
+      "The student community",
+      "Places like Florida"
+    ],
+    "answer": 1,
+    "explanation": "Mike Rollo says the university is 'not used to dealing with them' — 'them' refers to the older students who are putting a strain on the place."
+  },
+  {
+    "question": "What is the central idea of the last paragraph?",
+    "options": [
+      "Youngsters do not like to see older students on university campus.",
+      "It is not very wise for older students to go back to university.",
+      "University is a place where distinctions should not be made because of age.",
+      "It is very hard to have young and old students together in a university."
+    ],
+    "answer": 3,
+    "explanation": "The last paragraph describes how older students feel out of place (feeling old, organizing separate groups, setting up hideaways). The central idea is the difficulty of integrating older and younger students."
+  },
+  {
+    "question": "Why did Juliet Margolin eventually decide to evacuate her dorm?",
+    "options": [
+      "She wanted to live with someone more matured.",
+      "The little dorm mates made her feels very old.",
+      "She didn't like the ketchup her dorm mates were using.",
+      "She couldn't bear the way her dorm mates behaved."
+    ],
+    "answer": 3,
+    "explanation": "The passage says Margolin was 'appalled by ketchup in the showers and jelly on the mirrors.' She couldn't bear the immature behavior of her younger dorm mates, so she moved out."
+  },
+  {
+    "question": "What is the passage mainly about?",
+    "options": [
+      "Different forms of academic dishonesty in universities.",
+      "How laziness leads to plagiarism among students.",
+      "The causes, methods, and consequences of plagiarism.",
+      "Why students cheat on exams in high school."
+    ],
+    "answer": 2,
+    "explanation": "The passage discusses the causes of plagiarism (laziness, desire for better grades), methods (stealing research, using fake signatures), and consequences (disciplinary actions, psychological trauma). It covers all three aspects comprehensively."
+  },
+  {
+    "question": "According to paragraph one, which one of the following is true about cheating?",
+    "options": [
+      "Recently, cheating has become part of every student's life in the US.",
+      "Almost 80% of college students in the US cheat in their exams.",
+      "Cheating is more severe among university students than high school students.",
+      "The statistics of 2018 show that cheating is very common among students."
+    ],
+    "answer": 3,
+    "explanation": "Paragraph 1 states that 'almost 80% of college students admit to cheating' and 'between 75% and 98% of high school students' do so, with 'the statistics of 2018' confirming this. Option D is the most accurate summary."
+  },
+  {
+    "question": "What do you think is the most important reason behind secondary school leavers' attempt to plagiarize in this exam?",
+    "options": [
+      "Laziness and making little effort",
+      "Lack of self-confidence",
+      "The feeling of dependence on others",
+      "The interest to score good grades"
+    ],
+    "answer": 3,
+    "explanation": "The passage states: 'The most important reason should be getting better grades without enough effort.' This directly points to the desire for good grades as the primary motivation."
+  },
+  {
+    "question": "Which one of the following is NOT among the similarities between academic and non-academic plagiarism (Paragraph 2)?",
+    "options": [
+      "The way the act is committed",
+      "The actors of plagiarism",
+      "The specific interest behind the act",
+      "The anticipated rewards of the act"
+    ],
+    "answer": 1,
+    "explanation": "Paragraph 2 states similarities 'in motivations or reasons, methods, and effects.' Methods (option A) and motivations/effects relate to options C and D. 'Actors of plagiarism' (who commits it) is not mentioned as a similarity."
+  },
+  {
+    "question": "Which one of the following, in your opinion, belongs to non-academic cheating?",
+    "options": [
+      "Using fake signatures in applications for financial aid",
+      "Using others' lab reports for submission in a course",
+      "Stealing others' research plans and designs to write a thesis",
+      "Taking other students' statistics for report in assignments"
+    ],
+    "answer": 0,
+    "explanation": "Non-academic plagiarism involves stealing quotes, arts, recipes, and ideas outside the academic context. Using fake signatures for financial aid applications is not an academic exercise, making it non-academic cheating."
+  },
+  {
+    "question": "What does the word 'they' in '... obviously, they will result in negative effects' refer to (Paragraph 2)?",
+    "options": [
+      "Students behind the act of cheating",
+      "Reasons and methods of cheating",
+      "Both academic and non-academic cheating",
+      "The consequences of cheating"
+    ],
+    "answer": 1,
+    "explanation": "In the context, 'students have reasons and methods to cheat and obviously, they will result in negative effects.' Here, 'they' refers to the reasons and methods of cheating, which lead to negative effects."
+  },
+  {
+    "question": "What is the main purpose of taking measures against cheaters in a university environment?",
+    "options": [
+      "To safeguard the academic community",
+      "To discourage undeserved merits",
+      "To protect students' safety and integrity",
+      "To teach new behaviors to the cheaters"
+    ],
+    "answer": 0,
+    "explanation": "The passage states: 'all the sanctions and policies are to protect the academic community.' Option A directly paraphrases this stated purpose."
+  },
+  {
+    "question": "What, according to Paragraph 3, is the most undesirable consequence of academic cheating?",
+    "options": [
+      "A disciplinary note recorded on an academic transcript",
+      "Suspension from the University for one or more terms",
+      "A five-year hold and pending remark on the cheater's records",
+      "The psychological and mental trauma inflicted on the cheater"
+    ],
+    "answer": 3,
+    "explanation": "The passage says: 'And the worst result of that trauma and shock is the psychological and mental impact on them which remains for years.' This identifies the psychological trauma as the most undesirable consequence."
+  },
+  {
+    "question": "If you send a plagiarist to jail for one-year service, the most likely, what is the consequence of the decision?",
+    "options": [
+      "ethical",
+      "legal",
+      "Professional",
+      "Personal"
+    ],
+    "answer": 1,
+    "explanation": "Sending someone to jail is a legal consequence. Imprisonment is a legal penalty imposed through the judicial system, making this a legal consequence of the decision."
+  },
+  {
+    "question": "Which one of the following sentences is true about politicians in relation to plagiarism?",
+    "options": [
+      "Confirmed presentations tempt politicians and push them to plagiarize.",
+      "Politicians avoid plagiarism due to fear of pressure from the public.",
+      "Consequences of plagiarism could be comparatively less harsh on politicians.",
+      "Politicians may resort to plagiarism as a means of covering up their laziness."
+    ],
+    "answer": 2,
+    "explanation": "The passage implies that unlike academic settings where plagiarism has severe consequences, politicians may face comparatively less harsh penalties. Option C reflects this differential treatment."
+  },
+  {
+    "question": "The main factor that led to the disbanding of the union is unfair distribution of income among members. (What is the closest meaning of 'main'?)",
+    "options": [
+      "direct",
+      "simple",
+      "principal",
+      "best"
+    ],
+    "answer": 2,
+    "explanation": "'Main' means chief or most important. 'Principal' is the closest synonym, also meaning most important or primary."
+  },
+  {
+    "question": "The disagreement between the warring parties should be solved amicably. (What is the closest meaning of 'disagreement'?)",
+    "options": [
+      "dispute",
+      "hatred",
+      "contempt",
+      "assault"
+    ],
+    "answer": 0,
+    "explanation": "'Disagreement' means a lack of consensus or conflict between parties. 'Dispute' is the closest synonym, also meaning a conflict or argument."
+  },
+  {
+    "question": "There is a huge increase in the number of newly set up educational institutions during the last thirty years. (What is the closest meaning of 'huge'?)",
+    "options": [
+      "massive",
+      "bulky",
+      "comprehensive",
+      "progressive"
+    ],
+    "answer": 0,
+    "explanation": "'Huge' means very large in size or amount. 'Massive' is the closest synonym, also meaning extremely large."
+  },
+  {
+    "question": "We cannot be talking about failure of plans every year. (What is the closest meaning of 'failure'?)",
+    "options": [
+      "impracticality",
+      "shallowness",
+      "weakness",
+      "miscarriage"
+    ],
+    "answer": 3,
+    "explanation": "'Failure' of plans means their unsuccessful outcome. 'Miscarriage' means the failure of something to develop properly, which is the closest synonym in this context."
+  },
+  {
+    "question": "Most of us are not modest enough to learn from others. (What is the closest meaning of 'modest'?)",
+    "options": [
+      "humble",
+      "inferior",
+      "submissive",
+      "polite"
+    ],
+    "answer": 0,
+    "explanation": "'Modest' means not boastful, having a moderate view of one's importance. 'Humble' is the closest synonym, also meaning having a low estimate of one's importance."
+  },
+  {
+    "question": "When we take an examination like this, the results are almost always dual. (What is the closest meaning of 'dual'?)",
+    "options": [
+      "binary",
+      "both",
+      "teamed",
+      "paired"
+    ],
+    "answer": 0,
+    "explanation": "'Dual' means consisting of two parts. 'Binary' means composed of or involving two things, and is the closest synonym in the context of exam results (pass/fail)."
+  },
+  {
+    "question": "The war between Russia and Ukraine cannot be solved through discussion by both countries only. It needs joint negotiations among groups with vested interest. (What is the closest meaning of 'joint'?)",
+    "options": [
+      "common",
+      "popular",
+      "multisectoral",
+      "multilateral"
+    ],
+    "answer": 3,
+    "explanation": "'Joint' means involving two or more parties. 'Multilateral' means agreed upon or participated in by three or more parties, which is the closest synonym for negotiations involving multiple groups."
+  },
+  {
+    "question": "If we cannot eliminate malaria, we are going to pay dearly. (What is the closest meaning of 'eliminate'?)",
+    "options": [
+      "fight",
+      "remove",
+      "eradicate",
+      "dismiss"
+    ],
+    "answer": 2,
+    "explanation": "'Eliminate' means to completely remove or destroy. 'Eradicate' means to destroy completely, which is the closest and strongest synonym."
+  },
+  {
+    "question": "Teachers should ______ the attitude of honesty and integrity in the minds of their learners.",
+    "options": [
+      "cultivate",
+      "inflict",
+      "consolidate",
+      "impart"
+    ],
+    "answer": 0,
+    "explanation": "'Cultivate' means to foster the growth of or to develop. Teachers should cultivate (develop/foster) the attitude of honesty in learners' minds."
+  },
+  {
+    "question": "It is ______ that he committed suicide. They said he was a very successful politician.",
+    "options": [
+      "apparent",
+      "vivid",
+      "incredible",
+      "unjust"
+    ],
+    "answer": 2,
+    "explanation": "'Incredible' means hard or impossible to believe. Since he was a successful politician, it is incredible (unbelievable) that he committed suicide."
+  },
+  {
+    "question": "We will need to ______ what they are doing and how they are doing it so as to give our testimonies.",
+    "options": [
+      "visualize",
+      "observe",
+      "overhear",
+      "report"
+    ],
+    "answer": 1,
+    "explanation": "'Observe' means to watch carefully. To give testimony, one needs to observe (watch and note) what they are doing and how."
+  },
+  {
+    "question": "If we are not able to ______ ideas accurately, misunderstandings would naturally crop up.",
+    "options": [
+      "enunciate",
+      "inform",
+      "propagate",
+      "communicate"
+    ],
+    "answer": 3,
+    "explanation": "'Communicate' means to convey or share information. If we cannot communicate ideas accurately, misunderstandings arise. This is the most natural and commonly used word in this context."
+  },
+  {
+    "question": "We all need to work hard to reverse the ongoing moral ______ in this country and breathe life into it.",
+    "options": [
+      "challenge",
+      "decay",
+      "plunge",
+      "state"
+    ],
+    "answer": 1,
+    "explanation": "'Decay' means gradual decline or deterioration. 'Moral decay' is a common collocation referring to the decline of moral values in society."
+  },
+  {
+    "question": "That twenty of their friends died in a crash came to everybody as a ______ and they didn't know what to do.",
+    "options": [
+      "worry",
+      "shock",
+      "calamity",
+      "chance"
+    ],
+    "answer": 1,
+    "explanation": "'Shock' means a sudden and disturbing impression on the mind. News of friends dying in a crash would come as a shock — a sudden, distressing surprise."
+  },
+  {
+    "question": "What all the police could find were ______ of glasses from the building but further investigation might reveal the group behind such a heinous move.",
+    "options": [
+      "signs",
+      "parts",
+      "fragments",
+      "evidences"
+    ],
+    "answer": 2,
+    "explanation": "'Fragments' means small broken pieces. Broken pieces of glass are best described as fragments. 'Fragments of glasses' is the most precise and natural description."
+  },
+  {
+    "question": "As the company is new, we will need to produce some kind of ______ to be distributed to the community around.",
+    "options": [
+      "poster",
+      "notice",
+      "newspaper",
+      "leaflet"
+    ],
+    "answer": 3,
+    "explanation": "'Leaflet' means a small printed sheet, typically containing information to be distributed. A new company would produce leaflets to inform the community about itself."
+  }
+]

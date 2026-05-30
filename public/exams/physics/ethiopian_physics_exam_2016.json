@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Lenz's law states that the direction of the induced current in a loop is in such a way that the current:",
+    "options": [
+      "is in opposite direction to that of the applied magnetic field causing it.",
+      "creates a magnetic field that reinforces the change in magnetic flux through the loop.",
+      "is in the same direction as that of the applied magnetic field that is causing it.",
+      "creates a magnetic field that opposes the change in magnetic flux through the loop."
+    ],
+    "answer": 3,
+    "explanation": "Lenz's law states that the induced current always flows in a direction that creates a magnetic field opposing the change in magnetic flux that produced it, consistent with conservation of energy."
+  },
+  {
+    "question": "Which one of the following statements is correct about the resistance of a conducting wire? The resistance of the wire is:",
+    "options": [
+      "directly proportional to the length of its length.",
+      "directly proportional to the cross-sectional area.",
+      "inversely proportional to the cross-sectional area.",
+      "inversely proportional to its length."
+    ],
+    "answer": 2,
+    "explanation": "According to R = rho*L/A, resistance is directly proportional to length L and inversely proportional to cross-sectional area A. It increases with longer wires and decreases with thicker wires."
+  },
+  {
+    "question": "Consider an ideal transformer having Np and Ns turns, and voltages Vp and Vs in its primary and secondary coils, respectively. Which one of the following is the correct ideal transformer equation?",
+    "options": [
+      "Vp/Vs = Np/Ns",
+      "Vs/Ns = Vp/Np",
+      "Ns/Np = Vp/Vs",
+      "Vp/Ns = Ns/Vp"
+    ],
+    "answer": 0,
+    "explanation": "For an ideal transformer, the voltage ratio equals the turns ratio: Vp/Vs = Np/Ns. This means voltage is stepped up when Ns > Np and stepped down when Ns < Np."
+  },
+  {
+    "question": "Which one of the following statements is correct about the electrical conductivity of materials?",
+    "options": [
+      "Materials in which all the outer most shell electrons are free to move within the material are semiconductors.",
+      "Materials in which the outer most shell electrons are tightly bound to its parent atom are conductors.",
+      "Materials in which inner and outer most shell electrons are tightly bound to its parent atom are insulators.",
+      "Materials in which inner and outer most shell electrons are free to move within the material are conductors."
+    ],
+    "answer": 3,
+    "explanation": "Conductors have free electrons that can move freely within the material, allowing electric current to flow. Insulators have tightly bound electrons, and semiconductors have partially bound electrons."
+  },
+  {
+    "question": "Which one of the following statements distinguishes precision from accuracy?",
+    "options": [
+      "Accuracy measures how close a measured value is to another, whereas precision indicates how close a measured value is to the true value.",
+      "Precision indicates how close a measured value is to the true value, whereas accuracy refers to the closeness of repeatedly measured values to each other.",
+      "Precision is a measure of the closeness of repeatedly measured values to each other, whereas accuracy refers to the closeness of measured values to the true value.",
+      "Precision is a measure of the closeness of repeatedly measured values to each other, whereas accuracy is related to the number of significant figures."
+    ],
+    "answer": 2,
+    "explanation": "Precision refers to the reproducibility of repeated measurements (how close they are to each other), while accuracy refers to how close measurements are to the true or accepted value."
+  },
+  {
+    "question": "Which of the following statements about the nature of electromagnetic waves is correct? Electromagnetic waves are transverse waves produced when:",
+    "options": [
+      "charges are placed at rest in electric and magnetic fields that are perpendicular to each other.",
+      "electric and magnetic fields are oscillating perpendicular to each other.",
+      "charges are placed at rest in electric and magnetic fields that are parallel to each other.",
+      "electric and magnetic fields are oscillating parallel to each other."
+    ],
+    "answer": 1,
+    "explanation": "Electromagnetic waves consist of oscillating electric and magnetic fields that are perpendicular to each other and to the direction of wave propagation."
+  },
+  {
+    "question": "Three resistors are connected between points a and b in a circuit. What is the total resistance of the circuit?",
+    "options": [
+      "10 ohms",
+      "1.0 ohm",
+      "11.0 kilo-ohms",
+      "1.0 kilo-ohm"
+    ],
+    "answer": 1,
+    "explanation": "Based on the circuit configuration with three resistors (two in parallel, in series with the third), the equivalent resistance calculates to 1.0 ohm using series and parallel combination formulas."
+  },
+  {
+    "question": "A concave mirror has a radius of curvature of 30.0 cm. It is positioned so that the upright image of an object is 2.0 times the size of the object. How far is the object from the mirror?",
+    "options": [
+      "15.0 cm",
+      "10.0 cm",
+      "7.5 cm",
+      "25 cm"
+    ],
+    "answer": 2,
+    "explanation": "Using the mirror formula 1/f = 1/v + 1/u with f = R/2 = 15 cm and magnification m = -v/u = +2 (upright image), we get v = -2u. Solving: 1/(2u) = 1/15, so u = 7.5 cm."
+  },
+  {
+    "question": "In an experiment to determine the direction of the magnetic field around a long straight current-carrying wire, a student placed a small compass at point P. If the direction of the current in the wire is directed out of the page, then the magnetic needle of the compass will point:",
+    "options": [
+      "downward",
+      "to the right",
+      "upward",
+      "to the left"
+    ],
+    "answer": 2,
+    "explanation": "Using the right-hand grip rule with current flowing out of the page, the magnetic field lines circle counterclockwise. At a point to the right of the wire, the field direction is upward."
+  },
+  {
+    "question": "A combination of logic gates is constructed from a NAND gate and an OR gate, as shown in the diagram. What is the truth table for the logic circuit shown above?",
+    "options": [
+      "AND gate truth table (output 1 only when both inputs are 1)",
+      "OR gate truth table (output 1 when at least one input is 1)",
+      "NAND gate truth table (output 0 only when both inputs are 1)",
+      "XOR gate truth table (output 1 when inputs differ)"
+    ],
+    "answer": 2,
+    "explanation": "The NAND-OR gate combination in the given circuit configuration produces a NAND gate output. The NAND output is 0 only when both inputs are 1, and 1 in all other input combinations."
+  },
+  {
+    "question": "When a force F is applied to a wire of length L fixed at one end, the wire extends by x. The tensile strain of the wire is:",
+    "options": [
+      "the applied force F divided by the extension x.",
+      "the product of the force F and the extension x.",
+      "the extension x divided by the length L.",
+      "the length L divided by the extension x."
+    ],
+    "answer": 2,
+    "explanation": "Tensile strain is defined as the ratio of extension (change in length) to the original length: strain = x/L. It is a dimensionless quantity that measures how much a material deforms under stress."
+  },
+  {
+    "question": "Which one of the following factors does NOT affect the moment of inertia of an object?",
+    "options": [
+      "The angular speed of the object",
+      "The mass of the object",
+      "The axis about which the object is rotating",
+      "The size (mass distribution) of the object"
+    ],
+    "answer": 0,
+    "explanation": "Moment of inertia depends on mass, mass distribution (size and shape), and the axis of rotation, but NOT on angular speed. Angular speed affects angular momentum and rotational kinetic energy, not I itself."
+  },
+  {
+    "question": "Which of the following describes the difference between static and dynamic equilibrium?",
+    "options": [
+      "In static equilibrium, acceleration is zero, whereas in dynamic equilibrium the acceleration increases uniformly.",
+      "In static equilibrium, an object moves with constant velocity, whereas in dynamic equilibrium, an object is at rest.",
+      "In static equilibrium, an object is at rest, whereas in dynamic equilibrium, the object moves with constant velocity.",
+      "In static equilibrium, an object moves with constant acceleration, whereas in dynamic equilibrium, the object is at rest."
+    ],
+    "answer": 2,
+    "explanation": "In static equilibrium, the net force on an object is zero and it remains at rest. In dynamic equilibrium, the net force is also zero but the object moves with constant velocity (no acceleration)."
+  },
+  {
+    "question": "About an axis of rotation perpendicular to the plane of a couple, the forces in a couple produce:",
+    "options": [
+      "torques in opposite directions.",
+      "torques in the same direction.",
+      "no torque.",
+      "non-zero resultant force."
+    ],
+    "answer": 1,
+    "explanation": "A couple consists of two equal and opposite forces whose lines of action are separated. Both forces produce torque in the same rotational direction about any axis, resulting in a net torque of F*d. The resultant force is zero."
+  },
+  {
+    "question": "Which one of the following statements describes the difference between heat and temperature?",
+    "options": [
+      "Heat is a measure of the average kinetic energy, whereas temperature is a flow of energy from hotter to colder object.",
+      "Heat is an energy that flows spontaneously from colder to hotter object, whereas temperature is the degree of hotness and coldness.",
+      "Heat is a transfer of energy due to temperature difference, whereas temperature is a measure of the average kinetic energy.",
+      "Heat is measured with a thermometer in Kelvin, whereas temperature is measured with a calorimeter in Joule."
+    ],
+    "answer": 2,
+    "explanation": "Heat is the transfer of thermal energy between objects due to a temperature difference (measured in joules), while temperature is a measure of the average kinetic energy of particles in a substance (measured in Kelvin or degrees Celsius)."
+  },
+  {
+    "question": "Which one of the following statements does NOT describe the relationship of physics with biology?",
+    "options": [
+      "Both physics and biology are mainly concerned in the interaction of large number of particles.",
+      "Newtonian mechanics and biology are used to explain why cheetah is faster.",
+      "Physics and biology are interrelated to each other in the study of vision and color detection.",
+      "Physics and biology are used to study how air vibrates in vocal cords."
+    ],
+    "answer": 0,
+    "explanation": "Biology is primarily concerned with organisms and living systems, not the interaction of large numbers of particles. Physics studies particle interactions, but this is not a description of the physics-biology relationship."
+  },
+  {
+    "question": "Which one of the following is a correct relation of physics with medicine?",
+    "options": [
+      "Physics is a branch of medicine that sets standards during medical diagnosis.",
+      "A discipline called medical physics deals with principles of physics in medical diagnosis.",
+      "Modern medical imaging instruments are set with knowledge of medicine and later used by physics.",
+      "Medicine is a branch of physics dealing with nuclear reaction."
+    ],
+    "answer": 1,
+    "explanation": "Medical physics is a specialized discipline that applies the principles and methods of physics to medicine, particularly in medical diagnosis and treatment, such as X-rays, MRI, and radiation therapy."
+  },
+  {
+    "question": "A ball is released from a height h. It reaches a maximum height of (3/4)h after collision with the ground. Neglecting air resistance, which one of the following statements is correct about the ball's mechanical energy?",
+    "options": [
+      "Mechanical energy after collision is greater than mechanical energy before collision.",
+      "Mechanical energy before collision is equal to mechanical energy after collision.",
+      "Mechanical energy after collision is less than mechanical energy before collision.",
+      "Mechanical energy of the ball increases while moving downward, but decreases while moving upward."
+    ],
+    "answer": 2,
+    "explanation": "Since the ball reaches only 3/4 of its original height, energy was lost during the collision (likely as heat/sound). The collision is inelastic, so mechanical energy after collision is less than before."
+  },
+  {
+    "question": "A tube of radius 0.3 mm is inserted in a bowl which contains methyl iodide of density 2280 kg/m3. If the contact angle of the methyl iodide in the tube is 30 degrees and the surface tension is 0.26 N/m, how much height does the methyl iodide rise through the tube?",
+    "options": [
+      "0.66 m",
+      "0.066 m",
+      "0.052 m",
+      "0.0066 m"
+    ],
+    "answer": 1,
+    "explanation": "Using the capillary rise formula h = 2*gamma*cos(theta)/(rho*g*r), with gamma = 0.26 N/m, theta = 30 degrees, rho = 2280 kg/m3, r = 0.0003 m, g = 9.8 m/s2: h = approximately 0.067 m, closest to 0.066 m."
+  },
+  {
+    "question": "Two rods, one made of brass and the other made of copper, are joined end to end. The length of the brass section is 0.2 m and the length of the copper section is 0.8 m. Each segment has cross-sectional area 0.005 m2. One end of the brass is kept at 100 degrees C and the free end of copper is kept at 0 degrees C. If the rate of heat flow is the same through both rods, what is the temperature at the junction? (k_brass = 109 W/m*K, k_copper = 385 W/m*K)",
+    "options": [
+      "100 degrees C",
+      "53 degrees C",
+      "50 degrees C",
+      "10.2 degrees C"
+    ],
+    "answer": 1,
+    "explanation": "Setting heat flow equal: k_brass * A * (100 - T)/L_brass = k_copper * A * T/L_copper. Solving: 109(100-T)/0.2 = 385*T/0.8, giving T is approximately 53 degrees C."
+  },
+  {
+    "question": "A pressure applied to one point in an enclosed incompressible fluid is transmitted to all parts of the fluid without reducing in value. This is the principle of:",
+    "options": [
+      "Archimedes.",
+      "Continuity.",
+      "Pascal.",
+      "Bernoulli."
+    ],
+    "answer": 2,
+    "explanation": "Pascal's principle states that pressure applied to a confined fluid is transmitted undiminished to every portion of the fluid and the walls of the containing vessel. This is the basis for hydraulic systems."
+  },
+  {
+    "question": "Which of the following describes uniform motion?",
+    "options": [
+      "An object moving at 50 m/s toward East and then 30 m/s toward North.",
+      "An object moving around a circular track with constant speed of 30 m/s.",
+      "An object moving with constant speed of 30 m/s in a straight line.",
+      "An object starting from rest, moving on a straight line to attain a velocity of 40 m/s."
+    ],
+    "answer": 2,
+    "explanation": "Uniform motion means constant velocity (both constant speed and constant direction). Only an object moving at constant speed along a straight line satisfies this condition."
+  },
+  {
+    "question": "Which of the following statements describes inertia of an object?",
+    "options": [
+      "It increases with increasing mass of the object.",
+      "It increases with an increasing velocity of the object.",
+      "It makes the object change state of rest.",
+      "It is a physical quantity which has a unit of mass."
+    ],
+    "answer": 0,
+    "explanation": "Inertia is the resistance of an object to changes in its state of motion, and it is directly proportional to mass. A more massive object has greater inertia and is harder to accelerate or decelerate."
+  },
+  {
+    "question": "Two objects, object A of mass m and object B of mass 2m are placed at heights of h_A and h_B, respectively, from the surface of the earth. Assuming that the gravitational field strength is constant, the potential energy of object A is twice of that of object B, if:",
+    "options": [
+      "h_A = h_B",
+      "h_A = 2*h_B",
+      "h_A = 4*h_B",
+      "h_B = 4*h_A"
+    ],
+    "answer": 2,
+    "explanation": "PE_A = m*g*h_A and PE_B = 2m*g*h_B. Setting PE_A = 2*PE_B: m*g*h_A = 4m*g*h_B, which simplifies to h_A = 4*h_B."
+  },
+  {
+    "question": "A car travels 60 m north and then 80 m west. What is the magnitude of the resultant displacement of the car from its starting point?",
+    "options": [
+      "100 m",
+      "140 m",
+      "20 m",
+      "140 m"
+    ],
+    "answer": 0,
+    "explanation": "The two displacements are perpendicular. Using Pythagoras theorem: resultant = sqrt(60^2 + 80^2) = sqrt(3600 + 6400) = sqrt(10000) = 100 m."
+  },
+  {
+    "question": "The velocity-time graph of an object moving along a straight line toward east is described by the figure. What is the total displacement moved by the object?",
+    "options": [
+      "450 m East",
+      "375 m East",
+      "525 m East",
+      "600 m East"
+    ],
+    "answer": 2,
+    "explanation": "The displacement equals the area under the velocity-time graph. For a straight-line graph from v = 30 m/s at t = 0 to v = 12 m/s at t = 25 s, the trapezoidal area = 0.5*(30 + 12)*25 = 525 m East."
+  },
+  {
+    "question": "A person of mass 75 kg experiences a net force of 400 N when placed in an upward accelerating lift. What is its apparent weight?",
+    "options": [
+      "400 N",
+      "1150 N",
+      "350 N",
+      "750 N"
+    ],
+    "answer": 1,
+    "explanation": "In an upward accelerating lift, apparent weight = m*g + F_net = 75*10 + 400 = 750 + 400 = 1150 N. Using g = 10 m/s2, the normal force exceeds the true weight."
+  },
+  {
+    "question": "A block of mass 20 kg is pushed horizontally at constant speed along a rough horizontal floor over a distance of 5 m. If the coefficient of kinetic friction between the block and the surface is 0.4, what is the amount of work done by friction?",
+    "options": [
+      "-1000 J",
+      "-100 J",
+      "-400 J",
+      "-200 J"
+    ],
+    "answer": 2,
+    "explanation": "Since the block moves at constant speed, friction force f_k = mu_k*m*g = 0.4*20*10 = 80 N. Work done by friction = -f_k * d = -80 * 5 = -400 J. The negative sign indicates friction opposes motion."
+  },
+  {
+    "question": "A 200 N force is required to be applied at the end of a 1 m long lever, 80 cm from its fulcrum, in order to lift a load of 600 N placed at the other end. What is the efficiency of the lever?",
+    "options": [
+      "83%",
+      "75%",
+      "17%",
+      "25%"
+    ],
+    "answer": 1,
+    "explanation": "Mechanical advantage (MA) = Load/Effort = 600/200 = 3. Velocity ratio (VR) = Effort arm/Load arm = 80/20 = 4. Efficiency = MA/VR * 100% = 3/4 * 100% = 75%."
+  },
+  {
+    "question": "A substance with a mass of 2 kg has a volume of 2.5 * 10^-3 m3. What is the relative density of the substance?",
+    "options": [
+      "1.25",
+      "0.8",
+      "8.0",
+      "80"
+    ],
+    "answer": 1,
+    "explanation": "Density of substance = mass/volume = 2/(2.5 * 10^-3) = 800 kg/m3. Relative density = density of substance/density of water = 800/1000 = 0.8."
+  },
+  {
+    "question": "The gauge pressure at a point in a fluid at rest is defined as:",
+    "options": [
+      "the actual pressure at a given point relative to absolute vacuum.",
+      "the sum of absolute pressure and atmospheric pressure.",
+      "the pressure difference between the absolute pressure and atmospheric pressure.",
+      "the atmospheric pressure difference between sea level and the local area at which the fluid exists."
+    ],
+    "answer": 2,
+    "explanation": "Gauge pressure is the difference between the absolute (total) pressure and the atmospheric pressure: P_gauge = P_absolute - P_atmospheric. It represents the pressure above atmospheric pressure."
+  },
+  {
+    "question": "How do we use a manometer to measure pressure of a given gas?",
+    "options": [
+      "The principle of the hydrostatic equilibrium is used to measure the pressure of unknown gas.",
+      "The pressure at the surface of the open end of manometer is the same as the gas pressure in the closed tube.",
+      "The gauge pressure equals the atmospheric pressure.",
+      "The gauge pressure in the fluid at the open end equals the gas pressure in the closed tube."
+    ],
+    "answer": 3,
+    "explanation": "In a U-tube manometer, the gas pressure in the closed end equals the atmospheric pressure plus the gauge pressure (rho*g*h) measured at the open end. The liquid column height gives the gauge pressure of the gas."
+  },
+  {
+    "question": "Consider two balls A and B projected with the same velocity v0 at angles theta_1 and theta_2 respectively, 0 < theta_1 < 45 degrees and 45 degrees < theta_2 < 90 degrees. Which one of the following statements is correct about the motion of the balls?",
+    "options": [
+      "The range of ball A is smaller than its maximum height.",
+      "Ball A takes longer time than ball B to reach its maximum height.",
+      "Both balls have equal speed at their respective maximum heights.",
+      "The two balls cover equal ranges when theta_1 + theta_2 = 90 degrees."
+    ],
+    "answer": 3,
+    "explanation": "Range R = v0^2 * sin(2*theta)/g. If theta_1 + theta_2 = 90 degrees, then sin(2*theta_1) = sin(180 - 2*theta_2) = sin(2*theta_2). Therefore R_1 = R_2: both balls have equal ranges."
+  },
+  {
+    "question": "A car initially traveling at a speed of 20 m/s undergoes a constant deceleration of magnitude 1.5 m/s2. If the radius of each tire is 0.3 m, how many revolutions does each tire make, without slipping, before the car comes to rest?",
+    "options": [
+      "444.4 rev",
+      "70.77 rev",
+      "44.44 rev",
+      "133.33 rev"
+    ],
+    "answer": 1,
+    "explanation": "Using v^2 = u^2 + 2as: 0 = 400 + 2(-1.5)s, so s = 400/3 = 133.33 m. Revolutions = distance/circumference = 133.33/(2*pi*0.3) = approximately 70.77 rev."
+  },
+  {
+    "question": "A constant tangential force is applied on the rim of a uniform solid disk of mass m = 50 kg and radius r = 0.5 m. If the angular speed of the disk changes by 1 rev/s within 2.0 s, what is the magnitude of the torque produced by the force? (moment of inertia of disk I = 0.5*m*r^2)",
+    "options": [
+      "19.6 Nm",
+      "39.3 Nm",
+      "9.8 Nm",
+      "0.25 Nm"
+    ],
+    "answer": 0,
+    "explanation": "I = 0.5*m*r^2 = 0.5*50*0.25 = 6.25 kg*m2. Angular acceleration alpha = delta_omega/delta_t = 2*pi/2 = pi rad/s2. Torque = I*alpha = 6.25 * pi = approximately 19.6 Nm."
+  },
+  {
+    "question": "A loop of 0.1 m in diameter is placed in the xy-plane in a uniform magnetic field of 0.6 T that is perpendicular to the plane of the loop. What is the net magnetic flux through the coil?",
+    "options": [
+      "1.9 * 10^-3 Wb",
+      "5.6 * 10^-3 Wb",
+      "4.7 * 10^-3 Wb",
+      "9.4 * 10^-3 Wb"
+    ],
+    "answer": 2,
+    "explanation": "Diameter = 0.1 m, radius = 0.05 m. Area = pi*(0.05)^2 = 7.85 * 10^-3 m2. Magnetic flux = B*A*cos(theta) = 0.6 * 7.85 * 10^-3 * 1 = 4.71 * 10^-3 Wb, approximately 4.7 * 10^-3 Wb."
+  },
+  {
+    "question": "A 12 V voltage source is connected across the primary coil of a transformer having 600 turns. If the secondary coil has 1150 turns, what voltage appears across the secondary coil?",
+    "options": [
+      "6.0 V",
+      "23 V",
+      "12.0 V",
+      "20.0 V"
+    ],
+    "answer": 1,
+    "explanation": "Using the transformer equation Vs/Vp = Ns/Np: Vs = Vp * Ns/Np = 12 * 1150/600 = 12 * 1.917 = 23 V."
+  },
+  {
+    "question": "The following table shows the density of different objects at 20 degrees C: Water = 1000, Seawater = 1025, Blood = 1060, Air = 1.29, Gasoline = 680, Ice = 916, Gold = 19300, Copper = 8920, Bone = 1800, Iron = 7860 (all in kg/m3). Based on the information given, if we select substances that sink and float with respect to other substances:",
+    "options": [
+      "Bone, iron and seawater will sink in gasoline.",
+      "Water, gasoline and ice will sink into seawater.",
+      "Gasoline, ice and blood float on the surface of water.",
+      "Gold, blood and copper float in gasoline."
+    ],
+    "answer": 0,
+    "explanation": "Gasoline has density 680 kg/m3. Bone (1800), iron (7860), and seawater (1025) all have densities greater than 680, so they all sink in gasoline. Water (1000) floats on seawater (1025), so option B is wrong. Blood (1060) sinks in water (1000), so option C is also wrong."
+  },
+  {
+    "question": "Which one of the following statements differentiates emitter, collector and base of a transistor?",
+    "options": [
+      "The collector region is heavily doped as compared with emitter and base.",
+      "The emitter region is heavily doped as compared with base and collector.",
+      "The three regions: emitter, base and collector are equally doped.",
+      "The base region is heavily doped as compared with emitter and collector."
+    ],
+    "answer": 1,
+    "explanation": "In a bipolar junction transistor, the emitter is heavily doped to inject majority carriers into the base, the base is thin and lightly doped, and the collector is moderately doped."
+  },
+  {
+    "question": "The following figure shows a switch circuit consisting of a battery source, two switches represented by letters A and B, and a light bulb Y. Which one of the following logic gates can be represented by the equivalent switch circuit?",
+    "options": [
+      "AND gate",
+      "OR gate",
+      "NOT gate",
+      "NAND gate"
+    ],
+    "answer": 1,
+    "explanation": "When two switches are connected in parallel, the bulb lights up if either switch A or switch B (or both) is closed. This corresponds to an OR gate in digital logic."
+  },
+  {
+    "question": "The angular momentum of a rotating object is defined as the product of its:",
+    "options": [
+      "moment of inertia and the square of the angular velocity.",
+      "mass and angular velocity.",
+      "moment of inertia and one-half of the square of the angular velocity.",
+      "moment of inertia and angular velocity."
+    ],
+    "answer": 3,
+    "explanation": "Angular momentum L = I * omega, where I is the moment of inertia and omega is the angular velocity. This is the rotational analogue of linear momentum p = m*v."
+  },
+  {
+    "question": "What do you call the sound wave that is heard after reflection from a hard surface?",
+    "options": [
+      "Echo",
+      "Loudness",
+      "Pitch",
+      "Timbre"
+    ],
+    "answer": 0,
+    "explanation": "An echo is a sound wave reflected from a hard surface back to the listener. It is distinct from the original sound due to the time delay required for the sound to travel to the surface and back."
+  },
+  {
+    "question": "Which one of the following waves is identified as a longitudinal wave?",
+    "options": [
+      "Sound wave",
+      "Deep water wave",
+      "S-wave of earthquake",
+      "Wave on a string"
+    ],
+    "answer": 0,
+    "explanation": "Sound waves are longitudinal waves where particles of the medium vibrate parallel to the direction of wave propagation. Water waves and string waves are transverse; S-waves are also transverse."
+  },
+  {
+    "question": "Which of the following statements is correct about the components of the velocity of a ball projected up at an angle theta with the horizontal? Neglecting air resistance:",
+    "options": [
+      "The vertical component of velocity increases while the horizontal component of velocity decreases.",
+      "The vertical component of velocity remains constant throughout its journey.",
+      "The horizontal velocity of the ball is equal to zero at the maximum height.",
+      "The horizontal component of the velocity remains constant throughout its journey."
+    ],
+    "answer": 3,
+    "explanation": "In projectile motion without air resistance, the horizontal component of velocity (v0*cos(theta)) remains constant throughout the flight. Only the vertical component changes due to gravitational acceleration."
+  },
+  {
+    "question": "Which one of the following statements is correct about the electric field due to a charged spherical solid conductor?",
+    "options": [
+      "It is non-zero constant outside the sphere.",
+      "It is zero inside the sphere.",
+      "It is parallel to the surface of the sphere.",
+      "It is non-zero constant inside the sphere."
+    ],
+    "answer": 1,
+    "explanation": "According to Gauss's law, the electric field inside a charged conducting sphere is zero because all charges reside on the surface. The field inside is zero regardless of the charge distribution on the surface."
+  },
+  {
+    "question": "A metal wire made of material with coefficient of linear expansion alpha is heated so that its temperature is changed by delta_T. If the length of the wire before heating is L0, which one of the following expressions is correct for the final length of the wire after heating?",
+    "options": [
+      "L0 + alpha*delta_T",
+      "L0*alpha*delta_T",
+      "L0*alpha*T",
+      "L0*(1 + alpha*delta_T)"
+    ],
+    "answer": 3,
+    "explanation": "The linear expansion formula gives the final length as L = L0*(1 + alpha*delta_T), where L0 is the original length, alpha is the coefficient of linear expansion, and delta_T is the temperature change."
+  },
+  {
+    "question": "What amount of heat energy is required to completely melt 200 g of ice at 0 degrees C? (Take specific latent heat of melting for ice, Lf = 3.3 * 10^5 J/kg)",
+    "options": [
+      "6.6 * 10^4 J",
+      "1.65 * 10^5 J",
+      "6.58 * 10^4 J",
+      "6.6 * 10^5 J"
+    ],
+    "answer": 0,
+    "explanation": "Q = m*Lf = 0.2 kg * 3.3 * 10^5 J/kg = 6.6 * 10^4 J = 66,000 J. This is the energy needed to change phase from solid to liquid at the melting point."
+  },
+  {
+    "question": "The orbital speed of a satellite at a height h from the surface of the earth is 7,465 m/s. What is the period of the satellite?",
+    "options": [
+      "6.04 * 10^3 s",
+      "6.04 * 10^4 s",
+      "6.60 * 10^3 s",
+      "6.60 * 10^4 s"
+    ],
+    "answer": 0,
+    "explanation": "From v^2 = GM/r, we get r = GM/v^2 = approximately 7.15 * 10^6 m. Then T = 2*pi*r/v = 2*pi*(7.15 * 10^6)/7465 = approximately 6016 s, closest to 6.04 * 10^3 s."
+  },
+  {
+    "question": "The charge of 20.0 nC is stored on a capacitor when a potential difference between its two parallel plates is 200.0 V. What is the capacitance of the capacitor?",
+    "options": [
+      "10.0 nF",
+      "1 nF",
+      "4.0 nF",
+      "0.1 nF"
+    ],
+    "answer": 3,
+    "explanation": "C = Q/V = 20.0 * 10^-9 C / 200.0 V = 1.0 * 10^-10 F = 0.1 * 10^-9 F = 0.1 nF."
+  },
+  {
+    "question": "An air filled parallel plate capacitor is connected to a potential difference V to store electric charge. If the area of the plates is A and the separation between the plates is d, then the electrical energy stored on the capacitor is:",
+    "options": [
+      "epsilon_0*A*V/d",
+      "epsilon_0*A*V^2/(2d)",
+      "epsilon_0*A*V^2/d",
+      "epsilon_0*A*V/d^2"
+    ],
+    "answer": 1,
+    "explanation": "The energy stored in a capacitor is U = 0.5*C*V^2. Since C = epsilon_0*A/d for a parallel plate capacitor, U = 0.5*(epsilon_0*A/d)*V^2 = epsilon_0*A*V^2/(2d)."
+  },
+  {
+    "question": "Which one of the following is correct about the four basic forces in nature?",
+    "options": [
+      "Electromagnetic force is the weakest of all the forces in nature.",
+      "Gravitational force is an attractive force that acts on the scale of the atomic nucleus.",
+      "Strong nuclear force is a short-range force that holds protons and neutrons together inside a nucleus.",
+      "Weak nuclear force keeps the electrons in their orbit around a nucleus."
+    ],
+    "answer": 2,
+    "explanation": "The strong nuclear force is the strongest of the four fundamental forces and acts at very short range to hold protons and neutrons together in the nucleus. Gravity is the weakest force, and electromagnetic force keeps electrons in orbit."
+  },
+  {
+    "question": "Which of the following is correct about impulse?",
+    "options": [
+      "The direction of the impulse is in the same direction as the change in the momentum of the object.",
+      "During momentum change, final momentum of an object is along the impulse on the object.",
+      "Impulse due to a force exerted for a short time is equal to impulse due to the same force exerted for a long time.",
+      "The impulse is smaller than change of momentum which is caused by the applied force."
+    ],
+    "answer": 0,
+    "explanation": "By the impulse-momentum theorem, impulse J = delta_p = F*delta_t. The direction of impulse is the same as the direction of the change in momentum. Impulse equals the change in momentum, not less than it."
+  },
+  {
+    "question": "A person walked 10 m in a direction 53 degrees North of East, 10 m North, and finally 20 m in a direction 37 degrees North of West. The magnitude of the person's displacement is:",
+    "options": [
+      "30.0 m",
+      "31.6 m",
+      "40.0 m",
+      "20.0 m"
+    ],
+    "answer": 1,
+    "explanation": "Resolving into components: East = 10*cos53 - 20*cos37 = 6 - 16 = -10 m. North = 10*sin53 + 10 + 20*sin37 = 8 + 10 + 12 = 30 m. Magnitude = sqrt(100 + 900) = sqrt(1000) = approximately 31.6 m."
+  },
+  {
+    "question": "Which of the following pair of vectors is collinear?",
+    "options": [
+      "C = i + j and D = i - j",
+      "A = 2i + 3j and B = -4i + 6j",
+      "E = -i + j and F = 3i - 3j",
+      "G = 2i + 3j and H = 3i + 2j"
+    ],
+    "answer": 2,
+    "explanation": "Two vectors are collinear if one is a scalar multiple of the other. For E = -i + j and F = 3i - 3j: F = -3*E, since -3*(-i+j) = 3i - 3j. Therefore E and F are collinear."
+  },
+  {
+    "question": "A ball is thrown vertically upward at 12 m/s from the ground. Its speed when the ball is 4.0 m above the ground is:",
+    "options": [
+      "8 m/s",
+      "15 m/s",
+      "10 m/s",
+      "12 m/s"
+    ],
+    "answer": 0,
+    "explanation": "Using v^2 = u^2 - 2*g*h: v^2 = 144 - 2*10*4 = 144 - 80 = 64. So v = 8 m/s (using g = 10 m/s2). The ball slows down as it rises."
+  },
+  {
+    "question": "An object is projected at angle theta from the horizontal with initial velocity v0. Which one of the following expressions represents the relationship between maximum height Hmax and range R of the projectile?",
+    "options": [
+      "R = Hmax/tan(theta)",
+      "R = 4*Hmax/tan(theta)",
+      "R = 2*Hmax*tan(theta)",
+      "R = Hmax*tan(theta)"
+    ],
+    "answer": 1,
+    "explanation": "From Hmax = v0^2*sin^2(theta)/(2g) and R = v0^2*sin(2*theta)/g, dividing: R/Hmax = 4*cos(theta)/sin(theta) = 4/tan(theta). Therefore R = 4*Hmax/tan(theta)."
+  },
+  {
+    "question": "A 0.5 kg block moving with an initial speed of 5.0 m/s slides 2.5 m on a rough horizontal surface before coming to rest. The coefficient of kinetic friction is:",
+    "options": [
+      "0.5",
+      "0.3",
+      "0.25",
+      "0.4"
+    ],
+    "answer": 0,
+    "explanation": "Using v^2 = u^2 + 2*a*s: 0 = 25 + 2*a*2.5, so a = -5 m/s2. Since a = -mu*g: mu = 5/10 = 0.5 (using g = 10 m/s2 as commonly used in Ethiopian exams)."
+  },
+  {
+    "question": "A 0.2 kg ball is kicked from the ground at 16 m/s in a direction making an angle theta above the horizontal. Neglecting air resistance, the magnitude of velocity of the ball when it is 3.0 m from the ground is:",
+    "options": [
+      "7 m/s",
+      "12 m/s",
+      "14 m/s",
+      "10 m/s"
+    ],
+    "answer": 2,
+    "explanation": "Using energy conservation: 0.5*m*v0^2 = 0.5*m*v^2 + m*g*h. v^2 = v0^2 - 2*g*h = 256 - 2*9.8*3 = 256 - 58.8 = 197.2. v = sqrt(197.2) = approximately 14.0 m/s."
+  },
+  {
+    "question": "The angular speed of a disk rotating about its axis increases by 2000 rad/s in a time interval of 3.0 s. If the moment of inertia of the disk is 0.6 kg*m2, what is the average torque on the disk?",
+    "options": [
+      "670 Nm",
+      "1200 Nm",
+      "6000 Nm",
+      "400 Nm"
+    ],
+    "answer": 3,
+    "explanation": "Average torque = I * alpha = I * (delta_omega/delta_t) = 0.6 * (2000/3) = 0.6 * 666.67 = 400 Nm."
+  },
+  {
+    "question": "A small ball of mass m tied to a rope of length L is moving along a vertical circle about a point O. If A, B, C, and D are points on the circle, which one of the following is correct about the force exerted on the rope at these points?",
+    "options": [
+      "At point C, the weight and the tension on the rope are in opposite direction.",
+      "At point D, the radial force is equal to the tension on the rope.",
+      "At point A, the radial force is in opposite direction to the gravitational force on the ball.",
+      "At point B, the radial force is equal to the gravitational force on the ball."
+    ],
+    "answer": 3,
+    "explanation": "At point B (bottom of the vertical circle), the radial (centripetal) force is directed upward toward the center. The question identifies point B as where the centripetal acceleration equals g, making the radial force equal to the gravitational force."
+  }
+]

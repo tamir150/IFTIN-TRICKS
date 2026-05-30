@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What are the molecular formulae of an alkene and alkyne containing seven carbon atoms, respectively?",
+    "options": ["C7H14 and C7H12", "C7H16 and C7H14", "C7H14 and C7H16", "C7H12 and C7H14"],
+    "answer": 0,
+    "explanation": "An alkene with 7 carbons follows CnH2n = C7H14. An alkyne with 7 carbons follows CnH2n-2 = C7H12."
+  },
+  {
+    "question": "Which of the following is the CORRECT method of preparation of alkenes in the laboratory?",
+    "options": ["Alkylation of sodium acetylide with a primary alkyl halide", "Heating of sodium salt of an organic acid with soda lime", "Reaction of halogenated alkane with sodium", "Dehydration of alcohols with concentrated sulfuric acid"],
+    "answer": 3,
+    "explanation": "Dehydration of alcohols using concentrated H2SO4 removes water to form alkenes. Option A produces alkynes, option B produces alkanes, and option C is the Wurtz reaction producing alkanes."
+  },
+  {
+    "question": "Which of the following is the CORRECT structure of benzene?",
+    "options": ["Two fused hexagons with a circle in each", "Single hexagon without a circle", "Single hexagon with a circle inside", "Single hexagon with three alternating double bonds only"],
+    "answer": 2,
+    "explanation": "The correct representation of benzene is a hexagonal ring with a circle inside, indicating delocalized pi electrons over all six carbon atoms."
+  },
+  {
+    "question": "Which of the following is the product of fractional distillation of crude oil?",
+    "options": ["Producer gas", "Naphthalene", "Water gas", "Kerosene"],
+    "answer": 3,
+    "explanation": "Kerosene is a major product obtained from the fractional distillation of crude oil. Producer gas and water gas are made by other processes, and naphthalene is obtained from coal tar."
+  },
+  {
+    "question": "What is the molecular formula and IUPAC name of a saturated monocarboxylic acid having six carbon atoms?",
+    "options": ["C5H11COOH, heptanoic acid", "C6H13COOH, heptanoic acid", "C5H11COOH, hexanoic acid", "C6H13COOH, hexanoic acid"],
+    "answer": 2,
+    "explanation": "A saturated monocarboxylic acid with 6 carbons has the formula C5H11COOH (5 carbons in the chain + 1 in the COOH group = 6 total). Its IUPAC name is hexanoic acid."
+  },
+  {
+    "question": "Given the following structure: CH3-CO-O-CH3. What is the IUPAC name for the above structure?",
+    "options": ["Methyl ethanoate", "Ethyl ethanoate", "Propyl formate", "Ethyl acetate"],
+    "answer": 0,
+    "explanation": "CH3COOCH3 is methyl ethanoate. The acyl group (CH3CO-) is ethanoate and the alkyl group (CH3-) is methyl. Ethyl acetate and ethyl ethanoate refer to CH3COOC2H5."
+  },
+  {
+    "question": "During summer, the average value for the temperature measured in a certain chemistry laboratory is 298.15 K. How many decimal places are there in the measured value?",
+    "options": ["5", "3", "2", "1"],
+    "answer": 2,
+    "explanation": "298.15 has two digits after the decimal point (1 and 5), so it has 2 decimal places."
+  },
+  {
+    "question": "Which of the following is the CORRECT Lewis electron-dot structure for MgO?",
+    "options": ["Mg+ :O:", "Mg :O:", "Mg2+ [:O:]2-", "Mg2+ :O:"],
+    "answer": 2,
+    "explanation": "MgO is an ionic compound. Mg loses 2 electrons to form Mg2+, and O gains 2 electrons to form O2- with a complete octet. The correct Lewis structure shows Mg2+ and [:O:]2-."
+  },
+  {
+    "question": "A student collected four beakers and added naphthalene to the first, graphite to the second, iodine to the third and alcohol to the fourth. If equal volume of water is added to each beaker and shaken, which of the following will be their observation?",
+    "options": ["There will be dissolution in the first three beakers", "Water will dissolve iodine rather than graphite", "Water will dissolve the whole given chemicals in the four beakers", "There will be dissolution of alcohol in the fourth beaker"],
+    "answer": 3,
+    "explanation": "Alcohol is polar and miscible with water, so it will dissolve. Naphthalene, graphite, and iodine are non-polar and essentially insoluble in water."
+  },
+  {
+    "question": "Which of the following explanations about reversible and irreversible reactions is CORRECT?",
+    "options": ["A reaction that has only a forward reaction or a reverse reaction is known as a reversible chemical reaction", "A reaction that proceeds from reactant to product and from product to reactant is known as an irreversible reaction", "Chemical reactions that proceed only towards the formation of a product are known as irreversible reactions", "Chemical reactions that proceed only towards the formation of a product are known as reversible reactions"],
+    "answer": 2,
+    "explanation": "Irreversible reactions proceed only in the forward direction toward product formation and cannot reverse. Reversible reactions can proceed in both directions."
+  },
+  {
+    "question": "Consider the following three steps: Step 1: Electrolysis of water and fractional distillation of air; Step 2: Passing hot mixture of gases through a condenser; Step 3: Introducing hydrogen and nitrogen gases in a chamber containing iron particles at 300-500 C and 15-25 MPa. Which of the following is the CORRECT sequence involved during the industrial production of ammonia using the Haber process?",
+    "options": ["Step 2, Step 1, Step 3", "Step 2, Step 3, Step 1", "Step 2, Step 1, Step 3", "Step 1, Step 2, Step 3"],
+    "answer": 3,
+    "explanation": "In the Haber process, first the raw materials H2 and N2 are obtained (Step 1), then the gases are purified by passing through a condenser (Step 2), and finally they are reacted under high temperature and pressure with an iron catalyst (Step 3)."
+  },
+  {
+    "question": "Which of the following is a physical property of nitric acid, HNO3?",
+    "options": ["On exposure to light, it turns brown", "Nitric acid is a corrosive chemical", "Nitric acid has a pungent smell", "It forms a large number of salts"],
+    "answer": 2,
+    "explanation": "A pungent smell is a physical property (observed without chemical change). Option A involves photochemical decomposition (chemical), options B and D describe chemical behavior."
+  },
+  {
+    "question": "Which of the following is the CORRECT explanation about herbicides?",
+    "options": ["Selective herbicides control specific weed species, leaving the desired crop unharmed", "Organochlorine compounds are the most common herbicide substances", "Herbicides are substances that are used to control unwanted insects", "Herbicides are substances that are used to enhance the growth of important plants"],
+    "answer": 0,
+    "explanation": "Selective herbicides target specific weed species while leaving crops unharmed. Option C describes insecticides, and option D describes fertilizers. Organochlorines are more associated with insecticides."
+  },
+  {
+    "question": "A student collected information on the preparation of the local alcoholic drink 'ARAKI': Step 1: Distillation; Step 2: Adding water and further fermentation; Step 3: Bikel preparation and starter preparation; Step 4: Baking bread, mixing with starter, and fermentation. Which is the correct procedure?",
+    "options": ["Step 2, Step 4, Step 3, Step 1", "Step 2, Step 3, Step 4, Step 1", "Step 3, Step 4, Step 2, Step 1", "Step 4, Step 3, Step 2, Step 1"],
+    "answer": 2,
+    "explanation": "The correct sequence: prepare Bikel and starter (Step 3), bake bread and mix with starter for fermentation (Step 4), add water for further fermentation (Step 2), then distill (Step 1)."
+  },
+  {
+    "question": "Which one of the following synthetic polymers is used to make squeeze bottles, plastic wrapping and electrical insulation?",
+    "options": ["Polypropylene", "Polymethyl methacrylate", "Polyvinylchloride", "Polyethylene"],
+    "answer": 3,
+    "explanation": "Polyethylene (PE) is the most widely used plastic for squeeze bottles, plastic wrapping, and electrical insulation due to its flexibility, chemical resistance, and insulating properties."
+  },
+  {
+    "question": "Which of the following descriptions of the property of a covalent compound is CORRECT?",
+    "options": ["Covalent compounds have low melting and boiling points", "Most covalent compounds are solids at room temperature", "Most covalent compounds are soluble in water", "Covalent compounds are non-volatile"],
+    "answer": 0,
+    "explanation": "Simple covalent compounds have weak intermolecular forces (van der Waals), resulting in low melting and boiling points. Most are liquids or gases at room temperature, insoluble in water, and volatile."
+  },
+  {
+    "question": "The attractive force between molecules is known as:",
+    "options": ["nuclear force", "intermolecular force", "lattice force", "intramolecular forces"],
+    "answer": 1,
+    "explanation": "Intermolecular forces are attractive forces between molecules, including London dispersion forces, dipole-dipole interactions, and hydrogen bonds."
+  },
+  {
+    "question": "The hybridization of the central atom xenon (Xe) in xenon tetrafluoride, XeF4, is sp3d2. Which of the following is the shape of XeF4?",
+    "options": ["Octahedral", "Square planar", "Tetrahedral", "Seesaw shape"],
+    "answer": 1,
+    "explanation": "XeF4 has sp3d2 hybridization with 4 bonding pairs and 2 lone pairs. The two lone pairs are opposite each other, giving a square planar molecular geometry."
+  },
+  {
+    "question": "Which of the following is the CORRECT electron configuration of a peroxide ion, O2(2-)?",
+    "options": ["(σ1s)2(σ*1s)2(σ2s)2(σ*2s)2(σ2px)2(π2py2=π2pz2)(π*2py)2(σ*2z)2", "(σ1s)2(σ*1s)2(σ2s)2(σ*2s)2(σ2px)2(π2py2=π2pz2)(π*2py2=π*2pz2)", "(σ1s)2(σ*1s)2(σ2s)2(σ*2s)2(σ2px)2(π2py2=π2pz2)(π*2x)2", "(σ1s)2(σ*1s)2(σ2s)2(σ*2s)2(σ2px)2(π2py2=π2pz2)"],
+    "answer": 1,
+    "explanation": "O2(2-) has 18 electrons. The MO configuration fills both antibonding π* orbitals, giving bond order = (10-8)/2 = 1, consistent with the single bond in the peroxide ion."
+  },
+  {
+    "question": "Consider the following reaction: N2(g) + O2(g) → 2NO(g). If the rate of disappearance of N2 is 2.5 x 10^-6 M/s, what is the rate of reaction for the formation of NO?",
+    "options": ["5.0 x 10^-6 M/s", "1.25 x 10^-6 M/s", "2.50 x 10^-3 M/s", "2.50 x 10^-6 M/s"],
+    "answer": 0,
+    "explanation": "From the stoichiometry, 1 mol N2 produces 2 mol NO. Therefore, rate of formation of NO = 2 x rate of disappearance of N2 = 2 x 2.5 x 10^-6 = 5.0 x 10^-6 M/s."
+  },
+  {
+    "question": "Which of the following is a Lewis acid?",
+    "options": ["OH-", "SO4(2-)", "BF3", "NH3"],
+    "answer": 2,
+    "explanation": "BF3 is a classic Lewis acid because boron has only 6 electrons and can accept an electron pair. NH3 and OH- are Lewis bases (electron pair donors)."
+  },
+  {
+    "question": "The pH of a 0.10 M solution of an aqueous solution of a certain acid is 3. What is the value of acid ionization constant (Ka) of this acid?",
+    "options": ["1.0 x 10^-7", "1.0 x 10^-5", "1.0 x 10^-6", "1.0 x 10^-8"],
+    "answer": 1,
+    "explanation": "pH = 3, so [H+] = 10^-3 M. Ka = [H+][A-]/[HA] = (10^-3)(10^-3)/(0.10 - 0.001) ≈ 10^-6/0.10 = 1.0 x 10^-5."
+  },
+  {
+    "question": "The shift in the position of equilibrium caused by the addition of an ion already involved in the reaction is known as:",
+    "options": ["common-ion effect", "buffer-ion effect", "hydrolysis effect", "titration effect"],
+    "answer": 0,
+    "explanation": "The common-ion effect occurs when an ion already present in the equilibrium is added, causing the equilibrium to shift in the direction that reduces the concentration of that ion."
+  },
+  {
+    "question": "Which of the following is CORRECT about equivalents of acids and bases?",
+    "options": ["The volume of an acid or base required to reach equivalence point during acid-base titration", "The number of moles of an acid or base required to form a one molar aqueous acidic or basic solution", "It is the amount of a substance that is required to react with one mole of hydroxide ions in redox reactions", "It is the amount of a substance that is required to react with one mole of hydrogen ions in acid-base reactions"],
+    "answer": 3,
+    "explanation": "An equivalent of an acid or base is defined as the amount that reacts with or provides one mole of H+ (or OH-) ions in an acid-base reaction."
+  },
+  {
+    "question": "A 250 mL solution is formed from 24.5 g of sulfuric acid (H2SO4). What is the normality of this solution? (Mol. wt. H2SO4 = 98 g/mol)",
+    "options": ["4.00 N", "2.00 N", "0.250 N", "0.125 N"],
+    "answer": 1,
+    "explanation": "Moles of H2SO4 = 24.5/98 = 0.25 mol. H2SO4 is diprotic (n=2), so equivalents = 0.25 x 2 = 0.5. Normality = 0.5/0.250 L = 2.00 N."
+  },
+  {
+    "question": "Which of the following reactions is used for the preparation of bases?",
+    "options": ["Reaction of metal hydroxides with dilute acids", "Reaction of active metal oxides with water", "Heating of a salt with a non-volatile acid", "Heating of carbonates with dilute acids"],
+    "answer": 1,
+    "explanation": "Active metal oxides (e.g., CaO, Na2O) react with water to form bases (e.g., Ca(OH)2, NaOH). Option A is neutralization, not preparation of bases."
+  },
+  {
+    "question": "Which of the following salts is used in the treatment of waste water?",
+    "options": ["CaCO3", "BaSO4", "FeCl3", "KNO3"],
+    "answer": 2,
+    "explanation": "Ferric chloride (FeCl3) is widely used in wastewater treatment as a coagulant to remove suspended particles and impurities."
+  },
+  {
+    "question": "A student prepared two beakers each containing 100 mL of water. 10 mL of concentrated HCl was dissolved in the first beaker and 10 mL of concentrated CH3COOH in the second. Which of the following would occur?",
+    "options": ["In the first beaker, a large fraction of HCl dissociates into ions and in the second beaker, a small fraction of CH3COOH dissociates into ions", "In the first beaker, a small fraction of HCl dissociates and in the second, a large fraction of CH3COOH dissociates", "There is no dissociation of HCl and CH3COOH in both beakers", "The amount of HCl dissociated and CH3COOH dissociated are identical"],
+    "answer": 0,
+    "explanation": "HCl is a strong acid that dissociates almost completely in water, while CH3COOH is a weak acid that dissociates only partially."
+  },
+  {
+    "question": "Consider the following five steps during the extraction of aluminum from its bauxite ore by the Hall process: I. Treating the mixture with an acid; II. Heating aluminum oxide strongly in a furnace; III. Heating the ore with NaOH; IV. Conversion of Al2O3 to soluble sodium aluminate; V. Electrolysis of molten cryolite and Al2O3. Which is the CORRECT sequence?",
+    "options": ["III, IV, I, II and V", "IV, II, I, III and V", "V, I, II, IV and III", "II, I, III, IV and V"],
+    "answer": 0,
+    "explanation": "The Hall process: heat bauxite with NaOH (III), convert to sodium aluminate (IV), treat with acid to precipitate Al(OH)3 (I), heat to get Al2O3 (II), then electrolyze with cryolite (V)."
+  },
+  {
+    "question": "Which of the following food preservation methods leaves a product without loss of aroma or flavor?",
+    "options": ["Vacuum-packing", "Freeze-drying", "Freezing", "Melting"],
+    "answer": 1,
+    "explanation": "Freeze-drying (lyophilization) removes water by sublimation under vacuum, preserving aroma, flavor, and nutritional content better than other methods."
+  },
+  {
+    "question": "The electronic configuration of an element in the periodic table is 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5. In which block does this element belong?",
+    "options": ["f-block", "d-block", "p-block", "s-block"],
+    "answer": 2,
+    "explanation": "The last electron enters the 4p subshell (4p5), so this element belongs to the p-block. This element is bromine (Z=35)."
+  },
+  {
+    "question": "Consider the following chart of general periodic properties: an arrow showing 'Increases' downward and 'Decrease' to the right. Which periodic property CORRECTLY agrees with the trend?",
+    "options": ["Electronegativity", "Electron affinity", "Ionization energy", "Atomic radius"],
+    "answer": 3,
+    "explanation": "Atomic radius increases going down a group and decreases going left to right across a period, matching the chart's trend of increase downward and decrease to the right."
+  },
+  {
+    "question": "Which of the following is CORRECT about the formation of a covalent bond? A covalent bond is formed:",
+    "options": ["between positively and negatively charged ions", "between mobile and stationary electrons", "by the sharing of valence electrons", "by the transfer of valence electrons"],
+    "answer": 2,
+    "explanation": "A covalent bond forms when two atoms share valence electrons. Transfer of electrons forms ionic bonds, and the other options do not describe bond formation."
+  },
+  {
+    "question": "The molecule of carbon tetrachloride (CCl4) has four polar C-Cl bonds. However, CCl4 is a non-polar molecule. Which of the following explains the reason?",
+    "options": ["The molecule is non-polar because of the presence of four polar C-Cl bonds", "The molecule is non-polar because of the difference in electronegativity between carbon and chlorine", "Even though the bond in CCl4 is polar, the net dipole moment of the molecule is different from zero", "Even though the bond in CCl4 is polar, the net dipole moment of the molecule is zero"],
+    "answer": 3,
+    "explanation": "CCl4 has a symmetric tetrahedral geometry. The four C-Cl bond dipoles cancel each other out, resulting in a net dipole moment of zero, making the molecule non-polar."
+  },
+  {
+    "question": "Which of the following is responsible for the unusually high boiling points of HF, H2O and NH3?",
+    "options": ["London dispersion forces", "Hydrogen bonding", "Covalent bonding", "Ionic bonding"],
+    "answer": 1,
+    "explanation": "HF, H2O, and NH3 all form hydrogen bonds due to H bonded to highly electronegative atoms (F, O, N). Hydrogen bonding is much stronger than London dispersion forces, causing unusually high boiling points."
+  },
+  {
+    "question": "From the assumptions of kinetic molecular theory of gases, which of the following is CORRECT?",
+    "options": ["The pressure of a gas is the effect of the negligible volume of the gas compared to the total volume", "The average kinetic energy of gas particles is inversely proportional to the absolute temperature", "There are some forces of attraction or repulsion between gas particles", "Under ordinary conditions, the total volume of gas molecules is much smaller than the total volume of gas"],
+    "answer": 3,
+    "explanation": "A key assumption of KMT is that gas molecules occupy negligible volume compared to the container. Options A and B are wrong (pressure is from collisions; KE is directly proportional to T), and C contradicts the assumption of no intermolecular forces."
+  },
+  {
+    "question": "Which of the following is CORRECT about the phase change observed in water?",
+    "options": ["Water starts to evaporate at the boiling point and condenses at the melting point", "When solid ice is heated, it is changed to liquid water without melting", "At the boiling point temperature, water exists in three different physical states", "At the melting point of ice, the temperature remains constant"],
+    "answer": 3,
+    "explanation": "During a phase change (like melting), the temperature remains constant as heat energy is used to overcome intermolecular forces rather than increase kinetic energy."
+  },
+  {
+    "question": "Given the symbols of the three subatomic particles: electrons (e-), protons (p+) and neutrons (n0). Which of the following is the CORRECT comparison of the absolute masses?",
+    "options": ["Mass of e- > mass of p+ = mass of n0", "Mass of e- = mass of p+ > mass of n0", "Mass of e- < mass of p+ < mass of n0", "Mass of e- > mass of p+ > mass of n0"],
+    "answer": 2,
+    "explanation": "The electron mass (9.11 x 10^-31 kg) is much smaller than the proton mass (1.673 x 10^-27 kg), which is slightly smaller than the neutron mass (1.675 x 10^-27 kg)."
+  },
+  {
+    "question": "In the modern periodic table, what is the name of the group that contains the most electronegative elements?",
+    "options": ["Alkali metals", "Halogens", "Chalcogens", "Noble gases"],
+    "answer": 1,
+    "explanation": "Halogens (Group 17) contain the most electronegative elements, including fluorine, which is the most electronegative element on the periodic table."
+  },
+  {
+    "question": "A given element has atomic number of 55 and mass number of 133. Which of the following describes CORRECTLY the property of this element?",
+    "options": ["The non-metallic character of the element is high", "The metallic character of the element is high", "The element has high electron affinity", "The element has high electronegativity"],
+    "answer": 1,
+    "explanation": "Element with Z=55 is cesium (Cs), an alkali metal in Group 1. As a large alkali metal, it has very high metallic character and very low electronegativity and electron affinity."
+  },
+  {
+    "question": "Consider the mechanism for the decomposition of N2O5 to NO2: First step: 2N2O5(g) → N4O10(g) fast; Second step: N4O10(g) → NO3(g) + 2NO2(g) + O3(g) slow; Third step: N2O3(g) + O3(g) → 2NO2(g) + O2(g) fast. Which step is the rate-determining step?",
+    "options": ["Third step", "First step", "The overall step", "Second step"],
+    "answer": 3,
+    "explanation": "The rate-determining step (slowest step) controls the overall reaction rate. The second step is explicitly labeled as 'slow', making it the rate-determining step."
+  },
+  {
+    "question": "Consider the reaction: N2(g) + O2(g) ⇌ 2NO(g). The equilibrium concentrations are [N2] = 1 x 10^-3 M, [O2] = 2 x 10^-3 M and [NO] = 4 x 10^-3 M. What is the value of the equilibrium constant?",
+    "options": ["8", "2", "16", "4"],
+    "answer": 0,
+    "explanation": "Kc = [NO]^2/([N2][O2]) = (4 x 10^-3)^2/((1 x 10^-3)(2 x 10^-3)) = 16 x 10^-6 / 2 x 10^-6 = 8."
+  },
+  {
+    "question": "At a certain temperature the following reaction has an equilibrium constant Kc = 12.4. If [N2] = 2.0 M, [H2] = 2.0 M and [NH3] = 10.0 M, to which direction will the reaction proceed to reach equilibrium?",
+    "options": ["The reaction will proceed to the reverse direction", "The reaction is at a chemical equilibrium", "The equilibrium is independent of the concentration", "The reaction will proceed to the forward direction"],
+    "answer": 3,
+    "explanation": "For N2 + 3H2 ⇌ 2NH3, Qc = [NH3]^2/([N2][H2]^3) = 100/(2 x 8) = 6.25. Since Qc < Kc (6.25 < 12.4), the reaction proceeds forward to reach equilibrium."
+  },
+  {
+    "question": "Which of the following is the general formula for saturated monocarboxylic acids? (R is an alkyl group)",
+    "options": ["R-C-H", "R-C-R", "R-C-OR", "R-COOH"],
+    "answer": 3,
+    "explanation": "The general formula for saturated monocarboxylic acids is R-COOH, where R is an alkyl group and -COOH is the carboxyl functional group."
+  },
+  {
+    "question": "Upon standing long, 'Tella' or 'Tej' turns sour. Which of the following is the CORRECT explanation for the observed effect?",
+    "options": ["The reduction of alcohol to an acid", "The oxidation of alcohol to an acid", "Addition reaction of alcohol with an acid", "Decomposition reaction of alcohol"],
+    "answer": 1,
+    "explanation": "When traditional fermented beverages stand for long, the alcohol (ethanol) undergoes oxidation by airborne bacteria to form acetic acid, making the drink sour."
+  },
+  {
+    "question": "A student is interested in determining the content of a leaf from his/her environment: Step 1: Dry leaves in sunlight; Step 2: Evaluate the work and draw conclusions; Step 3: Collect leaves from the tree; Step 4: Boil the leaves and collect the extract; Step 5: Analyze the content using an instrument. Which is the CORRECT procedure?",
+    "options": ["Steps: 3, 5, 4, 1, 2", "Steps: 3, 4, 1, 5, 2", "Steps: 3, 1, 4, 5, 2", "Steps: 3, 1, 5, 4, 2"],
+    "answer": 2,
+    "explanation": "Correct scientific procedure: collect leaves (3), dry them (1), boil and extract (4), analyze with instrument (5), then evaluate and conclude (2)."
+  },
+  {
+    "question": "Which of the following characteristics of an electromagnetic radiation is CORRECT?",
+    "options": ["The speed of electromagnetic radiation decreases with increase in its wavelength", "The speed of electromagnetic radiation increases with increase in its frequency", "The speed of an electromagnetic wave is independent of the nature of the medium it travels through", "The wavelength of an electromagnetic radiation is directly proportional to its frequency"],
+    "answer": 2,
+    "explanation": "While EM wave speed does vary in different media, at the high school level, the speed of EM radiation is treated as constant (c = 3 x 10^8 m/s). Options A, B, and D are all incorrect as c is constant in vacuum and wavelength is inversely proportional to frequency."
+  },
+  {
+    "question": "'The hydrogen atom moves in a fixed circular orbit associated with allowable energy states.' This is called:",
+    "options": ["Planck's theory", "Bohr's theory", "Pauli's principle", "Aufbau's principle"],
+    "answer": 1,
+    "explanation": "Bohr's model proposed that electrons orbit the nucleus in fixed circular orbits with quantized energy levels. Planck's theory relates to energy quantization, Pauli's to electron spin, and Aufbau's to orbital filling order."
+  },
+  {
+    "question": "Which of the following is the core electron configuration of the metal ion in ferric sulfate, Fe2(SO4)3? (Atomic Number of Fe = 26)",
+    "options": ["[Ar] 4s2 3d6", "[Ar] 4s2 3d4", "[Ar] 3d5", "[Ar] 3d6"],
+    "answer": 2,
+    "explanation": "Fe in Fe2(SO4)3 has oxidation state +3 (ferric). Fe: [Ar] 4s2 3d6. Fe3+ loses 2 electrons from 4s and 1 from 3d, giving [Ar] 3d5."
+  },
+  {
+    "question": "A chemical bond that results from the attractive force between shared electrons and nonmetal nucleus is called:",
+    "options": ["covalent bond", "ionic bond", "hydrogen bond", "metallic bond"],
+    "answer": 0,
+    "explanation": "A covalent bond forms when electrons are shared between atoms, and the attractive force between the shared electrons and the nuclei holds the atoms together."
+  },
+  {
+    "question": "Which of the following is a peroxide?",
+    "options": ["ZnO", "FeO", "K2O", "CaO2"],
+    "answer": 3,
+    "explanation": "CaO2 contains the peroxide ion (O2 2-), where oxygen has a -1 oxidation state. The other options are normal oxides with oxygen in the -2 oxidation state."
+  },
+  {
+    "question": "Among the following, which one is a ternary acid?",
+    "options": ["HBr", "HCl", "H2SO4", "H2S"],
+    "answer": 2,
+    "explanation": "A ternary acid contains three different elements. H2SO4 contains hydrogen, sulfur, and oxygen. HBr, HCl, and H2S are binary acids (only two elements)."
+  },
+  {
+    "question": "A student prepared lemon juice in a beaker and placed a few drops on red and blue litmus papers. What will be the observation?",
+    "options": ["Both litmus papers will maintain their color", "Both litmus papers will turn colorless", "The red litmus paper will turn blue and the blue litmus paper will maintain its color", "The blue litmus paper will turn red and the red litmus paper will maintain its color"],
+    "answer": 3,
+    "explanation": "Lemon juice contains citric acid, which is acidic. Acidic solutions turn blue litmus paper red, while red litmus paper remains unchanged in acid."
+  },
+  {
+    "question": "What is the pOH of pure water at 37 C, where Kw equals 2.5 x 10^-14 and its pH is 6.87? (log 2 = 0.4)",
+    "options": ["8.8", "8.2", "6.8", "7.5"],
+    "answer": 2,
+    "explanation": "pKw = -log(2.5 x 10^-14) = 14 - log 2.5 = 14 - 0.4 = 13.6. pOH = pKw - pH = 13.6 - 6.87 = 6.73, which rounds to approximately 6.8."
+  },
+  {
+    "question": "The hydrogen ion concentration in a certain solution at 25 C is 1.0 x 10^-2 M. What is the pOH of this solution?",
+    "options": ["8", "12", "2", "6"],
+    "answer": 1,
+    "explanation": "pH = -log(1.0 x 10^-2) = 2. At 25 C, pOH = 14 - pH = 14 - 2 = 12."
+  },
+  {
+    "question": "Given the following oxidation-reduction reaction: H2S + HNO3 → S + NO + H2O. Which of the following is CORRECT?",
+    "options": ["The oxidation number of N is increased", "The oxidation number of S is decreased", "S is a reducing substance", "HNO3 is an oxidizing agent"],
+    "answer": 3,
+    "explanation": "N is reduced from +5 to +2 (HNO3 is the oxidizing agent), and S is oxidized from -2 to 0 (H2S is the reducing agent). Option D correctly identifies HNO3 as the oxidizing agent."
+  },
+  {
+    "question": "Consider the following diagram of an electrolytic cell with magnesium and chloride ions. Which of the following is CORRECT from the given diagram?",
+    "options": ["Oxidation takes place at the cathode", "Reduction takes place at the anode", "Magnesium ion is the oxidizing agent in the electrode reaction", "There is a decrease in oxidation number of chloride ion"],
+    "answer": 2,
+    "explanation": "At the cathode, Mg2+ + 2e- → Mg (reduction). Mg2+ is being reduced, so it acts as the oxidizing agent. Oxidation occurs at the anode (Cl- → Cl2), and Cl- oxidation number increases from -1 to 0."
+  },
+  {
+    "question": "Which of the following is CORRECT about molten electrolytes and aqueous electrolytes?",
+    "options": ["The possible half reactions in molten electrolytes are more compared to aqueous electrolytes", "Both molten and aqueous electrolytes involve preferential discharge of ions at each electrode", "An electrolyte that conducts electricity when dissolved in a certain liquid is a molten electrolyte", "During the electrolysis of a molten electrolyte, the reduction of cations occurs at the cathode"],
+    "answer": 3,
+    "explanation": "During electrolysis of a molten electrolyte, cations migrate to the cathode where they gain electrons and are reduced. This is a fundamental principle of electrolysis."
+  },
+  {
+    "question": "Which of the following is NOT the industrial application of electrochemistry?",
+    "options": ["Electrolytic refining", "Electroplating", "Electromagnetism", "Electrosynthesis"],
+    "answer": 2,
+    "explanation": "Electromagnetism is a physics phenomenon, not an industrial application of electrochemistry. Electrolytic refining, electroplating, and electrosynthesis are all electrochemical processes."
+  },
+  {
+    "question": "Which of the following chemical industries is INCORRECTLY matched with its products?",
+    "options": ["Textile industry - glasses", "Beverage industry - alcohols", "Food industry - biscuits", "Paper industry - paper"],
+    "answer": 0,
+    "explanation": "Glasses are produced by the glass industry, not the textile industry. The textile industry produces fabrics, clothing, and related materials."
+  },
+  {
+    "question": "A student added 25 mL of AgNO3 solution to a beaker and weighed the mass as m1. Added 50 mL of saturated NaCl solution to a second beaker weighed as m2. Mixed the two solutions and weighed the total as m3. If m3 = m1 + m2, which law is investigated?",
+    "options": ["Law of definite composition", "Law of multiple proportions", "Law of conservation of energy", "Law of conservation of mass"],
+    "answer": 3,
+    "explanation": "The total mass before mixing (m1 + m2) equals the total mass after mixing (m3), demonstrating the law of conservation of mass."
+  },
+  {
+    "question": "A chemical reaction that releases heat energy to the surrounding is known as:",
+    "options": ["exothermic reaction", "endothermic reaction", "decomposition reaction", "combination reaction"],
+    "answer": 0,
+    "explanation": "Exothermic reactions release heat to the surroundings (negative ΔH). Endothermic reactions absorb heat from the surroundings."
+  },
+  {
+    "question": "A type of reaction in which two compounds react together to form two or more products by exchanging reactant ions is known as:",
+    "options": ["Precipitation reaction", "Combination reaction", "Double displacement reaction", "Single displacement reaction"],
+    "answer": 2,
+    "explanation": "A double displacement (metathesis) reaction involves the exchange of ions between two compounds to form two new compounds. AB + CD → AD + CB."
+  },
+  {
+    "question": "'At a given temperature and pressure, equal volumes of different gases contain equal number of molecules.' This is known as:",
+    "options": ["Charles's law", "Boyle's law", "Gay-Lussac's law", "Avogadro's law"],
+    "answer": 3,
+    "explanation": "Avogadro's law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules."
+  },
+  {
+    "question": "Which of the following includes the preconditions required for a chemical reaction to occur?",
+    "options": ["Temperature, activation energy, proper orientation", "Temperature, pressure and proper orientation", "Activation energy, proper orientation and collision between reactants", "Activation energy, pressure and collision between reactants"],
+    "answer": 2,
+    "explanation": "For a chemical reaction to occur, reactants must collide with sufficient energy (activation energy), proper orientation, and actual collision. These are the three prerequisites from collision theory."
+  },
+  {
+    "question": "Consider the following reaction of zinc carbonate: ZnCO3(s) → ZnO(s) + CO2(g). The chemical reaction is classified as:",
+    "options": ["decomposition reaction", "combination reaction", "double displacement reaction", "single displacement reaction"],
+    "answer": 0,
+    "explanation": "A decomposition reaction breaks a single compound into two or more simpler substances. ZnCO3 decomposes into ZnO and CO2."
+  },
+  {
+    "question": "Given the unbalanced reaction: CaCO3 + HCl → CaCl2 + CO2 + H2O. If 40 g of CaCO3 reacts with 50 g of HCl, which substance is the limiting and which is the excess reagent? (Ca=40, C=12, O=16, H=1, Cl=35.5 g/mol)",
+    "options": ["HCl is limiting and CaCl2 is excess", "HCl is limiting and CaCO3 is excess", "CaCO3 is limiting and CaCl2 is excess", "CaCO3 is limiting and HCl is excess"],
+    "answer": 3,
+    "explanation": "Moles CaCO3 = 40/100 = 0.4 mol. Moles HCl = 50/36.5 = 1.37 mol. Balanced equation: CaCO3 + 2HCl → CaCl2 + CO2 + H2O. 0.4 mol CaCO3 needs 0.8 mol HCl. We have 1.37 mol HCl (excess), so CaCO3 is limiting."
+  },
+  {
+    "question": "A sample of a certain gas has a volume of 100 L at 27 C and 750 torr. The gas is expanded to a volume of 250 L at 200 torr. What is the final temperature of the gas?",
+    "options": ["-83 C", "-73 C", "-17 C", "-273 C"],
+    "answer": 1,
+    "explanation": "Using the combined gas law: P1V1/T1 = P2V2/T2. T2 = (P2V2T1)/(P1V1) = (200 x 250 x 300)/(750 x 100) = 200 K = -73 C."
+  },
+  {
+    "question": "Which of the following is a CORRECT explanation of the given term?",
+    "options": ["Boiling point is the temperature at which the vapor pressure of the liquid equals the atmospheric pressure", "Condensation is the process by which a liquid changes to a gas at the boiling point", "Normal boiling point is the temperature at which the liquid starts to be converted to the gaseous state", "Heat of vaporization is the energy required to convert one gram of a solid to a gas at its boiling point"],
+    "answer": 0,
+    "explanation": "The boiling point is defined as the temperature at which the vapor pressure of a liquid equals the external (atmospheric) pressure. This is the standard definition."
+  },
+  {
+    "question": "Which of the following is the general formula of alkenes?",
+    "options": ["CnH2n-2", "CnH2n+2", "CnHn", "CnH2n"],
+    "answer": 3,
+    "explanation": "Alkenes have one carbon-carbon double bond, giving the general formula CnH2n (two fewer hydrogens than the alkane CnH2n+2)."
+  },
+  {
+    "question": "What are the two types of polymerizations?",
+    "options": ["Condensation and substitution polymerizations", "Addition and decomposition polymerizations", "Condensation and displacement polymerizations", "Addition and condensation polymerizations"],
+    "answer": 3,
+    "explanation": "The two main types of polymerization are addition polymerization (monomers add without losing atoms) and condensation polymerization (monomers join with loss of small molecules like water)."
+  },
+  {
+    "question": "Which of the following is a monomer of natural rubber?",
+    "options": ["Ethylene terephthalate", "Styrene", "Hexamethylene diamine", "Isoprene"],
+    "answer": 3,
+    "explanation": "Natural rubber (polyisoprene) is polymerized from isoprene (2-methyl-1,3-butadiene) monomers. Styrene is the monomer of polystyrene."
+  },
+  {
+    "question": "The component of the environment consisting of earth's upper outermost skin, and accessible to human beings is known as:",
+    "options": ["biosphere", "lithosphere", "hydrosphere", "atmosphere"],
+    "answer": 1,
+    "explanation": "The lithosphere is the rigid outer part of the earth, consisting of the crust and upper mantle. It includes soil and rocks accessible to humans."
+  },
+  {
+    "question": "Consider the following steps in the nitrogen cycle: Step 1: Reduction of nitrate by microbial action; Step 2: Fixation of nitrogen by bacteria and algae; Step 3: Nitrification by nitrosomonas and nitrobacteria; Step 4: Denitrification of nitrate with acid and formaldehyde. Which is the CORRECT sequence?",
+    "options": ["Step 2, Step 3, Step 4, Step 1", "Step 1, Step 2, Step 3, Step 4", "Step 2, Step 3, Step 1, Step 4", "Step 1, Step 3, Step 4, Step 2"],
+    "answer": 2,
+    "explanation": "The nitrogen cycle sequence: nitrogen fixation by bacteria (Step 2), then nitrification (Step 3), then microbial reduction/denitrification (Step 1), then chemical denitrification (Step 4)."
+  },
+  {
+    "question": "Some hazardous substances damage and create unwanted changes in water, soil or any other natural resource. The resulting change created is known as:",
+    "options": ["afforestation", "pollution", "greenhouse effect", "global warming"],
+    "answer": 1,
+    "explanation": "Pollution is defined as the introduction of harmful substances into the environment causing adverse changes to water, soil, air, or other natural resources."
+  },
+  {
+    "question": "Given the following heterogeneous reaction: CaCO3(s) ⇌ CaO(s) + CO2(g). What is the equilibrium constant expression?",
+    "options": ["Kc = [CaO][CO2]", "Kc = [CO2]/[CaO]", "Kc = [CO2]", "Kc = [CaO][CO2]/[CaCO3]"],
+    "answer": 2,
+    "explanation": "For heterogeneous equilibria, the concentrations of pure solids are constant and not included in the equilibrium expression. Only the gaseous product CO2 appears: Kc = [CO2]."
+  },
+  {
+    "question": "Which of the following statements is CORRECT regarding the properties of monocarboxylic acids?",
+    "options": ["Carboxylic acids react with active metals to form salt and hydrogen gas", "The hydrolysis of carboxylic acids in water produces an ester and water", "Carboxylic acids react with strong bases to form esters and water", "Heating of carboxylic acid with alcohol produces salt and water"],
+    "answer": 0,
+    "explanation": "Carboxylic acids react with active metals (like Na, Mg) to produce a salt and hydrogen gas: 2CH3COOH + Mg → (CH3COO)2Mg + H2. Options B, C, and D describe incorrect reactions."
+  },
+  {
+    "question": "What is the scientific notation for 0.00055?",
+    "options": ["5.5 x 10^-5", "5.5 x 10^-4", "5.5 x 10^-6", "5.5 x 10^-8"],
+    "answer": 1,
+    "explanation": "0.00055 = 5.5 x 10^-4. Move the decimal point 4 places to the right to get 5.5, so the exponent is -4."
+  },
+  {
+    "question": "A water molecule has two bond pairs and two lone pairs of electrons. Which of the following is CORRECT about these pairs of electrons?",
+    "options": ["The repulsion between the two bonding pairs is greater than the repulsion between the two lone pairs", "The repulsion between the two lone pairs is greater than the repulsion between the two bonding pairs", "Bonding pair-lone pair repulsion is greater than lone pair-lone pair repulsion", "Lone pair-lone pair repulsion is exactly identical with bonding pair-bonding pair repulsion"],
+    "answer": 1,
+    "explanation": "VSEPR theory states: lone pair-lone pair repulsion > lone pair-bonding pair repulsion > bonding pair-bonding pair repulsion. Lone pairs occupy more space and repel more strongly."
+  },
+  {
+    "question": "Which of the following CORRECTLY describes conjugate acids and conjugate bases?",
+    "options": ["Conjugate acid is a species formed after removal of a proton from a base whereas conjugate base is formed after addition of proton to an acid", "Conjugate base is a species formed after removal of a proton from an acid whereas conjugate acid is formed after addition of a proton to a base", "Conjugate acid has one fewer hydrogen and one more minus charge than the corresponding acid", "Conjugate base has one more hydrogen and one fewer minus charge than the corresponding base"],
+    "answer": 1,
+    "explanation": "A conjugate base is what remains after an acid donates a proton (HA → A- + H+). A conjugate acid is formed when a base accepts a proton (B + H+ → BH+)."
+  }
+]

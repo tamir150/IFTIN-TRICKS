@@ -1,0 +1,787 @@
+[
+  {
+    "question": "The branch of chemistry that is involved in separation, identifying and determining the relative amounts of components in a sample of material is known as",
+    "options": ["Biochemistry", "Analytical chemistry", "Physical chemistry", "Inorganic chemistry"],
+    "answer": 1,
+    "explanation": "Analytical chemistry deals specifically with separating, identifying, and quantifying the components in a sample. Biochemistry studies living organisms, physical chemistry focuses on physical principles, and inorganic chemistry studies non-carbon compounds."
+  },
+  {
+    "question": "Significant figures are figures with",
+    "options": [
+      "Measured values with the highest precision.",
+      "Measured values with the highest accuracy.",
+      "Measured values with the highest uncertainty.",
+      "Exactly known digits with the last digit uncertain."
+    ],
+    "answer": 3,
+    "explanation": "Significant figures consist of all the digits that are known with certainty plus one final digit that is uncertain (estimated). This reflects the precision of a measurement."
+  },
+  {
+    "question": "For the determination of the density of a new ceramic, a student measured the mass of a piece on an analytical balance and obtained 3.8056 gram and its volume 2.5 mL by displacement of water in a graduated cylinder. The correct reported density of the ceramic should be",
+    "options": ["1.5222 g/mL", "1.5224 g/mL", "1.5 g/mL", "3.5 g/mL"],
+    "answer": 2,
+    "explanation": "Density = mass/volume = 3.8056/2.5 = 1.52224 g/mL. However, the volume (2.5 mL) has only 2 significant figures, so the answer must be rounded to 2 significant figures: 1.5 g/mL."
+  },
+  {
+    "question": "The scientific method is",
+    "options": [
+      "A collection of scientific guesses and hypotheses by seeking patterns in the observations.",
+      "A method of arriving at an organized body of knowledge based on reproducible experiments and observations.",
+      "The sum total of unique guidelines for the practice of science in the world.",
+      "The result of fortunate, accidental discovery in the development of science."
+    ],
+    "answer": 1,
+    "explanation": "The scientific method is a systematic approach involving observation, hypothesis, experimentation, and conclusion that leads to an organized body of knowledge based on reproducible results."
+  },
+  {
+    "question": "One of the following is NOT a cause of uncertainty in measurement?",
+    "options": [
+      "The type of material measured",
+      "The person doing the experiment",
+      "The measuring device",
+      "The environment where the measurement is made"
+    ],
+    "answer": 0,
+    "explanation": "Uncertainty in measurement arises from the instrument precision, the observer's skill, and environmental conditions (temperature, humidity, etc.). The type of material being measured itself does not cause measurement uncertainty."
+  },
+  {
+    "question": "Which of the following is true about isotopes? Isotopes of an element have",
+    "options": [
+      "The same number of electrons and neutrons.",
+      "Different number of neutrons and the same number of protons.",
+      "Different physical and chemical properties.",
+      "The same atomic mass but different atomic numbers."
+    ],
+    "answer": 1,
+    "explanation": "Isotopes are atoms of the same element (same number of protons) that have different numbers of neutrons, giving them different mass numbers. They have the same chemical properties but may differ slightly in physical properties."
+  },
+  {
+    "question": "The following diagrammatic representations show the shape for various orbitals. Which one represents the dz2 orbital?",
+    "options": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "answer": 0,
+    "explanation": "The dz2 orbital has a distinctive shape with two lobes along the z-axis and a doughnut-shaped torus around the nucleus in the xy-plane. This shape is unique among the five d orbitals. (Note: original question contains orbital diagrams not reproducible in text.)"
+  },
+  {
+    "question": "Silver (Z=47) has several known isotopes, but two occur naturally, 107Ag and 109Ag. Given the following mass spectrometric data, calculate the atomic mass of Ag. Isotope 107Ag: Mass 106.90509 amu, Abundance 51.84%; Isotope 109Ag: Mass 108.90476 amu, Abundance 48.16%.",
+    "options": ["108.9 amu", "107.94 amu", "107.4 amu", "107.86 amu"],
+    "answer": 3,
+    "explanation": "Atomic mass = (106.90509 x 0.5184) + (108.90476 x 0.4816) = 55.42 + 52.45 = 107.87 amu, which rounds to 107.86 amu as the closest option."
+  },
+  {
+    "question": "Which statement correctly describes Heisenberg's uncertainty principle?",
+    "options": [
+      "If we measure the momentum of a particle precisely then its position will be correspondingly precise.",
+      "A particle with a mass moving at a given speed can be described by the wave characteristics of material particles.",
+      "A small particle like the electron can behave both as a particle and a wave.",
+      "Both the location and the momentum of a subatomic particle like the electron cannot be precisely known."
+    ],
+    "answer": 3,
+    "explanation": "Heisenberg's uncertainty principle states that it is impossible to simultaneously know both the exact position and exact momentum of a subatomic particle. The more precisely one is known, the less precisely the other can be determined."
+  },
+  {
+    "question": "Which of the following statements is correct about energy changes when an electron changes its energy level?",
+    "options": [
+      "When an electron jumps from a lower energy level to a higher level, the photon emitted is equal to the difference between the two energy levels.",
+      "When an electron falls from a higher energy level to a lower energy level, the energy is equal to the difference between the two energy levels is observed.",
+      "When an electron jumps from a lower energy level to a higher energy level, the energy is equal to the difference between the two energy levels is absorbed.",
+      "When an electron falls from a higher energy level to a lower energy level, the energy is higher than the difference between the two energy levels is emitted."
+    ],
+    "answer": 2,
+    "explanation": "When an electron moves from a lower to a higher energy level, it must absorb energy equal to the difference between the two levels. When it falls from higher to lower, it emits a photon equal to the energy difference."
+  },
+  {
+    "question": "The sanitizer in wide use for protection against Covid-19 is labeled 83% alcohol. How can one scientifically check the concentration? This can be done by",
+    "options": ["Forming a hypothesis.", "Experimentation.", "Collection of data.", "Making observation."],
+    "answer": 1,
+    "explanation": "To scientifically verify the concentration of alcohol in a sanitizer, one must perform experiments (e.g., distillation, density measurement, or chromatography). Experimentation is the active testing step in the scientific method."
+  },
+  {
+    "question": "The correct electronic configuration for chromium (Cr, Z=24) is",
+    "options": [
+      "1s2 2s2 2p6 3s2 3p6 3d4 4d2",
+      "1s2 2s2 2p6 3s2 3p6 4s0 3d6",
+      "1s2 2s2 2p6 3s2 3p6 4s1 3d5",
+      "1s2 2s2 2p6 3s2 3p6 4s2 3d4"
+    ],
+    "answer": 2,
+    "explanation": "Chromium is an exception to the Aufbau principle. Instead of 4s2 3d4, it adopts 4s1 3d5 because a half-filled d subshell (d5) provides extra stability due to exchange energy."
+  },
+  {
+    "question": "According to Hund's rule, equal energy (degenerate) orbitals are filled with",
+    "options": [
+      "Two electrons of opposite spins placed in the first orbitals.",
+      "Maximum number of unpaired electrons with parallel spins.",
+      "Two electrons of parallel spins placed in the first orbital.",
+      "Maximum number of unpaired electrons with opposite spins."
+    ],
+    "answer": 1,
+    "explanation": "Hund's rule states that electrons fill degenerate orbitals singly first with parallel spins before pairing up. This maximizes the number of unpaired electrons with parallel spins, which is energetically favorable."
+  },
+  {
+    "question": "In the modern periodic table",
+    "options": [
+      "Non-metals are placed on the right hand side of the periodic table.",
+      "Elements with similar properties are placed in the same period.",
+      "Metals are placed on the right hand side of the periodic table.",
+      "Transition and inner transition elements are placed in the middle of the periodic table."
+    ],
+    "answer": 0,
+    "explanation": "In the modern periodic table, non-metals occupy the right-hand side. Elements with similar properties are in the same GROUP (not period). Metals are on the left and center. While D is also partly true, A is the most unambiguously correct statement."
+  },
+  {
+    "question": "The electrolysis of liquid (molten) NaCl: Which of the following statements is true about the electrolysis of molten sodium chloride?",
+    "options": [
+      "Cl2 is formed at the cathode.",
+      "Na is oxidized at the anode.",
+      "The net reaction produces Cl2 at the anode and Na at the cathode.",
+      "O2 is produced at the anode due to oxidation of water."
+    ],
+    "answer": 2,
+    "explanation": "In molten NaCl electrolysis, Na+ ions are reduced at the cathode to form Na metal, and Cl- ions are oxidized at the anode to form Cl2 gas. Option C correctly describes both products."
+  },
+  {
+    "question": "Covalent compounds are liquids or gases at room temperature and have low melting and boiling points. Which of the following statements explains these properties of covalent compounds?",
+    "options": [
+      "The intermolecular forces of attraction in covalent compounds are strong.",
+      "The unit of particles in covalent compounds are ions.",
+      "There are no forces of attraction between the molecules in covalent compounds.",
+      "Covalent compounds exist as separate molecules."
+    ],
+    "answer": 3,
+    "explanation": "Covalent compounds exist as discrete molecules held together by weak intermolecular forces (van der Waals forces), not strong ionic or covalent bonds between molecules. This results in low melting and boiling points."
+  },
+  {
+    "question": "Both carbonyl sulphide, COS (S=C=O) and carbon dioxide (CO2, O=C=O) are linear molecules. COS is polar whereas CO2 is non-polar. This is because",
+    "options": [
+      "CO2 has a net dipole moment of zero.",
+      "The C=O bonds in both COS and CO2 are polar.",
+      "Regions of high negative charge is distributed equally around the central atom in COS.",
+      "Sulphur is more electronegative than oxygen."
+    ],
+    "answer": 0,
+    "explanation": "In CO2, the two C=O bonds have equal polarity and are opposite each other, so their dipole moments cancel giving a net dipole of zero (non-polar). In COS, the C=S and C=O bonds have different polarities that do not cancel, making COS polar."
+  },
+  {
+    "question": "Which of the following statements is true about the formation of CH4 according to valence bond theory?",
+    "options": [
+      "The 2s and two 2p orbitals in carbon hybridize to form three sp2 orbitals.",
+      "The 2s and three 2p orbitals in carbon hybridize to form four sp3 orbitals.",
+      "The 2s and one 2p orbitals in carbon hybridize to form two sp orbitals.",
+      "Carbon can form two hybrid orbitals as it has got only two half-filled orbitals."
+    ],
+    "answer": 1,
+    "explanation": "In methane (CH4), carbon undergoes sp3 hybridization: the 2s orbital and all three 2p orbitals mix to form four equivalent sp3 hybrid orbitals, each forming a sigma bond with a hydrogen atom."
+  },
+  {
+    "question": "Phosphorus (Z=15) has the electronic configuration 1s2 2s2 2p6 3s2 3p3. What kind of hybridization does phosphorus undergo in the formation of phosphorus pentachloride (PCl5)?",
+    "options": ["sp3", "sp3d", "sp2", "sp"],
+    "answer": 1,
+    "explanation": "PCl5 has 5 bonding pairs around phosphorus, requiring 5 hybrid orbitals. This is achieved by sp3d hybridization, which uses one 3s, three 3p, and one 3d orbital to form five equivalent orbitals in a trigonal bipyramidal arrangement."
+  },
+  {
+    "question": "One of the following reactions illustrates the formation of a coordinate covalent bond?",
+    "options": [
+      "NaOH + HCl -> NaCl + H2O",
+      "Be + 2F2 -> BeF2",
+      "NH3 + HCl -> NH4+ + Cl-",
+      "CaCO3 + HCl -> CaCl2 + H2O + CO2"
+    ],
+    "answer": 2,
+    "explanation": "In NH3 + HCl -> NH4+ + Cl-, the nitrogen in NH3 donates its lone pair to the H+ from HCl, forming a coordinate (dative) covalent bond where both electrons in the bond come from nitrogen."
+  },
+  {
+    "question": "Hydrogen bonding occurs in compounds that contain H-N, H-O and H-F bonds. These bonds are stronger than the ordinary dipole-dipole interactions because",
+    "options": [
+      "The partially positive H of one molecule is attracted to the partially negative lone pairs on the N, O or F of another molecule.",
+      "The H-N, H-O and H-F bonds are less polar than ordinary covalent bonds.",
+      "The small sizes of N, O and F makes these atoms so electropositive that their covalently bonded H is highly negative.",
+      "The H-N, H-O and H-F bonds are non-polar and thus do not interact with neighboring molecules."
+    ],
+    "answer": 0,
+    "explanation": "Hydrogen bonds are strong because the small, highly electronegative N, O, or F atoms pull electron density away from H, creating a strong partial positive charge on H that is attracted to lone pairs on N, O, or F of neighboring molecules."
+  },
+  {
+    "question": "Which of the following is an example of an exception to the octet rule?",
+    "options": ["NH3", "CCl4", "H2O", "PCl5"],
+    "answer": 3,
+    "explanation": "PCl5 has 10 electrons around phosphorus (5 bonding pairs), exceeding the octet rule. NH3, CCl4, and H2O all follow the octet rule with 8 electrons around the central atom."
+  },
+  {
+    "question": "Which of the following pair is true about the general properties of the different types of crystalline solids? Type of solid: I. Ionic (Hard, High MP, Good conduction), II. Covalent (Hard, High MP, Poor conduction), III. Molecular (Soft, Low MP, Good conduction), IV. Metallic (Soft to hard, Low to high MP, Good conduction).",
+    "options": ["I and III", "II and III", "I and II", "I and IV"],
+    "answer": 2,
+    "explanation": "Ionic solids are hard with high melting points and conduct when molten. Covalent (network) solids like diamond are hard with high melting points and are poor conductors. Molecular solids are soft with low MP and are poor conductors (III is wrong). Metallic solids vary in hardness and are good conductors. So I and II are correct."
+  },
+  {
+    "question": "When the boiling point of hydrides of group VIA elements, H2O, H2S, H2Se and H2Te are arranged in the order of increasing boiling point, the trend is H2Te < H2Se < H2S < H2O, water having the highest boiling point. This is due to",
+    "options": [
+      "The small size of O compared to the other group VIA elements.",
+      "The basic different structures of each hydride.",
+      "Increasing boiling points with increasing molecular mass.",
+      "Hydrogen bonding present in H2O molecules."
+    ],
+    "answer": 3,
+    "explanation": "Water (H2O) has the highest boiling point among the group VIA hydrides because it forms extensive hydrogen bonds between molecules. The other hydrides (H2S, H2Se, H2Te) only have weaker dipole-dipole and dispersion forces."
+  },
+  {
+    "question": "Given the following catalyzed reactions: I. 2SO2(g) + O2(g) -> 2SO3(g); V2O5(s) catalyst; II. OCl-(aq) + I-(aq) -> OI-(aq) + Cl-(aq); OH-(aq) inhibitor; III. CO(g) + H2(g) -> CH4(g) + H2O(g); Ni(s) catalyst; IV. CO(g) + H2(g) -> HCHO(g); Cu(s) catalyst. Which reactions are examples of homogeneous catalysis?",
+    "options": ["I and II", "II", "II and III", "IV"],
+    "answer": 1,
+    "explanation": "Homogeneous catalysis occurs when the catalyst is in the same phase as the reactants. Only reaction II has all species (including the inhibitor OH-) in the aqueous phase. Reactions I, III, and IV have solid catalysts with gaseous reactants (heterogeneous catalysis)."
+  },
+  {
+    "question": "Which statement is true about catalysis?",
+    "options": [
+      "A catalyst slows down or speeds up a reaction, itself being consumed.",
+      "A positive catalyst decreases the rate of a reaction by increasing the activation energy.",
+      "A negative catalyst increases the rate of a reaction by decreasing the value of activation energy.",
+      "The role of a catalyst is to increase or decrease the rate of a reaction by lowering or increasing the activation energy."
+    ],
+    "answer": 3,
+    "explanation": "A positive catalyst lowers the activation energy (speeds up the reaction), while a negative catalyst (inhibitor) raises the activation energy (slows it down). Catalysts are not consumed in the reaction."
+  },
+  {
+    "question": "According to the transition state theory",
+    "options": [
+      "The collision between two reacting species results in the formation of an activated complex, which has less energy than both the reactants and products.",
+      "In the activated complex, the original bonds are weakened and the new bonds are partially formed.",
+      "The activation energy is the energy that must be absorbed or released by reactants to reach the activated complex.",
+      "The standard reaction enthalpy depends on the magnitude of the activation energy."
+    ],
+    "answer": 1,
+    "explanation": "In transition state theory, the activated complex is a high-energy intermediate where old bonds are partially broken and new bonds are partially formed. The activated complex has MORE energy than both reactants and products, not less."
+  },
+  {
+    "question": "Which of the following is true about the rate constant?",
+    "options": [
+      "It expresses the relationship between the rate of a chemical reaction and the volume of reacting species.",
+      "The value of a rate constant tells us how fast or slow a reaction is.",
+      "The value of a rate constant is independent of reaction conditions.",
+      "A small rate constant indicates a faster reaction and a larger rate constant indicates a slower reaction."
+    ],
+    "answer": 1,
+    "explanation": "The rate constant (k) is a proportionality constant that relates the rate of reaction to the concentration of reactants. A larger k means a faster reaction; a smaller k means a slower reaction. k depends on temperature and activation energy."
+  },
+  {
+    "question": "For a first order reaction, if a is the initial concentration of the reactant and if the half-life is 1 hr, after how many hours would the concentration of reactant be reduced to a/32?",
+    "options": ["1 hr", "4 hr", "5 hr", "3 hr"],
+    "answer": 2,
+    "explanation": "For a first-order reaction, concentration halves every half-life. a/32 = a x (1/2)^n, so (1/2)^n = 1/32, meaning 2^n = 32, so n = 5. With a half-life of 1 hour, 5 half-lives = 5 hours."
+  },
+  {
+    "question": "The mathematical expression log k = (-Ea / 2.303R)(1/T) + log A derived from the Arrhenius equation is important as it shows",
+    "options": [
+      "Reactions with larger activation energies have higher values of k and are therefore faster.",
+      "For a given value of activation energy, the value of the rate constant increases as the temperature increases.",
+      "Reactions with larger activation energies, the value of the rate constant decreases as the temperature increases.",
+      "For a given value of activation energy, the value of the rate constant decreases as the temperature increases."
+    ],
+    "answer": 1,
+    "explanation": "The Arrhenius equation shows that for a given activation energy Ea, increasing temperature T increases the rate constant k. This is because log k is directly proportional to 1/T with a negative slope (-Ea/2.303R)."
+  },
+  {
+    "question": "From the magnitude of the equilibrium constant, Keq, one can deduce that",
+    "options": [
+      "Small Keq values indicate the reaction yields very higher amounts of products near equilibrium.",
+      "Large Keq value indicates that the reaction reaches equilibrium with very little reactants remaining.",
+      "Intermediate Keq value indicates that the reaction does proceed in the forward direction.",
+      "Keq will be larger when we have higher amounts of reactants over products."
+    ],
+    "answer": 1,
+    "explanation": "A large Keq means the equilibrium favors products (very little reactant remains at equilibrium). A small Keq means the equilibrium favors reactants. Keq is a constant at a given temperature and does not change with concentration."
+  },
+  {
+    "question": "The statement 'If a system at equilibrium is subjected to a stress, the system will readjust itself to reduce the effects of the stress' is known as",
+    "options": ["Faraday's law", "Avogadro's principle", "Boyle's law", "Le Chatelier's principle"],
+    "answer": 3,
+    "explanation": "Le Chatelier's principle states that when a system at equilibrium is disturbed by changing conditions (concentration, temperature, pressure), the system shifts to counteract the change and restore a new equilibrium."
+  },
+  {
+    "question": "The law of mass action states that",
+    "options": [
+      "The rate of a reaction is directly proportional to the product of the concentration of reactants raised to the power of their respective coefficients in the balanced equation.",
+      "The Keq expression is the ratio of the concentrations of reactants to the products raised to their coefficients.",
+      "A chemical equilibrium is attained only when the reaction is started with reactants.",
+      "For a reaction at equilibrium, the reaction quotient Q is always less than the equilibrium constant Keq."
+    ],
+    "answer": 0,
+    "explanation": "The law of mass action states that the rate of a chemical reaction is proportional to the product of the active masses (concentrations) of the reactants, each raised to the power of their stoichiometric coefficients."
+  },
+  {
+    "question": "For the reaction 2NO(g) + O2(g) <=> 2NO2(g), what is the correct equilibrium constant expression?",
+    "options": [
+      "Kc = [NO2]^2 / [NO]^2[O2], Kp = (P_NO2)^2 / (P_NO)^2(P_O2)",
+      "Kc = [NO]^2[O2] / [NO2]^2, Kp = (P_NO)(P_O2) / (P_NO2)",
+      "Kc = [NO]^2[O2] / [NO2]^2, Kp = (P_NO)^2(P_O2) / (P_NO2)^2",
+      "Kc = [NO2]^2 / [NO]^2[O2], Kp = (P_NO2) / (P_NO)(P_O2)"
+    ],
+    "answer": 0,
+    "explanation": "For 2NO + O2 <=> 2NO2: Kc = [NO2]^2/([NO]^2[O2]) and Kp = (P_NO2)^2/((P_NO)^2 x P_O2). Products go in the numerator raised to their coefficients, reactants in the denominator."
+  },
+  {
+    "question": "The equilibrium constant Kp for the reaction 2SO3(g) <=> 2SO2(g) + O2(g) is 3.8 x 10^-2 at 227 C. What is the value of Kc for the reaction at the same temperature?",
+    "options": ["1.8 x 10^-3 mol/m^3", "4.6 x 10^-4 mol/m^3", "9.1 x 10^-4 mol/m^3", "2.3 x 10^-4 mol/m^3"],
+    "answer": 2,
+    "explanation": "Kp = Kc(RT)^dn, where dn = 3 - 2 = 1. Kc = Kp/(RT) = 3.8 x 10^-2 / (0.0821 x 500) = 3.8 x 10^-2 / 41.05 = 9.26 x 10^-4, closest to option C (9.1 x 10^-4)."
+  },
+  {
+    "question": "In the production of NH3 by the Haber process according to the equation N2(g) + 3H2(g) <=> 2NH3(g), dH = -92 kJ/mol. What are the favorable conditions for the production of high yield of NH3?",
+    "options": [
+      "Low pressure and low temperature",
+      "High pressure and low temperature",
+      "High pressure and high temperature",
+      "Low pressure and high temperature"
+    ],
+    "answer": 1,
+    "explanation": "The reaction has 4 moles of gas on the left and 2 on the right, so high pressure favors the forward reaction. Since dH is negative (exothermic), low temperature favors the forward direction by Le Chatelier's principle."
+  },
+  {
+    "question": "Which one of the following statements describes laboratory and industrial preparation of acetic acid respectively?",
+    "options": [
+      "Reduction of toluene by KMnO4 and reduction of ethanol by sodium dichromate.",
+      "Reduction of ethanol by NaBH4 and fermentation of propanol.",
+      "Oxidation of toluene by KMnO4 and fermentation of ethanol.",
+      "The oxidation of ethanol by sodium dichromate and fermentation of ethanol."
+    ],
+    "answer": 3,
+    "explanation": "In the laboratory, acetic acid is prepared by oxidizing ethanol with sodium dichromate in acidic medium. Industrially, acetic acid (vinegar) is produced by the fermentation of ethanol using Acetobacter bacteria."
+  },
+  {
+    "question": "Which of the following is true about carboxylic acids?",
+    "options": [
+      "Carboxylic acid with the general formula RCOOH.",
+      "Methanoic, ethanoic and citric acids are monocarboxylic acids.",
+      "Propanedioic acid is the simplest dicarboxylic acid.",
+      "Citric acid is a typical dicarboxylic acid."
+    ],
+    "answer": 0,
+    "explanation": "The general formula for carboxylic acids is RCOOH. Citric acid is tricarboxylic (not mono or di), methanedioic (oxalic) acid is the simplest dicarboxylic acid (not propanedioic), and citric acid is not dicarboxylic."
+  },
+  {
+    "question": "What is the IUPAC name for the branched carboxylic acid CH3-CH(Cl)-CH(CH3)-CH(CH3)-COOH?",
+    "options": [
+      "1,2-dimethyl-4-chloropentanoic acid",
+      "4-chloro-2-methylpentanoic acid",
+      "4-chloro-2,3-dimethylpentanoic acid",
+      "4-chloro-1-methylpentanoic acid"
+    ],
+    "answer": 2,
+    "explanation": "Numbering from the carboxyl carbon (C1): C1=COOH, C2=CH(CH3), C3=CH(CH3), C4=CH(Cl), C5=CH3. The substituents are chloro at C4 and methyl at C2 and C3, giving 4-chloro-2,3-dimethylpentanoic acid."
+  },
+  {
+    "question": "Esters are characterized by the following properties EXCEPT",
+    "options": [
+      "Esters have pleasant odors of perfumes and food flavoring.",
+      "Esters have lower boiling point compared to the carboxylic acid and alcohols.",
+      "All esters are soluble in inorganic solvents and organic.",
+      "Esters have higher boiling point than carboxylic acid and alcohols."
+    ],
+    "answer": 3,
+    "explanation": "Esters cannot form hydrogen bonds with themselves, so they have LOWER boiling points than both carboxylic acids and alcohols of similar molecular weight. Option D states the opposite, making it the exception."
+  },
+  {
+    "question": "Oils are unsaturated fatty acids. The process of converting oils to solid fats involves",
+    "options": [
+      "Esterification of the acids.",
+      "Saponification with NaOH.",
+      "Hydrogenation of the C-C double bonds.",
+      "Halogenation of the C-C double bonds."
+    ],
+    "answer": 2,
+    "explanation": "Oils (unsaturated fats) are converted to solid fats by hydrogenation, which adds hydrogen across the C=C double bonds, converting them to single bonds and making the fat more saturated and solid at room temperature."
+  },
+  {
+    "question": "A chemistry teacher added different reactants in three test tubes: I. Ethanol, sodium dichromate, sulphuric acid; II. Acetaldehyde, sodium borohydride, and water; III. Methyl acetate, ethanol, and sodium hydroxide. In which test tube would a reaction take place that provides acetic acid?",
+    "options": ["III", "I and II", "II and III", "I"],
+    "answer": 3,
+    "explanation": "Test tube I: ethanol is oxidized by sodium dichromate to acetaldehyde and then to acetic acid. Test tube II: acetaldehyde is reduced by NaBH4 to ethanol (not acetic acid). Test tube III: base hydrolysis of methyl acetate gives sodium acetate, not free acetic acid."
+  },
+  {
+    "question": "The difference between colloids and suspensions is that",
+    "options": [
+      "Colloidal particles are small enough and do not settle down unlike in a suspension.",
+      "Most colloids and suspensions appear cloudy.",
+      "Both colloids and suspensions are heterogeneous mixtures.",
+      "Colloids are as transparent as solutions."
+    ],
+    "answer": 0,
+    "explanation": "The key difference is particle size: colloidal particles (1-1000 nm) are small enough to remain suspended and not settle under gravity, while suspension particles (>1000 nm) will settle over time."
+  },
+  {
+    "question": "The solubility of a substance is the amount of a substance that",
+    "options": [
+      "Gives an unsaturated solution of the substance at a given temperature.",
+      "Dissolves more amount of solute than it can normally dissolve.",
+      "Gives a saturated solution of the substance at a given temperature.",
+      "Dissolves double the amount of solute than it can normally dissolve."
+    ],
+    "answer": 2,
+    "explanation": "Solubility is defined as the maximum amount of solute that dissolves in a given amount of solvent at a specific temperature to form a saturated solution."
+  },
+  {
+    "question": "50 mL of the supernatant saturated solution of NaCl was taken and evaporated. Given w0 = 47.5 g (empty dish) and w1 = 66.2 g (dish + dry NaCl). Calculate the solubility of NaCl in water assuming 50 mL of the solution is equal to 50 mL of the solvent.",
+    "options": ["37.4 g/100 g of water", "113.7 g/100 g of water", "18.7 g/100 g of water", "187 g/100 g of water"],
+    "answer": 0,
+    "explanation": "Mass of NaCl = 66.2 - 47.5 = 18.7 g. With 50 mL solution approximated as 50 mL water = 50 g water, solubility = (18.7/50) x 100 = 37.4 g per 100 g of water."
+  },
+  {
+    "question": "The 'like dissolves like' rule accounts for one of the following observations",
+    "options": [
+      "The solubility of C6H6 in CCl4",
+      "The solubility of C2H6 in H2O",
+      "The solubility of KBr in C7H8",
+      "The insolubility of I2 in H2O"
+    ],
+    "answer": 0,
+    "explanation": "The 'like dissolves like' rule states that polar solvents dissolve polar solutes and nonpolar solvents dissolve nonpolar solutes. C6H6 (benzene, nonpolar) dissolves in CCl4 (carbon tetrachloride, nonpolar) - both are nonpolar."
+  },
+  {
+    "question": "Which of the following concentration units is correctly defined?",
+    "options": [
+      "Mass percentage = (mass of solute / mass of solvent) x 100",
+      "ppm (parts per million) = mass of solute / mass of solvent x 10^6",
+      "ppb (parts per billion) = mass of solute / mass of solution x 10^6",
+      "Mass percentage = (mass of solute / mass of solution) x 100"
+    ],
+    "answer": 3,
+    "explanation": "Mass percentage is correctly defined as (mass of solute / mass of solution) x 100, not mass of solvent. Ppm should also use mass of solution (not solvent), and ppb should multiply by 10^9 (not 10^6)."
+  },
+  {
+    "question": "Concentrated sulphuric acid H2SO4 is 98% by mass with density 1.83 g/mL. Which alternative correctly describes the concentration?",
+    "options": [
+      "18.3 M, 36.6 N, 0.9 mole fraction",
+      "36.6 M, 18.3 N, 0.1 mole fraction",
+      "18.3 M, 3.66 N, 0.9 mole fraction",
+      "1.83 M, 3.66 N, 0.9 mole fraction"
+    ],
+    "answer": 0,
+    "explanation": "Molarity = (0.98 x 1.83 x 1000)/98 = 18.3 M. Normality = 2 x 18.3 = 36.6 N (diprotic acid). Mole fraction: moles H2SO4 = 0.98/98 = 0.01, moles H2O = 0.02/18 = 0.00111, x = 0.01/(0.01+0.00111) = 0.9."
+  },
+  {
+    "question": "How do you prepare 500 mL of 1N Ca(OH)2 solution? (Ca=40, H=1, O=16)",
+    "options": [
+      "By dissolving 37 g of Ca(OH)2 in 1 liter of solution.",
+      "By dissolving 74 g of Ca(OH)2 in 500 mL of solution.",
+      "By dissolving 74 g of Ca(OH)2 in 1 liter of solution.",
+      "By dissolving 37 g of Ca(OH)2 in 500 mL of solution."
+    ],
+    "answer": 0,
+    "explanation": "Molar mass of Ca(OH)2 = 74 g/mol. Equivalent weight = 74/2 = 37 g/eq. For 1N solution: 1 eq/L = 37 g/L. Option A gives 37 g in 1 L = 1N. From this 1L solution, 500 mL can be taken."
+  },
+  {
+    "question": "The Ka of acetic acid CH3COOH is 1.8 x 10^-5. What is the percent ionization of 0.1 M CH3COOH?",
+    "options": ["3.6", "1.42", "1.34", "4.2"],
+    "answer": 2,
+    "explanation": "For a weak acid: [H+] = sqrt(Ka x C) = sqrt(1.8 x 10^-5 x 0.1) = sqrt(1.8 x 10^-6) = 1.342 x 10^-3 M. Percent ionization = (1.342 x 10^-3 / 0.1) x 100 = 1.34%."
+  },
+  {
+    "question": "According to the Lewis definition, an acid is a substance that",
+    "options": [
+      "Dissociates in water to yield H3O+.",
+      "Accepts a H+ ion.",
+      "Donates an OH- ion.",
+      "Accepts a pair of electrons."
+    ],
+    "answer": 3,
+    "explanation": "The Lewis definition of an acid is an electron-pair acceptor (electrophile). This is broader than the Bronsted-Lowry definition (proton donor) and includes reactions that don't involve proton transfer."
+  },
+  {
+    "question": "Water is a weak electrolyte because",
+    "options": [
+      "It has a very high ionic product, Kw.",
+      "It can accept a proton from an acid and donate a proton to a base.",
+      "It undergoes a reversible dissociation with a very low ionic product, Kw.",
+      "It acts both as Bronsted-Lowry acid and base."
+    ],
+    "answer": 2,
+    "explanation": "Water is a weak electrolyte because it only slightly dissociates into H+ and OH- ions. The ionic product Kw = 1.0 x 10^-14 at 25 C is very small, indicating that very few water molecules ionize."
+  },
+  {
+    "question": "Which of the following reactions represent the amphiprotic behavior of water?",
+    "options": [
+      "HCl + H2O -> H+ + Cl- and NaOH + H2O -> Na+ + OH-",
+      "HCl + H2O <=> H3O+ + Cl- and NH3 + H2O <=> NH4+ + OH-",
+      "H3O+ + OH- -> 2H2O and H+ + OH- -> H2O",
+      "H2O + H+ <=> H3O+ and NH3 + H+ <=> NH4+"
+    ],
+    "answer": 1,
+    "explanation": "In the first reaction, water accepts a proton from HCl (acting as a base). In the second reaction, water donates a proton to NH3 (acting as an acid). This dual behavior demonstrates water's amphiprotic nature."
+  },
+  {
+    "question": "For an acidic solution, which of the following is correct?",
+    "options": [
+      "pH = pOH and pH = 1/2 pKw = 7",
+      "pH > pOH and pKw - pH < 7",
+      "pH < pOH and pKw - pH > 7",
+      "For acidic solution pH < 7 and [H+] < 1 x 10^-7"
+    ],
+    "answer": 2,
+    "explanation": "In an acidic solution, [H+] > 10^-7, so pH < 7 and pH < pOH. Since pKw = pH + pOH = 14, then pKw - pH = pOH > 7 when pH < 7."
+  },
+  {
+    "question": "What is the pH of 0.25 M HF solution at 25 C? Ka for HF is 6.8 x 10^-4.",
+    "options": ["12.1", "1.89", "12.3", "1.741"],
+    "answer": 1,
+    "explanation": "[H+] = sqrt(Ka x C) = sqrt(6.8 x 10^-4 x 0.25) = sqrt(1.7 x 10^-4) = 1.304 x 10^-2 M. pH = -log(1.304 x 10^-2) = 1.885, approximately 1.89."
+  },
+  {
+    "question": "One of the following given pairs represents examples of buffer systems",
+    "options": [
+      "NaOH/HCl and HNO3/KOH",
+      "NH4Cl/H2O and H2O/CH3COONa",
+      "NH4OH/CH3COOH and NH4Cl/CH3COONa",
+      "NH4OH/NH4Cl and CH3COOH/CH3COONa"
+    ],
+    "answer": 3,
+    "explanation": "A buffer requires a weak acid with its conjugate base salt or a weak base with its conjugate acid salt. NH4OH (weak base)/NH4Cl (conjugate acid) and CH3COOH (weak acid)/CH3COONa (conjugate base) are both valid buffer systems."
+  },
+  {
+    "question": "The reaction between a weak acid and strong base as represented by CH3COOH + NaOH -> Na+ + CH3COO- + H2O gives a basic solution because",
+    "options": [
+      "Na+ is a strong acid and causes high concentration of H+.",
+      "CH3COO- as a strong base picks up H+ and causes excess OH- ions.",
+      "The OH- ions from NaOH are not completely neutralized.",
+      "CH3COOH does not produce sufficient amount of H+ ions."
+    ],
+    "answer": 1,
+    "explanation": "The acetate ion (CH3COO-) is the conjugate base of the weak acid CH3COOH. It hydrolyzes in water: CH3COO- + H2O <=> CH3COOH + OH-, producing excess OH- ions and making the solution basic."
+  },
+  {
+    "question": "An acid is a substance that",
+    "options": [
+      "Has a bitter taste.",
+      "Produces more OH- ions in water than H+ ions.",
+      "Donates a proton in a chemical reaction.",
+      "Donates a pair of electrons to a chemical species."
+    ],
+    "answer": 2,
+    "explanation": "According to the Bronsted-Lowry definition, an acid is a proton (H+) donor. Bitter taste describes bases, OH- production describes Arrhenius bases, and electron-pair donation describes Lewis bases."
+  },
+  {
+    "question": "One of the following given masses of acids constitutes the corresponding equivalent of the acid",
+    "options": [
+      "H2SO4 = 98 g = 2 equivalents",
+      "HCl = 36.5 g = 2 equivalents",
+      "H2SO4 = 49 g = 4 equivalents",
+      "H3PO4 = 98 g = 2 equivalents"
+    ],
+    "answer": 0,
+    "explanation": "H2SO4 has n=2 (diprotic), so equivalent weight = 98/2 = 49 g/eq. 98 g = 98/49 = 2 equivalents. HCl: 36.5 g = 1 eq (not 2). H2SO4: 49 g = 1 eq (not 4). H3PO4: 98 g = 3 eq (not 2)."
+  },
+  {
+    "question": "One of the following pairs shows Bronsted-Lowry acid behavior in water?",
+    "options": [
+      "HNO3 and NO3-",
+      "H3O+ and NH3",
+      "HPO4 2- and PO4 3-",
+      "HCl and NH4+"
+    ],
+    "answer": 3,
+    "explanation": "Both HCl and NH4+ can donate protons (Bronsted-Lowry acids). HCl donates H+ to water, and NH4+ can donate H+ to form NH3. NO3- is a base (conjugate), NH3 is a base, and PO4 3- is a base."
+  },
+  {
+    "question": "In the reaction mixture of NH4OH and NH4Cl: NH4OH <=> NH4+ + OH- and NH4Cl -> NH4+ + Cl-. Which one is true about the reaction mixture?",
+    "options": [
+      "The NH4+ ion is a spectator ion in the reaction mixture.",
+      "The presence of NH4+ ion suppresses the dissociation of the weak base NH4OH.",
+      "The presence of NH4+ in the reaction mixture makes the solution more basic.",
+      "The reaction equilibrium is shifted towards the right due to the presence of NH4+ ions."
+    ],
+    "answer": 1,
+    "explanation": "This is the common ion effect. The NH4+ from NH4Cl shifts the equilibrium of NH4OH dissociation to the left (Le Chatelier's principle), suppressing the production of OH- and making the solution less basic."
+  },
+  {
+    "question": "Which one of the following is correct about Kw at different temperatures? Kw = 1.0 x 10^-14 at 25 C, Kw = 2.92 x 10^-14 at 40 C.",
+    "options": [
+      "Water dissociates to a higher extent at 40 C than at 25 C.",
+      "At 40 C pure water is no more neutral.",
+      "Hydrogen ion concentration at 25 C is higher than at 40 C.",
+      "Hydroxyl ion concentration is higher at 40 C than hydrogen ion concentration."
+    ],
+    "answer": 0,
+    "explanation": "Kw increases with temperature because water's autoionization is endothermic. A higher Kw at 40 C means more H+ and OH- ions are produced, so water dissociates to a greater extent at higher temperature. Pure water remains neutral ([H+] = [OH-]) at all temperatures."
+  },
+  {
+    "question": "What is reduction? Reduction is",
+    "options": [
+      "Gain of electrons and increase in oxidation number.",
+      "Loss of electrons and decrease in oxidation number.",
+      "Gain of electrons and decrease in oxidation number.",
+      "Gain of electrons and no change in oxidation number."
+    ],
+    "answer": 2,
+    "explanation": "Reduction involves gaining electrons, which decreases the oxidation number. For example, Cu2+ + 2e- -> Cu: copper gains electrons and its oxidation number decreases from +2 to 0."
+  },
+  {
+    "question": "During the electrolysis of dilute aqueous sulphuric acid, the ions present are H+, OH- and SO4 2-. Which ions are preferentially discharged at the cathode and anode respectively?",
+    "options": [
+      "Anode: 4OH-(aq) -> H2O(l) + O2(g) + 4e-; Cathode: 2H+(aq) + 2e- -> H2(g)",
+      "Anode: SO4 2-(aq) + 4H+(aq) + 2e- -> SO2(g) + 2H2O; Cathode: 2H+(aq) + 2e- -> H2(g)",
+      "Anode: 4OH-(aq) -> H2O(l) + O2(g) + 4e-; Cathode: 2H2O(l) + 2e- -> H2(g) + 2OH-(aq)",
+      "Anode: 2H2O(l) -> O2(g) + 4H+(aq) + 4e-; Cathode: 2H+(aq) + 2e- -> H2(g)"
+    ],
+    "answer": 3,
+    "explanation": "In dilute H2SO4 electrolysis: at the cathode, H+ is reduced to H2 (2H+ + 2e- -> H2). At the anode, water is oxidized to O2 (2H2O -> O2 + 4H+ + 4e-). Option D gives both correct half-reactions."
+  },
+  {
+    "question": "Which one of the following is NOT correct about electrodes and electrochemical cells?",
+    "options": [
+      "Electrons flow spontaneously from negative to positive electrode.",
+      "The overall cell potential is calculated by Ecell = Ecathode - Eanode.",
+      "Ecell is greater than zero for a non-spontaneous process.",
+      "The difference in the electrical potential of the electrode is positive for a positive cell."
+    ],
+    "answer": 2,
+    "explanation": "A positive Ecell indicates a spontaneous reaction, not non-spontaneous. For a non-spontaneous process, Ecell would be less than zero (requiring external energy input)."
+  },
+  {
+    "question": "The mathematical expression for Faraday's first law is summarized as",
+    "options": ["n = mIt/MF", "m = MIt/nF", "M = mIt/nF", "m = It/F"],
+    "answer": 1,
+    "explanation": "Faraday's first law: mass deposited (m) = (M x I x t)/(n x F), where M = molar mass, I = current, t = time, n = number of electrons transferred, and F = Faraday's constant (96,485 C/mol)."
+  },
+  {
+    "question": "In the electrolysis of copper sulphate solution using graphite electrodes, O2 is liberated at the anode and copper is deposited at the cathode. If the electrolysis of CuSO4 is performed using copper electrodes, what happens at the anode and cathode?",
+    "options": [
+      "At the anode the copper electrode dissolves and copper metal is deposited at the cathode.",
+      "At the anode H2 is liberated, whereas copper is deposited at the cathode.",
+      "At the anode copper is reduced, whereas copper is oxidized at the cathode.",
+      "No electrochemical reaction takes place involving copper."
+    ],
+    "answer": 0,
+    "explanation": "With copper electrodes, the Cu anode dissolves (Cu -> Cu2+ + 2e-) and Cu2+ ions are deposited at the cathode (Cu2+ + 2e- -> Cu). This is the basis of copper electrorefining."
+  },
+  {
+    "question": "The statement 'the amount of a substance consumed or produced in an electrolytic cell is directly proportional to the amount of electricity that passes through the cell' is known as",
+    "options": ["Dalton's law", "Raoult's law", "Faraday's law", "Henry's law"],
+    "answer": 2,
+    "explanation": "Faraday's first law of electrolysis states that the mass of substance deposited or dissolved at an electrode is directly proportional to the quantity of electricity passed through the electrolyte."
+  },
+  {
+    "question": "Given the electromotive series: Cu (+0.34 V), Pb (-0.13 V), Ni (-0.25 V), Cd (-0.40 V), Zn (-0.76 V), Al (-1.66 V), Ca (-2.87 V), K (-2.93 V). Which statement is correct about reactivity of the metals?",
+    "options": [
+      "Cu is the strongest reducing agent in the group.",
+      "K is the strongest reducing agent among the metals.",
+      "The reaction Cu + Zn2+ -> Cu2+ + Zn is spontaneous.",
+      "Pb is more easily oxidized than Al."
+    ],
+    "answer": 1,
+    "explanation": "K has the most negative standard reduction potential (-2.93 V), making it the strongest reducing agent (most easily oxidized). Cu with the most positive E value is the weakest reducing agent. The reaction Cu + Zn2+ -> Cu2+ + Zn is non-spontaneous."
+  },
+  {
+    "question": "One of the following is NOT true about the effects of corrosion?",
+    "options": [
+      "It causes deterioration of metals by spontaneous chemical process.",
+      "It causes enormous damage to buildings, bridges, ships and cars.",
+      "Damage from corrosion costs billions of dollars annually.",
+      "Corrosion forms protective oxide layers to prevent damage."
+    ],
+    "answer": 3,
+    "explanation": "While some metals like aluminum form protective oxide layers, most corrosion (especially iron rust) is destructive and does not protect the underlying metal. The general statement that corrosion forms protective layers is NOT true."
+  },
+  {
+    "question": "In the Galvanic cell diagram, identify the component parts correctly labelled for the letters a, b, c, d.",
+    "options": [
+      "a = Zinc anode, b = Copper cathode, c = Salt bridge, d = Voltmeter",
+      "Copper anode, Zinc cathode, Voltmeter, Salt bridge",
+      "Zinc anode, Copper cathode, ZnSO4 solution, Salt bridge",
+      "Copper cathode, Zinc anode, CuSO4 solution, Voltmeter"
+    ],
+    "answer": 0,
+    "explanation": "In a standard Daniell cell (Zn-Cu galvanic cell): Zinc is the anode (where oxidation occurs), Copper is the cathode (where reduction occurs), a salt bridge connects the half-cells, and a voltmeter measures the cell potential."
+  },
+  {
+    "question": "The conversion of nitrogen gas into useful nitrogen compounds is known as",
+    "options": ["Respiration", "Photosynthesis", "Fixation", "Oxidation"],
+    "answer": 2,
+    "explanation": "Nitrogen fixation is the process of converting atmospheric nitrogen (N2) into usable nitrogen compounds like ammonia (NH3), nitrates, or nitrites. This can occur through the Haber process, lightning, or biological fixation by bacteria."
+  },
+  {
+    "question": "CO2 is released into the atmosphere by one of the following processes",
+    "options": [
+      "Plants consume atmospheric carbon dioxide during photosynthesis.",
+      "Animals eat plants and release CO2 by photosynthesis.",
+      "Natural fires and volcanoes release CO2 into the air.",
+      "Utilization of electrical energy as energy sources."
+    ],
+    "answer": 2,
+    "explanation": "Natural fires and volcanic eruptions release significant amounts of CO2 into the atmosphere. Option A describes CO2 absorption (not release). Option B incorrectly states animals release CO2 by photosynthesis (they release it by respiration)."
+  },
+  {
+    "question": "One of the following is NOT a common application of silicon",
+    "options": [
+      "In the construction of transistors and microprocessors.",
+      "In the control of the frequency of television transmissions.",
+      "In the production of polish body parts of cars.",
+      "In coating iron to prevent it from rusting."
+    ],
+    "answer": 3,
+    "explanation": "Coating iron to prevent rusting is done with zinc (galvanization), not silicon. Silicon is widely used in semiconductors, electronics, and quartz crystals for frequency control."
+  },
+  {
+    "question": "One of the following is NOT among the chemical properties of silicon",
+    "options": [
+      "Silicon reacts with CH3Cl at 300 C with Cu catalyst to yield the polymer [(CH3)2SiO2]n.",
+      "Silica is resistant to attack by all acids except HF, which reacts to give SiF4 and H2O.",
+      "Silica dissolves in hot molten Na2CO3 to give Na4SiO4 and CO2.",
+      "Silicon occurs as silica (SiO2) and silicate compounds containing the silicate ion (SiO4 4-)."
+    ],
+    "answer": 3,
+    "explanation": "Option D describes the natural occurrence of silicon, not a chemical property. Chemical properties describe how a substance reacts or changes chemically, whereas occurrence is a natural state description."
+  },
+  {
+    "question": "Which one of the following is a common reaction of tin?",
+    "options": [
+      "Sn(s) + dil. 2HCl(aq) -> SnCl2(aq) + H2(g)",
+      "Sn(s) + H2O(g) -> SnO2(s)",
+      "Sn(s) + 2H2O(g) -> Sn(OH)2",
+      "Sn(s) + 2Cl2(g) -> SnCl2(s) in cold media"
+    ],
+    "answer": 0,
+    "explanation": "Tin reacts with dilute hydrochloric acid to form tin(II) chloride and hydrogen gas. This is a typical reaction of a moderately reactive metal with a dilute acid. Tin does not react with water or steam under normal conditions."
+  },
+  {
+    "question": "The monomer of natural rubber is",
+    "options": [
+      "2-chloro-1,3-butadiene (chloroprene)",
+      "2-methyl-1,3-butadiene (isoprene)",
+      "1,3-butadiene",
+      "Styrene"
+    ],
+    "answer": 1,
+    "explanation": "Natural rubber (polyisoprene) is formed by the polymerization of isoprene (2-methyl-1,3-butadiene). The cis-1,4 polymerization of isoprene gives natural rubber its elastic properties."
+  },
+  {
+    "question": "All of the following are examples of addition polymers EXCEPT",
+    "options": [
+      "-[CH2-CH2]n- (polyethylene)",
+      "-[CH2-CHCl]n- (PVC)",
+      "A polymer with condensation linkages",
+      "-[CH2CH2]n-[CH2-CH(CH3)]n- (block copolymer)"
+    ],
+    "answer": 2,
+    "explanation": "Addition polymers form by the addition of monomers without loss of small molecules. Polyethylene, PVC, and block copolymers are addition polymers. Polymers with condensation linkages (such as polyesters or polyamides) form by condensation reactions that release small molecules like water."
+  },
+  {
+    "question": "One of the following examples of polymers is correctly matched with its uses.",
+    "options": [
+      "Polyethylene; food containers",
+      "Polypropylene; electrical insulation",
+      "Polyvinyl chloride; making pipes",
+      "Polytetrafluoroethylene; making shoes"
+    ],
+    "answer": 2,
+    "explanation": "PVC (polyvinyl chloride) is widely used for making pipes due to its durability, chemical resistance, and low cost. PE is used for bags/containers, PP for packaging/fibers, and PTFE (Teflon) for non-stick coatings, not shoes."
+  },
+  {
+    "question": "Natural polymers are",
+    "options": [
+      "Polymers produced by the addition reaction of monomer units.",
+      "Polymers produced by condensation reaction of monomer units.",
+      "Polymers found in some substances like rubber in nature.",
+      "Polymers produced by the substitution of one or more atoms in the monomer units."
+    ],
+    "answer": 2,
+    "explanation": "Natural polymers are those found in nature, such as natural rubber, cellulose, proteins, silk, and starch. They are not classified by their reaction mechanism (addition vs condensation) but by their natural origin."
+  }
+]

@@ -8,11 +8,18 @@ export const examService = {
     return await response.json();
   },
 
-  getExamById: async (id) => {
-    // Replace dashes back to slashes to support subdirectories
-    const filePath = id.replace(/-/g, '/');
-    const response = await fetch(`/exams/${filePath}.json`);
-    return await response.json();
+  getExamById: async (subject, year) => {
+    const response = await fetch(`/exams/${subject}/ethiopian_${subject}_exam_${year}.json`);
+    if (!response.ok) throw new Error('Exam file not found');
+    const data = await response.json();
+    // Return with metadata if not present in JSON
+    return {
+      ...data,
+      title: `${subject.toUpperCase()} ${year} EUEE EXAM`,
+      subject: subject.charAt(0).toUpperCase() + subject.slice(1),
+      year,
+      duration: data.duration || 120 // Default 2 hours if not specified
+    };
   },
 
   saveQuizResult: async (userId, examId, score, totalQuestions, examTitle) => {

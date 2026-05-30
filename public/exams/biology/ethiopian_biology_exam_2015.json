@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Which one of the following sentences is correct about the activities of the heart?",
+    "options": [
+      "The noise of heartbeat one hears through a stethoscope is the sound of valves.",
+      "As the heart beats blood travels through the arteries with a uniform pressure.",
+      "Diastole is when the heart muscles contract and force the blood out.",
+      "Systole is when the heart muscles relax and it fills with blood."
+    ],
+    "answer": 0,
+    "explanation": "The heartbeat sound heard through a stethoscope (lub-dub) is produced by the closing of the atrioventricular valves (lub) and the semilunar valves (dub)."
+  },
+  {
+    "question": "During culturing micro-organisms, all of the following activities are important EXCEPT:",
+    "options": [
+      "Tilting the lid of the Petri dish during inoculation.",
+      "Adding distilled water to a sterilized agar.",
+      "Sterilizing the inoculating loops.",
+      "Transferring target micro-organisms into an agar medium."
+    ],
+    "answer": 1,
+    "explanation": "Adding distilled water to sterilized agar is not a standard culturing procedure and could dilute the medium, introducing contamination risk. The other options are essential aseptic techniques."
+  },
+  {
+    "question": "Which one of the following diseases can be caused by more than one type of microorganism?",
+    "options": [
+      "Cholera",
+      "Gastroenteritis",
+      "Typhoid",
+      "Tuberculosis"
+    ],
+    "answer": 1,
+    "explanation": "Gastroenteritis can be caused by multiple types of microorganisms including bacteria (Salmonella, E. coli), viruses (rotavirus, norovirus), and parasites."
+  },
+  {
+    "question": "Which one of the following diseases is correctly explained with its causes or symptoms?",
+    "options": [
+      "Syphilis is caused by Neisseria gonorrhoeae.",
+      "Gonorrhoea has a burning sensation symptom while urinating.",
+      "Gonorrhoea is caused by Treponema pallidum.",
+      "Syphilis has sore ulceration on the genitals as a symptom."
+    ],
+    "answer": 3,
+    "explanation": "Syphilis, caused by Treponema pallidum, produces a chancre (sore ulceration) on the genitals as a primary symptom. Option B is incorrect because gonorrhoea is caused by Neisseria gonorrhoeae, not Treponema pallidum."
+  },
+  {
+    "question": "Mixing of which two taxa are used in binomial nomenclature?",
+    "options": [
+      "The two lowest units of classification.",
+      "The two middle units of classification.",
+      "The highest and the lowest unit of classification.",
+      "The two highest units of classification."
+    ],
+    "answer": 2,
+    "explanation": "Binomial nomenclature uses two parts: the genus name (a higher taxonomic rank) and the species name (the lowest and most specific rank), e.g., Homo sapiens."
+  },
+  {
+    "question": "In a dihybrid self-crossing of a plant with genotype DdCc, 3600 offspring were produced. How many of the offspring will have the ddcc genotype?",
+    "options": [
+      "300",
+      "450",
+      "150",
+      "225"
+    ],
+    "answer": 3,
+    "explanation": "In a dihybrid cross DdCc × DdCc, the proportion of ddcc offspring is 1/16. Therefore, 3600 × 1/16 = 225 offspring."
+  },
+  {
+    "question": "Identify the correct statement regarding translation in eukaryotic cells. The:",
+    "options": [
+      "Helicase enzyme begins to unwind a section of DNA.",
+      "Polymerase assembles free RNA nucleotides into a chain.",
+      "First two codons of the mRNA enter the ribosome.",
+      "RNA polymerase moves along the antisense strand."
+    ],
+    "answer": 2,
+    "explanation": "During translation, the mRNA first codons enter the ribosome where tRNA molecules bring amino acids. Options A, B, and D describe transcription, not translation."
+  },
+  {
+    "question": "Which of the following sentences explains how crossing over brings variation?",
+    "options": [
+      "In meiosis I, there is splitting up of pairs of homologous chromosomes and line up.",
+      "In meiosis I, there is exchange of a section of DNA between chromatids.",
+      "In meiosis I, homologous chromosomes align themselves independent of other pairs.",
+      "In meiosis II, chromatids from each chromosome are separated at random."
+    ],
+    "answer": 1,
+    "explanation": "Crossing over occurs during prophase I of meiosis when non-sister chromatids of homologous chromosomes exchange segments of DNA, creating new combinations of alleles."
+  },
+  {
+    "question": "Consider a model of DNA replication. Which one of the following is true about the products A, B and C?",
+    "options": [
+      "A and B are identical with each other but not with C.",
+      "C is not identical with A and B.",
+      "B and C are not identical with each other.",
+      "A, B and C are identical with each other."
+    ],
+    "answer": 0,
+    "explanation": "After DNA replication (semi-conservative), each daughter molecule contains one original strand and one new strand. A and B (the two daughter molecules) are identical to each other but each contains one new and one old strand, making them identical in sequence to the original but not composed of the same individual strands."
+  },
+  {
+    "question": "What is the central role of tRNA in translation?",
+    "options": [
+      "Carrying genetic information from DNA in the nucleus to the cytoplasm.",
+      "Recognizing the codon of mRNA and bringing the correct amino acid to the ribosomes.",
+      "Acting as a template for converting a genetic code into amino acid sequence.",
+      "Assembling the amino acid into a polypeptide chain."
+    ],
+    "answer": 1,
+    "explanation": "tRNA molecules have an anticodon that recognizes and binds to the complementary codon on mRNA, carrying the corresponding amino acid to the ribosome for protein synthesis."
+  },
+  {
+    "question": "Which one of the following sentences explains the traditional use of biotechnology? Production of:",
+    "options": [
+      "Insulin using transgenic bacteria.",
+      "Dairy products at household level.",
+      "Myco-proteins under a laboratory.",
+      "Vinegar using industrial fermenter."
+    ],
+    "answer": 1,
+    "explanation": "Traditional biotechnology refers to ancient practices like making cheese, yogurt, and other dairy products at household level using natural fermentation processes."
+  },
+  {
+    "question": "Consider the diagram demonstrating the pyramid of energy. Which one of the following statements is correct about energy transfer?",
+    "options": [
+      "The organisms of the trophic level use large proportion of the energy to build their body.",
+      "The organisms of the first trophic level convert light energy into chemical energy.",
+      "The energy lost as heat to the surrounding in each trophic level is insignificant.",
+      "The amount of energy transferred through the trophic levels drops with each step up of the pyramid."
+    ],
+    "answer": 3,
+    "explanation": "Only about 10% of energy is transferred from one trophic level to the next. The rest is lost as heat through metabolic processes, so energy decreases at each step up the pyramid."
+  },
+  {
+    "question": "Which one of the following sentences is correct about mitosis?",
+    "options": [
+      "It is the division of sex cells resulting in identical daughter cells.",
+      "It produces four different daughter cells from a single cell.",
+      "It is the division of somatic cells to make identical daughter cells.",
+      "It produces half the number of chromosomes from the original cell."
+    ],
+    "answer": 2,
+    "explanation": "Mitosis is the process of cell division in somatic (body) cells that produces two genetically identical daughter cells with the same chromosome number as the parent cell."
+  },
+  {
+    "question": "A cross between pea plants having heterozygous genotype (Rr) has been made. Which of the following is correct about the offspring according to Mendelian inheritance? The genotypic probability of getting:",
+    "options": [
+      "Rr is 50%.",
+      "RR is 50%.",
+      "Rr is 75%.",
+      "RR is 25%."
+    ],
+    "answer": 0,
+    "explanation": "In a monohybrid cross Rr × Rr, the genotypic ratio is 1:2:1 (RR:Rr:rr), so the probability of Rr is 2/4 = 50%."
+  },
+  {
+    "question": "Which one of the following is correct about DNA? It is:",
+    "options": [
+      "A smaller molecule and coding for only protein.",
+      "Made of phosphate, sugar and bases.",
+      "A single stranded molecule.",
+      "Less stable and degrades quickly."
+    ],
+    "answer": 1,
+    "explanation": "DNA is a double-stranded molecule composed of nucleotide subunits, each containing a phosphate group, a deoxyribose sugar, and a nitrogenous base (adenine, thymine, cytosine, or guanine)."
+  },
+  {
+    "question": "Which one of the following phyla is characterized by a flexible cartilaginous rod-like structure that runs along the dorsal side of the body?",
+    "options": [
+      "Phylum Mollusca",
+      "Phylum Annelida",
+      "Phylum Chordata",
+      "Phylum Arthropoda"
+    ],
+    "answer": 2,
+    "explanation": "Phylum Chordata is characterized by the presence of a notochord, a flexible cartilaginous rod that runs along the dorsal side of the body, at least during some stage of development."
+  },
+  {
+    "question": "Which one of the following groups of organisms is correctly matched with its phylum?",
+    "options": [
+      "Starfish - Phylum Echinodermata",
+      "Fish - Phylum Arthropoda",
+      "Snail - Phylum Annelida",
+      "Earthworm - Phylum Mollusca"
+    ],
+    "answer": 0,
+    "explanation": "Starfish belong to Phylum Echinodermata. Fish belong to Phylum Chordata, snails belong to Phylum Mollusca, and earthworms belong to Phylum Annelida."
+  },
+  {
+    "question": "Which one of the following events happens during carbon cycle? Carbon dioxide is:",
+    "options": [
+      "Transferred from plants to animals by their feeding relationship.",
+      "Absorbed from air when microbes decompose plants and animals.",
+      "Removed from the air by animals during respiration.",
+      "Returned into the air by plants during photosynthesis."
+    ],
+    "answer": 0,
+    "explanation": "In the carbon cycle, plants fix carbon into organic molecules through photosynthesis. Animals obtain this carbon by feeding on plants (or other animals), transferring CO₂ through the food chain."
+  },
+  {
+    "question": "Which one of the following is not the function of the liver?",
+    "options": [
+      "Controlling cholesterol",
+      "Storing glycogen",
+      "Monosaccharide metabolism",
+      "Bile formation"
+    ],
+    "answer": 0,
+    "explanation": "While the liver does synthesize and process cholesterol, 'controlling cholesterol' is not listed as a primary liver function in standard biology curricula. The liver's main functions include bile production, glycogen storage, detoxification, and metabolism of nutrients including monosaccharides."
+  },
+  {
+    "question": "A zoologist studied 5 vertebrate species and described their features. spA: Smooth moist skin; pass parts of their lives in water and on land. spB: Streamlined bodies with scales; gills for gaseous exchange. spC: Feathers over the body and scales on legs; endothermic; horny beak. spD: Dry skin with scales; ectothermic; lungs for respiration. spE: Mammary glands; endothermic; higher internal body temperature. Based on the features, spA, spB, spC, spD and spE can be classified under the vertebrate classes, respectively:",
+    "options": [
+      "Amphibia, Reptilia, Aves, Mammalia, and Pisces.",
+      "Pisces, Aves, Reptilia, Mammalia, and Amphibia.",
+      "Pisces, Amphibia, Aves, Reptilia, and Mammalia.",
+      "Amphibia, Pisces, Aves, Reptilia, and Mammalia."
+    ],
+    "answer": 3,
+    "explanation": "spA (moist skin, water/land life) = Amphibia; spB (scales, gills) = Pisces; spC (feathers, beak) = Aves; spD (dry scales, ectothermic) = Reptilia; spE (mammary glands, endothermic) = Mammalia."
+  },
+  {
+    "question": "Which of the following plant adaptation mechanisms helps cactus to adapt in the desert environment?",
+    "options": [
+      "Spreading its seeds in wider areas.",
+      "Increasing number of stomata in its leaves.",
+      "Having broad leaves.",
+      "Storing water in its tissue."
+    ],
+    "answer": 3,
+    "explanation": "Cacti store water in their thick, fleshy stems (succulent tissue), allowing them to survive long periods of drought in desert environments."
+  },
+  {
+    "question": "What is the function of dermis of skin?",
+    "options": [
+      "It acts as protection against water loss.",
+      "It protects the entry of germs into the body.",
+      "It forms a waterproof layer around the body tissue.",
+      "It contains blood vessels and sweat glands."
+    ],
+    "answer": 3,
+    "explanation": "The dermis is the thick inner layer of skin that contains blood vessels, sweat glands, hair follicles, nerve endings, and connective tissue. Protection and waterproofing are functions of the epidermis."
+  },
+  {
+    "question": "Children who play spinning round and round fast, when they stop, they feel dizzy. Why?",
+    "options": [
+      "The optic nerves report that the children are still moving.",
+      "The fluid in their semicircular canals keeps on moving after they stop.",
+      "The sensory hairs vibrate highly in response to movement of their body.",
+      "The otoliths move around in the same direction with the head."
+    ],
+    "answer": 1,
+    "explanation": "The semicircular canals contain fluid (endolymph) that continues to move due to inertia even after the body stops spinning. This fluid movement stimulates hair cells, sending signals that create the sensation of continued rotation (dizziness)."
+  },
+  {
+    "question": "When does menstruation start in women with no obvious reproductive health problem? It happens when:",
+    "options": [
+      "The fertilized ovum reaches the uterus and attaches into the thick, spongy lining.",
+      "The FSH stimulates the development of a follicle in the ovary and the egg ripens.",
+      "Pregnancy occurs and the embryo obtains nourishment and oxygen.",
+      "The thick spongy lining of the uterus detaches in the absence of pregnancy."
+    ],
+    "answer": 3,
+    "explanation": "Menstruation occurs when the thickened endometrial lining of the uterus sheds because fertilization and implantation did not occur, causing a drop in progesterone levels."
+  },
+  {
+    "question": "Which one of the following sentences is correctly matched with the function of kidney structures?",
+    "options": [
+      "Bowman's capsule - acts as a filter to produce urine.",
+      "Cortex - monitors the osmotic pressure of the blood.",
+      "Glomerulus - concentrates urine and conserves water.",
+      "Loop of Henle - involved in ultrafiltration."
+    ],
+    "answer": 0,
+    "explanation": "Bowman's capsule, together with the glomerulus, forms the renal corpuscle which acts as a filtration unit. Blood is filtered here to produce the initial filtrate (primary urine)."
+  },
+  {
+    "question": "Which of the following temperature controlling mechanisms in homoiotherms is categorized into below normal temperature regulation?",
+    "options": [
+      "Sweating when the temperature rises.",
+      "Constriction of capillaries when the temperature falls.",
+      "Shivering as a result of decrease in temperature.",
+      "Seeking shade when the temperature rises."
+    ],
+    "answer": 1,
+    "explanation": "Constriction of capillaries (vasoconstriction) occurs when body temperature drops below normal, reducing blood flow near the skin surface to minimize heat loss."
+  },
+  {
+    "question": "Industries in biotechnology sector use glucose oxidase in clinistix strips for controlling mechanisms in which method?",
+    "options": [
+      "Restoring blood supply to area of heart muscle.",
+      "Detecting toxic metabolites in the blood.",
+      "Diagnosis of diabetes by examining a urine sample.",
+      "Reducing the viscosity of mucus."
+    ],
+    "answer": 2,
+    "explanation": "Clinistix strips contain glucose oxidase, which reacts with glucose in urine to produce a color change. This is used to diagnose diabetes by detecting glucose in urine samples."
+  },
+  {
+    "question": "In systematic naming of enzymes, assume an enzyme is designated as 3.4.11.1. Which of the following correctly describes this enzyme?",
+    "options": [
+      "11 gives a sub-subclass to which the enzyme belongs.",
+      "1 is a reference of Enzyme Commission.",
+      "4 shows to which main class the enzyme belongs.",
+      "3 indicates a subclass to which the enzyme belongs."
+    ],
+    "answer": 0,
+    "explanation": "In the EC numbering system: 1st digit = main class (3 = hydrolases), 2nd digit = subclass (4), 3rd digit = sub-subclass (11), 4th digit = serial number (1). Therefore, 11 gives the sub-subclass."
+  },
+  {
+    "question": "Which one of the following sentences explains the lock-and-key model of enzyme action? The:",
+    "options": [
+      "Attached substrate-enzyme complex enters into transition state.",
+      "Shapes of the substrate is complementary to the active site.",
+      "Attachment of substrate to an enzyme produces a conformational change.",
+      "Model explains enzyme inhibition in a complete manner."
+    ],
+    "answer": 1,
+    "explanation": "The lock-and-key model proposes that the enzyme's active site (lock) has a specific shape complementary to the substrate (key), allowing the substrate to fit precisely and bind."
+  },
+  {
+    "question": "Which one of the following sentences is correct about apo-enzymes?",
+    "options": [
+      "They are cofactors that give an enzyme its catalytic activity.",
+      "They are proteins that combine with cofactors to form active enzymes.",
+      "They are organic molecules and many are derived from vitamins.",
+      "They are inorganic molecules that bind loosely with the enzyme."
+    ],
+    "answer": 1,
+    "explanation": "Apo-enzymes are the protein portions of enzymes that are inactive alone. They combine with cofactors (coenzymes or prosthetic groups) to form the active holoenzyme."
+  },
+  {
+    "question": "How does a competitive inhibitor affect an enzyme reaction? By:",
+    "options": [
+      "Denaturing the active site of the enzyme.",
+      "Producing conformational change in the enzyme.",
+      "Binding to the allosteric site of the enzyme.",
+      "Blocking the active site of the enzyme."
+    ],
+    "answer": 3,
+    "explanation": "A competitive inhibitor has a similar structure to the substrate and competes for the active site, blocking the substrate from binding. This type of inhibition can be overcome by increasing substrate concentration."
+  },
+  {
+    "question": "Which one of the following leaf structures is correctly matched with its function?",
+    "options": [
+      "Palisade mesophyll - main photosynthetic tissue of the leaf.",
+      "Waxy cuticle - controls the entry of carbon dioxide into the leaf.",
+      "Guard cells - lots of air space and gas exchange area of the leaf.",
+      "Spongy mesophyll - helps to prevent water loss from the leaf."
+    ],
+    "answer": 0,
+    "explanation": "Palisade mesophyll contains densely packed cells rich in chloroplasts, making it the primary site of photosynthesis in the leaf."
+  },
+  {
+    "question": "Which of the following statements correctly describes the movement of organic materials in plants?",
+    "options": [
+      "Passive transport can take place in the phloem.",
+      "The transport of organic materials is due to transpiration.",
+      "Water is transported in dead tissue.",
+      "Active transport can take place in the xylem."
+    ],
+    "answer": 2,
+    "explanation": "Water is transported through xylem vessels, which are made of dead cells (vessel elements and tracheids). This transport occurs via transpiration pull, cohesion, and adhesion."
+  },
+  {
+    "question": "What will happen if an agriculture extension worker injects gibberellins into a dwarf plant?",
+    "options": [
+      "The leaves will fall.",
+      "The stem will grow.",
+      "The roots will elongate.",
+      "The side shoots will grow fast."
+    ],
+    "answer": 1,
+    "explanation": "Gibberellins promote stem elongation. When applied to dwarf plants (which often have a genetic deficiency in gibberellin production), it stimulates internode elongation and normal stem growth."
+  },
+  {
+    "question": "A biologist collected two types of seeds (SA and SB) from the field. SA: The seedling emerged curved while pushing up through the soil; hypocotyl straightened and carried the cotyledons and plumule above the soil surface. SB: The plumule pushed its way out of the soil while the cotyledon remained underground; the hypocotyl did not form a hook. Which one of the following is correct about the observations?",
+    "options": [
+      "Both SA and SB are of monocots.",
+      "SA is of a monocot, while SB is of a dicot.",
+      "Both SA and SB are of dicots.",
+      "SA is of a dicot, while SB is of a monocot."
+    ],
+    "answer": 3,
+    "explanation": "SA shows epigeal germination (hypocotyl elongates, cotyledons above ground), typical of dicots. SB shows hypogeal germination (cotyledons stay underground, epicotyl elongates), typical of monocots."
+  },
+  {
+    "question": "Which one of the following correctly describes the properties of water?",
+    "options": [
+      "It contracts when it freezes and ice acts as an insulator.",
+      "It takes low energy to change into vapor.",
+      "It allows all wavelengths to pass through its various depths.",
+      "It requires a small amount of energy to heat up."
+    ],
+    "answer": 0,
+    "explanation": "Water expands (rather than contracts) when it freezes, forming ice that floats and acts as an insulator on water surfaces, protecting aquatic organisms below."
+  },
+  {
+    "question": "An organic molecule which is an important part of the structure of chromosome is:",
+    "options": [
+      "Amino acid",
+      "Glycogen",
+      "Amylose",
+      "Triglyceride"
+    ],
+    "answer": 0,
+    "explanation": "Histones are proteins made of amino acids that are essential components of chromosome structure, forming the core around which DNA wraps to create nucleosomes."
+  },
+  {
+    "question": "In animal cells, glycogen is hydrolyzed quickly to release glucose for respiration. This is due to the presence of several:",
+    "options": [
+      "Microfibrils in its side chain.",
+      "Alpha-1,6-glycosidic bonds.",
+      "Alpha-1,4-glycosidic bonds.",
+      "Enzymes that hydrolyse it easily."
+    ],
+    "answer": 1,
+    "explanation": "Glycogen has numerous alpha-1,6-glycosidic bonds creating many branch points, which provide multiple ends for hydrolytic enzymes to act on simultaneously, allowing rapid glucose release."
+  },
+  {
+    "question": "A student conducted an experiment using different enzymes to study the enhancement of reaction rates under different conditions. Which one of the following is an acceptable conclusion of the experiment?",
+    "options": [
+      "Enzyme X could have enhanced the rate better at a temperature slightly higher than 37 degrees Celsius.",
+      "Enzyme M cannot enhance the rate of reaction further if the temperature exceeds 30 degrees Celsius.",
+      "The rate enhancement for enzyme Z is less because it did not use a cofactor.",
+      "As temperature increases the rate of chemical reaction decreases."
+    ],
+    "answer": 0,
+    "explanation": "Enzyme X has an optimum temperature of 37 degrees Celsius. Increasing the temperature slightly above this could initially increase the reaction rate before the enzyme begins to denature at higher temperatures."
+  },
+  {
+    "question": "The molecule represented by the structural formula shown in the diagram is:",
+    "options": [
+      "Glucose",
+      "Amylopectin",
+      "Fatty acid",
+      "Glycerol"
+    ],
+    "answer": 0,
+    "explanation": "The structure depicted is glucose, a six-carbon monosaccharide with the molecular formula C6H12O6, which is the basic building block of carbohydrates."
+  },
+  {
+    "question": "Which of the following is an Ethiopian endemic plant?",
+    "options": [
+      "Noug seed",
+      "Avocado",
+      "Bahir zaf",
+      "Bunna"
+    ],
+    "answer": 0,
+    "explanation": "Noug (Guizotia abyssinica) is an endemic Ethiopian oilseed plant. Avocado is native to Central America, Bahir zaf (eucalyptus) was introduced from Australia, and Bunna (coffee) also has Ethiopian origins but noug is specifically endemic."
+  },
+  {
+    "question": "When a biologist shares her research findings with other fellow biologists, she is:",
+    "options": [
+      "Making her hypothesis.",
+      "Reporting her result.",
+      "Drawing her conclusion.",
+      "Analyzing her data."
+    ],
+    "answer": 1,
+    "explanation": "Sharing research findings with other scientists is part of reporting results, which is a key step in the scientific method after analyzing data and drawing conclusions."
+  },
+  {
+    "question": "Walia ibex is an endemic animal species in Ethiopia which is found in:",
+    "options": [
+      "Nechisar National Park.",
+      "Omo National Park.",
+      "Bale Mountain National Park.",
+      "Simien Mountain National Park."
+    ],
+    "answer": 3,
+    "explanation": "The Walia ibex (Capra walie) is a critically endangered species endemic to Ethiopia, found exclusively in the Simien Mountains National Park."
+  },
+  {
+    "question": "All of the following sentences are correct about pollution EXCEPT:",
+    "options": [
+      "Deforestation increases the amount of carbon dioxide absorbed from the atmosphere.",
+      "Decomposition of dead bodies increases the amount of carbon dioxide in the atmosphere.",
+      "Burning fossil fuels increases pollution due to the release of hydrocarbons.",
+      "Burning of wood increases pollution by causing global dimming which blocks sunlight."
+    ],
+    "answer": 0,
+    "explanation": "Deforestation decreases the amount of CO2 absorbed from the atmosphere since fewer trees are available for photosynthesis. The other options correctly describe pollution sources."
+  },
+  {
+    "question": "In the table listing groups of molecules, which number holds only organic molecules? 1: Calcium carbonate and methane. 2: Carbon dioxide, linoleic acid and water. 3: Linoleic acid, glucose and methane. 4: Iron III oxide, linoleic acid and glucose.",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Group 3 contains linoleic acid (organic), glucose (organic), and methane (organic) - all are organic molecules. The other groups contain inorganic molecules like calcium carbonate, carbon dioxide, water, and iron oxide."
+  },
+  {
+    "question": "Which of the following enzymes is correctly matched to the food stuffs it acts on?",
+    "options": [
+      "Pepsin - protein",
+      "Lipase - lipids",
+      "Amylase - fats",
+      "Trypsin - starch"
+    ],
+    "answer": 0,
+    "explanation": "Pepsin is a protease enzyme that breaks down proteins in the stomach. Amylase acts on starch (not fats), and trypsin acts on proteins (not starch)."
+  },
+  {
+    "question": "Suppose your friend collapses suddenly due to heart attack while playing football. He needs artificial breathing. Which activity is strictly prohibited in this situation?",
+    "options": [
+      "Remove any obstacle from the mouth that might block the airway.",
+      "Open the airway by tilting the head back.",
+      "Make sure the airway is open and the head is tilted back.",
+      "Give mouth-to-mouth resuscitation if he is conscious."
+    ],
+    "answer": 3,
+    "explanation": "Mouth-to-mouth resuscitation should never be given to a conscious person. If the person is conscious and breathing, CPR is not needed, and forcing mouth-to-mouth on a conscious person is dangerous."
+  },
+  {
+    "question": "Consider the bell-jar model representing the lung. Which of the following breathing movements happens when air enters and exits the balloon lungs?",
+    "options": [
+      "Air enters when the bell-jar thorax contracts.",
+      "Air enters when the rubber sheet is pulled up.",
+      "Air exits when the Y-piece is rotated clockwise and counter-clockwise.",
+      "Air exits when the balloon lungs have higher pressure than the external environment."
+    ],
+    "answer": 1,
+    "explanation": "When the rubber sheet (diaphragm) is pulled down (not up), the volume inside the bell jar increases, pressure decreases, and air rushes in (inhalation). Pulling it up simulates the diaphragm moving downward during inhalation."
+  },
+  {
+    "question": "Which one of the following structures of the heart is correctly matched with its function?",
+    "options": [
+      "Right atrium - contracts and forces deoxygenated blood into the lungs.",
+      "Left ventricle - contracts and forces oxygenated blood around the body.",
+      "Right ventricle - contracts and forces blood into the left ventricles.",
+      "Left atrium - contracts and forces blood into the right ventricles."
+    ],
+    "answer": 1,
+    "explanation": "The left ventricle has thick muscular walls and pumps oxygenated blood through the aorta to the rest of the body during systole."
+  },
+  {
+    "question": "Which one of the following is correct about aerobic cellular respiration?",
+    "options": [
+      "Krebs cycle takes place in the cytoplasm.",
+      "Glycolysis takes place in the mitochondria.",
+      "Electron transport chain takes place in the cytoplasm.",
+      "Pyruvate enters into the mitochondria for further stages."
+    ],
+    "answer": 3,
+    "explanation": "In aerobic respiration, glycolysis occurs in the cytoplasm producing pyruvate, which then enters the mitochondria where the Krebs cycle and electron transport chain occur."
+  },
+  {
+    "question": "Consider the diagram showing blood circulation system. The parts indicated by numbers 1, 2, 3 and 4 are, respectively:",
+    "options": [
+      "Aorta, vena cava, pulmonary vein and pulmonary artery.",
+      "Pulmonary artery, pulmonary vein, vena cava, aorta.",
+      "Pulmonary vein, aorta, vena cava, pulmonary artery.",
+      "Vena cava, pulmonary artery, pulmonary vein, aorta."
+    ],
+    "answer": 1,
+    "explanation": "In the standard double circulation: 1 = pulmonary artery (carries deoxygenated blood from heart to lungs), 2 = pulmonary vein (carries oxygenated blood from lungs to heart), 3 = vena cava (returns deoxygenated blood to heart), 4 = aorta (distributes oxygenated blood to body)."
+  },
+  {
+    "question": "Which one of the following descriptions of proteins is correctly matched with its function in a membrane?",
+    "options": [
+      "Peripheral proteins - anchor integral proteins to the cytoskeleton.",
+      "Cholesterol - reduces the fluidity of the membrane.",
+      "Channel proteins - larger molecules can pass through them.",
+      "Carrier proteins - specific ions can pass along them."
+    ],
+    "answer": 0,
+    "explanation": "Peripheral proteins are located on the surface of the membrane and can anchor integral proteins to the cytoskeleton, providing structural support and connections."
+  },
+  {
+    "question": "Suppose a hypothetical cell of 15% solute concentration is put in a beaker containing 90% water and 10% solute. In which way will the water move?",
+    "options": [
+      "From the cell to the beaker.",
+      "From the beaker to the cell.",
+      "Both into and out of the cell.",
+      "Both into and out of the beaker."
+    ],
+    "answer": 1,
+    "explanation": "The cell has higher solute concentration (15%) than the beaker (10%), meaning the cell has lower water potential. Water moves by osmosis from the beaker (higher water potential) into the cell (lower water potential)."
+  },
+  {
+    "question": "Which one of the following is an example of a learned behaviour?",
+    "options": [
+      "Nest-building",
+      "Weaving a web",
+      "Knee-jerk reflex",
+      "Classical conditioning"
+    ],
+    "answer": 3,
+    "explanation": "Classical conditioning (e.g., Pavlov's dogs) is a learned behavior where an organism associates a neutral stimulus with a meaningful one. Nest-building, web-weaving, and reflexes are innate behaviors."
+  },
+  {
+    "question": "Which one of the following is correct about transport of substances across the cell membrane?",
+    "options": [
+      "Simple diffusion - large particles transported through channel proteins.",
+      "Facilitated diffusion - particles move from high water potential to lower one.",
+      "Passive transport - particles require energy in the form of ATP to derive the transport.",
+      "Active transport - particles move from low to higher concentration using carrier proteins."
+    ],
+    "answer": 3,
+    "explanation": "Active transport moves particles against the concentration gradient (from low to high concentration) using carrier proteins and requiring energy in the form of ATP."
+  },
+  {
+    "question": "Which one of the following processes of aerobic respiration takes place in the Krebs cycle?",
+    "options": [
+      "Hydrogen atoms carried by reduced NAD and FAD are released and split into protons and electrons.",
+      "Two molecules of ATP are used to phosphorylate glucose.",
+      "A two carbon group from acetyl coenzyme A reacts with a four-carbon compound to form citrate.",
+      "Fructose 1,6-bisphosphate is split into two molecules of the three-carbon sugar GP."
+    ],
+    "answer": 2,
+    "explanation": "In the Krebs cycle, the 2-carbon acetyl group from acetyl-CoA combines with oxaloacetate (4-carbon compound) to form citrate (6-carbon compound), which is the first step of the cycle."
+  },
+  {
+    "question": "In the course of evolution, which one of the following is true about the human brain?",
+    "options": [
+      "Modern humans have brain size between 0.7% and 1.0% of their body mass.",
+      "Australopithecines had a brain size between 1.8% and 2.3% of their body mass.",
+      "The pre-human brain uses 80% of the resting energy requirement.",
+      "Homo sapiens brain uses 25% of the resting energy requirement."
+    ],
+    "answer": 3,
+    "explanation": "The human brain uses approximately 20-25% of the body's resting energy requirement despite being only about 2% of body mass, making it the most energy-consuming organ in the body."
+  },
+  {
+    "question": "All of the following are examples of innate behaviours EXCEPT:",
+    "options": [
+      "Training killer whales at marine parks.",
+      "Increasing breathing rate during exercise.",
+      "Producing tears when dust gets into the eyes.",
+      "A fly moving its maggot into a more humid environment."
+    ],
+    "answer": 0,
+    "explanation": "Training killer whales at marine parks is a learned behavior (conditioned through reinforcement). The other options are innate, automatic responses: breathing rate changes, tear production, and taxis behavior."
+  },
+  {
+    "question": "Which one of the following is an example of insight learning?",
+    "options": [
+      "Salivation of a dog when a bell was rung in the absence of food.",
+      "Use of boxes, after several trials, by a chimpanzee to obtain bananas placed on top of an enclosure.",
+      "Exhibition of modifications of natural behaviors of guide dogs to desired behaviors.",
+      "Lack of response from a lady in a shop with a strong deodorant continuously released."
+    ],
+    "answer": 1,
+    "explanation": "Insight learning is demonstrated when a chimpanzee suddenly realizes how to stack boxes to reach bananas, solving a novel problem without prior trial-and-error experience - a cognitive leap in understanding."
+  },
+  {
+    "question": "Which one of the following is an example of social behaviour of animals?",
+    "options": [
+      "A male robin threatening an intruder.",
+      "Fixed action pattern of zebra fish to find a mate.",
+      "Penguins huddling to reduce heat loss.",
+      "Honeybees nesting in a tree."
+    ],
+    "answer": 2,
+    "explanation": "Penguins huddling together to reduce heat loss is a classic example of social behavior, where individuals cooperate for mutual benefit. This involves group coordination and cooperation."
+  },
+  {
+    "question": "One of the following renowned Ethiopian scientists has developed a vaccine for the rinderpest disease.",
+    "options": [
+      "Professor Sebsebe Demissew",
+      "Professor Yalemtsehay Mekonnen",
+      "Professor Beyene Petros",
+      "Professor Tilahun Yilma"
+    ],
+    "answer": 3,
+    "explanation": "Professor Tilahun Yilma is the Ethiopian scientist renowned for developing a recombinant vaccine for rinderpest disease, which was a devastating cattle plague."
+  },
+  {
+    "question": "A grade nine student planned to study animal cells using a compound light microscope. She prepared a slide of stained human cheek cells. Which of the following activities should she first do?",
+    "options": [
+      "Adjust the diaphragm until the maximum brightness is coming.",
+      "Set microscope with the lowest power objective in place.",
+      "Use the coarse focusing knob to rotate the nosepiece for higher magnification.",
+      "Look through the eyepiece lens to move the objectives down."
+    ],
+    "answer": 1,
+    "explanation": "When using a compound microscope, always start with the lowest power objective lens to locate the specimen, then gradually increase magnification. This prevents damage to the slide and objective lens."
+  },
+  {
+    "question": "Which one of the following is true about plant cells? They have:",
+    "options": [
+      "A vacuole which controls all activities of the cell.",
+      "Lysosomes which contain hydrolytic enzymes.",
+      "Chloroplast which is filled with sap, liquids and minerals.",
+      "A cell wall which gives support and strengthens the cell."
+    ],
+    "answer": 3,
+    "explanation": "Plant cells have a rigid cell wall made of cellulose that provides structural support, protection, and determines the shape of the cell. Lysosomes are rare in plant cells, and chloroplasts contain chlorophyll for photosynthesis, not sap."
+  },
+  {
+    "question": "A plant cell is placed in a solution which has lower solute concentration than its contents. After a few minutes the cell will become:",
+    "options": [
+      "Turgid.",
+      "Flaccid.",
+      "Plasmolysed.",
+      "Burst."
+    ],
+    "answer": 0,
+    "explanation": "When a plant cell is placed in a hypotonic solution (lower solute concentration), water enters the cell by osmosis. The cell wall prevents bursting, and the cell becomes turgid (firm and swollen)."
+  },
+  {
+    "question": "Which one of the following is correct about human food digestion?",
+    "options": [
+      "The stomach physically breaks down the ingested food.",
+      "Mouth uses protease enzyme to break down proteins.",
+      "Large intestine is the site of lipid hydrolysis.",
+      "The small intestine is the site of absorption of digested molecules."
+    ],
+    "answer": 3,
+    "explanation": "The small intestine is the primary site of nutrient absorption, where digested molecules (monosaccharides, amino acids, fatty acids) pass through the villi into the bloodstream."
+  },
+  {
+    "question": "Sickle cell anemia is caused by the replacement of glutamic acid by valine at a specific position in the beta chains of hemoglobin. This is an example of which mutation?",
+    "options": [
+      "Addition",
+      "Substitution",
+      "Inversion",
+      "Deletion"
+    ],
+    "answer": 1,
+    "explanation": "Sickle cell anemia is caused by a point mutation (substitution) where a single nucleotide change results in the amino acid glutamic acid being replaced by valine in the beta-globin chain of hemoglobin."
+  },
+  {
+    "question": "Stanley Miller conducted spark-discharge experiment by taking a mixture of gases representing the primitive atmosphere of the Earth. All of the following were found in his gas mixture EXCEPT:",
+    "options": [
+      "Ammonia and hydrogen",
+      "Methane and carbon dioxide",
+      "Water vapor",
+      "Hydrogen sulphide"
+    ],
+    "answer": 1,
+    "explanation": "Miller's original experiment used ammonia (NH3), methane (CH4), hydrogen (H2), and water vapor (H2O). Carbon dioxide was NOT part of the original mixture, though Miller later experiments included it."
+  },
+  {
+    "question": "Which one of the following sentences explains the Darwin theory of evolution?",
+    "options": [
+      "Environment creates a need for organisms to change.",
+      "There is variation in features that are heritable.",
+      "New features acquired in lifetime are passed to the offspring.",
+      "The development of new features in order to survive."
+    ],
+    "answer": 1,
+    "explanation": "Darwin's theory of natural selection is based on the premise that there is variation in traits among individuals within a population, and these variations are heritable. Individuals with favorable variations are more likely to survive and reproduce."
+  },
+  {
+    "question": "Comparative anatomy provides evidence of evolution because it:",
+    "options": [
+      "Looks at structural similarities of organisms.",
+      "Has remains of animals and plants from the remote past.",
+      "Has an impression of animal even if the actual parts are missing.",
+      "Studies the development of the embryos of vertebrates."
+    ],
+    "answer": 0,
+    "explanation": "Comparative anatomy studies structural similarities (homologous and analogous structures) between different organisms, providing evidence for common ancestry and evolutionary relationships."
+  },
+  {
+    "question": "About 3 million years ago the Isthmus of Panama separated the shrimp population of the Caribbean Sea and created two populations on either side. They still look similar but do not interbreed. Which type of isolation is described?",
+    "options": [
+      "Seasonal isolation",
+      "Geographical isolation",
+      "Behavioural isolation",
+      "Temporal isolation"
+    ],
+    "answer": 1,
+    "explanation": "The Isthmus of Panama created a physical geographical barrier separating the shrimp populations, preventing gene flow. This is a classic example of geographical (allopatric) isolation."
+  },
+  {
+    "question": "In a metabolic pathway, the end-product inhibition occurs when the:",
+    "options": [
+      "Last product of the pathway inhibits the last enzymatic reaction.",
+      "First product of the pathway inhibits the last enzymatic reaction.",
+      "First product of the pathway inhibits the third enzymatic reaction.",
+      "Last product of the pathway inhibits the first enzymatic reaction."
+    ],
+    "answer": 3,
+    "explanation": "End-product (feedback) inhibition occurs when the final product of a metabolic pathway binds to and inhibits the first enzyme in the pathway, preventing overproduction when sufficient product has accumulated."
+  },
+  {
+    "question": "The graph shows the rate of reaction of catalase enzyme at constant temperature and different substrate concentrations. Catalase was functional with its minimum turnover rate from substrate concentration of:",
+    "options": [
+      "0.4 to 0.5.",
+      "0.4 to 0.5.",
+      "0.5 to 0.6.",
+      "0.3 to 0.4."
+    ],
+    "answer": 3,
+    "explanation": "At the lowest substrate concentrations (0.3-0.4), the enzyme has the minimum turnover rate because fewer substrate molecules are available to bind to the active sites of the enzyme."
+  },
+  {
+    "question": "Which of the following statements is correct about the description of cell theory?",
+    "options": [
+      "Schleiden and Schwann stated that all cells come from pre-existing cells.",
+      "Virchow stated that cell is the unit of structure, physiology and organization of living things.",
+      "Modern cell theory states that cells contain hereditary information that passes from cell to cell.",
+      "Spontaneous generation theory states that all cells have basically different chemical composition."
+    ],
+    "answer": 2,
+    "explanation": "Modern cell theory includes the tenet that cells contain hereditary information (DNA) that is passed from one cell to its daughter cells during cell division."
+  },
+  {
+    "question": "A student measured the diameter of onion epidermal cells at a magnification of 100X using a field of view adjusted to 2mm. What would be the diameter of individual cells if 8 cells fit into the field of view?",
+    "options": [
+      "250 micrometers",
+      "200 micrometers",
+      "150 micrometers",
+      "300 micrometers"
+    ],
+    "answer": 0,
+    "explanation": "Field of view = 2mm = 2000 micrometers. If 8 cells fit across, each cell diameter = 2000/8 = 250 micrometers."
+  },
+  {
+    "question": "Which of the following characteristics of cells is found only in prokaryotic cell?",
+    "options": [
+      "Division of labor within the cell.",
+      "Continuous loop of DNA.",
+      "Size of 10-100 micrometers long.",
+      "Higher level of complexity."
+    ],
+    "answer": 1,
+    "explanation": "Prokaryotic cells have a single, continuous circular DNA molecule (loop of DNA) not enclosed in a nuclear membrane. Eukaryotic cells have linear chromosomes within a nucleus."
+  },
+  {
+    "question": "Which one of the following sentences is true about viruses?",
+    "options": [
+      "AIDS is caused by a DNA virus.",
+      "Corona virus is a DNA virus.",
+      "Swine flu is caused by an RNA virus.",
+      "Herpes simplex is a DNA virus."
+    ],
+    "answer": 3,
+    "explanation": "Herpes simplex virus (HSV) is a DNA virus. AIDS is caused by HIV (an RNA retrovirus), coronavirus is an RNA virus, and swine flu is caused by influenza virus (RNA)."
+  },
+  {
+    "question": "The following steps are involved when HIV infects its host cell: 1) Conversion of viral RNA to DNA and incorporation into cell's DNA. 2) Viral DNA transcription into viral RNA and protein production. 3) Assemblage of new viral particles. 4) Binding of gp120 of HIV to CD4 of T-lymphocyte. 5) Fusion of HIV with plasma membrane. 6) Release of RNA and reverse transcriptase. The correct order of the steps is:",
+    "options": [
+      "4, 5, 6, 1, 2, 3",
+      "4, 6, 5, 2, 1, 3",
+      "4, 6, 5, 1, 2, 3",
+      "4, 1, 2, 5, 6, 3"
+    ],
+    "answer": 0,
+    "explanation": "Correct HIV infection sequence: 4) gp120 binds to CD4 receptor, 5) Virus fuses with host cell membrane, 6) RNA and reverse transcriptase released, 1) Viral RNA converted to DNA and integrated, 2) Transcription and protein synthesis, 3) New viral particles assembled."
+  },
+  {
+    "question": "Which one of the following bacteria produces ammonium ion by forming a symbiotic association with peas and beans?",
+    "options": [
+      "Klebsiella",
+      "Azotobacter",
+      "Pseudomonas",
+      "Rhizobium"
+    ],
+    "answer": 3,
+    "explanation": "Rhizobium bacteria form symbiotic associations with leguminous plants (peas, beans) in root nodules, fixing atmospheric nitrogen into ammonium ions that the plant can use."
+  },
+  {
+    "question": "In the water cycle diagram, the letters A, B, C and D respectively represent:",
+    "options": [
+      "Evaporation, transpiration, condensation, precipitation.",
+      "Evaporation, precipitation, transpiration, condensation.",
+      "Evaporation, transpiration, precipitation, condensation.",
+      "Evaporation, precipitation, condensation, transpiration."
+    ],
+    "answer": 0,
+    "explanation": "In the standard water cycle: A represents evaporation (water from surface), B represents transpiration (water from plants), C represents condensation (forming clouds), and D represents precipitation (rain/snow)."
+  },
+  {
+    "question": "Which one of the following comparisons is true about primary and secondary succession? Secondary succession has:",
+    "options": [
+      "Reduced diversity.",
+      "Reduced total biomass of the community.",
+      "Less time to progress to reach the climax.",
+      "Stable community."
+    ],
+    "answer": 2,
+    "explanation": "Secondary succession occurs in areas where an existing community has been disturbed (e.g., after a fire). It takes less time to reach the climax community compared to primary succession because soil and some organisms already exist."
+  },
+  {
+    "question": "Which one of the following sentences describes the tropical rainforest environment? It has:",
+    "options": [
+      "Poor and thin soil.",
+      "Sparse, succulent plants.",
+      "Frozen and rocky soil.",
+      "Migrating animals."
+    ],
+    "answer": 0,
+    "explanation": "Tropical rainforests have poor, thin soils because nutrients are quickly recycled and absorbed by the dense vegetation. The heavy rainfall also leaches minerals from the soil."
+  },
+  {
+    "question": "Fresh water biomes like streams and rivers are characterized by the presence of:",
+    "options": [
+      "Corals, crabs and planktons.",
+      "Algae, planktons and fish.",
+      "Corals, kelps and angler fish.",
+      "Angler fish, algae and crabs"
+    ],
+    "answer": 1,
+    "explanation": "Freshwater biomes contain algae, plankton, and various species of fish adapted to non-saline water. Corals and kelps are marine organisms."
+  },
+  {
+    "question": "Which one of the following statements correctly describes intra-specific and inter-specific competitions?",
+    "options": [
+      "In intra-specific competition the competition is less severe but in inter-specific competition it is more.",
+      "In intra-specific competition the competition is for a few requirements but in inter-specific competition it is for all requirements.",
+      "In intra-specific competition the competing individuals have similar adaptation but in inter-specific competition the adaptation is different.",
+      "In intra-specific competition the competing individuals belong to different species but in inter-specific competition the individuals are of the same species."
+    ],
+    "answer": 2,
+    "explanation": "In intra-specific competition, individuals of the same species compete for identical resources and have similar adaptations. In inter-specific competition, individuals of different species compete with different adaptations."
+  },
+  {
+    "question": "Which one of the following stages of cell division is correctly described in meiosis II?",
+    "options": [
+      "Prophase II - pairs of homologous chromosomes split up.",
+      "Anaphase II - chromatids from each chromosome separate.",
+      "Metaphase II - chromosomes pair and exchange segments.",
+      "Telophase II - two haploid cells are produced."
+    ],
+    "answer": 1,
+    "explanation": "During Anaphase II of meiosis, sister chromatids of each chromosome are pulled apart to opposite poles, similar to mitosis but with haploid cells."
+  },
+  {
+    "question": "Which one of the following is an example of a sex-influenced trait?",
+    "options": [
+      "Pattern baldness",
+      "Retinitis pigmentosa",
+      "Lactation",
+      "Undescended testicles"
+    ],
+    "answer": 0,
+    "explanation": "Pattern baldness is a sex-influenced trait - it is expressed differently in males and females due to the influence of sex hormones, even though the gene is autosomal."
+  },
+  {
+    "question": "Which of the following processes takes place when lactate is produced?",
+    "options": [
+      "NAD and FAD are regenerated from reduced NAD and FAD.",
+      "ATP is produced through oxidative phosphorylation.",
+      "Protons accumulation is created in the inter-membrane space.",
+      "Reduced NAD supplies hydrogen and becomes oxidized itself."
+    ],
+    "answer": 3,
+    "explanation": "During anaerobic respiration, pyruvate is converted to lactate. The reduced NAD (NADH) supplies hydrogen atoms (oxidizing itself back to NAD) to reduce pyruvate to lactate, regenerating NAD for glycolysis to continue."
+  },
+  {
+    "question": "Which one of the following structures of the photosystem is correctly related to its function?",
+    "options": [
+      "Antenna complex - light dependent reaction begins.",
+      "Carotenoid - provides the hydrogen ions.",
+      "Thylakoid - absorbs blue and red pigments.",
+      "Chlorophyll a - a reaction center molecule."
+    ],
+    "answer": 0,
+    "explanation": "The antenna complex (light-harvesting complex) captures light energy and transfers it to the reaction center, initiating the light-dependent reactions of photosynthesis."
+  },
+  {
+    "question": "What happens during the electron transport system of respiration?",
+    "options": [
+      "The four-carbon compound undergoes transformation to generate oxaloacetate.",
+      "Hydrogen atoms carried by FADH2 and NADH are released and split into protons and electrons.",
+      "Citrate loses a carbon atom to form a five-carbon compound and CO2.",
+      "A five-carbon compound is further decarboxylated to form a four-carbon compound."
+    ],
+    "answer": 1,
+    "explanation": "In the electron transport chain, NADH and FADH2 donate electrons and hydrogen ions. The electrons pass through protein complexes while protons are pumped across the membrane, creating a proton gradient."
+  },
+  {
+    "question": "During light independent reactions of photosynthesis, glucose is made through:",
+    "options": [
+      "Synthesis of reduced NADP that provides hydrogen ions.",
+      "Six turns of the Calvin cycle to make one molecule of glucose.",
+      "Release of hydrogen ions at the electron transport chain.",
+      "Transmission of electrons to the inside of the thylakoid."
+    ],
+    "answer": 1,
+    "explanation": "The Calvin cycle must turn 6 times to produce one molecule of glucose (C6H12O6), since each turn fixes one CO2 molecule (3 turns make one G3P, and 2 G3P molecules are needed for one glucose)."
+  },
+  {
+    "question": "Which one of the following factors of photosynthesis is correctly matched with its effect?",
+    "options": [
+      "CO2 concentration - limits the rate by influencing rate of initial reaction with RuBP.",
+      "Low temperature - limits the rate of reactions by reducing the number of electrons in the chlorophyll.",
+      "Low Rubisco - limits the number of reactions in the light dependent reaction.",
+      "Light intensity - limits the rate of ATP synthase enzyme action in light dependent reaction."
+    ],
+    "answer": 0,
+    "explanation": "CO2 concentration affects the rate of the Calvin cycle by influencing how quickly RuBP carboxylase/oxygenase (Rubisco) can catalyze the reaction between CO2 and RuBP."
+  },
+  {
+    "question": "Which one of the following monohybrid crosses can be a test cross?",
+    "options": [
+      "Rr x rr",
+      "RR x rr",
+      "RR x Rr",
+      "RR x RR"
+    ],
+    "answer": 0,
+    "explanation": "A test cross involves crossing an individual with a dominant phenotype (Rr) with a homozygous recessive individual (rr) to determine whether the dominant individual is homozygous or heterozygous."
+  },
+  {
+    "question": "Which one of the following is different from the rest with regard to conservation of species?",
+    "options": [
+      "Using local practices for conservation.",
+      "Replanting of land with endemic species.",
+      "Replanting indigenous tree species.",
+      "Large scale introduction of exotic plants."
+    ],
+    "answer": 3,
+    "explanation": "Introduction of exotic (non-native) species is harmful to conservation as it can lead to invasive species that outcompete native species. The other options are all valid conservation strategies."
+  },
+  {
+    "question": "In the nervous co-ordination system, which of the following statements explains the synapse? It is a:",
+    "options": [
+      "Chemical that transmits nerve impulses across the nervous system.",
+      "Part of the skull that encloses the brain for the purpose of protection.",
+      "Junction between two neurons or a neuron and a muscle.",
+      "Short term change in the electrical potential on the surface of cells."
+    ],
+    "answer": 2,
+    "explanation": "A synapse is the junction between two neurons (or between a neuron and a muscle/gland cell) where nerve impulses are transmitted chemically via neurotransmitters."
+  },
+  {
+    "question": "Two students demonstrate a knee jerk reflex. One sits with one leg loosely crossed. The other hits below the knee cap. Which one of the following situations will happen?",
+    "options": [
+      "The impulse travels to the brain.",
+      "The hit ligament stretches the muscle.",
+      "The lower leg jerks downwards and inwards.",
+      "The impulse travels to quadriceps muscle from the brain."
+    ],
+    "answer": 2,
+    "explanation": "In the knee jerk reflex, tapping the patellar ligament stretches the quadriceps muscle, triggering a reflex arc through the spinal cord that causes the lower leg to jerk forward (downward and slightly inward)."
+  },
+  {
+    "question": "Which of the following eye structures is correctly matched with its function?",
+    "options": [
+      "Pupil - serves as the eye's protective outer layer.",
+      "Iris - controls the amount of light entering the eye.",
+      "Cornea - provides nutrition to the lens.",
+      "Choroid - bends the light into the retina."
+    ],
+    "answer": 1,
+    "explanation": "The iris contains circular and radial muscles that control the size of the pupil, regulating the amount of light entering the eye."
+  },
+  {
+    "question": "In the CAM photosynthetic pathway:",
+    "options": [
+      "Malate is stored in the mesophyll cells during the day.",
+      "Glucose is synthesized in the bundle sheath cell during night.",
+      "ATP and NADPH are produced during the night.",
+      "The C4 stage and Calvin cycle are separated in time."
+    ],
+    "answer": 3,
+    "explanation": "In CAM (Crassulacean Acid Metabolism) plants, CO2 fixation into organic acids occurs at night (when stomata are open) and the Calvin cycle runs during the day (when stomata are closed), separating these processes in time."
+  },
+  {
+    "question": "In Gram staining, some bacteria retain the crystal violet after counter staining, then the bacteria is:",
+    "options": [
+      "Gram positive.",
+      "Gram negative.",
+      "Gram intermediate.",
+      "Gram variable."
+    ],
+    "answer": 0,
+    "explanation": "Gram-positive bacteria have thick peptidoglycan layers in their cell walls that retain the crystal violet stain even after counter-staining with safranin, appearing purple under a microscope."
+  },
+  {
+    "question": "Which of the following sentences explains the mechanism of bacteria to produce disease?",
+    "options": [
+      "Its hyphae secrete enzymes which digest substances in the tissue.",
+      "It enters into the living cells and disrupts the metabolic systems.",
+      "It attaches with white blood cells and destroys the immune system.",
+      "Its genetic material is incorporated into the cell for instruction."
+    ],
+    "answer": 1,
+    "explanation": "Pathogenic bacteria produce disease by invading host cells and disrupting normal metabolic processes, often through toxin production or by interfering with cellular functions."
+  },
+  {
+    "question": "Which one of the following sentences explains the role of bacteria in genetic engineering? They are used to:",
+    "options": [
+      "Isolate genes from donor DNA.",
+      "Open up a plasmid.",
+      "Cut genes from donor DNA.",
+      "Contain a recombinant plasmid."
+    ],
+    "answer": 3,
+    "explanation": "In genetic engineering, bacteria (often E. coli) serve as host organisms that carry and replicate recombinant plasmids containing the gene of interest."
+  },
+  {
+    "question": "Which one of the following sentences describes a virus? It:",
+    "options": [
+      "Has differentiated organelles.",
+      "Is saprophytic.",
+      "Is acellular.",
+      "Undergoes respiration."
+    ],
+    "answer": 2,
+    "explanation": "Viruses are acellular entities - they lack cellular structure, organelles, and independent metabolism. They consist only of genetic material (DNA or RNA) enclosed in a protein coat and can only replicate inside host cells."
+  }
+]

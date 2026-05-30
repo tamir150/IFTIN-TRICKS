@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "What is the major difference that viruses have with free living cells? Viruses",
+    "options": [
+      "do not function outside of a living cell.",
+      "lack locomotary structure.",
+      "reproduce only asexually.",
+      "lack genetic material of their own."
+    ],
+    "answer": 0,
+    "explanation": "Viruses are obligate intracellular parasites that cannot replicate or carry out metabolic processes outside a host cell. This is the fundamental distinction from free-living cells."
+  },
+  {
+    "question": "Why is nutrient recycling important in an environment? Because",
+    "options": [
+      "nutrients should be exchanged between the earth and other planets.",
+      "nutrients in an environment will be depleted if recycled.",
+      "it adds new types of molecules into the environment.",
+      "the amount of nutrients in the environment is limited."
+    ],
+    "answer": 3,
+    "explanation": "Nutrients are finite in any ecosystem. Recycling ensures that essential elements like carbon, nitrogen, and phosphorus are reused rather than lost, sustaining life indefinitely."
+  },
+  {
+    "question": "Which one of the following orders of life processes correctly illustrates occurrence of the nutrient cycle?",
+    "options": [
+      "death and decomposition → feeding → excretion → respiration and breathing",
+      "respiration and breathing → feeding → excretion → death and decomposition",
+      "feeding → death and decomposition → excretion → respiration and breathing",
+      "feeding → excretion → respiration and breathing → death and decomposition"
+    ],
+    "answer": 3,
+    "explanation": "In the nutrient cycle, organisms first feed (ingest nutrients), then excrete waste products, respire (releasing CO2 and water), and finally die and decompose, returning nutrients to the environment for reuse."
+  },
+  {
+    "question": "Which of the following processes in the phosphate cycle DOES NOT return phosphate ions to the soil?",
+    "options": [
+      "Decomposition of dead animals",
+      "Cellular respiration",
+      "Weathering of rocks",
+      "Use of fertilizers"
+    ],
+    "answer": 1,
+    "explanation": "Cellular respiration involves the breakdown of glucose to produce ATP, CO2, and water. It does not involve the phosphate cycle or return phosphate ions to soil. Decomposition, weathering, and fertilizers all add phosphate to soil."
+  },
+  {
+    "question": "A previously bare land was gradually occupied by lichen and mosses, annual herbs, perennial herbs, shrubs and finally by forests. Which one of the following best describes the process indicated above?",
+    "options": [
+      "Climax community",
+      "Natural Selection",
+      "Afforestation",
+      "Succession"
+    ],
+    "answer": 3,
+    "explanation": "The gradual and predictable replacement of species in an area over time is called ecological succession. Primary succession begins on bare rock or land with no soil, progressing from lichens to forests."
+  },
+  {
+    "question": "If organisms share very similar molecules such as DNA, then they must be closely related evolutionarily. Which evidence of evolution supports the above information?",
+    "options": [
+      "Comparative physiology",
+      "Comparative biochemistry",
+      "Comparative embryology",
+      "Comparative anatomy"
+    ],
+    "answer": 1,
+    "explanation": "Comparative biochemistry compares molecular sequences (DNA, proteins) between species. Similar DNA sequences indicate close evolutionary relationships, which is the basis of molecular phylogenetics."
+  },
+  {
+    "question": "Which one of the following CANNOT be used as an evidence of evolution through paleontology?",
+    "options": [
+      "Hair",
+      "Bones",
+      "Stomach",
+      "Teeth"
+    ],
+    "answer": 0,
+    "explanation": "Paleontology relies on fossils, which are preserved hard parts of organisms. Hair is soft tissue that decomposes quickly and rarely fossilizes, making it unsuitable as paleontological evidence."
+  },
+  {
+    "question": "The process in which individuals with a particular heritable trait survive better than the other is",
+    "options": [
+      "selective breeding.",
+      "natural selection.",
+      "adaptation.",
+      "evolution."
+    ],
+    "answer": 1,
+    "explanation": "Natural selection is the process by which organisms with favorable heritable traits survive and reproduce more successfully, leading to the prevalence of those traits in the population over generations."
+  },
+  {
+    "question": "Which type of selection favors individuals at both extremes of a range to have some advantage over those displaying the mean value?",
+    "options": [
+      "Natural selection",
+      "Disruptive selection",
+      "Stabilizing selection",
+      "Directional selection"
+    ],
+    "answer": 1,
+    "explanation": "Disruptive selection favors both extremes of a trait distribution while selecting against intermediate forms. This can eventually lead to the formation of two distinct subpopulations."
+  },
+  {
+    "question": "Which one of the following is true about the human evolution?",
+    "options": [
+      "Humans evolved from a different line of evolution than great apes.",
+      "Humans evolved from great apes.",
+      "Humans and chimpanzees both evolved from a common ancestor.",
+      "Humans evolved from chimpanzees."
+    ],
+    "answer": 2,
+    "explanation": "Humans did not evolve from chimpanzees; rather, both species share a common ancestor that lived about 6-8 million years ago. The two lineages diverged from this shared ancestor."
+  },
+  {
+    "question": "Which one of the following features is unique to bacteria?",
+    "options": [
+      "Absence of nuclear membrane",
+      "Having flagella for locomotion",
+      "Presence of permeable membrane",
+      "Being unicellular"
+    ],
+    "answer": 0,
+    "explanation": "The absence of a nuclear membrane (prokaryotic condition) is a defining feature of bacteria. Other options apply to various organisms: flagella exist in protists, permeable membranes are universal, and many organisms are unicellular."
+  },
+  {
+    "question": "This item is based on the diagram which shows the different shapes of bacteria. What is the correct name of the shape of bacteria represented by letters A, B and C, respectively?",
+    "options": [
+      "Flagellated bacilli, clusters, spirilla",
+      "Spirochaete, sphere, rod",
+      "Rod, spirochaete, sphere",
+      "Sphere, rod, spirochaete"
+    ],
+    "answer": 3,
+    "explanation": "The three basic shapes of bacteria are coccus (sphere/spherical), bacillus (rod-shaped), and spirillum/spirochaete (spiral). The correct identification from the diagram follows this pattern."
+  },
+  {
+    "question": "It is possible to produce human insulin in a bacterial strain. The insulin gene should be inserted in a plasmid and the recombinant DNA plasmid should be inserted into a bacterium. What is the role of the bacterium in this process?",
+    "options": [
+      "Multiplying the recombinant DNA molecule",
+      "Joining the gene of insulin with the gene of plasmid",
+      "The source of insulin and modification",
+      "The source of plasmid and insulin production"
+    ],
+    "answer": 0,
+    "explanation": "The bacterium acts as a host to replicate (multiply) the recombinant DNA plasmid. As the bacterium divides, it copies the plasmid, producing many copies of the insulin gene, and also transcribes and translates the gene to produce insulin."
+  },
+  {
+    "question": "Bacteria can cause diseases in all of the following mechanisms EXCEPT",
+    "options": [
+      "releasing toxins as they multiply.",
+      "invading and growing on the tissues of organs.",
+      "changing the genetic structure of host cells.",
+      "entering living cells and disrupting metabolic systems."
+    ],
+    "answer": 2,
+    "explanation": "Bacteria cause disease through toxin release, tissue invasion, and metabolic disruption. However, changing the genetic structure of host cells is a mechanism used by viruses (not typical of bacterial pathogenesis)."
+  },
+  {
+    "question": "Functional diseases differ from infectious diseases in that they",
+    "options": [
+      "are common in females than males.",
+      "show no signs of damage on the organ.",
+      "are caused by microorganisms.",
+      "occur in the brain and heart."
+    ],
+    "answer": 1,
+    "explanation": "Functional diseases involve impaired organ function without visible structural damage to the organ, unlike infectious diseases which show physical tissue damage caused by pathogens."
+  },
+  {
+    "question": "Three different cells are in the process of transporting materials across the cell membrane as indicated below: Cell 1 = water from high concentration to low concentration; Cell 2 = Na⁺ from high concentration to low concentration; Cell 3 = glucose from low concentration to high concentration. Which types of transport mechanism do the above cells use, respectively?",
+    "options": [
+      "Facilitated diffusion, osmosis, active transport",
+      "Facilitated diffusion, active transport, osmosis",
+      "Osmosis, facilitated diffusion, active transport",
+      "Osmosis, active transport, facilitated diffusion"
+    ],
+    "answer": 2,
+    "explanation": "Water moving down its concentration gradient is osmosis. Na⁺ moving from high to low concentration through channel proteins is facilitated diffusion. Glucose moving against its concentration gradient requires active transport."
+  },
+  {
+    "question": "Suppose you took a container and divided it into two halves by a membrane which is permeable to water and labeled the two halves as A and B. Finally, you added hypertonic solution in A and hypotonic solution in B. What will be the expected result of this experiment?",
+    "options": [
+      "Rise of the water level in A",
+      "No change in both halves",
+      "Rise of the water level in both halves",
+      "Rise of the water level in B"
+    ],
+    "answer": 0,
+    "explanation": "Water moves from hypotonic (B, higher water potential) to hypertonic (A, lower water potential) across the semi-permeable membrane. This causes the water level in A to rise while B decreases."
+  },
+  {
+    "question": "A class of grade 11 students were given two solutions A and B of unknown concentration separated by a semi-permeable membrane. The teacher instructed them to observe any changes in the water levels of the two solutions. After a few minutes, the students observed the water level in solution A has decreased. What could the students conclude from their observation?",
+    "options": [
+      "The two solutions were isotonic.",
+      "Solution A was hypertonic.",
+      "Solution B had positive water potential.",
+      "Solution A had higher water potential."
+    ],
+    "answer": 3,
+    "explanation": "Water moved from A to B (since A's level decreased), meaning A had higher water potential (less negative/more dilute) and B had lower water potential (more concentrated/hypertonic)."
+  },
+  {
+    "question": "According to the fluid-mosaic model of the plasma membrane",
+    "options": [
+      "phospholipid bilayer forms the basic structure of the membrane.",
+      "peripheral proteins are tightly attached on the membrane.",
+      "the membrane has uniform composition of proteins.",
+      "glycoproteins form a double layer."
+    ],
+    "answer": 0,
+    "explanation": "The fluid-mosaic model describes the membrane as a phospholipid bilayer with embedded proteins that can move laterally (fluid), creating a mosaic pattern. The bilayer is the fundamental structural component."
+  },
+  {
+    "question": "A student did an experiment and found out that catabolism of amino acid produces toxic ammonia in the liver cells which gradually get converted into urea and excreted through urine. What would be the result of the experiment if osmosis was blocked? The liver cells",
+    "options": [
+      "become over active and produce more energy.",
+      "become damaged and lose functionality.",
+      "gain water and become turgid.",
+      "excrete more ammonia and urea."
+    ],
+    "answer": 1,
+    "explanation": "If osmosis is blocked, waste products like ammonia and urea cannot be properly diluted and removed from cells. The accumulation of toxic substances would damage the liver cells, causing them to lose functionality."
+  },
+  {
+    "question": "How does crossing over during meiosis bring variation in species? By",
+    "options": [
+      "combining sex and somatic cell chromosomes",
+      "creating genes that are not found in both parents due to meiosis",
+      "increasing the amount of genes in one of the parents during meiosis",
+      "combination of genes in the gametes that are not found in either parent"
+    ],
+    "answer": 3,
+    "explanation": "Crossing over exchanges segments between homologous chromosomes, creating new combinations of alleles in gametes. These recombinant chromosomes contain gene combinations not present in either parent, increasing genetic variation."
+  },
+  {
+    "question": "This item is based on the following list of events during cloning of an insulin gene into plasmid. I. Obtaining insulin producing cells and plasmid from organisms; II. Cutting the insulin gene and plasmid; III. X; IV. Inserting the recombinant plasmid into bacteria; V. Production of insulin by bacteria. Which one of the following best represents the step listed as 'X'?",
+    "options": [
+      "Inserting the insulin gene into a bacterium",
+      "Inserting the open plasmid into a bacterium",
+      "Combining the insulin gene into the opened plasmid",
+      "Fusing the insulin and plasmid genes to the cell wall of bacteria"
+    ],
+    "answer": 2,
+    "explanation": "After cutting both the insulin gene and the plasmid (step II), the next step (X) is to combine/ligate the insulin gene into the opened plasmid using DNA ligase, creating a recombinant plasmid before inserting it into bacteria (step IV)."
+  },
+  {
+    "question": "How does our body synthesize some of the amino acids in our body? From",
+    "options": [
+      "breaking down of pre-existing proteins",
+      "intermediate molecules of different pathways",
+      "biological breakdown of our own cells",
+      "fatty acids we consume"
+    ],
+    "answer": 1,
+    "explanation": "Non-essential amino acids are synthesized by the body from intermediate molecules of metabolic pathways (such as pyruvate, oxaloacetate from glycolysis and Krebs cycle), through processes like transamination."
+  },
+  {
+    "question": "Consider the DNA molecule containing: Strand 1: TACGTA; Strand 2: ATGCAT. What will be the sequence of the new DNA if the DNA replicates semi-conservatively?",
+    "options": [
+      "ATGCAT / ATGCAT",
+      "TACGTA / ATGCAT",
+      "ATGCAT / UACGUA",
+      "TACGTA / ATGCAT"
+    ],
+    "answer": 1,
+    "explanation": "In semi-conservative replication, each original strand serves as a template. The new DNA molecule retains one original strand and one newly synthesized complementary strand, resulting in the same sequence as the original: TACGTA/ATGCAT."
+  },
+  {
+    "question": "During translation the",
+    "options": [
+      "mRNA brings amino acids into the ribosomes.",
+      "tRNA with complementary anticodon binds on the codon of mRNA.",
+      "tRNA serves as a template of the DNA molecule.",
+      "ribosome moves forward over two codons at a time."
+    ],
+    "answer": 1,
+    "explanation": "During translation, tRNA molecules carry specific amino acids and their anticodons bind to complementary codons on the mRNA at the ribosome, ensuring the correct amino acid sequence in the growing polypeptide chain."
+  },
+  {
+    "question": "The terrestrial biome characterized by cold temperature, dry precipitation, frozen soil and inhabited by migrating birds is",
+    "options": [
+      "tropical montane forests.",
+      "tundra.",
+      "boreal forests.",
+      "deserts."
+    ],
+    "answer": 1,
+    "explanation": "The tundra biome is characterized by extremely cold temperatures, low precipitation, permafrost (permanently frozen soil), and serves as a breeding ground for many migratory bird species during the short summer."
+  },
+  {
+    "question": "This item is based on the table below showing biome characteristics. Select the correct representatives for L, M, N and O, respectively.",
+    "options": [
+      "Fertile, migratory animals, poor, drought and fire adapting animals",
+      "Medium, ants and spiders, poor, polar bears",
+      "Fertile, many animals, poor, few animals",
+      "Poor, sparse, fertile, many animals"
+    ],
+    "answer": 3,
+    "explanation": "Desert soil is poor with sparse animal life, while tropical montane forest has fertile soil supporting many animal species. The correct pairing matches each biome's soil quality and animal population characteristics."
+  },
+  {
+    "question": "Which one of the following explains biodiversity?",
+    "options": [
+      "The similarity and difference of organisms which live in different ecosystems",
+      "Large number of organisms in the same ecosystem",
+      "The variability among living organisms, within species, and of ecosystem",
+      "The large number of human races in the world"
+    ],
+    "answer": 2,
+    "explanation": "Biodiversity encompasses the variety of life at all levels: genetic diversity within species, species diversity within communities, and ecosystem diversity across landscapes. It is the total variability of living organisms."
+  },
+  {
+    "question": "In which area of the above table does all of the species are more or less equally successful?",
+    "options": [
+      "Area 1 and 2",
+      "Area 1 and 3",
+      "Area 2",
+      "Area 1"
+    ],
+    "answer": 2,
+    "explanation": "The area where all species have roughly equal population numbers indicates equal success in terms of survival and reproduction, suggesting balanced resource utilization and no single species dominating."
+  },
+  {
+    "question": "A major factor in controlling the population size that helps to minimize predators and recover prey's number is",
+    "options": [
+      "inter-specific competition.",
+      "intra-specific competition.",
+      "disease causing organisms.",
+      "predation."
+    ],
+    "answer": 3,
+    "explanation": "Predation acts as a natural population control mechanism. When predator numbers increase, prey decreases; then predators decline due to food shortage, allowing prey to recover. This predator-prey cycle regulates both populations."
+  },
+  {
+    "question": "Which one of the following is true about the importance of Lucy in resolving debates about human evolution?",
+    "options": [
+      "Bipedalism came before big brains.",
+      "Lucy was partially an arboreal primate.",
+      "Big brains came before bipedalism.",
+      "Lucy had a brain size of 1.8% of her body mass."
+    ],
+    "answer": 0,
+    "explanation": "Lucy (Australopithecus afarensis) provided crucial evidence that bipedalism evolved before large brain size. Her pelvis and leg bones showed bipedal adaptation while her brain was still small, resolving the debate about which trait came first."
+  },
+  {
+    "question": "Which one of the following can best explain behavior? It is",
+    "options": [
+      "the actions or reactions of a person or animal in response to external or internal stimuli.",
+      "a cell or group of cells that receives and processes stimuli.",
+      "the co-ordinated response of an organism to an internal or external stimuli.",
+      "the tendency for parts of plants to grow towards light."
+    ],
+    "answer": 0,
+    "explanation": "Behavior is defined as the observable actions or reactions of an organism in response to external or internal stimuli. Option B describes receptors, C describes a response (not behavior itself), and D describes phototropism."
+  },
+  {
+    "question": "The quick withdrawal of your hand from a hot plate is an example of",
+    "options": [
+      "biological clock.",
+      "key stimulus.",
+      "fixed action pattern.",
+      "innate behavior."
+    ],
+    "answer": 3,
+    "explanation": "The withdrawal reflex is an innate (inborn, unlearned) behavior. It is an automatic, genetically programmed response that does not require prior experience or learning."
+  },
+  {
+    "question": "Which one of the following processes describes a biological clock?",
+    "options": [
+      "Circannual migration of birds from temperate to tropical areas",
+      "Kinesis and taxes of woodlice and other simple animals",
+      "Removal of one's thumb from hot objects quickly",
+      "The growing of plants towards light"
+    ],
+    "answer": 0,
+    "explanation": "A biological clock is an internal mechanism that controls rhythmic cycles (circadian, circannual). The circannual migration of birds is driven by an internal biological clock that times seasonal movements regardless of external cues."
+  },
+  {
+    "question": "Identify learned behavior from the following.",
+    "options": [
+      "Child withdraws hand from hot things.",
+      "Ants making nest.",
+      "Dog trained to hunt.",
+      "Honey bee making honey."
+    ],
+    "answer": 2,
+    "explanation": "A dog trained to hunt demonstrates learned behavior, as the hunting skills are acquired through training and experience. The other options are innate/inherited behaviors (withdrawal reflex, instinctive nest-building, and instinctive honey production)."
+  },
+  {
+    "question": "If one base in the six triplets of the gene coding for one of the four polypeptides in the haemoglobin molecule alters the triplet from GAG to GTG, which one of the following biological terms best describes the above phenomenon?",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Mutation",
+      "Cloning"
+    ],
+    "answer": 2,
+    "explanation": "A change in the DNA base sequence (GAG → GTG) is a point mutation. This specific mutation causes sickle cell anemia, where glutamic acid is replaced by valine in the hemoglobin protein."
+  },
+  {
+    "question": "Which one of the following is the basic characteristic of mutation? It is",
+    "options": [
+      "regular.",
+      "expected.",
+      "spontaneous.",
+      "planned."
+    ],
+    "answer": 2,
+    "explanation": "Mutations are spontaneous random changes in DNA that occur without any directed cause. They are not regular, expected, or planned events; they arise naturally during DNA replication or due to environmental factors."
+  },
+  {
+    "question": "The theory that suggests 'life can evolve autonomously from non-living objects' is known as",
+    "options": [
+      "biochemical theory.",
+      "eternity theory.",
+      "cosmozoan theory.",
+      "spontaneous generation theory."
+    ],
+    "answer": 3,
+    "explanation": "Spontaneous generation theory (abiogenesis) proposed that living organisms could arise spontaneously from non-living matter. This theory was disproved by Pasteur's experiments showing that life comes only from pre-existing life."
+  },
+  {
+    "question": "Which one of the following is true about neo-Darwinian theory?",
+    "options": [
+      "It takes into account genetics and animal behavior to understand evolution.",
+      "Development of new feature is important for survival.",
+      "There is a natural variation in features and variations which are heritable.",
+      "All species tend to produce more offspring than can possibly survive."
+    ],
+    "answer": 2,
+    "explanation": "Neo-Darwinism (modern synthesis) integrates natural selection with Mendelian genetics. A key principle is that natural variation exists in populations and that heritable variations are subject to natural selection, driving evolutionary change."
+  },
+  {
+    "question": "Which one of the following statements describes the evolutionary theory of Lamarck?",
+    "options": [
+      "Origin of species happens only through natural selection.",
+      "Species started complex and gradually become simple.",
+      "Acquired characteristics cannot be inherited.",
+      "Structures commonly used become more developed."
+    ],
+    "answer": 3,
+    "explanation": "Lamarck's theory of inheritance of acquired characteristics proposes that organs or structures used frequently become more developed, and these acquired traits are passed on to offspring. This is known as the 'use and disuse' principle."
+  },
+  {
+    "question": "The behavior which trainers look, if modified, could lead to the desired behavior and reward such a behavior is",
+    "options": [
+      "reflex.",
+      "operant.",
+      "innate.",
+      "instinct."
+    ],
+    "answer": 1,
+    "explanation": "Operant conditioning involves modifying behavior through rewards and punishments. Trainers identify and reward desired behaviors (reinforcement), which increases the likelihood of those behaviors being repeated."
+  },
+  {
+    "question": "Which one of the following examples of behavior describes when an animal stops responding to stimulus or cue after a period of repeated exposure?",
+    "options": [
+      "Habituation",
+      "Conditioning",
+      "Imprinting",
+      "Reflex"
+    ],
+    "answer": 0,
+    "explanation": "Habituation is a simple form of learning in which an animal gradually reduces or stops its response to a repeated, non-harmful stimulus. It allows animals to ignore irrelevant stimuli and focus on important ones."
+  },
+  {
+    "question": "A police man trained a dog on how to find explosive materials through sniffing; on another instance the same police man observed a week old puppy following him on the outside. Which one of the following is correct about the behaviors of the animals in the observation?",
+    "options": [
+      "Both of the cases indicate learned behavior of the animals.",
+      "The first case develops through trial and the second is genetically coded.",
+      "The first case is genetically encoded and the second is adaptive.",
+      "Both of the cases indicate natural behavior of the animals."
+    ],
+    "answer": 1,
+    "explanation": "The trained dog finding explosives is learned behavior (developed through training/trial). The puppy following the policeman is imprinting, which is an innate/genetically coded behavior triggered during a critical period early in life."
+  },
+  {
+    "question": "Which one of the following behaviors is a courtship behavior?",
+    "options": [
+      "Ritual fighting",
+      "Defending a den",
+      "Touch",
+      "Scent marking"
+    ],
+    "answer": 0,
+    "explanation": "Ritual fighting (or ritualized displays) is a courtship behavior where animals perform specific, often elaborate displays or competitive behaviors to attract mates. It is directly related to mate selection and reproduction."
+  },
+  {
+    "question": "The Ethiopian wolf (Canis simensis) lives and hunts in packs. During patrolling their habitat, both male and female wolves of the group maintain their area with urine containing pheromone. This pattern of behavior best exemplifies",
+    "options": [
+      "operant behavior.",
+      "learned behavior.",
+      "courtship behavior.",
+      "territorial behavior."
+    ],
+    "answer": 3,
+    "explanation": "Marking territory with urine containing pheromones is territorial behavior. It communicates to other wolves that the area is occupied, helping to maintain pack boundaries and reduce conflict with neighboring groups."
+  },
+  {
+    "question": "This item is based on the table below showing: Condition - Population size: Natality exceeds mortality - X; Mortality exceeds natality - Y; Mortality and natality are equal - Z. The population number of X, Y, and Z, respectively will",
+    "options": [
+      "decrease, remains the same, increase.",
+      "remain the same, increase, decrease.",
+      "decrease, increase, remain the same.",
+      "increase, decrease, remain the same."
+    ],
+    "answer": 3,
+    "explanation": "When natality (births) exceeds mortality (deaths), population increases (X). When mortality exceeds natality, population decreases (Y). When they are equal, population remains the same (Z)."
+  },
+  {
+    "question": "This item is based on the table below which shows population growth trend. Which one of the following is correct about X and Y?",
+    "options": [
+      "X is arithmetic growth because the numbers increase by the same fixed amount in each time period and Y is exponential growth because the population doubles in each time period.",
+      "Both X and Y are exponential growth since each of them increase regularly without interruption.",
+      "X is exponential growth because the numbers increase by the same fixed amount in each time period and Y is arithmetic growth because the population doubles in each time period.",
+      "X and Y cannot be compared because each of them grow differently with incomparable proportion."
+    ],
+    "answer": 0,
+    "explanation": "Arithmetic growth increases by a constant amount each time period (linear), while exponential growth multiplies by a constant factor (e.g., doubling). When numbers increase by a fixed amount, it is arithmetic; when they double each period, it is exponential."
+  },
+  {
+    "question": "Drosophila melanogaster are convenient experimental animals in genetics. Because they",
+    "options": [
+      "are too cheap to breed in large numbers.",
+      "have chromosomes that can't be easily detected.",
+      "have 23 pairs of chromosomes per cell.",
+      "are small animals with a short life cycle."
+    ],
+    "answer": 3,
+    "explanation": "Drosophila melanogaster is ideal for genetic studies because of its small size, short life cycle (about 2 weeks), large number of offspring, and easily observable genetic traits. They have 4 pairs of chromosomes (not 23)."
+  },
+  {
+    "question": "Suppose a heterozygous brown eye father is married with a blue eye mother. What would be the proportion of homozygous children for eye color? (Hint: Brown is dominant over blue)",
+    "options": [
+      "75%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "answer": 2,
+    "explanation": "Cross: Bb × bb → offspring are Bb (50%, heterozygous brown) and bb (50%, homozygous blue). 50% of children are homozygous (bb). The Bb offspring are heterozygous, not homozygous."
+  },
+  {
+    "question": "This item is based on the figure that shows the gains in productivity from hybrid vigour. In the above diagram, what best describes the breeding condition represented by letter X and Z, respectively?",
+    "options": [
+      "X represents natural selection and Z represents artificial selection.",
+      "Both X and Z represent inbreeding.",
+      "X involves cross breeding and Z involves inbreeding.",
+      "X involves inbreeding and Z involves cross breeding."
+    ],
+    "answer": 3,
+    "explanation": "In hybrid vigour (heterosis), inbreeding (X) typically reduces productivity due to increased homozygosity and expression of deleterious recessive alleles, while cross breeding (Z) increases productivity due to heterozygote advantage."
+  },
+  {
+    "question": "Which one of the following organic molecules is used to make haemoglobin?",
+    "options": [
+      "Proteins",
+      "Nucleic acids",
+      "Glycogen",
+      "Lipids"
+    ],
+    "answer": 0,
+    "explanation": "Haemoglobin is a globular protein composed of four polypeptide chains, each with a heme group containing iron. Proteins are the organic molecules that form haemoglobin's structure."
+  },
+  {
+    "question": "Which one of the following is the correct formula of maltose?",
+    "options": [
+      "C12H24O12",
+      "C6H12O6",
+      "C12H22O11",
+      "C5H10O5"
+    ],
+    "answer": 2,
+    "explanation": "Maltose is a disaccharide formed from two glucose molecules with the loss of one water molecule (condensation). Its molecular formula is C12H22O11. C6H12O6 is glucose, and C5H10O5 is a pentose sugar."
+  },
+  {
+    "question": "A grade 11 student added Benedict's reagent on food sample and heated the mixture for 5 minutes. Then he observed a color change. Which one of the following is FALSE about the result?",
+    "options": [
+      "An orange colour shows that a non-reducing sugar is present.",
+      "A red colour shows that a reducing sugar is present.",
+      "An orange colour shows that a reducing sugar is present.",
+      "A yellow colour shows that a reducing sugar is present."
+    ],
+    "answer": 0,
+    "explanation": "An orange colour in Benedict's test indicates the presence of a reducing sugar, not a non-reducing sugar. Statement A is therefore false. Non-reducing sugars like sucrose must first be hydrolyzed before giving a positive Benedict's test."
+  },
+  {
+    "question": "In a Benedict's test for sucrose, why does the test sample first boil with hydrochloric acid?",
+    "options": [
+      "To hydrolyze non-reducing sugar",
+      "To retest the mixture with Benedict's solution",
+      "To reduce Benedict's solution",
+      "To neutralize the solution"
+    ],
+    "answer": 0,
+    "explanation": "Sucrose is a non-reducing sugar that does not react directly with Benedict's reagent. Hydrochloric acid hydrolyzes sucrose into its component monosaccharides (glucose and fructose), which are reducing sugars and will give a positive Benedict's test."
+  },
+  {
+    "question": "Which one of the following statements explains the specificity of enzymes?",
+    "options": [
+      "can be destroyed by excessive heat.",
+      "can be used over and over again.",
+      "catalyse one reaction only.",
+      "speed up a reaction without being used up."
+    ],
+    "answer": 2,
+    "explanation": "Enzyme specificity refers to the fact that each enzyme catalyzes only one specific reaction or acts on one specific substrate. This is due to the unique shape of the enzyme's active site (lock and key model)."
+  },
+  {
+    "question": "Consider the following table which contains organic and inorganic molecules. Which rows contain the corresponding organic and inorganic molecules correctly?",
+    "options": [
+      "3 and 4",
+      "1 and 3",
+      "2 and 3",
+      "1 and 2"
+    ],
+    "answer": 1,
+    "explanation": "Rows 1 and 3 correctly pair organic molecules (like lactic acid, starch) with inorganic molecules (like salt, hydrochloric acid). Organic molecules contain carbon-hydrogen bonds, while inorganic molecules typically do not."
+  },
+  {
+    "question": "Which one of the following statements explains the property of water? It",
+    "options": [
+      "is a transparent molecule.",
+      "is highly viscous substance.",
+      "takes more energy to heat water up.",
+      "has the lowest latent heat of vaporization."
+    ],
+    "answer": 2,
+    "explanation": "Water has a high specific heat capacity, meaning it takes a large amount of energy to raise its temperature. This property is crucial for temperature regulation in living organisms and aquatic environments."
+  },
+  {
+    "question": "Cellulose is",
+    "options": [
+      "a non-reducing monosaccharide sugar.",
+      "a polymer of alpha-glucose molecule.",
+      "a mixture of amylose and amylopectin.",
+      "a polymer of beta-glucose molecule."
+    ],
+    "answer": 3,
+    "explanation": "Cellulose is a polysaccharide made of beta-glucose molecules linked by 1,4-glycosidic bonds. The beta-linkage creates straight chains that form hydrogen bonds between adjacent chains, giving cellulose its structural strength."
+  },
+  {
+    "question": "Which organic molecules are formed when two fatty acid molecules are bonded to the glycerol and the place of the third is taken by a phosphate group?",
+    "options": [
+      "Triglycerides",
+      "Phospholipids",
+      "Waxes",
+      "Glycolipids"
+    ],
+    "answer": 1,
+    "explanation": "Phospholipids consist of a glycerol molecule with two fatty acid tails and one phosphate group head. This amphipathic structure (hydrophilic head, hydrophobic tails) is essential for cell membrane formation."
+  },
+  {
+    "question": "All are the function of lipids EXCEPT",
+    "options": [
+      "respiratory substrates.",
+      "determines a particular feature.",
+      "thermal insulation.",
+      "water proofing."
+    ],
+    "answer": 0,
+    "explanation": "While lipids can be used as an energy source, they are not the primary respiratory substrates (carbohydrates, specifically glucose, are). The main functions of lipids include insulation, waterproofing, and structural roles in cell membranes."
+  },
+  {
+    "question": "The step of scientific method which comes after analyzing results and draw conclusion is",
+    "options": [
+      "designing and carrying out experiment.",
+      "accepting or rejecting the hypothesis.",
+      "doing background research.",
+      "constructing hypothesis."
+    ],
+    "answer": 1,
+    "explanation": "After analyzing results and drawing conclusions, the next step in the scientific method is to either accept or reject the hypothesis based on whether the evidence supports it."
+  },
+  {
+    "question": "In a group of individuals in which group A was a control and group B was an experimental group, a student gave a placebo to the control group, and an unknown drug to the experimental group. At the end, the experimental group got better. Which one of the following is true about the result?",
+    "options": [
+      "The experiment was wrong.",
+      "Conclusion cannot be reached.",
+      "The drug has an effect.",
+      "Placebo has better effect."
+    ],
+    "answer": 2,
+    "explanation": "Since the experimental group (receiving the drug) improved compared to the control group (receiving placebo), the drug appears to have a therapeutic effect. The placebo control allows the researcher to distinguish the drug's effect from psychological effects."
+  },
+  {
+    "question": "A biologist conducted simple experiment to investigate the effect of pH on salivary amylase. She added 5cm³ amylase solution into 5cm³ starch suspension with a neutral pH in a test tube. After ten minutes, she tested it with iodine reagent and the solution turned into blue-black color. What is the dependent variable of this experiment?",
+    "options": [
+      "Adding salivary amylase",
+      "Formation of blue-black color",
+      "Applying iodine treatment",
+      "pH of the solution"
+    ],
+    "answer": 1,
+    "explanation": "The dependent variable is the outcome measured in the experiment. The blue-black color formation (indicating starch is still present = amylase activity level) is what the researcher measures. pH would be the independent variable being tested."
+  },
+  {
+    "question": "Which one of the following pairs of biological tools and their functions is FALSE?",
+    "options": [
+      "Quadrat - to separate solids from liquid",
+      "Optical microscope - use beam of light to produce magnified image",
+      "Petri dish - used for culturing microorganisms",
+      "Balances - used for measuring mass"
+    ],
+    "answer": 0,
+    "explanation": "A quadrat is a square frame used for sampling plant populations in ecology, not for separating solids from liquids. A filter funnel would be used for separation of solids from liquids."
+  },
+  {
+    "question": "Grade 12 students went to a field and collected plant specimens for identification in the laboratory. They wanted to preserve the plant parts for some times and specimens can be analyzed later. Which one of the following biological tool is used for their activities?",
+    "options": [
+      "Theodolite",
+      "Quadrat",
+      "Plant press",
+      "Pitfall traps"
+    ],
+    "answer": 2,
+    "explanation": "A plant press is used to preserve plant specimens by pressing and drying them flat. This prevents decomposition and maintains the structural features needed for later identification and study."
+  },
+  {
+    "question": "Identify the statement that correctly explains the factors of an enzyme activity.",
+    "options": [
+      "Increasing concentration of substrates does not affect enzyme activity.",
+      "Inhibitors increase enzyme activity by increasing their turnover rate.",
+      "Excessive heat breaks the ionic bonds that hold the tertiary structure of the enzyme protein.",
+      "Hydrogen ion concentration affects the ionic bonds of an enzyme."
+    ],
+    "answer": 2,
+    "explanation": "Excessive heat denatures enzymes by breaking the ionic bonds and other weak interactions that maintain the tertiary (3D) structure. This alters the active site shape, preventing the enzyme from functioning properly."
+  },
+  {
+    "question": "Which one of the following is true about allosteric regulation?",
+    "options": [
+      "Activation by activators when it interacts on the allosteric site.",
+      "Allosteric inhibition is occurred when inhibitors attached on the active site.",
+      "Enzymes are activated when activators attached on the active site.",
+      "Inhibition by competitive inhibitors when it interacts on the allosteric site."
+    ],
+    "answer": 0,
+    "explanation": "Allosteric regulation involves regulators binding to the allosteric site (not the active site). Activators binding to the allosteric site enhance enzyme activity, while allosteric inhibitors binding to the allosteric site reduce activity."
+  },
+  {
+    "question": "If an enzyme from thermophilic bacteria, which catalyses glucose 6-phosphate into fructose 6-phosphate in the process of glycolysis, is subjected to below the optimum temperature, the rate of reaction will be decreased. This is because",
+    "options": [
+      "more collisions between enzyme and glucose 6-phosphate occurred.",
+      "less enzyme - glucose 6-phosphate complexes formed.",
+      "the particles have more kinetic energy.",
+      "the enzyme is denatured."
+    ],
+    "answer": 1,
+    "explanation": "Below the optimum temperature, molecules have less kinetic energy, resulting in fewer successful collisions between the enzyme and substrate. This means fewer enzyme-substrate complexes form, decreasing the reaction rate. The enzyme is NOT denatured at low temperatures."
+  },
+  {
+    "question": "Cyclooxygenase-2 is an enzyme that catalyzes the conversion of arachidonic acid to prostaglandins, which promote pain and fever in our body. The pain killer ibuprofen, acts as non-competitive inhibitor of cyclooxygenase-2, reduces the production of prostaglandins. What would happen if the concentration of the ibuprofen increased?",
+    "options": [
+      "Concentration of arachidonic acid is decreased.",
+      "Substrate affinity of cyclooxygenase-2 is higher.",
+      "Pain of the body is decreased.",
+      "Production of prostaglandins is increased."
+    ],
+    "answer": 2,
+    "explanation": "As a non-competitive inhibitor, increased ibuprofen concentration further reduces enzyme activity, decreasing prostaglandin production. Since prostaglandins promote pain and fever, their reduced production leads to decreased pain."
+  },
+  {
+    "question": "Some amino acids are synthesized using transamination process in the cell. This activity more describes the cell's",
+    "options": [
+      "energy production.",
+      "anabolism.",
+      "replication.",
+      "catabolism."
+    ],
+    "answer": 1,
+    "explanation": "Transamination is the process of synthesizing new amino acids by transferring an amino group from one molecule to another. This is an anabolic process (building up complex molecules from simpler ones) rather than catabolic (breaking down)."
+  },
+  {
+    "question": "In the above diagram of a bacteriophage, DNA and Protein coat are respectively represented by",
+    "options": [
+      "1 and 3.",
+      "2 and 3.",
+      "2 and 1.",
+      "1 and 2."
+    ],
+    "answer": 0,
+    "explanation": "In a typical bacteriophage diagram, the DNA is located in the head region (usually labeled as 1) and the protein coat (capsid) surrounds it (typically labeled as 3), with the tail structure in between."
+  },
+  {
+    "question": "The social impact of AIDS can be mainly revealed by",
+    "options": [
+      "reduced labor force.",
+      "loss of body weight.",
+      "fear of stigmatization.",
+      "loss of appetite."
+    ],
+    "answer": 0,
+    "explanation": "The social impact of AIDS primarily manifests as a reduced labor force due to illness and death of productive adults. This affects economic productivity, orphaned children, and community development at a societal level."
+  },
+  {
+    "question": "Which one of the following is a DNA virus?",
+    "options": [
+      "Hepatitis C",
+      "H1N1",
+      "Herpes complex",
+      "HIV"
+    ],
+    "answer": 2,
+    "explanation": "Herpes viruses (including Herpes simplex) are DNA viruses. Hepatitis C is an RNA virus, H1N1 (influenza) is an RNA virus, and HIV is a retrovirus (RNA virus that reverse transcribes to DNA)."
+  },
+  {
+    "question": "In an HIV/AIDS community screening, students were asked to take part in voluntary testing. The following discussion presents the views of four grade 12 students named A, B, C and D towards HIV testing. Student A: I should not take the testing; it is simply boring. Student B: We should take the testing, since we are educated; we should be exemplary. Student C: If we get tested and got positive what should we do? So, let us not get tested. Student D: You know, this HIV/AIDS testing is simply a business. We should not be cheated. Which student do you think is correct?",
+    "options": [
+      "Student D",
+      "Student C",
+      "Student B",
+      "Student A"
+    ],
+    "answer": 2,
+    "explanation": "Student B has the correct attitude toward HIV testing. Being educated and taking voluntary testing sets a positive example for the community. Early testing enables early treatment and prevents further transmission."
+  },
+  {
+    "question": "Which one of the following is a correct comparison of lytic and lysogenic cycles of virus multiplication?",
+    "options": [
+      "Lytic cycle releases new viruses only by splitting the host cell.",
+      "Both cycles damage the host cell DNA following infection.",
+      "Lysogenic cycle releases new viruses using only chronic cycle.",
+      "Lytic cycle involves incorporation of viral DNA into the host DNA."
+    ],
+    "answer": 0,
+    "explanation": "In the lytic cycle, the virus reproduces and then lyses (splits) the host cell to release new viral particles. In contrast, the lysogenic cycle integrates viral DNA into the host genome (prophage) without immediately destroying the cell."
+  },
+  {
+    "question": "Consider the following chemical reaction: RH₂ + A →[E] R + AH₂. Based on the above chemical reaction, in which classes of enzymes does enzyme 'E' can be grouped?",
+    "options": [
+      "Isomerases",
+      "Oxidoreductases",
+      "Transferases",
+      "Hydrolases"
+    ],
+    "answer": 1,
+    "explanation": "The reaction involves the transfer of hydrogen from RH₂ to A, which is an oxidation-reduction (redox) reaction. Enzymes that catalyze oxidation-reduction reactions are classified as oxidoreductases."
+  },
+  {
+    "question": "Which one of the following enzymes is used in washing powders?",
+    "options": [
+      "Cellulase",
+      "Pectinase",
+      "Biochymosin",
+      "Lipases"
+    ],
+    "answer": 3,
+    "explanation": "Lipases are commonly used in biological washing powders to break down fat/grease stains on clothes. They work by hydrolyzing lipids into fatty acids and glycerol, removing oily stains effectively at low temperatures."
+  },
+  {
+    "question": "Which one of the following statements explains how an enzyme lowers the activation energy of a reaction? By",
+    "options": [
+      "lowering the kinetic energy of the reacting molecules.",
+      "changing its tertiary structure into secondary protein structure.",
+      "enabling the reaction to occur at lower physiological temperature.",
+      "making the individual substrate molecules more reactive."
+    ],
+    "answer": 3,
+    "explanation": "Enzymes lower activation energy by distorting the substrate's chemical bonds when it binds to the active site (induced fit model). This distortion makes the substrate more reactive, reducing the energy barrier needed for the reaction to proceed."
+  },
+  {
+    "question": "What happens when the substrate molecule binds to the active site of an enzyme?",
+    "options": [
+      "The amino acids in the active site become unreactive.",
+      "The chemical bonds of the substrate are distorted.",
+      "The substrate and the enzyme will bond permanently.",
+      "They form a stable intermediate substance."
+    ],
+    "answer": 1,
+    "explanation": "When substrate binds to the active site, the enzyme undergoes conformational change (induced fit) that distorts or strains the chemical bonds in the substrate. This makes bonds easier to break or form, facilitating the reaction."
+  },
+  {
+    "question": "Which of the following vitamins is used as a component of cofactor?",
+    "options": [
+      "Ascorbic acid",
+      "Retinol",
+      "Thiamin",
+      "Riboflavin"
+    ],
+    "answer": 3,
+    "explanation": "Riboflavin (vitamin B2) is a precursor of FAD (flavin adenine dinucleotide), which is a coenzyme/cofactor involved in redox reactions. Many B vitamins serve as precursors to important cofactors in metabolic reactions."
+  },
+  {
+    "question": "Which event of cellular respiration takes place in the cytoplasm of eukaryotic cells?",
+    "options": [
+      "Production of ATP through chemiosmosis",
+      "Reaction of pyruvate with coenzyme A",
+      "Production of pyruvate from glucose",
+      "Reaction of acetyl CoA with oxaloacetate"
+    ],
+    "answer": 2,
+    "explanation": "Glycolysis (production of pyruvate from glucose) occurs in the cytoplasm. The other processes listed occur in the mitochondria: chemiosmosis (inner mitochondrial membrane), pyruvate to acetyl CoA (matrix), and Krebs cycle (matrix)."
+  },
+  {
+    "question": "Suppose two moles of glucose is burned aerobically. How many moles of ATP can be produced by substrate level phosphorylation in Krebs cycle?",
+    "options": [
+      "10",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "Per glucose molecule, Krebs cycle produces 2 ATP by substrate-level phosphorylation (1 ATP per turn × 2 turns). For 2 moles of glucose: 2 × 2 = 4 ATP from substrate-level phosphorylation in Krebs cycle."
+  },
+  {
+    "question": "During alcoholic fermentation, CO₂ is released when",
+    "options": [
+      "pyruvate is decarboxylated.",
+      "ethanol is oxidized.",
+      "acetaldehyde is reduced.",
+      "pyruvate is oxidized."
+    ],
+    "answer": 0,
+    "explanation": "In alcoholic fermentation, pyruvate is first decarboxylated by pyruvate decarboxylase, releasing CO₂ and producing acetaldehyde. The acetaldehyde is then reduced to ethanol by alcohol dehydrogenase, regenerating NAD⁺."
+  },
+  {
+    "question": "During anaerobic respiration, reduced NAD is required to",
+    "options": [
+      "convert lactate into pyruvate.",
+      "reduce pyruvate to acetyl CoA.",
+      "split pyruvate to CO₂ and acetaldehyde.",
+      "reduce pyruvate to lactate."
+    ],
+    "answer": 3,
+    "explanation": "In anaerobic respiration (lactic acid fermentation), reduced NAD (NADH) donates its hydrogen to pyruvate, reducing it to lactate. This regenerates NAD⁺, which is essential for glycolysis to continue in the absence of oxygen."
+  },
+  {
+    "question": "Why do we get tired and fatigued during heavy exercise such as long distance running? It is due to",
+    "options": [
+      "high rate of aerobic respiration.",
+      "shortage of glucose.",
+      "accumulation of CO₂.",
+      "accumulation of lactic acid."
+    ],
+    "answer": 3,
+    "explanation": "During intense exercise, oxygen supply cannot meet demand, leading to anaerobic respiration which produces lactic acid. Accumulation of lactic acid in muscles causes fatigue, cramps, and the burning sensation experienced during strenuous exercise."
+  },
+  {
+    "question": "The relevance and promise of biological sciences can be demonstrated by their contribution in",
+    "options": [
+      "development of housing and construction sectors.",
+      "advancement of aviation technology.",
+      "finding mechanisms to feed the growing human population.",
+      "finding solutions to ethnic conflicts."
+    ],
+    "answer": 2,
+    "explanation": "Biological sciences contribute to addressing food security through crop improvement, genetic engineering, sustainable agriculture, and pest control. These are essential for feeding the growing human population."
+  },
+  {
+    "question": "All are the roles of biology to combat the spread of HIV/AIDS EXCEPT",
+    "options": [
+      "raising fund for infected people.",
+      "producing a vaccine against the virus.",
+      "producing drugs that can stop the virus from reproducing.",
+      "breaking the transmission pathway."
+    ],
+    "answer": 0,
+    "explanation": "Raising funds is a social/economic activity, not a biological role. Biology contributes through vaccine development, drug production (antiretrovirals), and understanding transmission pathways to break the cycle of infection."
+  },
+  {
+    "question": "Which one of the following statements is INCORRECT about AIDS? The rate of transmission of AIDS will reduce when",
+    "options": [
+      "the number of sexual partners is restricted.",
+      "men and women are circumcised.",
+      "the transmission pathways is broken.",
+      "promiscuous sexual intercourse is reduced."
+    ],
+    "answer": 1,
+    "explanation": "While male circumcision has been shown to reduce HIV transmission risk, female circumcision (FGM) does not reduce transmission and may actually increase it due to tissue damage. The statement about 'men and women' being circumcised is therefore incorrect."
+  },
+  {
+    "question": "Suppose there are two communities in a village. Community A is actively participating in HIV/AIDS awareness creation, HIV prevention and got blood test for HIV whereas community B frequently requests for food aid, participates only in afforestation activities and HIV positive individuals keep the secret to themselves. In which community do you think that the incidence of HIV/AIDS most probably high?",
+    "options": [
+      "Impossible to decide",
+      "In community A",
+      "In both communities",
+      "In community B"
+    ],
+    "answer": 3,
+    "explanation": "Community B has higher HIV/AIDS incidence risk due to lack of awareness programs, no prevention activities, no testing, and HIV-positive individuals keeping their status secret (which promotes further transmission). Community A's proactive approach reduces transmission risk."
+  },
+  {
+    "question": "Which property of water is useful for life that it continues in relatively warm water underneath through the cold weather?",
+    "options": [
+      "High surface tension",
+      "High latent heat of vaporization",
+      "High specific heat capacity",
+      "Low density in its solid form than its liquid form"
+    ],
+    "answer": 3,
+    "explanation": "Ice is less dense than liquid water, so it floats on top, forming an insulating layer. This allows aquatic organisms to survive in the relatively warmer liquid water beneath the ice during cold weather."
+  },
+  {
+    "question": "Consider the following key events in the study of cell biology. I. Hooke describes 'cells' in a cork. II. Leeuwenhoek discovers protozoa. III. Schleiden and Schwann propose a cell theory. IV. Jansen builds the first compound microscope. Which one of the following represents the correct order from ancient to the recent?",
+    "options": [
+      "IV, I, II and III",
+      "II, I, IV and I",
+      "IV, II, I and III",
+      "I, II, III and IV"
+    ],
+    "answer": 0,
+    "explanation": "Chronological order: Jansen built the first compound microscope (1590s), Hooke described cells in cork (1665), Leeuwenhoek discovered protozoa (1674), and Schleiden and Schwann proposed cell theory (1838-1839)."
+  },
+  {
+    "question": "One of the differences of prokaryotic and eukaryotic cells is their cell wall. This is because cell wall of prokaryotic cell is",
+    "options": [
+      "stronger than eukaryotic cell wall.",
+      "made from sugar and amino acid.",
+      "the site of energy production.",
+      "impermeable."
+    ],
+    "answer": 1,
+    "explanation": "The prokaryotic cell wall is made of peptidoglycan (murein), which is a polymer of sugars (NAG and NAM) and amino acids. Eukaryotic cell walls (in plants and fungi) are made of cellulose or chitin, respectively."
+  },
+  {
+    "question": "Consider the following features of cells. I. have pili; II. have chromosome; III. have circular DNA; IV. have larger ribosomes. Which of the above features of cells can be included in eukaryotic cells?",
+    "options": [
+      "II and IV",
+      "I and III",
+      "II and III",
+      "I and II"
+    ],
+    "answer": 0,
+    "explanation": "Eukaryotic cells have true chromosomes (II) and larger (80S) ribosomes (IV). Pili (I) are found only in prokaryotes, and circular DNA (III) is characteristic of prokaryotes (eukaryotic DNA is linear)."
+  },
+  {
+    "question": "Which of the following is correct about the structure of the cell membrane?",
+    "options": [
+      "The membrane has a fluid nature that is regulated by cholesterol.",
+      "Proteins form the outer layer while phospholipids form the inner layer.",
+      "Phospholipid molecules form a transport channel.",
+      "Protein molecules form a double layer."
+    ],
+    "answer": 0,
+    "explanation": "The fluid-mosaic model describes the membrane as fluid because phospholipids and proteins can move laterally. Cholesterol regulates this fluidity by preventing it from becoming too fluid at high temperatures or too rigid at low temperatures."
+  },
+  {
+    "question": "Which of the following is a correct match of cellular organelles and their corresponding function?",
+    "options": [
+      "Lysosome - modification of proteins",
+      "Golgi body - digesting foreign cells",
+      "Vacuole - strength and elasticity",
+      "Mitochondria - ATP synthesis"
+    ],
+    "answer": 3,
+    "explanation": "Mitochondria are the powerhouse of the cell, producing ATP through cellular respiration. Lysosomes digest material, Golgi body modifies and packages proteins, and vacuoles store water and maintain turgor pressure."
+  },
+  {
+    "question": "Which letters represent the site where photolysis and Calvin cycle take place, respectively?",
+    "options": [
+      "B and A",
+      "F and E",
+      "D and F",
+      "C and E"
+    ],
+    "answer": 3,
+    "explanation": "In a chloroplast diagram, photolysis (splitting of water) occurs in the thylakoid membrane/grana (C), while the Calvin cycle (light-independent reactions) occurs in the stroma (E)."
+  },
+  {
+    "question": "What structural arrangements make chlorophyll suited for its function?",
+    "options": [
+      "The structural differences between Photosystem I and Photosystem II",
+      "The long distance between Photosystem I and Photosystem II",
+      "The floating of the photosystems and the electron transport chain in the cytosol",
+      "The fixing of the photosystems and the electron transport chain on thylakoid membrane"
+    ],
+    "answer": 3,
+    "explanation": "The photosystems and electron transport chain are embedded in the thylakoid membrane, which provides the organized structure needed for efficient electron flow, proton gradient formation, and ATP synthesis during photosynthesis."
+  },
+  {
+    "question": "Why does photorespiration take place in a hot environment? Because plants close their stomata and face",
+    "options": [
+      "O₂ accumulation.",
+      "O₂ shortage.",
+      "H₂O shortage.",
+      "CO₂ shortage."
+    ],
+    "answer": 3,
+    "explanation": "In hot environments, plants close their stomata to conserve water. This prevents CO₂ from entering and O₂ from leaving. The low CO₂:O₂ ratio causes Rubisco to act as an oxygenase rather than carboxylase, leading to photorespiration. The primary cause is CO₂ shortage."
+  },
+  {
+    "question": "Which of the following is correct about the process of glucose production in the light-independent reactions of photosynthesis?",
+    "options": [
+      "One TP is directly converted to one glucose molecule.",
+      "GP is reduced to TP by reduced NADP.",
+      "A total of 9 ATP molecules are synthesized.",
+      "CO₂ reacts with GP to form RuBP."
+    ],
+    "answer": 1,
+    "explanation": "In the Calvin cycle, glycerate-3-phosphate (GP) is reduced to triose phosphate (TP) using reduced NADP and ATP. Two TP molecules are then used to synthesize glucose, while the rest regenerate RuBP."
+  },
+  {
+    "question": "Which of the following is a correct description of the CAM pathway of photosynthesis?",
+    "options": [
+      "The Calvin cycle takes place in the bundle sheath cells during the day.",
+      "CO₂ is stored in the bundle sheath cells during the night.",
+      "CO₂ is stored in the form of malate during the night.",
+      "The Calvin cycle takes place during the night."
+    ],
+    "answer": 2,
+    "explanation": "In CAM plants, stomata open at night to fix CO₂ into malate (via PEP carboxylase), which is stored in vacuoles. During the day, stomata close and malate is decarboxylated to release CO₂ for the Calvin cycle."
+  }
+]

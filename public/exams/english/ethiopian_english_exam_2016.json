@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Father: It is getting too cloudy but the forecast has it that the day will be dry.\nDaughter: Dad! ________ Let's rather rush home.",
+    "options": [
+      "When it is dry, there is no rain.",
+      "If the day is cloudy, it may not rain.",
+      "And it is unlikely to rain.",
+      "There is no doubt it will rain."
+    ],
+    "answer": 3,
+    "explanation": "The father mentions the forecast says it will be dry, but it is getting cloudy. The daughter wants to rush home, meaning she believes it WILL rain despite the forecast. 'There is no doubt it will rain' best explains why they should rush home."
+  },
+  {
+    "question": "Yonas: You seem to be busy. ________\nSara: My glasses! Have you seen them?",
+    "options": [
+      "What are you looking for?",
+      "Haven't you found my glasses?",
+      "What are you doing?",
+      "Where are your glasses?"
+    ],
+    "answer": 0,
+    "explanation": "Yonas observes that Sara looks busy and naturally asks 'What are you looking for?' Sara then explains she is searching for her glasses. This is the most logical and natural dialogue flow."
+  },
+  {
+    "question": "Gelebo: I hope you have the money to send Mom.\nDandero: ________ it was stolen. It should have been in a bank.",
+    "options": [
+      "How much was it? Perhaps",
+      "I hope you will forgive me, but",
+      "The thieves, and",
+      "Unfortunately, I didn't, so"
+    ],
+    "answer": 1,
+    "explanation": "Gelebo hoped Dandero had sent money to their mother. Dandero needs to apologize that the money was stolen. 'I hope you will forgive me, but it was stolen' is the most appropriate apologetic and explanatory response."
+  },
+  {
+    "question": "Aster: ________ your husband? I haven't met him before.\nLidya: Come on, ________ How dare you?",
+    "options": [
+      "I love my husband.",
+      "My husband is handsome.",
+      "Why do you ask?",
+      "What do you mean?"
+    ],
+    "answer": 3,
+    "explanation": "Lidya takes offense at Aster's remark about her husband. 'What do you mean?' followed by 'How dare you?' shows Lidya is both confused and offended by whatever Aster said, making this the most natural reaction."
+  },
+  {
+    "question": "Teacher: I don't know why but I am feeling very dizzy.\nFriend: ________ see your doctor immediately. Right now!",
+    "options": [
+      "You had better",
+      "It may be good to",
+      "You might",
+      "Oh! Perhaps"
+    ],
+    "answer": 0,
+    "explanation": "'You had better' is used to give strong advice, especially in urgent situations. The friend is strongly urging the teacher to see a doctor immediately, so 'You had better' fits best."
+  },
+  {
+    "question": "Tutu: I am leaving for the US on Monday. US, California.\nTiti: Could you repeat that, please? ________",
+    "options": [
+      "Sorry, I didn't catch that.",
+      "Are you leaving on Monday?",
+      "Are you trying to fool me?",
+      "That is too good to be true."
+    ],
+    "answer": 0,
+    "explanation": "Titi asks Tutu to repeat the information. 'Sorry, I didn't catch that' explains WHY Titi needs Tutu to repeat — she didn't hear or understand the information the first time."
+  },
+  {
+    "question": "Emebet: ________ I have won a scholarship to Germany.\nGenet: Are you serious? That is like a lottery.",
+    "options": [
+      "I've been trying for long.",
+      "You won't believe this but",
+      "What a great surprise!",
+      "I like German universities."
+    ],
+    "answer": 1,
+    "explanation": "Emebet is sharing exciting, unexpected news about winning a scholarship. 'You won't believe this but' is a natural opening when sharing surprising news, which leads perfectly into Genet's reaction of disbelief."
+  },
+  {
+    "question": "You: Why should they go at this time of the year?\nFriend: ________, the weather is great now. Business is also recovering.",
+    "options": [
+      "You may not take it as",
+      "The convincing reason is",
+      "To be certain",
+      "To give you an idea"
+    ],
+    "answer": 3,
+    "explanation": "The friend is providing reasons why 'they' should go now. 'To give you an idea' introduces examples or reasons — the weather being great and business recovering serve as reasons to support the timing of the trip."
+  },
+  {
+    "question": "Mamusha: You've got a nice car. It looks great!\nYaya: Sure, but ________",
+    "options": [
+      "It is not very good, I am afraid.",
+      "It is brand new, it is from Japan.",
+      "It is as fast as yours.",
+      "It is not as fast as yours."
+    ],
+    "answer": 3,
+    "explanation": "Yaya accepts the compliment ('Sure') but humbles it with a modest comparison. 'It is not as fast as yours' shows gratitude while deflecting full praise, which is a natural conversational response."
+  },
+  {
+    "question": "Mom: Why don't you buy yourself better shoes, son?\nSon: ________ I'll buy top-quality ones.",
+    "options": [
+      "If Dad gives me more money,",
+      "All shoes in the town are bad, but",
+      "I like these shoes, Mom.",
+      "These ones are fine, but"
+    ],
+    "answer": 0,
+    "explanation": "The son explains a condition for buying better shoes. 'If Dad gives me more money, I'll buy top-quality ones' logically connects the mother's suggestion with a condition and a promise to act."
+  },
+  {
+    "question": "Speaker 1: I've been to five different countries and they're all in Europe.\nSpeaker 2: ________ Is that true, and why did you go?",
+    "options": [
+      "Let me see.",
+      "Please wait.",
+      "Pardon?",
+      "I'm not sure."
+    ],
+    "answer": 2,
+    "explanation": "'Pardon?' is used to ask someone to repeat or clarify what they said. The second speaker is surprised by the claim and wants to confirm before commenting further."
+  },
+  {
+    "question": "Umod: I don't like raw meat. How does it taste?\nShola: ________. But most Ethiopians are enjoying it.",
+    "options": [
+      "I don't either.",
+      "Neither don't I.",
+      "So do I.",
+      "Either do I."
+    ],
+    "answer": 0,
+    "explanation": "'I don't either' correctly agrees with Umod's negative statement ('I don't like raw meat'). 'Neither don't I' and 'Either do I' are grammatically incorrect. 'So do I' would mean Shola likes it, contradicting the sentence."
+  },
+  {
+    "question": "Tourist: ________ in your country?\nTour guide: You know, the altitude here is not very high.",
+    "options": [
+      "Why is it so warm",
+      "Could it be very warm",
+      "What altitude is it",
+      "How's the weather"
+    ],
+    "answer": 0,
+    "explanation": "The tourist asks 'Why is it so warm?' and the guide explains that the altitude is not very high, which relates to temperature. Low altitude can contribute to warmer conditions, making this the best fit."
+  },
+  {
+    "question": "Bultum: ________ taking a break?\nHagos: I was just about to say that. Let's go.",
+    "options": [
+      "When do you want to go",
+      "Would you like to go",
+      "What do you think about going",
+      "How do you feel about going"
+    ],
+    "answer": 1,
+    "explanation": "'Would you like to take a break?' is the most direct and natural way to suggest taking a break. Hagos's response 'I was just about to say that' confirms agreement with the suggestion."
+  },
+  {
+    "question": "Ziyad: I hear they provide free lunch here.\nMukerem: No! ________, nobody will do the public works.",
+    "options": [
+      "Despite lunch being free,",
+      "If you have a choice,",
+      "In my opinion,",
+      "If there is free lunch,"
+    ],
+    "answer": 3,
+    "explanation": "Mukerem rejects the idea of free lunch. 'If there is free lunch, nobody will do the public works' expresses the principle that there is no free lunch — if everything is given for free, no one will work. This is a well-known saying."
+  },
+  {
+    "question": "Chief: I think we should leave. I didn't like the atmosphere.\nYared: ________ things seem to be changing for the positive. Let's wait a bit.",
+    "options": [
+      "On the one hand, however",
+      "So though that is the case",
+      "If you think that way",
+      "I agree up to a point, but"
+    ],
+    "answer": 3,
+    "explanation": "Yared partially agrees with the Chief but wants to stay. 'I agree up to a point, but things seem to be changing for the positive' acknowledges the concern while offering a reason to wait."
+  },
+  {
+    "question": "Tadesse: Why is the roof leaking?\nCarpenter: ________ it hasn't been serviced for long.",
+    "options": [
+      "The reason as a fact is that",
+      "Yes, it is because of the reason that",
+      "I think because of",
+      "This is due to the fact that"
+    ],
+    "answer": 3,
+    "explanation": "'This is due to the fact that' is a formal and grammatically correct way to explain the cause. The carpenter is giving a professional explanation for why the roof is leaking."
+  },
+  {
+    "question": "Manager: What do you think of buying a new vehicle for our company?\nDeputy: ________, we are short of budget. Besides, there is no need for one.",
+    "options": [
+      "To begin with",
+      "If you ask me",
+      "I really feel that",
+      "What I think is"
+    ],
+    "answer": 0,
+    "explanation": "'To begin with' introduces the first reason in a list of arguments against buying a vehicle. The deputy then gives two reasons: being short of budget and having no need, making 'To begin with' the perfect opener."
+  },
+  {
+    "question": "Biru: ________ going for a walk?\nMamitu: A walk? You should be crazy. It's going to rain soon.",
+    "options": [
+      "Did I hear you say you like",
+      "How do you feel about",
+      "Are you coming for",
+      "Do you enjoy"
+    ],
+    "answer": 1,
+    "explanation": "'How do you feel about going for a walk?' is a natural way to suggest an activity. Mamitu's shocked response 'A walk? You should be crazy' shows she thinks it's a bad idea because it will rain."
+  },
+  {
+    "question": "Stranger: Where is the nearest bank?\nYou: ________ that tall building down there.",
+    "options": [
+      "I don't think it could be near",
+      "The bank is far away from",
+      "You should know it's by",
+      "It's on the corner of"
+    ],
+    "answer": 3,
+    "explanation": "'It's on the corner of' provides directional information using a landmark ('that tall building down there'), which is the most natural way to give directions to a stranger asking for a location."
+  },
+  {
+    "question": "We all filed in the recruitment exam. ________, they accepted none of us. I think another round of advertisement is inevitable.",
+    "options": [
+      "Which means",
+      "Consequently",
+      "In effect",
+      "Accordingly"
+    ],
+    "answer": 1,
+    "explanation": "'Consequently' shows cause and effect. The fact that everyone applied (filed in) resulted in nobody being accepted. 'Consequently' best links the two events as cause and result."
+  },
+  {
+    "question": "Let me go and check if the car is ready. It ________ when I came this morning.",
+    "options": [
+      "was being fixed",
+      "will have to be fixed",
+      "might be fixed",
+      "was intended to be fixed"
+    ],
+    "answer": 0,
+    "explanation": "'Was being fixed' is the past continuous passive, correctly describing an action that was in progress at a specific time in the past ('when I came this morning')."
+  },
+  {
+    "question": "We need an immediate restocking. Did you know we were left with ________ food in the fridge?",
+    "options": [
+      "some",
+      "scarce",
+      "little",
+      "a little"
+    ],
+    "answer": 2,
+    "explanation": "'Little' means almost no food, which explains the urgent need for restocking. 'A little' means some food (positive), 'some' also means some, and 'scarce' is an adjective that doesn't fit grammatically as a noun phrase."
+  },
+  {
+    "question": "They had to get together at six in the morning and when we woke up at 5:45 a.m., we thought we wouldn't make it. However, we ________ to get there before they left.",
+    "options": [
+      "must be able",
+      "could be able",
+      "are able",
+      "were able"
+    ],
+    "answer": 3,
+    "explanation": "'Were able' is the past tense form correctly matching the narrative about a past event. It means they managed/succeeded in getting there before the others left."
+  },
+  {
+    "question": "We are going to use this room ________ a kitchen for the time being. Once the painting is done, however, we will get back there, for it is bigger and more comfortable.",
+    "options": [
+      "for",
+      "like",
+      "at",
+      "as"
+    ],
+    "answer": 3,
+    "explanation": "'Use something as something' is the correct pattern when repurposing an item. 'Use this room as a kitchen' means treating the room as if it were a kitchen temporarily."
+  },
+  {
+    "question": "When we were in Gambela every day after work, we ________ sit by the river watching fishermen catch the big fish called 'gur' and made a lot of money out of it.",
+    "options": [
+      "used to",
+      "have used to",
+      "are used to",
+      "were used to"
+    ],
+    "answer": 0,
+    "explanation": "'Used to' expresses a past habit. Sitting by the river after work was a regular activity they did in the past. 'Are/were used to' means being accustomed to something, not a past habit."
+  },
+  {
+    "question": "These ________ people. They don't even know what is good and what is not for them. First, give them a thorough explanation and then call me.",
+    "options": [
+      "confuse",
+      "confused",
+      "confusion",
+      "confusing"
+    ],
+    "answer": 1,
+    "explanation": "'Confused' is an adjective describing the people as bewildered or unable to understand. It fits after 'These' as in 'These confused people,' which explains why they don't know what is good for them."
+  },
+  {
+    "question": "I would like ________ her before she leaves. There is a big secret she didn't want to tell the family.",
+    "options": [
+      "see",
+      "to be seeing",
+      "seeing",
+      "to see"
+    ],
+    "answer": 3,
+    "explanation": "'Would like to see' is the correct infinitive form after 'would like.' It expresses a desire to do something in the future."
+  },
+  {
+    "question": "I would have married her ________ I had known her dad was one of the wealthiest in the town. I was just unlucky.",
+    "options": [
+      "unless",
+      "before",
+      "because",
+      "if only"
+    ],
+    "answer": 3,
+    "explanation": "'If only' expresses regret about a past condition. 'I would have married her if only I had known' means the speaker regrets not knowing about the father's wealth and would have married her if they had known."
+  },
+  {
+    "question": "Neither staff members nor the police ________ on the premises when the gangs robbed everything. I guess it wouldn't be easy to arrest them.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "was"
+    ],
+    "answer": 1,
+    "explanation": "With 'neither...nor,' the verb agrees with the nearest subject. The nearest subject is 'the police,' which takes a plural verb. In the past tense context, 'were' is correct."
+  },
+  {
+    "question": "We haven't done the job ________ but I know we will finish it by Monday next week.",
+    "options": [
+      "still",
+      "up till",
+      "now",
+      "yet"
+    ],
+    "answer": 3,
+    "explanation": "'Yet' is used with negative sentences and present perfect to indicate something has not happened up to now. 'We haven't done the job yet' is grammatically correct and natural."
+  },
+  {
+    "question": "I ________ there so many times although I always get disappointed with their food.",
+    "options": [
+      "had been",
+      "have been",
+      "was",
+      "like being"
+    ],
+    "answer": 1,
+    "explanation": "'Have been' (present perfect) is used for experiences that happened multiple times in the past with relevance to the present. 'So many times' with present perfect correctly describes repeated past visits."
+  },
+  {
+    "question": "Are you telling me Denis is ill? Sorry about that. I ________ him right after class.",
+    "options": [
+      "might",
+      "am going to",
+      "will",
+      "could"
+    ],
+    "answer": 2,
+    "explanation": "'Will' expresses a spontaneous promise or decision made at the moment of speaking. Hearing that Denis is ill, the speaker immediately decides to call him — a natural use of 'will' for instant intention."
+  },
+  {
+    "question": "The movie was ________ boring ________ I fell asleep while I was watching it.",
+    "options": [
+      "so ... that",
+      "so ... as",
+      "such ... that",
+      "such a ... that"
+    ],
+    "answer": 0,
+    "explanation": "'So + adjective + that' is the correct structure. 'So boring that I fell asleep' shows the degree of boredom caused the result of falling asleep. 'Such' would need a noun (e.g., 'such a boring movie')."
+  },
+  {
+    "question": "Obviously, the car is very expensive, ________ it is fuel-economical. If I had the money, I'd go for it.",
+    "options": [
+      "in addition",
+      "but on the other hand",
+      "even so",
+      "but unlike that"
+    ],
+    "answer": 1,
+    "explanation": "'But on the other hand' introduces a contrasting positive point. The car is expensive (negative), but on the other hand it is fuel-economical (positive), which explains why the speaker would still consider buying it."
+  },
+  {
+    "question": "His suit is ________ mine but the color is boring. I wouldn't take it even for free.",
+    "options": [
+      "rather expensive as",
+      "not as much costly as",
+      "almost the same as",
+      "very different from"
+    ],
+    "answer": 2,
+    "explanation": "'Almost the same as mine' makes sense — the suit looks similar to the speaker's but has a boring color, which is why the speaker wouldn't take it. This explains why they are comparing it to their own suit."
+  },
+  {
+    "question": "When I met her at the party, she told me she ________ her salary for the previous month. I just couldn't believe her.",
+    "options": [
+      "has collected",
+      "had collected",
+      "collected",
+      "did collect"
+    ],
+    "answer": 1,
+    "explanation": "'Had collected' is past perfect, used for an action completed before another past action. Collecting the salary happened before 'she told me' (past), so past perfect is required."
+  },
+  {
+    "question": "You ________ speak to him like that. After all, he is your elder brother and deserves some respect.",
+    "options": [
+      "ought not to",
+      "will rather not",
+      "will not",
+      "might not"
+    ],
+    "answer": 0,
+    "explanation": "'Ought not to' means 'should not' and is used for giving advice about what is right or wrong. It carries the right tone of moral obligation about showing respect to an elder brother."
+  },
+  {
+    "question": "They are talking about ________ artist we saw as we were coming here. What he was doing tells that he was definitely mentally unstable.",
+    "options": [
+      "which",
+      "whom",
+      "an",
+      "the"
+    ],
+    "answer": 3,
+    "explanation": "'The artist' uses the definite article to refer to a specific artist they saw. 'The artist we saw as we were coming here' is a complete noun phrase where 'the' specifies which artist is being discussed."
+  },
+  {
+    "question": "Your wife ________ since 9:00 am but you don't even call and apologize for not being able to arrive until now. What excuse do you have for this?",
+    "options": [
+      "has been waiting",
+      "had been waiting",
+      "is waiting",
+      "was waiting"
+    ],
+    "answer": 0,
+    "explanation": "'Has been waiting' is present perfect continuous, indicating an action that started in the past (9:00 am) and continues to the present. This correctly shows the wife is still waiting at the time of speaking."
+  },
+  {
+    "question": "We wish we ________ her home, but her mom is not in the country. Perhaps we can do that when she gets back next month.",
+    "options": [
+      "will send",
+      "would send",
+      "send",
+      "have sent"
+    ],
+    "answer": 1,
+    "explanation": "'Wish' is followed by 'would' for desired actions or changes. 'We wish we would send her home' expresses a desire about an action they want to happen but currently cannot because her mom is not in the country."
+  },
+  {
+    "question": "Originally, the book ________ in Spanish, and a few years ago, it ________ into English.",
+    "options": [
+      "were written / were translated",
+      "are written / are translated",
+      "was written / was translated",
+      "is written / is translated"
+    ],
+    "answer": 2,
+    "explanation": "The book is singular, so it requires 'was' (not 'were'). Both actions happened in the past, so past tense passive 'was written/was translated' is correct."
+  },
+  {
+    "question": "It is ________ hot to toil in this room. I suggest that we leave or switch the air conditioner on and work for an hour.",
+    "options": [
+      "too",
+      "very",
+      "pretty",
+      "quite"
+    ],
+    "answer": 0,
+    "explanation": "'Too hot to toil' uses the 'too...to' structure meaning the heat is excessive and prevents working. 'Very,' 'pretty,' and 'quite' don't create this cause-effect meaning."
+  },
+  {
+    "question": "I ________ come but it all depends on whether or not it rains. My advice is that you start right on time with whatever number of attendees you happen to have.",
+    "options": [
+      "shall",
+      "must",
+      "will",
+      "may"
+    ],
+    "answer": 3,
+    "explanation": "'May' expresses possibility, which matches 'it all depends on whether or not it rains.' The speaker is uncertain about coming, so 'may' correctly shows this uncertainty."
+  },
+  {
+    "question": "Don't give them time. ________ the plane arrives, have them under arrest and the rest of the process will continue.",
+    "options": [
+      "Soon before",
+      "Sooner after",
+      "As soon as",
+      "Immediately soon"
+    ],
+    "answer": 2,
+    "explanation": "'As soon as' means immediately when something happens. 'As soon as the plane arrives, have them under arrest' correctly instructs that the arrest should happen the moment the plane lands."
+  },
+  {
+    "question": "I didn't do it ________ but I know she got very angry. We should apologize to her anyway.",
+    "options": [
+      "at",
+      "by",
+      "with",
+      "on purpose"
+    ],
+    "answer": 3,
+    "explanation": "'On purpose' means intentionally. 'I didn't do it on purpose' means it was an accident, which explains why they should still apologize even though it wasn't intentional."
+  },
+  {
+    "question": "If you are not sure how much he earns, ________ do you need to make a guess? After all, that will hurt his feelings.",
+    "options": [
+      "almost",
+      "what",
+      "why",
+      "when"
+    ],
+    "answer": 2,
+    "explanation": "'Why do you need to make a guess?' is a rhetorical question suggesting there's no good reason to guess someone's earnings, especially since it might hurt their feelings."
+  },
+  {
+    "question": "Despite all the questions in this exam ________ correctly, he is not one of my top students. He is just an average.",
+    "options": [
+      "answering",
+      "having answered",
+      "answer",
+      "answered"
+    ],
+    "answer": 0,
+    "explanation": "'Despite answering' is a gerund phrase that correctly functions as the object of the preposition 'despite.' Despite + gerund is the correct structure for showing contrast."
+  },
+  {
+    "question": "Choose the sentence closest in meaning to: 'Whether you go this time of the year is your decision but the weather is anything but sunny.'",
+    "options": [
+      "The weather is very sunny and could be warm.",
+      "You can go there this year and enjoy the weather.",
+      "The weather this time is terrible.",
+      "The weather this time is not sunny at all."
+    ],
+    "answer": 3,
+    "explanation": "'Anything but sunny' is an idiom meaning 'not sunny at all.' The sentence says the weather is definitely NOT sunny, so 'The weather this time is not sunny at all' is the closest in meaning."
+  },
+  {
+    "question": "Choose the sentence closest in meaning to: 'Had we met him when he came, we could have convinced him.'",
+    "options": [
+      "I am happy we didn't meet him.",
+      "Unfortunately, we didn't meet him.",
+      "We were away when he came.",
+      "We were able to convince him."
+    ],
+    "answer": 1,
+    "explanation": "'Had we met him' is a third conditional (if we had met him). Since the result 'we could have convinced him' didn't happen, it means they did NOT meet him. 'Unfortunately, we didn't meet him' captures this meaning."
+  },
+  {
+    "question": "What can we deduce from the passage about the University of Michigan's Animal Diversity Web (ADW)?",
+    "options": [
+      "It offers courses on various animals found in different parts of the world.",
+      "It provides information on different animal species to foster comparisons.",
+      "It specializes in chimps and has comprehensive information about them.",
+      "It is among the top institutions in the world that study the ape family."
+    ],
+    "answer": 1,
+    "explanation": "The passage uses ADW data to compare chimp and human characteristics (height, weight, strength). This shows ADW provides comparative information on different animal species, not just courses or specialized chimp data."
+  },
+  {
+    "question": "Which one of the following sentences best describes the relationship of chimps with humans, according to the passage?",
+    "options": [
+      "It is usual for chimps to steal unprotected human food.",
+      "Chimps can leave their habitats due to humans.",
+      "Chimps can kill if humans get into their territory.",
+      "Wild chimps are fearful of humans and will never attack."
+    ],
+    "answer": 2,
+    "explanation": "The passage states chimps attack when 'humans move into and destroy chimpanzee territory, reducing their access to food.' This confirms chimps can become aggressive when humans encroach on their territory."
+  },
+  {
+    "question": "Which one of the following is true about chimpanzees in the Western Region of Uganda?",
+    "options": [
+      "They are aggressive and attack human beings.",
+      "When stealing food, they become more confident than humans.",
+      "They obviously kill one person per year.",
+      "They attack children more than they do adults."
+    ],
+    "answer": 3,
+    "explanation": "The passage states chimps 'typically direct their aggressive and sometimes predatory behavior toward children because the animals are more fearful of larger human adults.' This directly supports that they attack children more than adults."
+  },
+  {
+    "question": "What does 'predatory behavior' as used in the passage mean?",
+    "options": [
+      "Attacking individual children consistently.",
+      "Taking advantage of vulnerable situations.",
+      "Killing and eating human beings.",
+      "Being afraid of larger human beings."
+    ],
+    "answer": 1,
+    "explanation": "'Predatory' means hunting or exploiting others who are vulnerable. In context, chimps prey on children because they are smaller and less threatening — taking advantage of vulnerability."
+  },
+  {
+    "question": "Who does 'our' as used in Paragraph 1, Line 1 refer to?",
+    "options": [
+      "Human beings.",
+      "Friends talking.",
+      "Chimps.",
+      "The writers."
+    ],
+    "answer": 0,
+    "explanation": "'Our closest living relatives' is written from the human perspective. The passage explains chimps are the closest living relatives of humans, so 'our' refers to human beings."
+  },
+  {
+    "question": "Which one of the following sentences, according to the passage, is true about the great ape family?",
+    "options": [
+      "In terms of family categorization, humans do not differ from apes.",
+      "Chimps are the most intelligent of all members of its family group.",
+      "Chimps are closer to humans than any other living relative.",
+      "Except chimps, other apes close to humans have gone extinct."
+    ],
+    "answer": 2,
+    "explanation": "The passage calls chimps 'one of our closest living relatives' along with gorillas, orangutans, bonobos and humans in the great ape family. This means chimps are very close to humans among living relatives."
+  },
+  {
+    "question": "What could be taken as contradictory about chimps as mentioned in Paragraph 1?",
+    "options": [
+      "That chimps are apes but still share a lot with humans.",
+      "That chimps live in complex societies but are just apes.",
+      "That chimps are intelligent and social but violent.",
+      "That chimps and humans belong to the same family."
+    ],
+    "answer": 2,
+    "explanation": "It seems contradictory that chimps are described as 'intelligent and social' (positive traits) yet also 'violent.' Being intelligent and social would normally suggest peaceful behavior, making the violence contradictory."
+  },
+  {
+    "question": "How tall could an average chimpanzee be when standing upright?",
+    "options": [
+      "Around 4 feet 7 inches.",
+      "Around 4 feet 2 inches.",
+      "Around 5 feet 3 inches.",
+      "Around 4 feet 4.5 inches."
+    ],
+    "answer": 3,
+    "explanation": "The passage states chimps are between 3 feet 3 inches (39 inches) and 5 feet 6 inches (66 inches). The average is (39+66)/2 = 52.5 inches, which equals 4 feet 4.5 inches."
+  },
+  {
+    "question": "According to Paragraph 2, which of the following is true about chimps?",
+    "options": [
+      "Female chimpanzees don't weigh as much as human beings do.",
+      "Chimps are now receiving so much attention so they grow in number.",
+      "Chimpanzees are more powerful but smaller than human beings.",
+      "These days, chimpanzees live as long as human beings do."
+    ],
+    "answer": 2,
+    "explanation": "The passage states chimps are 'stronger than humans, despite being smaller' and 'about 1.35 times more powerful than humans.' This directly supports that chimps are more powerful but smaller."
+  },
+  {
+    "question": "Which one of the following, according to Paragraph 2, is true about child abuse reports in Philadelphia?",
+    "options": [
+      "Reports of over 5,000 cases per annum are promisingly high.",
+      "The Children and Youth Agency is receiving incomplete reports on cases.",
+      "Child abuse is being reported extensively.",
+      "Cases reported are far less than the actual problem."
+    ],
+    "answer": 3,
+    "explanation": "The passage states 'reporting is in no way complete' and a spokeswoman said 'There's a lot more out there that goes unreported.' This means the reported cases are far fewer than the actual problem."
+  },
+  {
+    "question": "What, according to the passage, is a possible cause of child abuse?",
+    "options": [
+      "Being under straining situations.",
+      "Social events in or outside the home.",
+      "Poor reporting system.",
+      "Individuals with ill motives."
+    ],
+    "answer": 0,
+    "explanation": "The passage identifies 'tremendous stress in today's society both within and outside the home' as 'one of the main factors in the rise of child abuse.' Stress = straining situations."
+  },
+  {
+    "question": "Which one of the following is NOT a possible cause of undue stress mentioned in the passage?",
+    "options": [
+      "Disagreement between spouses.",
+      "Doing a job one is not interested in.",
+      "Failure to afford a living.",
+      "Loneliness and isolated life."
+    ],
+    "answer": 1,
+    "explanation": "The passage mentions poor marital relationships (A), socioeconomic problems/unemployment (C), and social isolation (D) as causes of stress. 'Doing a job one is not interested in' is NOT mentioned in the passage."
+  },
+  {
+    "question": "Why do mothers move to large city apartment complexes or suburban communities?",
+    "options": [
+      "That allows them to live independently.",
+      "That is where they can keep their children.",
+      "That is what they can afford.",
+      "Such places are luxurious to live in."
+    ],
+    "answer": 2,
+    "explanation": "The passage discusses socioeconomic problems and unemployment as causes of stress, and mothers 'finding themselves' in these living situations. The implication is that economic hardship forces them into affordable housing."
+  },
+  {
+    "question": "What does the first sentence in Paragraph 1 of the child abuse passage mean?",
+    "options": [
+      "Whether young or old, you are not safe.",
+      "Some races in the world do not practice child abuse.",
+      "Child abuse should not be practiced.",
+      "Child abuse is everywhere regardless of social, geographic, or racial boundaries."
+    ],
+    "answer": 3,
+    "explanation": "'Knows no social, geographic or racial boundaries' means child abuse occurs everywhere and in all types of communities — wealthy suburbs, rural areas, regardless of race or social status."
+  },
+  {
+    "question": "What does the writer specifically say about America in relation to child abuse?",
+    "options": [
+      "American children being abused today will abuse others when they grow up.",
+      "Americans are intentionally creating another generation of child abusers.",
+      "Tomorrow's America will see less child abuse.",
+      "Wealthy Americans are the main actors in child abuse."
+    ],
+    "answer": 0,
+    "explanation": "The passage states child abuse is 'likely to create another generation of child abusers in America from among those being abused today.' This means today's abused children may become tomorrow's abusers."
+  },
+  {
+    "question": "Which one of the following is closest in meaning to the word 'plague' as used in Paragraph 1?",
+    "options": [
+      "Infection.",
+      "Epidemic.",
+      "Torture.",
+      "Wound."
+    ],
+    "answer": 1,
+    "explanation": "'Plague' in the context of 'a national plague' means a widespread problem affecting many people, similar to an epidemic. The passage describes child abuse as a widespread national problem."
+  },
+  {
+    "question": "Which one of the following sentences is true about child abuse according to the passage?",
+    "options": [
+      "Many people stood against child abuse after reading passages in laws.",
+      "Many Americans remained quiet on the revolution against child abuse.",
+      "Child abuse was exercised secretly for a very long time.",
+      "Parents for long used to close their doors and abuse children."
+    ],
+    "answer": 2,
+    "explanation": "The passage states 'For years, the problem was hidden behind the closed doors of houses.' This directly supports that child abuse was practiced secretly for a very long time."
+  },
+  {
+    "question": "According to the passage on child abuse, who were behind the closed doors where abuse was hidden?",
+    "options": [
+      "Children.",
+      "Relatives.",
+      "Parents.",
+      "Neighbors."
+    ],
+    "answer": 2,
+    "explanation": "The passage says abuse was 'hidden behind the closed doors of houses' and discusses mothers and parents dealing with stress. Parents are the ones inside homes behind closed doors where the abuse occurred."
+  },
+  {
+    "question": "They kept trying hard to bring him to the position of chairmanship. Unfortunately, however, someone else was ________ so much unexpectedly.",
+    "options": [
+      "manipulating",
+      "propagating",
+      "working",
+      "struggling"
+    ],
+    "answer": 3,
+    "explanation": "'Struggling so much' means trying very hard despite difficulties. The sentence describes someone making unexpected efforts, which aligns with 'struggling' — putting in great effort to achieve something."
+  },
+  {
+    "question": "The troop ________ an attack on the enemy in a bid to capture the garrison. I know it is not going to take long.",
+    "options": [
+      "dropped",
+      "mounted",
+      "launched",
+      "realized"
+    ],
+    "answer": 2,
+    "explanation": "'Launched an attack' is the standard collocation in English. To 'launch' means to begin or initiate a military attack or operation."
+  },
+  {
+    "question": "The ________ to be held next month is expected to pass resolutions pertaining to the relationship between the two warring parties. We are looking forward to it.",
+    "options": [
+      "summit",
+      "cluster",
+      "mediation",
+      "seminar"
+    ],
+    "answer": 0,
+    "explanation": "A 'summit' is a high-level meeting between leaders, especially of nations in conflict. Summits are known for passing resolutions about international relations and warring parties."
+  },
+  {
+    "question": "AIDS patients used to be ________ for having HIV in their blood. Today, however, things have changed and they are treated like any healthy person.",
+    "options": [
+      "disappointed",
+      "involved",
+      "preserved",
+      "stigmatized"
+    ],
+    "answer": 3,
+    "explanation": "'Stigmatized' means treated with disgrace or discrimination. AIDS patients were socially ostracized or discriminated against because of their condition, which matches the context perfectly."
+  },
+  {
+    "question": "It appears the combined effort exerted by the team significantly contributed to their success. In fact, we need to take a lesson and reshape our ________.",
+    "options": [
+      "synergy",
+      "dismay",
+      "disarray",
+      "power"
+    ],
+    "answer": 0,
+    "explanation": "'Synergy' means combined effort producing greater results than individual efforts. The passage talks about 'combined effort' contributing to success, so 'synergy' is the word being described."
+  },
+  {
+    "question": "Unless ________ solutions are sought for our development problems, the people will keep suffering under poverty. So, let us get to work and find the way out.",
+    "options": [
+      "promotable",
+      "sustainable",
+      "feasible",
+      "practical"
+    ],
+    "answer": 1,
+    "explanation": "'Sustainable solutions' is a standard phrase referring to long-lasting solutions that address root causes. In development contexts, sustainable solutions are needed to truly overcome poverty."
+  },
+  {
+    "question": "Clean : Dirty ; _______",
+    "options": [
+      "Extended",
+      "Expanded",
+      "Rampant",
+      "Stagnant"
+    ],
+    "answer": 1,
+    "explanation": "Clean:Dirty is an antonym pair (opposites). Expanded has a well-known antonym in Contracted, forming a similar adjective-antonym pair. Among the options, Expanded most commonly pairs with its opposite Contracted."
+  },
+  {
+    "question": "Pen : Write ; Rubber : _______",
+    "options": [
+      "Erase",
+      "Soften",
+      "Remove",
+      "Eliminate"
+    ],
+    "answer": 0,
+    "explanation": "A pen is a tool used to write. Similarly, a rubber (eraser) is a tool used to erase. The relationship is 'tool : its primary function,' making 'Erase' the correct answer."
+  },
+  {
+    "question": "Nowadays, many vehicles are ________ in Ethiopia by importing parts from Europe or Asia. However, prices of cars are still soaring from time to time.",
+    "options": [
+      "purchased",
+      "assembled",
+      "prepared",
+      "organized"
+    ],
+    "answer": 1,
+    "explanation": "Vehicles are 'assembled' by putting together imported parts from different countries. 'Purchased' would mean buying complete cars, not building them from imported parts."
+  },
+  {
+    "question": "We tolerate no ________ of any kind on our premise. Everybody is treated equally as a human being.",
+    "options": [
+      "condemnation",
+      "discrimination",
+      "racism",
+      "entertainment"
+    ],
+    "answer": 1,
+    "explanation": "'Discrimination' means unfair treatment based on categories like race, gender, etc. 'No discrimination of any kind' with 'everybody is treated equally' makes 'discrimination' the clear answer."
+  },
+  {
+    "question": "The noise made by a group of reveling students ________ our discussion and we had to call the police.",
+    "options": [
+      "stifled",
+      "blocked",
+      "disrupted",
+      "endangered"
+    ],
+    "answer": 2,
+    "explanation": "'Disrupted' means interrupted or disturbed. Noise from reveling students would interrupt and disturb a discussion, making 'disrupted' the most appropriate word."
+  },
+  {
+    "question": "The government should ________ measures on companies that employ children under 18 by allowing their employment. Such practice is globally unacceptable.",
+    "options": [
+      "impose",
+      "absorb",
+      "entertain",
+      "sympathize"
+    ],
+    "answer": 0,
+    "explanation": "'Impose measures on' means to officially enforce rules or penalties. The government should enforce measures against companies using child labor. 'Impose' is the correct verb for enforcing regulations."
+  },
+  {
+    "question": "My relatives are ________ all over the country and I don't have any problem wherever I go. I have no worries of where to stay or what to eat.",
+    "options": [
+      "arrayed",
+      "located",
+      "concentrated",
+      "scattered"
+    ],
+    "answer": 3,
+    "explanation": "'Scattered all over the country' means spread across many different places. This explains why the speaker has no problem finding accommodation wherever they go — relatives are spread everywhere."
+  },
+  {
+    "question": "We hardly have any ________ courses in our curriculum. This college, after all, trains spiritual leaders to be assigned to different regions of the country.",
+    "options": [
+      "divine",
+      "specialty",
+      "secular",
+      "science"
+    ],
+    "answer": 2,
+    "explanation": "A college training 'spiritual leaders' would focus on religious education and have few 'secular' (non-religious) courses. 'Secular' means not related to religion, which fits the contrast."
+  },
+  {
+    "question": "Put the jumbled words in the correct order: 'the / commonly / these / are / cat / to / referred / as'",
+    "options": [
+      "Cats are these as commonly referred to the house.",
+      "Commonly referred as to the house are these.",
+      "These are commonly referred to as the house cat.",
+      "These are the cat commonly referred to house."
+    ],
+    "answer": 2,
+    "explanation": "'These are commonly referred to as the house cat' is grammatically correct. The phrase 'commonly referred to as' is a standard English expression meaning 'usually called.'"
+  },
+  {
+    "question": "Put the jumbled words in the correct order: 'in / can / her / and / bring / we / talk'",
+    "options": [
+      "We can talk her and bring in.",
+      "We can talk and bring her in.",
+      "We can bring in and talk her.",
+      "Bring her in and we can talk."
+    ],
+    "answer": 3,
+    "explanation": "'Bring her in and we can talk' is the most natural sentence. It first instructs to bring the person inside, then states what will happen next (we can talk)."
+  },
+  {
+    "question": "Put the jumbled words in the correct order: 'next / them / going / do / who / is / pick / you / up / to?'",
+    "options": [
+      "Do you know who is going to pick them up next?",
+      "You know who is going to do pick them up next?",
+      "Who is next going to pick them up do you know?",
+      "Do you know who is next going to pick up them?"
+    ],
+    "answer": 0,
+    "explanation": "'Do you know who is going to pick them up next?' is grammatically correct. The phrasal verb 'pick up' keeps the object 'them' between 'pick' and 'up.' Option D incorrectly places 'them' after 'up.'"
+  },
+  {
+    "question": "Choose the correctly punctuated sentence: 'If you go to Merkato, you'll need to buy the following: a shirt, a jacket and a coat.'",
+    "options": [
+      "If you go to Merkato, you'll need to buy the following; a shirt, a jacket and a coat.",
+      "If you go to Merkato, you'll need to buy the following: a shirt, a jacket, and a coat.",
+      "If you go to Merkato, you'll need to buy: the following a shirt, a jacket, and a coat.",
+      "If you go to Merkato, you'll need to buy the following, a shirt; a jacket; and a coat."
+    ],
+    "answer": 1,
+    "explanation": "A colon after 'the following' correctly introduces a list. A comma before 'and' in a list of three or more items (Oxford comma) is also correct punctuation."
+  },
+  {
+    "question": "Choose the correctly punctuated and capitalized sentence about visiting the Sor River.",
+    "options": [
+      "When he went to visit the Sor River, he stayed at Khalifa hotel in Metu.",
+      "When he went to visit her river, he stayed at Khalifa hotel in Metu.",
+      "When he went to visit the Sor River, he stayed at Khalifa Hotel in Metu.",
+      "When he went to visit the Sor river, he stayed at Khalifa Hotel in Metu."
+    ],
+    "answer": 2,
+    "explanation": "Proper nouns must be capitalized: 'Sor River,' 'Khalifa Hotel,' and 'Metu' are all proper nouns requiring capitalization. Option C correctly capitalizes all proper nouns."
+  },
+  {
+    "question": "Choose the correctly punctuated sentence.",
+    "options": [
+      "\"What is for lunch\"? he asked.",
+      "Martha shouted, \"Leave me alone!\"",
+      "\"Come here\", she said.",
+      "\"Romeo and Juliet.\""
+    ],
+    "answer": 1,
+    "explanation": "'Martha shouted, \"Leave me alone!\"' has correct punctuation: the dialogue tag ends with a comma, the quotation is enclosed in double quotes, and the exclamation mark is inside the closing quotation."
+  },
+  {
+    "question": "Which one of the following words is correctly spelt?",
+    "options": [
+      "decisive",
+      "execlusive",
+      "intengible",
+      "sastainable"
+    ],
+    "answer": 0,
+    "explanation": "'Decisive' is correctly spelt. 'Execlusive' should be 'exclusive,' 'intengible' should be 'intangible,' and 'sastainable' should be 'sustainable.'"
+  },
+  {
+    "question": "Which one of the following words has a correct spelling?",
+    "options": [
+      "resolusion",
+      "conclusion",
+      "domine",
+      "reconnence"
+    ],
+    "answer": 1,
+    "explanation": "'Conclusion' is correctly spelt. 'Resolusion' should be 'resolution,' and the other options are misspelt words."
+  },
+  {
+    "question": "Put sentences a-d in the correct order to form a coherent paragraph about money:\na. It is also a source of comfort in life.\nb. Money is used to purchase goods and services.\nc. It is used as a store of value to fulfill basic needs.\nd. This means you won't starve if you have it.",
+    "options": [
+      "d, b, c, a",
+      "b, c, d, a",
+      "a, d, b, c",
+      "a, b, d, c"
+    ],
+    "answer": 1,
+    "explanation": "b introduces money's primary function (purchasing). c explains another function (store of value). d gives a specific example of fulfilling basic needs. a adds a broader benefit. This creates a logical flow from specific to general."
+  },
+  {
+    "question": "Put sentences a-d in the correct order to form a coherent paragraph about displaced people:\na. Some 9.5 million of them are refugees, with 50% children.\nb. The misery will continue unless peace building is given a place.\nc. This has kept most conflict-affected countries in abject poverty.\nd. Today about 59.5 million people are forcibly displaced worldwide.",
+    "options": [
+      "a, d, c, b",
+      "d, a, c, b",
+      "b, d, a, c",
+      "c, a, b, d"
+    ],
+    "answer": 1,
+    "explanation": "d states the overall statistic. a breaks down the number (9.5 million refugees). c explains the consequence (poverty). b offers a solution (peace building). General → specific → consequence → solution."
+  },
+  {
+    "question": "Put sentences a-d in the correct order to form a coherent paragraph about education:\na. It helps break the cycle of poverty.\nb. This is particularly true in developing countries.\nc. In these contexts, empowering youth through education is particularly critical.\nd. Despite benefits of education, many people still lack access to quality education.",
+    "options": [
+      "a, b, c, d",
+      "c, d, b, a",
+      "d, a, b, c",
+      "d, b, c, a"
+    ],
+    "answer": 2,
+    "explanation": "d introduces the problem (lack of access). a states a benefit (breaks poverty). b narrows the context (developing countries). c provides a specific call to action (empowering youth). Problem → benefit → context → action."
+  },
+  {
+    "question": "Put sentences a-d in the correct order to form a coherent cover letter paragraph:\na. I saw your vacancy announcement for the marketing job.\nb. In fact, I have five years of experience as a marketing manager.\nc. I would be an asset to you if given the employment opportunity.\nd. I am interested in the position and like your company's mission.",
+    "options": [
+      "a, d, b, c",
+      "a, d, c, b",
+      "c, a, d, b",
+      "d, a, b, c"
+    ],
+    "answer": 0,
+    "explanation": "a opens with seeing the job posting. d expresses interest and alignment. b provides relevant experience. c closes with a value proposition. This follows a standard cover letter structure."
+  },
+  {
+    "question": "Which one of the following could be the right opening to a letter to your close friend?",
+    "options": [
+      "First of all, I wish to apologize for not being able to...",
+      "I would like to send you this letter hoping that everything is...",
+      "Hi, it's been a long time since you wrote.",
+      "I am writing this letter to express my greetings and..."
+    ],
+    "answer": 2,
+    "explanation": "Letters to close friends use informal language. 'Hi, it's been a long time since you wrote' is casual and friendly, unlike the formal options A, B, and D which are more appropriate for official correspondence."
+  },
+  {
+    "question": "Which one of the following could be an ending to your job application letter?",
+    "options": [
+      "Best wishes,",
+      "Yours truly,",
+      "Best,",
+      "Warmly,"
+    ],
+    "answer": 1,
+    "explanation": "'Yours truly' is a formal closing appropriate for a job application letter. The other options are too casual for professional correspondence."
+  },
+  {
+    "question": "Which one of the following is an appropriate ending to your letter of complaint to a company?",
+    "options": [
+      "Sincerely,",
+      "All the best,",
+      "Best wishes,",
+      "Many thanks,"
+    ],
+    "answer": 0,
+    "explanation": "'Sincerely' is the standard formal closing for a letter of complaint. It maintains a professional and serious tone appropriate for expressing dissatisfaction to a company."
+  },
+  {
+    "question": "Which one of the following sentences is most likely taken from an argumentative piece of writing?",
+    "options": [
+      "We all enjoyed the scene, particularly the performance.",
+      "This is for producing a new type of medicine.",
+      "Better stick to that old-fashioned view.",
+      "Whether right or wrong, it is up to you to decide."
+    ],
+    "answer": 2,
+    "explanation": "An argumentative piece makes a claim and tries to persuade. 'Better stick to that old-fashioned view' presents an opinion/argument for a particular position, which is characteristic of argumentative writing."
+  },
+  {
+    "question": "Which one of the following sentences is most likely taken from an expository piece of writing?",
+    "options": [
+      "Computers are machines to key in and save information.",
+      "I have this old but properly functioning computer in my office.",
+      "As soon as I get to the office, I turn my computer on.",
+      "This kind of computer appears to be better in many ways."
+    ],
+    "answer": 0,
+    "explanation": "Expository writing explains or informs. 'Computers are machines to key in and save information' defines and explains what computers are, which is a classic example of expository writing."
+  },
+  {
+    "question": "'You would think you were dreaming when this strange creature, a real human being, walks right in front of your eyes. He has a broad chest and shoulders out of which competing necks and heads emerge. Looking at you with his four eyes, he says...' This is taken from a piece of writing that is most likely:",
+    "options": [
+      "Descriptive.",
+      "Expository.",
+      "Narrative.",
+      "Argumentative."
+    ],
+    "answer": 0,
+    "explanation": "The passage richly describes physical appearance — 'broad chest,' 'competing necks and heads,' 'four eyes.' This detailed sensory description of appearance and scene is the hallmark of descriptive writing."
+  }
+]
